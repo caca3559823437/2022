@@ -581,7 +581,7 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 無綫新聞,P2p://generationnexxxt.com:9906/ecadb578528244d58766f6e969d279b5
 無綫新聞,P2p://generationnexxxt.com:9906/1101dac1296f40e089b92553c823a0e6
 無綫新聞,https://nettvpro.live/hls/tvb.php?id=1
-無綫新聞,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+無綫新聞,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
 無綫新聞,http://120.132.122.244:59845/hls/82/index.m3u8
@@ -594,6 +594,7 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 無綫財經,http://120.84.96.50:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.33:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.78:808/hls/86/index.m3u8
+香港国际財經,http://103.214.71.71:1645/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 無線娛樂,http://315600.xyz/nm.php?id=88e968ae-cd43-4b8f-95c3-592a5e04f0de
 無線娛樂,P2p://generationnexxxt.com:9906/1fc20d0f346a41c9a8b462c6903500f0
 有線新聞,P2p://generationnexxxt.com:9906/0e0e68987cd24063895cf76df3c25d34
@@ -602,13 +603,12 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+有線新聞,http://103.214.71.71:1635/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 有線財經,P2p://generationnexxxt.com:9906/24a33cdea71f48eb87771b446f8ed66d
-有線財經,http://103.214.71.71:1651/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 有線財經,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有線財經,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 有線財經,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
-香港国际財經,http://103.214.71.71:1645/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+有線財經,http://103.214.71.71:1651/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 有線直播新聞,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 有線直播新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 有線電影,P2p://generationnexxxt.com:9906/7200dbd246164ca5b4804830fb5e28fd
@@ -631,12 +631,12 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 翡翠華丽台,http://23.237.10.66:16410
 翡翠台,P2p://generationnexxxt.com:9906/bebf0169c9ab4d6599eb6cd9fadb8afb
 翡翠台,P2p://generationnexxxt.com:9906/027f96540c5b4d4cb04fce43dddec24a
-翡翠台,http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://baidu.douyincdn.freetvtv.com/jade2/index.m3u8
 翡翠台,http://113.117.74.10:808/hls/67/index.m3u8
 翡翠台,http://113.117.74.37:808/hls/67/index.m3u8
 翡翠台,http://23.237.10.66:16106
+翡翠台,http://103.214.71.71:1631/www.zhiboyudakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 明珠台,P2p://generationnexxxt.com:9906/035c03a9aed84593a3e4c9cecde00eae
 明珠台,http://315600.xyz/nm.php?id=ac6803d0-ef17-4454-aaef-bb8221de43ff
 明珠台,http://315600.xyz/nm.php?id=e23f6359-99ea-43ad-8bd3-41dbf3ed4b20
@@ -650,16 +650,16 @@ J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-開電視,http://103.214.71.71:1637/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 開電視,https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/693740340
 開電視,P2p://ns3.hellotvvod.com:9906/aa58959f267f4401b785cd655b050025
+開電視,http://103.214.71.71:1637/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 HOY資訊,P2p://generationnexxxt.com:9906/0bf5c859c0ee4a32846dd985e8ae1b1c
 RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 RHK31,http://120.132.122.244:59845/hls/89/index.m3u8
-RHK32,http://103.214.71.71:1648/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RHK32,http://120.132.122.244:59845/hls/90/index.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
+RHK32,http://103.214.71.71:1648/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RHK33,http://120.132.122.244:59845/hls/91/index.m3u8
 RHK33,http://radius.8866.org:800/hls/91/index.m3u8
@@ -682,8 +682,8 @@ TVB功夫台,P2p://generationnexxxt.com:9906/3ea383e69c5849cc8480307714784a0e
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 粤语片台,P2p://generationnexxxt.com:9906/08324fae45ac4b0392e5c92b1d83f37d
 亚洲剧台,P2p://generationnexxxt.com:9906/52a791dc62624341afea2b5b6ab7600a
-麵包台,http://103.214.71.71:1639/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+麵包台,http://103.214.71.71:1639/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 Hands Up,P2p://generationnexxxt.com:9906/2add08eef835449b8f02c01b138fa264
 Thrill,P2p://generationnexxxt.com:9906/9cb1055b5b8f4512a94401f22e848884
 Thrill,P2p://generationnexxxt.com:9906/2c323e61b2d449f9abe78e344c1e2653
@@ -710,7 +710,8 @@ Thrill,P2p://generationnexxxt.com:9906/2c323e61b2d449f9abe78e344c1e2653
 澳門資訊,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 🇹🇼台灣频道,#genre#
-TVBS HD,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+TVBS HD,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 TVBS HD,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=31
@@ -724,10 +725,10 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-民視新聞,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 民視新聞,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 台視新聞,P2p://generationnexxxt.com:9906/5ed2b2925399473e908b0b94263ba939
 台視新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=26
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -735,29 +736,32 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視財經,P2p://generationnexxxt.com:9906/329afe66060441a38d583c6f262e936b
 中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
-中天新聞,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 中天新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+中天新聞,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+東森新聞,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=39
-東森新聞,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+東森新聞,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中視新聞,P2p://generationnexxxt.com:9906/39f3aa7f798b42ca8c9053a47d84f0ab
 中視新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=25
 中視新聞,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 寰宇新聞,P2p://generationnexxxt.com:9906/ef726aab37d6409488079ba00b79ed7e
-寰宇新聞,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 寰宇新聞,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=27
+寰宇新聞,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 壹新聞台,http://123.58.201.173:52411/test/lshotel.php?id=47
 華視新聞,P2p://generationnexxxt.com:9906/b999166c01764721bef5be7ffe2007cd
 華視新聞,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞,http://stream.dsichannel.com:80/hls/cts-news.m3u8
+華視新聞,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 東森財經,https://pull-l3-cny.douyincdn.com/live/80d54eadb8f343a8b837c22e336155d1.m3u8
 東森財經,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 東森財經,http://140.238.155.232:9000/jmsytb.m3u8?c=35
 東森財經,http://140.238.155.232:9000/jmsytb.m3u8?c=36
 三立 LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
-三立 iNEWS,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 三立 iNEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
+三立 iNEWS,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 鏡新聞台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
 TAIWAN+,P2p://generationnexxxt.com:9906/69a8d2afd599467b941ac3cc99fa6556
 TAIWAN+,http://140.238.155.232:9000/jmsytb.m3u8?c=55
@@ -793,6 +797,7 @@ TAIWAN+,http://140.238.155.232:9000/jmsytb.m3u8?c=55
 龍祥時代,http://120.84.96.66:808/hls/35/index.m3u8
 龍祥時代,http://120.84.96.161:808/hls/35/index.m3u8
 龍華電影,P2p://generationnexxxt.com:9906/60532d4425c942989bc6d82c774f7097
+龍華經典,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 衛視電影,http://123.58.201.173:52411/test/lshotel.php?id=51
 星衛電影,P2p://generationnexxxt.com:9906/ea747c2047eb4942a2ad519b5475235f
 壹電影台,P2p://generationnexxxt.com:9906/b0a71c0806794b91920ebc4d92b387df
@@ -850,10 +855,12 @@ HBO MAX F,https://epg.pm/stream/403db2db95477969fb20e58489ce6c0d05933c49be73ad84
 NETFLIX 3,https://epg.pm/stream/b5e051e8906d488afd86699dac45ad95a14e8bcf350b025be4696452bd2dffaf.ctv
 Action Movies - Rakuten TV,https://epg.pm/stream/9fecabbc602813de09ec8e3241a4bffe7875391ce796441545e3966c2ba6a8f1.m3u8
 Star Movies,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b961301785e9fe5b3f591e04.ctv
+中天娱乐,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天綜合,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天綜合,http://23.237.10.66:16372
 衛視中文,http://123.58.201.173:52411/test/lshotel.php?id=23
 东风37,http://123.58.201.173:52411/test/lshotel.php?id=28
+EYETV旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 華語電視1,http://38.64.72.148/hls/modn/list/4001/chunklist1.m3u8
 華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8
@@ -888,6 +895,7 @@ Star Movies,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b96130
 动物星球,http://123.58.201.173:52411/test/lshotel.php?id=12
 探索频道,http://123.58.201.173:52411/test/lshotel.php?id=10
 国家地理,http://123.58.201.173:52411/test/lshotel.php?id=9
+国家地理野生,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 
 🇯🇵日韓频道,#genre#
 NHK-G综合,P2p://generationnexxxt.com:9906/7ef0ab4427e64b34acf8a837de454a34
@@ -4561,3 +4569,4 @@ M2音乐,http://live.m2.tv/hls3/stream.m3u8
 快手美女613,http://txmov2.a.yximgs.com/upic/2018/09/29/20/BMjAxODA5MjkyMDQ4NTBfNzMwNTM2NzJfODIzNzYxMTQ0N18xXzM=_b_Bd064977cb709c479c1f48e3c69481c91.mp4
 快手美女614,http://jsmov2.a.yximgs.com/upic/2019/03/20/22/BMjAxOTAzMjAyMjIzMDlfNzEzNzc4ODNfMTE1NDg3MzQ4MDlfMV8z_b_B381b5bc5cc257cd7a5f25e1a1a109bb7.mp4
 快手美女615,http://txmov2.a.yximgs.com/upic/2019/05/04/21/BMjAxOTA1MDQyMTM4MDRfMTEzNzQyNTgxNF8xMjc4Mjg0NDY5NV8xXzM=_b_B55e38ea0369f722d0cdd5e80ceb60e9f.mp4
+
