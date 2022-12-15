@@ -580,6 +580,7 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 無綫新聞,P2p://generationnexxxt.com:9906/ecadb578528244d58766f6e969d279b5
 無綫新聞,P2p://generationnexxxt.com:9906/1101dac1296f40e089b92553c823a0e6
+無綫新聞,https://pull-l3-cny.douyincdn.com/live/e2789a939ed322e31a4e3f1ae71996ef.m3u8
 無綫新聞,https://nettvpro.live/hls/tvb.php?id=1
 無綫新聞,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
@@ -714,6 +715,7 @@ TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS HD,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 TVBS HD,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新聞,https://lss.line-scdn.net/cc_tw/p/live/hfJE0fcf4OGQqJCZ0EDElU0NNblRSfnpnRn0hBg5MZlMBKilkESkjAglIN1dSeSk0RnxyBQ1NY1dUPH4yESolU1pJeVVUZn4wRzB2A1xWZ1dXcn4yRSZ3/abr.m3u8
 TVBS新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -726,6 +728,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民視新聞,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+民視新聞,https://lss.line-scdn.net/cc_tw/p/live/hrOxVP2j8LGEXQjJxLVcxVn58clhvHmwwLEtjDmgqc1NtFj8xfExrDmUtdQVhTD8wfE4wATAtd1duWmo3LEwxVmcvbVBpAGo1elZiBmAwcFBrFGo3eEBj/abr.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
@@ -739,6 +742,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 中天新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=24
 中天新聞,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+東森新聞,https://lss.line-scdn.net/cc_tw/p/live/hi0ptl_4yNx4cYCkOJXUqKXZZYCZnbXFNeD4tej8IYCZobnUcdTkte2oKPy03OyIdeGh6LDoJbipleHFIJG4qKW8Ndi9hInFKcnR5eWgSaClrPXBIeGo/abr.m3u8
 東森新聞,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=39
 東森新聞,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
@@ -748,6 +752,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中視新聞,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 寰宇新聞,P2p://generationnexxxt.com:9906/ef726aab37d6409488079ba00b79ed7e
 寰宇新聞,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+寰宇新聞,https://pull-l3-cny.douyincdn.com/live/4e2bbc558a68fa84fbedb86cf3361410.m3u8
 寰宇新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=27
 寰宇新聞,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 壹新聞台,http://123.58.201.173:52411/test/lshotel.php?id=47
@@ -1163,6 +1168,115 @@ ZIGGO VEOTBAL,https://epg.pm/stream/60f9348bf22c11e0ae90b8565438ff9e8d6bc4816de8
 Spotv 2 Asia,https://epg.pm/stream/e55687ebb01cd3b5abbf5dc7f527aa970cfe1f3b377176e9b8eeb3e24e084d10.m3u8
 Spotv 1 Asia,https://epg.pm/stream/6aed12a0d30fbaf56b4732359cfbc97684528352eea6627f0172edaf350a8a62.m3u8
 Nature,https://epg.pm/stream/1a58279eb00c6b88e552e55c590036dcc0a3b199ae7e95b1799bd46e0394c658.m3u8
+
+🇹🇼翻墙台灣,#genre#
+TVBS HD,https://315600.xyz/hatv.php?id=56
+TVBS新聞,https://315600.xyz/hatv.php?id=55
+壹新聞台,https://315600.xyz/hatv.php?id=49
+年代新聞,https://315600.xyz/hatv.php?id=50
+東森新聞,https://315600.xyz/hatv.php?id=51
+中天新聞,https://315600.xyz/hatv.php?id=52
+中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
+中視新聞,http://tv.redrainl.site:9500/live.m3u8?c=02
+民視新聞,https://315600.xyz/hatv.php?id=53
+三立新聞,https://315600.xyz/hatv.php?id=54
+東森財經,https://315600.xyz/hatv.php?id=57
+非凡新聞,https://315600.xyz/hatv.php?id=58
+寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
+镜新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
+ANN新聞,http://tv.redrainl.site:9500/live.m3u8?c=29
+台視新聞,https://315600.xyz/hatv.php?id=155
+BBC,https://315600.xyz/hatv.php?id=164
+亞洲新聞,https://315600.xyz/hatv.php?id=165
+民視,https://315600.xyz/hatv.php?id=5
+中視,https://315600.xyz/hatv.php?id=9
+华視,https://315600.xyz/hatv.php?id=11
+公視,https://315600.xyz/hatv.php?id=13
+台視,https://315600.xyz/hatv.php?id=7
+超視,https://315600.xyz/hatv.php?id=33
+衛視電影,https://315600.xyz/hatv.php?id=61
+東森電影,https://315600.xyz/hatv.php?id=62
+緯來電影,https://315600.xyz/hatv.php?id=63
+冠军電視,https://315600.xyz/hatv.php?id=64
+東森洋片,https://315600.xyz/hatv.php?id=66
+中天娛樂,https://315600.xyz/hatv.php?id=67
+好萊塢電影,https://315600.xyz/hatv.php?id=68
+福克斯電影,https://315600.xyz/hatv.php?id=7
+CINEMAX,https://315600.xyz/hatv.php?id=71
+AXN,https://315600.xyz/hatv.php?id=84
+HBO HD,https://315600.xyz/hatv.php?id=220
+HBO 強檔,https://315600.xyz/hatv.php?id=221
+HBO 家庭,https://315600.xyz/hatv.php?id=222
+HBO 原創,https://315600.xyz/hatv.php?id=223
+三立財經,https://315600.xyz/hatv.php?id=88
+凯亞綜合,https://315600.xyz/hatv.php?id=89
+台湾艺术,https://315600.xyz/hatv.php?id=90
+龍祥时代,https://315600.xyz/hatv.php?id=93
+非凡商业,https://315600.xyz/hatv.php?id=95
+运通財經,https://315600.xyz/hatv.php?id=97
+霹雳台湾,https://315600.xyz/hatv.php?id=99
+FOX频道,https://315600.xyz/hatv.php?id=100
+八大娛樂,https://315600.xyz/hatv.php?id=106
+NHK,https://315600.xyz/hatv.php?id=108
+ANIMAX,https://315600.xyz/hatv.php?id=109
+衛視合家欢,https://315600.xyz/hatv.php?id=113
+民視第一,https://315600.xyz/hatv.php?id=151
+公共電視,https://315600.xyz/hatv.php?id=159
+发现亞洲,https://315600.xyz/hatv.php?id=200
+探索科学频道,https://315600.xyz/hatv.php?id=201
+DMAX,https://315600.xyz/hatv.php?id=202
+梦工厂,https://315600.xyz/hatv.php?id=207
+亞洲美食,https://315600.xyz/hatv.php?id=211
+BBC Lifestyle,https://315600.xyz/hatv.php?id=214
+EVE,https://315600.xyz/hatv.php?id=215
+WAKUWAKUJAPAN,https://315600.xyz/hatv.php?id=224
+博斯高中1,https://315600.xyz/hatv.php?id=242
+博斯网球网,https://315600.xyz/hatv.php?id=243
+博斯运动2,https://315600.xyz/hatv.php?id=244
+博斯高中2,https://315600.xyz/hatv.php?id=245
+美国有线,https://315600.xyz/hatv.php?id=6
+人间衛視,https://315600.xyz/hatv.php?id=8
+动物星球,https://315600.xyz/hatv.php?id=12
+原住民,https://315600.xyz/hatv.php?id=16
+客家频道,https://315600.xyz/hatv.php?id=17
+国家地理,https://315600.xyz/hatv.php?id=18
+发现,https://315600.xyz/hatv.php?id=19
+旅游生活,https://315600.xyz/hatv.php?id=21
+卡通网络,https://315600.xyz/hatv.php?id=22
+迪士尼,https://315600.xyz/hatv.php?id=23
+MOMO亲子,https://315600.xyz/hatv.php?id=24
+東森幼幼,https://315600.xyz/hatv.php?id=25
+緯來綜合,https://315600.xyz/hatv.php?id=26
+八大第一,https://315600.xyz/hatv.php?id=27
+八大綜合,https://315600.xyz/hatv.php?id=28
+三立台湾,https://315600.xyz/hatv.php?id=29
+三立都会,https://315600.xyz/hatv.php?id=30
+衛視中文,https://315600.xyz/hatv.php?id=31
+東森綜合,https://315600.xyz/hatv.php?id=32
+中天綜合,https://315600.xyz/hatv.php?id=36
+東风衛視,https://315600.xyz/hatv.php?id=37
+多電視,https://315600.xyz/hatv.php?id=38
+東森戲劇,https://315600.xyz/hatv.php?id=40
+八大戲劇,https://315600.xyz/hatv.php?id=41
+TVBS欢乐,https://315600.xyz/hatv.php?id=42
+緯來戲劇,https://315600.xyz/hatv.php?id=43
+高点,https://315600.xyz/hatv.php?id=44
+JET TV,https://315600.xyz/hatv.php?id=45
+Z频道,https://315600.xyz/hatv.php?id=85
+信大電視台,https://315600.xyz/hatv.php?id=86
+緯來育乐,https://315600.xyz/hatv.php?id=87
+緯來体育,https://315600.xyz/hatv.php?id=72
+福克斯体育,https://315600.xyz/hatv.php?id=73
+福克斯体育2,https://315600.xyz/hatv.php?id=74
+搓来日本,https://315600.xyz/hatv.php?id=75
+国兴衛視,https://315600.xyz/hatv.php?id=76
+海豹綜合,https://315600.xyz/hatv.php?id=77
+民俗才艺,https://315600.xyz/hatv.php?id=78
+福克斯,https://315600.xyz/hatv.php?id=101
+冠军梦想,https://315600.xyz/hatv.php?id=111
+WIN綜合,https://315600.xyz/hatv.php?id=80
+信吉,https://315600.xyz/hatv.php?id=82
+生活资讯,https://315600.xyz/hatv.php?id=83
 
 📺劇场频道,#genre#
 潮妈辣婆,http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
@@ -4569,4 +4683,3 @@ M2音乐,http://live.m2.tv/hls3/stream.m3u8
 快手美女613,http://txmov2.a.yximgs.com/upic/2018/09/29/20/BMjAxODA5MjkyMDQ4NTBfNzMwNTM2NzJfODIzNzYxMTQ0N18xXzM=_b_Bd064977cb709c479c1f48e3c69481c91.mp4
 快手美女614,http://jsmov2.a.yximgs.com/upic/2019/03/20/22/BMjAxOTAzMjAyMjIzMDlfNzEzNzc4ODNfMTE1NDg3MzQ4MDlfMV8z_b_B381b5bc5cc257cd7a5f25e1a1a109bb7.mp4
 快手美女615,http://txmov2.a.yximgs.com/upic/2019/05/04/21/BMjAxOTA1MDQyMTM4MDRfMTEzNzQyNTgxNF8xMjc4Mjg0NDY5NV8xXzM=_b_B55e38ea0369f722d0cdd5e80ceb60e9f.mp4
-
