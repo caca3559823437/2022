@@ -399,9 +399,13 @@ C4k360,https://epg.pm/stream/4dbd2b6e78411860e4a8c55accdc4d39fd23a45818f734efb11
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 無綫新聞海外,https://epg.pm/stream/e40dc3ab00116d986f9a71dd08180fe687925e5ab096b43f371d561782e63d49.ctv
+無綫新聞,http://116.205.130.205:66/6/807tv.php?tid=gt&id=8
+無綫新聞,http://xtv:1292@23.142.200.188:9981/stream/channelid/213479573?ticket=60F31E4C3C05F4629890BD9E8C6E6C4C437B5B44&profile=pass
+無綫新聞,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5= V4EGy8UaJM1icpVzv3uv7w &expires= 1671770110
 無綫財經,https://pull-l3-cny.douyincdn.com/live/725606f77b4f95730f53039203fcf338.flv
 無綫財經,http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
 無綫財經,https://epg.pm/stream/6741947fac8a0fc4b29e4f39c4cec36b13e54494262128a461282acc608ddfdc.ctv
+無綫財經,http://116.205.130.205:66/6/807tv.php?tid=gt&id=9
 無綫財經,http://120.84.96.78:808/hls/86/index.m3u8
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -414,6 +418,7 @@ C4k360,https://epg.pm/stream/4dbd2b6e78411860e4a8c55accdc4d39fd23a45818f734efb11
 有線財經,https://pull-l3-cny.douyincdn.com/live/fdc4b35e2f66f52663c0b86b40604fec.flv
 有線財經,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有線財經,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+有線財經,http://103.214.71.71:1637/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 有線財經,https://api.leonardpark.dev/live/icable/108
 有線直播新聞,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 有線直播新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
@@ -421,15 +426,18 @@ TVB新聞,http://pull-l3-cny.douyincdn.com/live/c8eff4963f336b2f831780fb09a37fb4
 TVB华丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 翡翠台,https://pull-l3-cny.douyincdn.com/live/db9ee9e1adc8e83ccfcdd7795a0abb64.flv
 翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+翡翠台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=0
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://113.117.74.10:808/hls/67/index.m3u8
 翡翠台,http://113.117.74.37:808/hls/67/index.m3u8
 翡翠台,http://23.237.10.66:16106
 明珠台,https://pull-l3-cny.douyincdn.com/live/b220525c21631d67a1fd97fbb1de65fa.flv
 明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
+明珠台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=11
 明珠台,http://r.jdshipin.com/ZQ4kN
 MyTV,https://pull-l3-cny.douyincdn.com/live/29d2b42138bb6c320ec5182811d495f9.flv
 J2,https://pull-l3-cny.douyincdn.com/live/032b730257af14d2dec952ee97604381.flv
+J2,http://103.214.71.71:1642/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 點掌財經,http://cclive.aniu.tv/live/anzb.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8
@@ -439,6 +447,7 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK33,http://radius.8866.org:800/hls/91/index.m3u8
 ViuTV,https://pull-l3-cny.douyincdn.com/live/5d57acb8f64689374d01211258e026ba.flv
+ViuTV,http://103.214.71.71:1648/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 Now直播台,https://pull-l3-cny.douyincdn.com/live/c081d5b19bdd1b1ee6f4a3e3c28ef748.flv
 Now直播台,https://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
 Now新聞台,https://pull-l3-cny.douyincdn.com/live/6e4894ad4dac244d9c6a636bcdb32e2d.flv
@@ -460,6 +469,7 @@ TVB经典台,https://epg.pm/stream/2d5d62807b689266ef0f0c7a15b6ed7c78210dbcd07bd
 有線18台,https://pull-l3-cny.douyincdn.com/live/7d1d7a472852e4331f9f17737bef4ae8.flv
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 天映經典,http://120.84.96.78:808/hls/85/index.m3u8
+開電視,http://103.214.71.71:1639/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 星空衛視,https://www.56ku.ml/gudou.php?id=xingkong_1500
 澳門莲花,https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 澳門-MACAU,http://61.244.22.5/ch3/ch3.live/playlist.m3u8
@@ -471,10 +481,12 @@ TVB经典台,https://epg.pm/stream/2d5d62807b689266ef0f0c7a15b6ed7c78210dbcd07bd
 澳亞衛視,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 🇹🇼台灣频道,#genre#
+TVBS HD,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5= V4EGy8UaJM1icpVzv3uv7w &expires= 1671770110
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/722b757263c90c6d29e1749150d5926a.flv
 TVBS新聞,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新聞,http://103.214.71.71:1675/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -487,6 +499,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民視新聞,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+民視新聞,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -494,30 +507,33 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 中天新聞,https://pull-l3-cny.douyincdn.com/live/35e143d1cf6966c023f89ee83d51a67f.flv
 中天新聞,http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+中天新聞,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
 中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 東森新聞,https://pull-l3-cny.douyincdn.com/live/d8e89c373763d0fdb55524c9d692c120.flv
 東森新聞,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+東森新聞,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5= V4EGy8UaJM1icpVzv3uv7w &expires= 1671770110
 東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=39
+東森財經,http://103.214.71.71:1681/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中視新聞,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+中視新聞,http://103.214.71.71:1677/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 壹新聞台,http://123.58.201.173:52411/test/lshotel.php?id=47
+镜新聞台,http://103.214.71.71:1679/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 寰宇新聞,https://pull-l3-cny.douyincdn.com/live/ed3a648de33c11cbbc3e4a975c4ced9e.flv
 寰宇新聞,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+寰宇新聞,http://103.214.71.71:1687/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 三立 iNEWS,https://pull-l3-cny.douyincdn.com/live/31ff1874fbf053a4e7865a07c06ac868.flv
+三立 iNEWS,http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5= V4EGy8UaJM1icpVzv3uv7w &expires= 1671770110
 華視新聞,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視,https://pull-l3-cny.douyincdn.com/live/8dcbfe1b9c845373041e005817f9cbed.flv
-
 民視,https://pull-l3-cny.douyincdn.com/live/6914474899693d28052b106b18bb011a.flv
 民視,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 中視,https://pull-l3-cny.douyincdn.com/live/11eca77ce5cde68a44fb9bf1cd0d5489.flv
-
 台視,https://pull-l3-cny.douyincdn.com/live/86b34a12131d138ff504bf1aee17c959.flv
 台視,http://23.237.10.66:16344
-
 公視,http://123.58.201.173:52411/test/lshotel.php?id=5
-
 東森電影,https://pull-l3-cny.douyincdn.com/live/e65cb5302ad96697bf8855d4e727e3af.flv
 東森電影,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森電影,http://zb.iptv6.top/gg/gg1/dsm.m3u8
@@ -555,7 +571,9 @@ HBO 家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c0
 HBO 强档,https://pull-l3-cny.douyincdn.com/live/6ae3b8976d4cf4037fd3c8ed92691f35.flv
 HBO 强档,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 DMAX,https://pull-l3-cny.douyincdn.com/live/64f5b5f7266023dcc5fb2b8367cc0d96.flv
-Star Movies,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b961301785e9fe5b3f591e04.ctv
+StarMoviesHD,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b961301785e9fe5b3f591e04.ctv
+StarMoviesHD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+StarMoviesHD,http://220.134.196.147:9560/index.m3u8
 BOO驚悚台,https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
 BOO驚悚台,http://23.237.10.66:16420
 BOO驚悚台,http://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
