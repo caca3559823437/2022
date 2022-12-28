@@ -232,6 +232,11 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 新聞综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 新聞综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&stbId=4
 新聞综合,http://lu1.cc/c/tv/sjtv/p/migu.php?id=shxwzh
+新聞综合,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新聞综合,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新聞综合,http://223.109.123.11/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新聞综合,http://183.204.192.173/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新聞综合,http://123.161.58.57/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 外语频道,http://114.84.76.27:7777/tsfile/live/1007_1.m3u8
 外语频道,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
 外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -261,15 +266,22 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 动漫秀场,http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
 七彩戲劇,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+七彩戲劇,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+七彩戲劇,http://123.161.58.57/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 新視觉,http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
 新視觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://112.25.48.70/live/program/live/mlyyhd/4000000/mnf.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+五星體育,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星體育,http://114.84.76.27:7777/tsfile/live/1021_1.m3u8
 五星體育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 五星體育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+劲爆體育,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆體育,http://223.109.123.11/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆體育,http://183.204.192.173/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆體育,http://123.161.58.57/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 金色学堂,http://114.84.76.27:7777/tsfile/live/1012_1.m3u8
 金色学堂,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 乐游,http://114.84.76.27:7777/tsfile/live/1014_1.m3u8
@@ -1019,6 +1031,166 @@ GREAT! TV +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaWUBvjlMyAzh9lS8jdkk3do/
 GREAT! CLASSIC +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYOlXWpV9c504FpO1tqvg0E/ts
 GREAT! ACTION+1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabFNOPNILjO9CS_soguhfrg/ts
 CNN,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINafmjT1nOq5V9SFwGmc7bvXQ/ts
+
+BBC LIFESTYLE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941668
+BBC EARTH,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941667
+CRIME + INVESTIGATION,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941666
+TIONAL GEOGRAPHIC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941665
+T GEO WILD,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941664
+LOVETURE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941663
+HISTORY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941661
+AXN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941660
+CINEMAX,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941659
+CINEMAWORLD,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941658
+CURIOSITYSTREAM,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941657
+DREAMWORKS CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941656
+MAKEFUL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941655
+PARAMOUNT NETWORK,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941654
+SMITHSONIAN CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941653
+WARNERTV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941652
+HUB VVDRAMA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941651
+HUB E CITY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941650
+HUB E CITY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941649
+HBO,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941648
+HBO HITS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941647
+HBO FAMILY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941646
+HBO SIGNATURE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941645
+BLUE ANT ENTERTAINMENT,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941643
+PREVIEW CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941642
+CCM,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941639
+CTI TV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941638
+DRAGON TV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941637
+SEA TODAY INDONESIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941636
+GEM,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941635
+HUB VVDRAMA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941634
+HUB E CITY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941633
+HUB E CITY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941632
+KBS WORLD,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941631
+NOW JELLI,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941630
+OH!K,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941629
+ONE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941628
+PHOENIX INFONEWS CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941627
+PHOENIX CHINESE CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941626
+SCM,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941625
+STAR CHINESE CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941624
+TVN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941623
+TVBS-NEWS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941622
+TVBS ASIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941621
+TVB XING HE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941620
+TVB JADE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941619
+CELESTIAL MOVIES,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941618
+CHANNEL U,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941617
+CHANNEL 8,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941616
+CHANNEL 5,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941615
+ARIRANG TV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941614
+HUB SPORTS 1,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941573
+HUB SPORTS 2,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941572
+HUB SPORTS 3,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941571
+PREMIER SPORTS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941570
+BEIN SPORTS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941569
+BEIN SPORTS 2,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941568
+BEIN SPORTS 3,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941567
+BEIN SPORTS 4,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941566
+BEIN SPORTS 5,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941565
+SPOTV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941564
+SPOTV2,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941563
+NBA TV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941562
+BBC WORLD NEWS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941693
+BLOOMBERG TELEVISION,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941692
+CGTN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941691
+CNN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941690
+CNBC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941689
+CNA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941688
+EURONEWS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941686
+FOX NEWS CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941685
+SKY NEWS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941684
+TV5MONDE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941683
+ABC AUSTRALIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941682
+RUSSIA TODAY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941681
+LIVE+,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941680
+LIVE 2,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941679
+LIVE 1,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941678
+FASHIONTV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941677
+ANIMAX,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941676
+BABY FIRST TV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941675
+BOOMERANG,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941674
+CARTOON NETWORK ,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941673
+CBEEBIES,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941672
+NICKELODEON,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941671
+NICK JR,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941670
+LIFETIME,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/941669
+TVN MOVIES,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571261
+TVN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571260
+HITS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571252
+HBO,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571204
+HISTORY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571201
+HITS MOVIES,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571200
+iQIYI,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571198
+TVB CLASSIC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571197
+KIX,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571196
+KPLUS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571195
+Oh!K,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571194
+ONE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571193
+QUAN JIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571192
+SHUANG XING,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571191
+TVB E-NEWS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571188
+TVB JADE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571187
+TVB XING HE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571186
+TVBS ASIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571185
+WWE NETWORK,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571184
+CELESTIAL CLASSIC MOVIES,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571182
+DISCOVERY ASIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571181
+FOOD NETWORK,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571179
+ASIAN FOOD CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/534440
+WARNA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571231
+XIAO TAI YANG,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571230
+ANIMAL PLANET,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571227
+AOD 351,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571226
+AOD 352,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571225
+AOD 353,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571229
+AOD 355,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571223
+AXN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571222
+CELESTIAL MOVIES,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571218
+CRIME INVESTIGATION,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571215
+CINEMAX,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571214
+CLASSIC MOVIES,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571213
+CTI ASIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571212
+DISCOVERY SCI,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571211
+DISCOVERY,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571210
+DISNEY CHANNEL,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571209
+DISNEY JUNIOR,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571208
+DMAX,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571206
+eGG NETWORK,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571205
+CNA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571251
+SUPERSPORTS 1,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571245
+SUPERSPORTS 2,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571248
+SUPERSPORTS 3,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571247
+SUPERSPORTS 4,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571246
+CRICKET,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571244
+AWANI,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571243
+BOLLYONE,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571242
+CERIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571241
+URA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571239
+OASIS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571238
+PRIMA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571237
+RIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571236
+STAR VIJAY APAC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571235
+VINMEEN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571232
+AEC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571228
+CGTN,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571216
+HELLO,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571203
+HGTV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571202
+TLC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571189
+SUN TV APAC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571190
+BERNAMA NEWS,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571307
+NICKELODEON,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571283
+SALAAM,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571276
+SONY SETMAX APAC,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571271
+AURA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571257
+RANIA,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571256
+DRAMA SANGAT,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571255
+RUGBY PASS TV,http://mag.yo-ott.com:8000/Dirk2022/Dirk2022/571253
+
 CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
 TeleCine,http://23.237.10.66:16195
 NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
