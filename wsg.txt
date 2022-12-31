@@ -450,7 +450,7 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 有線直播新聞,https://api.leonardpark.dev/live/icable/110
 有線直播新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 TVB華丽台,http://23.237.10.66:16410
-
+TVB華丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://gg.gg/GDTVB5
 翡翠台,http://xtv.ooo:8080/Univision@RE/100Bangla/229635
@@ -492,6 +492,7 @@ RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 ViuTV,http://r.jdshipin.com/vSJvl
 
 Now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播台,http://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
 Now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now財經台,http://livetv.dnsfor.me:80/channel.8.m3u8
 TVB千禧经典,http://xtv.ooo:8080/Univision@RE/100Bangla/229614
@@ -500,6 +501,10 @@ TVB星河粤语,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/58/live_179302204_68184269.m3u8
 經典功夫台,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
+哔哩卡式台,http://cn-jssz-cm-02-20.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
+哔哩卡式台,http://cn-hnld-ct-01-56.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
+哔哩卡式台,http://cn-hnly-cu-01-11.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
+哔哩卡式台,http://cn-hbyc-ct-02-16.bilivideo.com/live-bvc/487288/live_372775317_46465575/index.m3u8
 新时代1,http://line.premiumpowers.net:80/Manuel/1234567/90351
 新时代2,http://line.premiumpowers.net:80/Manuel/1234567/90352
 TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
@@ -688,11 +693,13 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 美亞電影,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 AXN電影,http://123.58.201.173:52411/test/lshotel.php?id=59
 AXN電影,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+AXN電影,http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 AXN電影,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6162/index.m3u8
 影迷數位電影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 影迷數位電影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 CATCHPLAY電影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 CATCHPLAY電影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
+CINEMAX HD,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX HD,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/11916.m3u8
 好萊塢電影,http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
@@ -927,6 +934,8 @@ TVBS欢乐台,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-4gtv068&hd=720
 
 TVBS精采台,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-live086&hd=720
 纬来戏剧,http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+中天综合,http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天娱乐,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 求索紀錄,http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索紀錄,http://111.11.123.33:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索紀錄,http://111.11.123.36:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
@@ -941,6 +950,16 @@ TVBS精采台,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-live086&hd=720
 求索動物,http://111.11.123.36:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 
 🇯🇵日韓频道,#genre#
+PLAYY웰메이드,http://pull-l3-cny.douyincdn.com/live/eac374df3c06e8985d587224a056f483.m3u8
+PLAYY액션영화,http://pull-l3-cny.douyincdn.com/live/41f29bf461ffa99e595f70b9593c61aa.m3u8
+PLAYY힐링영화,http://pull-l3-cny.douyincdn.com/live/ea6907626f7d64aa61e5ebf88180e43d.m3u8
+Asia N,http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+THE MOVIE,http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8
+Channel Seezn,http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
+KBS1 HD,http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+KBS2 HD,http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+MBC HD,http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+SBS HD,http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
 NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 NHK·国际,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK·国际,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
