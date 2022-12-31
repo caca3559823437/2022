@@ -500,7 +500,10 @@ TVB星河粤语,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/58/live_179302204_68184269.m3u8
 經典功夫台,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
-
+新时代1,http://line.premiumpowers.net:80/Manuel/1234567/90351
+新时代2,http://line.premiumpowers.net:80/Manuel/1234567/90352
+TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
+TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153401
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 天映經典,http://120.84.96.78:808/hls/85/index.m3u8
 開電視,http://103.214.71.71:1639/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
@@ -513,6 +516,7 @@ TVB星河粤语,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 澳門蓮花,http://120.84.96.96:808/hls/24/index.m3u8
 澳門蓮花,http://120.84.96.120:808/hls/24/index.m3u8
 澳門蓮花,http://120.84.96.126:808/hls/24/index.m3u8
+澳門蓮花,http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 澳門-MACAU,http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 澳門-MACAU,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳門-MACAU,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
@@ -556,6 +560,7 @@ TVBS新聞,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-live072&hd=720
 TVBS新聞,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞,http://line.premiumpowers.net:80/Manuel/1234567/941622
+TVBS新聞,http://line.premiumpowers.net:80/Manuel/1234567/941622
 
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
@@ -597,6 +602,7 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 
 镜新聞台,http://103.214.71.71:1679/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 镜新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
+寰宇新聞,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新聞,http://8.218.112.221:8086/channel.m3u8?fid=litv-longturn14&hd=720
 
 寰宇新聞,https://git.io/JgkpO
@@ -679,6 +685,7 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 美亞電影,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+美亞電影,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 AXN電影,http://123.58.201.173:52411/test/lshotel.php?id=59
 AXN電影,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN電影,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6162/index.m3u8
@@ -689,18 +696,24 @@ CATCHPLAY電影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX HD,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/11916.m3u8
 好萊塢電影,http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+好萊塢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 好萊塢電影,http://123.58.201.173:52411/test/lshotel.php?id=52
 好萊塢電影,http://220.134.196.147:9523/index.m3u8
 好萊塢電影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+HBO HD,http://line.premiumpowers.net:80/Manuel/1234567/941648
 HBO HD,http://208.115.225.174:14136
 HBO HD,http://123.58.201.173:52411/test/lshotel.php?id=58
 HBO HD,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/10407.m3u8
 HBO 原创,http://208.115.225.174:14160
 HBO 原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
+
+HBO 家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646 
 HBO 家庭,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXw0UXWXN-aV0gLiwSGu8-4/ts
 HBO 家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO 強檔,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 HBO 強檔,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
+HBO 強檔,http://line.premiumpowers.net:80/Manuel/1234567/941647
+
 HBO2,http://208.115.225.174:14140
 HBO XTREMR,http://208.115.225.174:14165
 HBO MUNDI,http://208.115.225.174:14148
@@ -913,7 +926,7 @@ TV5MONDE STYLE  生活时尚,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-liv
 TVBS欢乐台,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-4gtv068&hd=720
 
 TVBS精采台,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-live086&hd=720
-
+纬来戏剧,http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 求索紀錄,http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索紀錄,http://111.11.123.33:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索紀錄,http://111.11.123.36:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
@@ -926,7 +939,6 @@ TVBS精采台,http://8.218.112.221:8086/channel.m3u8?fid=4gtv-live086&hd=720
 求索動物,http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索動物,http://111.11.123.33:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索動物,http://111.11.123.36:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
-
 
 🇯🇵日韓频道,#genre#
 NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
@@ -992,6 +1004,9 @@ TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.
 韓联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 
 🇺🇸欧美频道,#genre#
+Hits,http://line.premiumpowers.net:80/Manuel/1234567/941607
+HITS Movies,http://line.premiumpowers.net:80/Manuel/1234567/941606
+CNN,http://line.premiumpowers.net:80/Manuel/1234567/941690
 CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
@@ -4605,6 +4620,7 @@ Dorcel TV FHD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/12120/index.m
 激情61,https://ovhv47.twincdn.com/videos/23/23819/23819_720p.mp4
 激情67,https://ovhv47.twincdn.com/videos/23/23825/23825_720p.mp4
 激情69,https://ovhv47.twincdn.com/videos/23/23826/23826_720p.mp4
+
 激情片152,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/10171.mp4
 激情片153,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/10172.mp4
 激情片154,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/10173.mp4
