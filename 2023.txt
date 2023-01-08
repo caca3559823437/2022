@@ -1,4 +1,36 @@
 ﻿🇨🇳大陆频道,#genre#
+CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV3,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4,http://live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4K,http://live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4欧洲,http://live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5,http://live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5,http://live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5+,http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV6,http://live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV6,http://live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV7,http://live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV8,http://live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV9,http://live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV9,http://live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV10,http://live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV11,http://live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV12,http://live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV13,http://live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV14,http://live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV15,http://live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV16,http://live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV16,http://live.aishang.ctlcdn.com/00000110240349_1/playlist.m3u8?CONTENTID=00000110240349_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CETV1,http://live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240365_1/playlist.m3u8?CONTENTID=00000110240365_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
@@ -186,6 +218,27 @@ CETV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u
 CNC中文,http://117.169.121.162:6610/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文,http://117.169.121.162:6610/PLTV/88888910/224/3221225693/index.m3u8
 CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8$超清1080P
+安徽衛視,http://live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+北京衛視,http://live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+東方衛視,http://live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+東南衛視,http://live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+广東衛視,http://live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+贵州衛視,http://live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+河北衛視,http://live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+黑龙江衛視,http://live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+湖北衛視,http://live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+湖南衛視,http://live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+吉林衛視,http://live.aishang.ctlcdn.com/00000110240399_1/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+江苏衛視,http://live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+江西衛視,http://live.aishang.ctlcdn.com/00000110240398_1/playlist.m3u8?CONTENTID=00000110240398_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+金鹰纪实,http://live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+辽宁衛視,http://live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+辽宁衛視,http://live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+山東衛視,http://live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+深圳衛視,http://live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+天津衛視,http://live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+浙江衛視,http://live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+重庆衛視,http://live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 北京衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京衛視,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 北京衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
@@ -712,6 +765,8 @@ TVS Women Sports,https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 女子摔跤,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
 摔跤格鬥-鐵嶺二師兄+妹子們,http://111.62.156.15/tx.flv.huya.com/src/1099531728905-1099531728905-86333691667677184-2199063581266-10057-A-0-1.flv?wsSecret=e495ad5b850bfdf77f14c7a944b4fa2e&wsTime=6283a6b7&u=0&seqid=16527086640082400&ctype=tars_mp&fs=bgct&t=102
 摔跤格鬥-鐵籠賽專場,http://111.62.156.15/tx.flv.huya.com/src/1099531627899-1099531627899-85899874200977408-2199063379254-10057-A-0-1.flv?wsSecret=7c62b76e9390f51ccf2453b3fbefc735&wsTime=6283a6b6&u=0&seqid=16527086620855680&ctype=tars_mp&fs=bgct&t=102
+4K测试,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+4K测试,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K测试源,http://159.75.85.63:5678/zb.php?id=douyin
 纯享4K,http://117.169.121.162:6610/PLTV/88888910/224/3221225786/index.m3u8
 4K影視2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
@@ -755,52 +810,6 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-凤凰電影,mitv://generationnexxxt.com:18806/3ec15219e30c4284af6c26e33921be71.ts
-凤凰香港,mitv://generationnexxxt.com:18806/140c134aa8944a6fb021c86f184a7ce5.ts
-翡翠台,mitv://generationnexxxt.com:18806/81e48719bfd548e0905f7e3f49ea4e87.ts
-明珠台,mitv://generationnexxxt.com:18806/ca5fd1000c3343e08524894565482dd1.ts
-翡翠台(华丽台),mitv://generationnexxxt.com:18806/63ae76080008d70fc3518710214123ba.ts
-﻿翡翠台,mitv://generationnexxxt.com:18806/56438038dac64b7aaf83eb3e8f14f4f2.ts
-RHK31,mitv://generationnexxxt.com:18806/67a0fe4459e04784b53f29a446e061bb.ts
-有線體育,mitv://generationnexxxt.com:18806/461ee4186df44a99a3ab3fee3211476b.ts
-TVB经典台,mitv://generationnexxxt.com:18806/a5ad5a71a1c24217874399944b878297.ts
-TVB星河(粤),mitv://generationnexxxt.com:18806/8b06441380d4455e9a20f49ce633928a.ts
-TVB娛樂新聞,mitv://generationnexxxt.com:18806/433c9c6631bd420eba4493408f34f9f3.ts
-功夫台,mitv://generationnexxxt.com:18806/5a979a6d70d64348b5ea30086d9d67bf.ts
-J2,mitv://generationnexxxt.com:18806/2b3d41193b4e4d18a8f6bdf0b60f89b6.ts
-無綫財經,mitv://generationnexxxt.com:18806/8b8d407235cd4f5ca626529250cf22e2.ts
-無綫新聞,mitv://generationnexxxt.com:18806/c72a0a3b723c425ba7c4726992cbc085.ts
-無綫新聞,mitv://generationnexxxt.com:18806/8bd37511cf274918a788663136285f34.ts
-18台,mitv://generationnexxxt.com:18806/d8d088c862594126900e2cad876c5c3b.ts
-Hands Up,mitv://generationnexxxt.com:18806/a76febc86d9a4584a58886b4c287687b.ts
-有線18台,mitv://generationnexxxt.com:18806/9ff0ac8fb52449e98fd6c694884b26e4.ts
-有線 Sports Plus 1,mitv://generationnexxxt.com:18806/6a8f5ea55edd44afa3baa702ede6b34d.ts
-有線電影,mitv://generationnexxxt.com:18806/43376752371048dfba9d6de7029fabf2.ts
-有線體育,mitv://generationnexxxt.com:18806/461ee4186df44a99a3ab3fee3211476b.ts
-有線新聞,mitv://generationnexxxt.com:18806/4738c8dc857543689fbb4e082714660a.ts
-有線娛樂,mitv://generationnexxxt.com:18806/6266fd830bda46bf8ecc80141d70b4e4.ts
-有線財經,mitv://generationnexxxt.com:18806/c542a77d03354039a46fd782d4d9b4c9.ts
-有線603,mitv://generationnexxxt.com:18806/ad874ccb108b4c58aa5659f4a6d84abc.ts
-粤语片台,mitv://generationnexxxt.com:18806/516c61df97a743f9974faeb1ecba9e47.ts
-直播台,mitv://generationnexxxt.com:18806/026bf3fe3928432c8359514d968c66f8.ts
-ViuTV,mitv://generationnexxxt.com:18806/3c463fc225e84f4e9be021f17128407e.ts
-ViuTV6,mitv://generationnexxxt.com:18806/d14f9575a1b8404ca2a57f912c2de736.ts
-Now新聞台,mitv://generationnexxxt.com:18806/98bdab6342574a8b9cf1ae847f934ecb.ts
-Now直播台,mitv://generationnexxxt.com:18806/026bf3fe3928432c8359514d968c66f8.ts
-RHK31,mitv://generationnexxxt.com:18806/67a0fe4459e04784b53f29a446e061bb.ts
-Thrill,mitv://generationnexxxt.com:18806/6f8597d7488b4758bc6a100e319090cd.ts
-美亞電影(粤语),mitv://generationnexxxt.com:18806/63aff98d000a53d4c93b529f75d663a6.ts
-亞洲剧台,mitv://generationnexxxt.com:18806/2fe038292af2427db67e14d053f3c9cf.ts
-阳光衛視,mitv://generationnexxxt.com:18806/6a336643d5844db9932c85b73202bd26.ts
-星空衛視,mitv://generationnexxxt.com:18806/5980877dd54349b7be2def5781d8908d.ts
-澳门-MACAU,mitv://generationnexxxt.com:18806/1499e4367b914238850b4cbc23d416c3.ts
-澳门莲花,mitv://generationnexxxt.com:18806/6ddacfaf37c747f4b20c6a6a385f33e3.ts
-Now直播台,mitv://generationnexxxt.com:18806/026bf3fe3928432c8359514d968c66f8.ts
-Now新聞台,mitv://generationnexxxt.com:18806/98bdab6342574a8b9cf1ae847f934ecb.ts
-18台,mitv://generationnexxxt.com:18806/95365b1378f04c2b8a873ad2d7467d66.ts
-有線新聞,mitv://generationnexxxt.com:18806/4738c8dc857543689fbb4e082714660a.ts
-有線財經,mitv://generationnexxxt.com:18806/c542a77d03354039a46fd782d4d9b4c9.ts
-
 無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
 無綫財經,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 無綫財經,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
@@ -816,7 +825,6 @@ Now新聞台,mitv://generationnexxxt.com:18806/98bdab6342574a8b9cf1ae847f934ecb.
 財經體育資訊,http://120.84.96.96:808/hls/86/index.m3u8
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-
 有線新聞,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞,https://api.leonardpark.dev/live/icable/109
 有線財經,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
@@ -848,7 +856,15 @@ RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/stre
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK33,http://radius.8866.org:800/hls/91/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
-
+功夫台,p2p://generationnexxxt.com:18806/105e65b69cbf4a74991fd31e84d97462
+J2,p2p://generationnexxxt.com:18806/aa6c1f557b064fd4bba374e972174b3c
+無綫財經,p2p://generationnexxxt.com:18806/1ffeb864a24c40ac87b5b3cc0979f9f2
+無綫新聞,p2p://generationnexxxt.com:18806/08ead76c8e0b4b97b5cb7a1bb1bc80ef
+無綫新聞,p2p://generationnexxxt.com:18806/3668d2fe806948d49f6424f1eaac389f
+JKN 18,p2p://generationnexxxt.com:18806/56e4b869983a4ee696d4c147ba052ec3
+有線新聞,p2p://generationnexxxt.com:18806/bc6f9be833024259ab103e66f759dfcb
+有線財經,p2p://generationnexxxt.com:18806/da2c35f699bf4cfd9969353136492e73
+Now新聞台,p2p://generationnexxxt.com:18806/b370215348044471b5c2ebf5fab3dfe9
 開電視,https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/693740340
 TVB星河粤语,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
@@ -892,107 +908,10 @@ TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
 澳視體育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 
 🇹🇼台灣频道,#genre#
+TVBS HD,http://158.101.151.82:9000/jmsytb.m3u8?c=4
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-TVBS HD,mitv://generationnexxxt.com:18806/d48d5b6fce4c4f2eac4ea24fb996c3c3.ts
-TVBS新聞,mitv://generationnexxxt.com:18806/91100d8a72724d81a01474c26bb53a96
-中天新聞,mitv://generationnexxxt.com:18806/4148d280613d453fbfad1e2a0ce78643
-東森財經,mitv://generationnexxxt.com:18806/a1355b356541438cbfc85698d4e1d949.ts
-東森新聞,mitv://generationnexxxt.com:18806/63ae74a7000ca07bc34c2522464626f1.ts
-東森新聞,mitv://generationnexxxt.com:18806/c6c9f8c9ad7b4ea4a52600489070b85e.ts
-年代新聞,mitv://generationnexxxt.com:18806/46f4b08a9bf940d4a6b6864dc0159438.ts
-寰宇新聞,mitv://generationnexxxt.com:18806/f98d8f06f17c4608a5e149144f97b545.ts
-寰宇新聞台湾,mitv://generationnexxxt.com:18806/ba647d8420c5464087aa7eecc67e6cf0.ts
-非凡商业,mitv://generationnexxxt.com:18806/1c39835f317d4521a38744e3e6f2ad75.ts
-非凡新聞,mitv://generationnexxxt.com:18806/3747c2397472482db64104504820b735.ts
-壹新聞台,mitv://generationnexxxt.com:18806/1b029f7f645744b6afd681447186f3b7.ts
-三立新聞,mitv://generationnexxxt.com:18806/6bdbb0f1c96841f8b5998a2ae9c28d47.ts
-三立新聞,mitv://generationnexxxt.com:18806/d9d253d210e645738ba90cdc58849999.ts
-镜新聞台,mitv://generationnexxxt.com:18806/63ae758d0001c9b6c34fa4d34aa832a4.ts
-民視台湾,mitv://generationnexxxt.com:18806/a3027f579b7946f0a19b0a912e675bd0.ts
-民視新聞,mitv://generationnexxxt.com:18806/6b7fbe180fe74bb4ba069f9121cebe26.ts
-台視財經,mitv://generationnexxxt.com:18806/ec3b030a2cc143b5b9bc4b429eb33c90.ts
-台視新聞,mitv://generationnexxxt.com:18806/a14b061d7d264ce6ac10f1edbe3dc758.ts
-华視新聞,mitv://generationnexxxt.com:18806/f6c6a4ccaafb4d2b862dd3a1f4fc44a1.ts
-中視新聞,mitv://generationnexxxt.com:18806/3bd4d585e7c54751827f595b05457a06
-中天新聞,mitv://generationnexxxt.com:18806/4148d280613d453fbfad1e2a0ce78643.ts
-中視新聞,mitv://generationnexxxt.com:18806/3bd4d585e7c54751827f595b05457a06.ts
-壹新聞台,mitv://generationnexxxt.com:18806/1b029f7f645744b6afd681447186f3b7.ts
-無綫新聞,mitv://generationnexxxt.com:18806/c72a0a3b723c425ba7c4726992cbc085.ts
-無綫財經,mitv://generationnexxxt.com:18806/8b8d407235cd4f5ca626529250cf22e2.ts
-台視新聞,mitv://generationnexxxt.com:18806/a14b061d7d264ce6ac10f1edbe3dc758.ts
-台視財經,mitv://generationnexxxt.com:18806/ec3b030a2cc143b5b9bc4b429eb33c90.ts
-三立新聞,mitv://generationnexxxt.com:18806/6bdbb0f1c96841f8b5998a2ae9c28d47.ts
-三立iNEWS,mitv://generationnexxxt.com:18806/49b495c4b3254bd98a878d338c3243e8.ts
-年代新聞,mitv://generationnexxxt.com:18806/46f4b08a9bf940d4a6b6864dc0159438.ts
-民視新聞,mitv://generationnexxxt.com:18806/6b7fbe180fe74bb4ba069f9121cebe26.ts
-寰宇新聞台湾,mitv://generationnexxxt.com:18806/ba647d8420c5464087aa7eecc67e6cf0.ts
-寰宇新聞,mitv://generationnexxxt.com:18806/f98d8f06f17c4608a5e149144f97b545.ts
-华視新聞,mitv://generationnexxxt.com:18806/f6c6a4ccaafb4d2b862dd3a1f4fc44a1.ts
-非凡新聞,mitv://generationnexxxt.com:18806/3747c2397472482db64104504820b735.ts
-非凡商业,mitv://generationnexxxt.com:18806/1c39835f317d4521a38744e3e6f2ad75.ts
-東森新聞,mitv://generationnexxxt.com:18806/63ae74a7000ca07bc34c2522464626f1.ts
-東森財經,mitv://generationnexxxt.com:18806/a1355b356541438cbfc85698d4e1d949.ts
-TVBS新聞,mitv://generationnexxxt.com:18806/91100d8a72724d81a01474c26bb53a96.ts
-
-台視,mitv://generationnexxxt.com:18806/fc486a35c0d54d24b2c4cad599d3c0d0.ts
-台視,mitv://generationnexxxt.com:18806/59e90b7165444726b939de7a61ba6ea4.ts
-华視,mitv://generationnexxxt.com:18806/57d88e2947594336b6e77189afabd77d.ts
-华視,mitv://generationnexxxt.com:18806/bd475cec56de4d9d98b7a16d980a902c.ts
-民視,mitv://generationnexxxt.com:18806/79dc1104f3fc449fae0580354b2156a4
-民視,mitv://generationnexxxt.com:18806/a9b17fe4212b4a6eae90bb50ec637c95
-中視,mitv://generationnexxxt.com:18806/44f030968f5a4333af907f9d0cee0f82
-中視,mitv://generationnexxxt.com:18806/0359082e9e94449b980005b7a46b49cd
-公視,mitv://generationnexxxt.com:18806/33450c25c8894f178ed5768b0dbe77d5.ts
-
-東森電影,mitv://generationnexxxt.com:18806/743a8209c7014781b6fc5c4751605b0b.ts
-東森洋片,mitv://generationnexxxt.com:18806/5cdf49db8c2b4b6691f721da1f9a623b.ts
-緯來電影,mitv://generationnexxxt.com:18806/8f706db3bea5487490f938647907f218.ts
-靖天電影,mitv://generationnexxxt.com:18806/5370e499e23c47148d614aa3cfd15c90.ts
-天映频道,mitv://generationnexxxt.com:18806/b7e0336051db4400ab0e0294096d96dd.ts
-天映频道,mitv://generationnexxxt.com:18806/b7e0336051db4400ab0e0294096d96dd.ts
-天映经典,mitv://generationnexxxt.com:18806/b754c751cc044f3c866cc915a1fe8aa1.ts
-天映经典,mitv://generationnexxxt.com:18806/b754c751cc044f3c866cc915a1fe8aa1.ts
-美亞電影,mitv://generationnexxxt.com:18806/48d89bcb936f4cb7b4a2db4fe5f161af.ts
-美亞電影(粤语),mitv://generationnexxxt.com:18806/63aff98d000a53d4c93b529f75d663a6.ts
-LSTime電影,mitv://generationnexxxt.com:18806/b3b89572e7c347eb96302d4f2261be96.ts
-龙华電影,mitv://generationnexxxt.com:18806/75214ef775d2492f9e340ec4cbd3a7f3.ts
-靖天映画,mitv://generationnexxxt.com:18806/1af2e0363bba4784ac0d69654f6376b8.ts
-靖天電影,mitv://generationnexxxt.com:18806/5370e499e23c47148d614aa3cfd15c90.ts
-好莱坞電影,mitv://generationnexxxt.com:18806/ba9ec29847e54d68bf70ebeabf93239e.ts
-影迷数位電影,mitv://generationnexxxt.com:18806/c8500364f1244855af0ad2c1af5f6afd.ts
-壹電影台,mitv://generationnexxxt.com:18806/0758f8f4a74f41df984a86f4d2c72342.ts
-星衛電影,mitv://generationnexxxt.com:18806/558a6a7d231c48ec8a8ba6d592343b0a.ts
-衛視電影,mitv://generationnexxxt.com:18806/87e72e06e015493dae6052cd3ec62316.ts
-緯來育乐,mitv://generationnexxxt.com:18806/bd8a1e5eea5644059cabb9a991b2bb61.ts
-緯來電影,mitv://generationnexxxt.com:18806/8f706db3bea5487490f938647907f218.ts
-凤凰電影,mitv://generationnexxxt.com:18806/3ec15219e30c4284af6c26e33921be71.ts
-東森洋片,mitv://generationnexxxt.com:18806/5cdf49db8c2b4b6691f721da1f9a623b.ts
-東森電影,mitv://generationnexxxt.com:18806/743a8209c7014781b6fc5c4751605b0b.ts
-采昌影剧,mitv://generationnexxxt.com:18806/2a8c96e97fd347d0a128a3d161b85c70.ts
-Star Movies Gold,mitv://generationnexxxt.com:18806/63aff98e0001c8fec93b545414e96974.ts
-STAR World,mitv://generationnexxxt.com:18806/72498d0f40304581be3a109055945cb5.ts
-爱尔达影剧,mitv://generationnexxxt.com:18806/8ded2c37069c4569abef57203df8f02a.ts
-WarnerTV,mitv://generationnexxxt.com:18806/6bd86f7422594844a7b002401cd76559.ts
-tvN,mitv://generationnexxxt.com:18806/45f63f9028ce4b2aa03c0466a639c17f.ts
-tvN Movies HD,mitv://generationnexxxt.com:18806/8440784fc2b94a389c280d664d2b7473.ts
-Thrill,mitv://generationnexxxt.com:18806/6f8597d7488b4758bc6a100e319090cd.ts
-StarMoviesHD,mitv://generationnexxxt.com:18806/56feef5241bf4838b553de0be518b28f.ts
-SHOWCASE MOVIES,mitv://generationnexxxt.com:18806/f62dd33250654dc48f907d2bc98fb6cd.ts
-有線電影,mitv://generationnexxxt.com:18806/43376752371048dfba9d6de7029fabf2.ts
-HITS,mitv://generationnexxxt.com:18806/3c7ada8592f74d1a8b79b451288fcf37.ts
-HITS Movies,mitv://generationnexxxt.com:18806/b8b16e5cfdeb44479fa51299ae39f8da.ts
-HBO 原创,mitv://generationnexxxt.com:18806/81030decb8124c24bfdd98adaeeb90b0.ts
-HBO 強檔,mitv://generationnexxxt.com:18806/e44177ad5b924d3e8b59a735ffe88ba5.ts
-HBO HD,mitv://generationnexxxt.com:18806/9c3b93f036344520952eb9e08d9bae20.ts
-HBO 家庭,mitv://generationnexxxt.com:18806/6a72c7a4373e4a7eb733981f1a5e011b.ts
-CINEMAX,mitv://generationnexxxt.com:18806/4e35202c0f9f4f1ab5c3ac63cb657c2a.ts
-CinemaWorld,mitv://generationnexxxt.com:18806/ed6dfab728444f438aa662f8eb413bef.ts
-CCTV6,mitv://generationnexxxt.com:18806/e7ed240e552c46be865af3f407fbefd0.ts
-CatchPlay電影,mitv://generationnexxxt.com:18806/d5a3e36ae66a4adaa32428e3f98fc13b.ts
-BOO驚悚台,mitv://generationnexxxt.com:18806/a47ce3e8e33d4b3095f666e6943d8f90.ts
-AXN電影,mitv://generationnexxxt.com:18806/11137530e63047f0ba9ce176e586e3be.ts
-AMC,mitv://generationnexxxt.com:18806/aa3d3e88047d42f5be6a772dd451b835.ts
+TVBS新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=3
 TVBS新聞,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -1000,22 +919,89 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS亞洲,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-中天新聞,http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+中天新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=5
 中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+中天新聞,http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+東森新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=2
 東森新聞,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 台視新聞,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 民視新聞,http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+中視新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中視新聞,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 寰宇新聞,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
-
+寰宇新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+三立新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=9
+三立iNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=16
+镜新聞台,http://158.101.151.82:9000/jmsytb.m3u8?c=19
 華視,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 民視,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 民視,http://23.237.10.66:16334
 台視,http://23.237.10.66:16344
 中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/.m3u8
 中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
-
+中天新聞,p2p://generationnexxxt.com:18806/1b61755d53a74b16be09fb6aeafd51ec
+中視新聞,p2p://generationnexxxt.com:18806/604c65fbc84a467b8385b3cd4ad0a493
+壹新聞台,p2p://generationnexxxt.com:18806/6a152b847c444a5b864aac5dda5b0877
+台視新聞,p2p://generationnexxxt.com:18806/4d91d39c790d4300b94640c35c1780ba
+台視財經,p2p://generationnexxxt.com:18806/b66d999dcb42421ba096e554c9791523
+三立新聞,p2p://generationnexxxt.com:18806/9d7461ce46254efc8660c558c69ecf6a
+三立iNEWS,p2p://generationnexxxt.com:18806/b1cf3382d5794e5a9b1b8021257b11d8
+年代新聞,p2p://generationnexxxt.com:18806/d0d2db840403463cb4c347d8c540f141
+民視新聞,p2p://generationnexxxt.com:18806/0937fd5ee5bf422f9b79fb12078c26db
+寰宇新聞台湾,p2p://generationnexxxt.com:18806/03b08632930847808fe85a78b00f76af
+寰宇新聞,p2p://generationnexxxt.com:18806/abc05006fff540e48d0f4db75453c8f5
+华視新聞,p2p://generationnexxxt.com:18806/b3ef8fe331624455a3e3544eb1ca1db8
+非凡新聞,p2p://generationnexxxt.com:18806/2ff833f8d01b4054a737e0575a089cc5
+非凡商业,p2p://generationnexxxt.com:18806/0f7ec74a72704c0fac06f1a52aedae72
+東森新聞,p2p://generationnexxxt.com:18806/818db5183ca847b5abbdd3a2c8923a62
+東森財經,p2p://generationnexxxt.com:18806/2c9710cb76ec4822843ba6ee893badcb
+TVBS新聞,p2p://generationnexxxt.com:18806/372154259d114a0b8a0205dbdec4ae77
+NHK新聞资讯台,p2p://generationnexxxt.com:18806/e1c1784112964126923cfd2d4d356b06
+天映频道,p2p://generationnexxxt.com:18806/ed1c3f2ed8ed42f5a9703b66bcb77442
+天映频道,p2p://generationnexxxt.com:18806/ed1c3f2ed8ed42f5a9703b66bcb77442
+天映经典,p2p://generationnexxxt.com:18806/137044e0f4754ae89999acbf55119460
+天映经典,p2p://generationnexxxt.com:18806/137044e0f4754ae89999acbf55119460
+美亞電影,p2p://generationnexxxt.com:18806/4bb07d0ff3bd4c0bb9097ea3cdc8d874
+美亞電影(粤语),p2p://generationnexxxt.com:18806/bebd2cac800749e3a5a046f2767931d5
+LSTime電影,p2p://generationnexxxt.com:18806/3877a3ed85094f52bb152a6011a3a54d
+龍华電影,p2p://generationnexxxt.com:18806/ce84e158a1f44b4997fd5a9c7d007ee0
+靖天映画,p2p://generationnexxxt.com:18806/e0cd9dc712d74d5dac9ca9074c7f22bb
+靖天電影,p2p://generationnexxxt.com:18806/835e89afb4eb42fc9175fedea6eafe31
+好莱坞電影,p2p://generationnexxxt.com:18806/ea6eef745ad54374a781502e11fe3cfd
+影迷数位電影,p2p://generationnexxxt.com:18806/a7deb2f359ff40c3aba57692244a6def
+壹電影台,p2p://generationnexxxt.com:18806/da2326e0b1da4863a60e3a0b874fc9f7
+星衛電影,p2p://generationnexxxt.com:18806/c6fdf401c105490ba4e3039ab111459a
+衛視電影,p2p://generationnexxxt.com:18806/c8bef038bd6f48c28d2da9aa4bbcf6bf
+纬来育乐,p2p://generationnexxxt.com:18806/9b5896190c104d5793d4fdc33976a8bf
+纬来電影,p2p://generationnexxxt.com:18806/296cd8fc669c4173b82a30d7eacf83cd
+凤凰電影,p2p://generationnexxxt.com:18806/1486722c33034362b304c7bc9cbf6112
+東森洋片,p2p://generationnexxxt.com:18806/2c22d5a9294f4e32b0b534212c63b694
+東森電影,p2p://generationnexxxt.com:18806/708eb3120cf04891bcc06201975af68b
+采昌影剧,p2p://generationnexxxt.com:18806/32610cc57577435ab71bca7cb832dfd4
+Star Movies Gold,p2p://generationnexxxt.com:18806/aaad6a15b3c9418484246b81bfad3e49
+STAR World,p2p://generationnexxxt.com:18806/0f2097211b9a4236bd76589638c5a18d
+爱尔达影剧,p2p://generationnexxxt.com:18806/b5bf4d7e648d400da3175de47fb97dd9
+WarnerTV,p2p://generationnexxxt.com:18806/1990cc483ccd4e3b90fcf1c416e0ed7c
+tvN,p2p://generationnexxxt.com:18806/6142a0120e9f41a7be065183c156630e
+tvN Movies HD,p2p://generationnexxxt.com:18806/b807780a7bc84c86b0cead830586f935
+Thrill,p2p://generationnexxxt.com:18806/31bd416359d24750be16a62d204a634e
+StarMoviesHD,p2p://generationnexxxt.com:18806/f31619fc6bc1474da7ae074dd131d236
+SHOWCASE MOVIES,p2p://generationnexxxt.com:18806/a8fe2732b9fa480eaac367a80dbd6943
+HKC電影台,p2p://generationnexxxt.com:18806/7452eeb7b64945b3a2370af87d53dd72
+HITS,p2p://generationnexxxt.com:18806/ff87d64467804db6ad05c72814f9b081
+HITS Movies,p2p://generationnexxxt.com:18806/a9b576a64c904309b94596aa95c41b27
+HBO 原创,p2p://generationnexxxt.com:18806/07124b87558e4350bc30b8d265778c53
+HBO 強檔,p2p://generationnexxxt.com:18806/8d8da94c9e2c426095915133e858d5b6
+HBO HD,p2p://generationnexxxt.com:18806/d6625da83b034cf6a962d11ccd0a939b
+HBO 家庭,p2p://generationnexxxt.com:18806/9b14ab72fb974980954694424fa39daf
+CINEMAX,p2p://generationnexxxt.com:18806/2830fdbc5cee45cd9cd7e554c585d82c
+CinemaWorld,p2p://generationnexxxt.com:18806/bf9e746e1f6a4e4a9ec31e569d57f307
+CCTV6,p2p://generationnexxxt.com:18806/e41a2385e6d748adbfeba506853e4a04
+CatchPlay電影台,p2p://generationnexxxt.com:18806/223b5ca91875487da2c77a5f6b5d171d
+BOO,p2p://generationnexxxt.com:18806/04636381d6244f779a040428e8d45aae
+AXN,p2p://generationnexxxt.com:18806/59e26a077e804b36bfc3d485206d3586
+AMC,p2p://generationnexxxt.com:18806/02fb1c1147314297864ed8447695d654
 東森電影,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 
 東森電影,http://120.84.96.73:808/hls/32/index.m3u8
@@ -1153,69 +1139,69 @@ TVBS歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3
 求索動物,http://111.11.123.36:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 
 🇯🇵日韓频道,#genre#
-NHK-G综合,mitv://generationnexxxt.com:18806/b6a61ecd774947eb97c5a42914b50a46.ts
-NHK-E教育,mitv://generationnexxxt.com:18806/992a9d6a41534669a1ea6ad05e024dd7.ts
-日本テレビ,mitv://generationnexxxt.com:18806/66f34e734a6345949d03c5c9bb021e95.ts
-TBSテレビ,mitv://generationnexxxt.com:18806/24c2577448d945ada8c89a3a0699a789.ts
-テレビ東京,mitv://generationnexxxt.com:18806/e5b03cfc8bf3483485ac3c2497e2e4d9.ts
-フジテレビ,mitv://generationnexxxt.com:18806/e3d119448aae461ba094deeaa6281538.ts
-読売テレビ,mitv://generationnexxxt.com:18806/c0045dea6b584b40afa42165fdfe4684.ts
-关西テレビ,mitv://generationnexxxt.com:18806/260cc9cc4818450b8d69a590397eaf29.ts
-KBS京都,mitv://generationnexxxt.com:18806/3009d0f86da8410aa7555efcb06c7dee.ts
-毎日放送,mitv://generationnexxxt.com:18806/bbded19951824c3c834fa76ab3b8a0ed.ts
-朝日放送,mitv://generationnexxxt.com:18806/8ca5b18cc8444669a0047c317f1c1140.ts
-テレビ大阪,mitv://generationnexxxt.com:18806/6b183934203b463399dff7a50451ca34.ts
-テレビ朝日,mitv://generationnexxxt.com:18806/2166b50a09934aa39f182b7fae3ecde6.ts
-BS-1,mitv://generationnexxxt.com:18806/8e03199ac6d5405a95c8bb5632a1e644.ts
-BS日テレ,mitv://generationnexxxt.com:18806/50f46114ed2349a5a471b367f9d9a82e.ts
-BS朝日,mitv://generationnexxxt.com:18806/a2731369ca8947af9e7d20d35e62c003.ts
-BS-TBS,mitv://generationnexxxt.com:18806/40bbfe67791b4361bdce273949348533.ts
-BS11,mitv://generationnexxxt.com:18806/459999770f4b406484ff050ebedf2273.ts
-BSフジ,mitv://generationnexxxt.com:18806/671c5cf73468418d9c059c75203f4ed5.ts
-BS钓りビジョン,mitv://generationnexxxt.com:18806/eb3f36c4e09044b6aaaf66ddff7a654e.ts
-WOWOWプライム,mitv://generationnexxxt.com:18806/895f8e4f722a49c88b951e5df115e670.ts
-WOWOWライブ,mitv://generationnexxxt.com:18806/3154fce3428049fa9eb84edfffbd540e.ts
-WOWOWシネマ,mitv://generationnexxxt.com:18806/ac590e634fb94edfa972644fe8865703.ts
-スター・チャンネル1,mitv://generationnexxxt.com:18806/90cb2ce71bfa494a98e806ef8a7e6e82.ts
-スター・チャンネル2,mitv://generationnexxxt.com:18806/1ef850ec2f6c48ae93bb818ac2ef6977.ts
-スター・チャンネル3,mitv://generationnexxxt.com:18806/d0566d811a3e4bc094a9d70c161ec94c.ts
-BSアニマックス,mitv://generationnexxxt.com:18806/d64a14f95e444bd7bfb9bf49494ce98c.ts
-J Sports 1,mitv://generationnexxxt.com:18806/67d7e29b3a724f6a8811002b1e200b2a.ts
-J Sports 2,mitv://generationnexxxt.com:18806/527fe4f76957490c98a80a2949a281c2.ts
-J Sports 3,mitv://generationnexxxt.com:18806/4ee36b2742a2463eb7fd9ddbf7774a9f.ts
-J Sports 4,mitv://generationnexxxt.com:18806/e899ee92796a4598a7c0be67c338e439.ts
-BS12,mitv://generationnexxxt.com:18806/9aecea1e5945484d95bdfb58b2f00b74.ts
-ゴルフネットワークHD,mitv://generationnexxxt.com:18806/bf635a130c3d4c43aab5fb01b865f4dd.ts
-チャンネル银河,mitv://generationnexxxt.com:18806/25c1668371fd45778cbce9dcfdd06c37.ts
-时代剧専门チャンネル,mitv://generationnexxxt.com:18806/dc748eafd36b4fea9c51f4054c785530.ts
-Music Japan TV,mitv://generationnexxxt.com:18806/0d508a209b21477eb427616b302fdb55.ts
-キッズステーションHD,mitv://generationnexxxt.com:18806/464d3b836751484e869581711618f6d7.ts
-ディスカバリーチャンネル,mitv://generationnexxxt.com:18806/fe165a6df7b748479f24a58caa0b8ac9.ts
-ナショナルジオグラフィック,mitv://generationnexxxt.com:18806/9e9e2a57226f4e168217ca9a2cb8f819.ts
-日テレNEWS 24,mitv://generationnexxxt.com:18806/de12d85d4f5c4bdfb19be544395c6e86.ts
-旅チャンネル,mitv://generationnexxxt.com:18806/ffae04151d90491b98c94c41e817d0c7.ts
-Arirang,mitv://generationnexxxt.com:18806/d023f8cb36ce47a893fe3d35d09e4d4d.ts
-KBS1,mitv://generationnexxxt.com:18806/de60b889a008453fa94c834043ae5371.ts
-KBS2,mitv://generationnexxxt.com:18806/eccbc89670d34466b752a09b2f650f6e.ts
-KBS Drama,mitv://generationnexxxt.com:18806/9113a1871b4c47d3ab10951bbba03323.ts
-KBS Joy,mitv://generationnexxxt.com:18806/90c492f11d7b452b83bf5dd6da9f1a85.ts
-SBS,mitv://generationnexxxt.com:18806/1d4434e7738d4d6696db1d557bc59bf6.ts
-SBS Biz,mitv://generationnexxxt.com:18806/2b382dab3eba4d52a9e38202a29831e3.ts
-JTBC,mitv://generationnexxxt.com:18806/2a11de92b138439fb6ca14c3f26c98f3.ts
-EBS,mitv://generationnexxxt.com:18806/e6bf49147780442a94a712cfe41a7d10.ts
-YTN,mitv://generationnexxxt.com:18806/de8fae03646843a29ce69dce9689e698.ts
-Mnet,mitv://generationnexxxt.com:18806/b8f8c920edbc44dc86624090d8eeb319.ts
-tvN,mitv://generationnexxxt.com:18806/45f63f9028ce4b2aa03c0466a639c17f.ts
-OCN,mitv://generationnexxxt.com:18806/41775e0be20046d5a468c87812b01d3a.ts
-OCN Movies,mitv://generationnexxxt.com:18806/0572e02fc7e84628b689efe115cf26a0.ts
-TV Chosun,mitv://generationnexxxt.com:18806/f76364786ff14523ba6d2998a761657f.ts
-MBC,mitv://generationnexxxt.com:18806/cc0255c1198340698fabc643326b81c9.ts
-MBN,mitv://generationnexxxt.com:18806/80f898cc2759455c9d0f0a8d9febfa65.ts
-Tooniverse,mitv://generationnexxxt.com:18806/553462c632874b2685b791715353129d.ts
-SPOTV,mitv://generationnexxxt.com:18806/d9ea41b387fb485b826ca6a5f44ad873.ts
-SPOTV 2,mitv://generationnexxxt.com:18806/c72d13fa7c864dfeb1344af07df23bdb.ts
-JTBC GOLF,mitv://generationnexxxt.com:18806/b0b5e8dc97ec428597a9a18ea2124513.ts
-NHK新聞资讯台,mitv://generationnexxxt.com:18806/a6daf559788a4530a9e0735a951209c6.ts
+NHK-G综合,p2p://generationnexxxt.com:18806/b87532b51a7c41bdb9a09ed06d0a5df4
+NHK-E教育,p2p://generationnexxxt.com:18806/67d45a6c4cc74718b99308dca6144fb5
+日本テレビ,p2p://generationnexxxt.com:18806/b7479d04eff744c48b405bdf34d757ba
+TBSテレビ,p2p://generationnexxxt.com:18806/0cd41b8c53b349899d8c650e01f2e704
+テレビ东京,p2p://generationnexxxt.com:18806/c26af9c0821b428d9ad9e6e52275ef06
+フジテレビ,p2p://generationnexxxt.com:18806/893f9aabf3a44c5285fd7dc05d3eac3d
+読売テレビ,p2p://generationnexxxt.com:18806/ca2587555e21486e9ce58b6ee681308d
+关西テレビ,p2p://generationnexxxt.com:18806/f67c2815c3604eabac4a164619170420
+KBS京都,p2p://generationnexxxt.com:18806/8919617dfc6040369c305f05fbfe088c
+毎日放送,p2p://generationnexxxt.com:18806/656850bbe9bd452fbaf432a60fa031b9
+朝日放送,p2p://generationnexxxt.com:18806/3e79edd36f8d41e0accd7e92e1314702
+テレビ大阪,p2p://generationnexxxt.com:18806/eed159afd14e4b2389056aa910e0947f
+テレビ朝日,p2p://generationnexxxt.com:18806/21ca5141f1b44ee3a269169b6e21b173
+BS-1,p2p://generationnexxxt.com:18806/b005a0b4930b40638bb07724889e6a17
+BS日テレ,p2p://generationnexxxt.com:18806/eb101a5bcf144c88a4413fb0640dd7fe
+BS朝日,p2p://generationnexxxt.com:18806/f1cd4b8daca142f28bbbca7c21cfa812
+BS-TBS,p2p://generationnexxxt.com:18806/c93944b44a9e4ae2939e2ed8081974f4
+BS11,p2p://generationnexxxt.com:18806/9a98bfa169d5470bbeee72e814c62286
+BSフジ,p2p://generationnexxxt.com:18806/9775322d1137455db9f03bdcb83a5e87
+BS钓りビジョン,p2p://generationnexxxt.com:18806/be765aa2e40d479499603ed5b3618811
+WOWOWプライム,p2p://generationnexxxt.com:18806/ff24f09b4eb94788a21a3f317050a826
+WOWOWライブ,p2p://generationnexxxt.com:18806/56fb59262ef647159afb079bedd011c7
+WOWOWシネマ,p2p://generationnexxxt.com:18806/570bedacf9fb49f3bb09c6c625fbd879
+スター・チャンネル1,p2p://generationnexxxt.com:18806/0e331b4463304eb7a8704b853d433357
+スター・チャンネル2,p2p://generationnexxxt.com:18806/84ea186a647d4afa8a5fab4551520791
+スター・チャンネル3,p2p://generationnexxxt.com:18806/3fc067fa0f9c4001bda00be1970478aa
+BSアニマックス,p2p://generationnexxxt.com:18806/3a22ba6e7d844140be0040158e3560ca
+J Sports 1,p2p://generationnexxxt.com:18806/4637242c0f454f0ba53311a7f4f2aac8
+J Sports 2,p2p://generationnexxxt.com:18806/2b931653bc3b4b9390bae8401cbffdb7
+J Sports 3,p2p://generationnexxxt.com:18806/bba83f5617f4479b84896c32fb0322ac
+J Sports 4,p2p://generationnexxxt.com:18806/1b33fe916f4046da8222147490b0dfa4
+BS12,p2p://generationnexxxt.com:18806/798a8840e98a4977b56589bf0f422029
+ゴルフネットワークHD,p2p://generationnexxxt.com:18806/9d11f7e1af014cdbbf456aaf6ca411df
+チャンネル银河,p2p://generationnexxxt.com:18806/057122a2cb50483cbacfc289ea161efa
+时代剧専门チャンネル,p2p://generationnexxxt.com:18806/974b03243fa846ad8fb9c02d8ae4f3c6
+Music Japan TV,p2p://generationnexxxt.com:18806/7c8edc3296744ea9b15649f88f72ebf3
+キッズステーションHD,p2p://generationnexxxt.com:18806/1f8c039180854b63b9e8e57681123a1e
+ディスカバリーチャンネル,p2p://generationnexxxt.com:18806/41576aa3609a4a628e534f988709aa26
+ナショナルジオグラフィック,p2p://generationnexxxt.com:18806/fff30842d7a3439bb22d8cd4f1ddf19c
+日テレNEWS 24,p2p://generationnexxxt.com:18806/006699c60e8549e990222030fc03a4a2
+旅チャンネル,p2p://generationnexxxt.com:18806/b33afdd6c7f84f77ae2e6fd2f46780e7
+
+Arirang,p2p://generationnexxxt.com:18806/c5121bac421141cab457f9d896226e2c
+KBS1,p2p://generationnexxxt.com:18806/9c120230e35243e0a4df55a623571729
+KBS2,p2p://generationnexxxt.com:18806/d869313cf6af4da796b0278c8c9a3196
+KBS Drama,p2p://generationnexxxt.com:18806/90f5cba41b364c1abae8ad9eee3c0f88
+KBS Joy,p2p://generationnexxxt.com:18806/85eccf7fea80432b96b2d4b3f29dac9a
+SBS,p2p://generationnexxxt.com:18806/d3ed638eb85b49abaec4681e51e110de
+SBS Biz,p2p://generationnexxxt.com:18806/d8f808781b134e3f855984df8212f26b
+JTBC,p2p://generationnexxxt.com:18806/0a81cbeaaa0b4cf1a8a7a13fbb1ed804
+EBS,p2p://generationnexxxt.com:18806/c1b110473cbe4a8783def2c5d9e9a55c
+YTN,p2p://generationnexxxt.com:18806/9c6bb99c37454e8193dfbff5b0abd8b5
+Mnet,p2p://generationnexxxt.com:18806/8c582b28649b4619b378fcdb7364439a
+tvN,p2p://generationnexxxt.com:18806/6142a0120e9f41a7be065183c156630e
+OCN,p2p://generationnexxxt.com:18806/712d3da177e043829e99a0e578633a27
+OCN Movies,p2p://generationnexxxt.com:18806/110888ecc35a414d8a7f64dd7be81878
+TV Chosun,p2p://generationnexxxt.com:18806/32e617d91b6c4b9aacf1d1d0944dd53f
+MBC,p2p://generationnexxxt.com:18806/59743283e22d476b8b780169af1d9d73
+MBN,p2p://generationnexxxt.com:18806/bbdf59172fab4fa49acbd2c3d6aa6fc7
+Tooniverse,p2p://generationnexxxt.com:18806/299d8d0bcc1c4b4584dd48e6e0251d92
+SPOTV,p2p://generationnexxxt.com:18806/ea11b8c4e67d4e75ad324a2908bc7b97
+SPOTV 2,p2p://generationnexxxt.com:18806/d90827f70fb54054b02a58195e58a64f
+JTBC GOLF,p2p://generationnexxxt.com:18806/6b92504203fd425e924a9e07909b0aa6
 NHK·国际,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
@@ -1268,76 +1254,6 @@ Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
 🇺🇸欧美频道,#genre#
-CNN,mitv://generationnexxxt.com:18806/3fe6d6be5f2046569126d674109096ae.ts
-CNBC,mitv://generationnexxxt.com:18806/7d8fae2b99c542f8bfa1bb7f72f7c5a4.ts
-BloombergTV,mitv://generationnexxxt.com:18806/12940710d2cd4359a7453a2364305d33.ts
-ESPN,mitv://generationnexxxt.com:18806/58910dbdcd1448a7987c7306c8d9d6f2.ts
-CBSN,mitv://generationnexxxt.com:18806/3aca5920d2a044b590423090b9565e27.ts
-Food Network,mitv://generationnexxxt.com:18806/17b96da30cf144c6a29af058070395b8.ts
-NBA,mitv://generationnexxxt.com:18806/315cc16eb4c548a28f2483900c6d2f68.ts
-CNA,mitv://generationnexxxt.com:18806/88a60fa45b174ec388ba8f90b8b42876.ts
-Mediacorp 5,mitv://generationnexxxt.com:18806/072f2cd68f994a57aaf260f7e4e0727a.ts
-Mediacorp 8,mitv://generationnexxxt.com:18806/ec5e8c29a0a347f5a0571edd0f38364d.ts
-Mediacorp U,mitv://generationnexxxt.com:18806/77a012e761114f578b938fe75061df4a.ts
-中天亞洲台,mitv://generationnexxxt.com:18806/51a1d279df1340ba9e960f1b4afecdff.ts
-衛視電影台,mitv://generationnexxxt.com:18806/87e72e06e015493dae6052cd3ec62316.ts
-東森亞洲衛視,mitv://generationnexxxt.com:18806/1115f014d4e24c48952dfc4c24885f9f.ts
-Vasantham,mitv://generationnexxxt.com:18806/2b220453d0f54744847a78153af5c537.ts
-TVB星河,mitv://generationnexxxt.com:18806/8b06441380d4455e9a20f49ce633928a.ts
-TVBS亞洲,mitv://generationnexxxt.com:18806/1b6d85ce888c475394f528ec9baa8bc9.ts
-TV5Monde,mitv://generationnexxxt.com:18806/424c83055caa489c8e72b9bd0ca1a995.ts
-Thrill,mitv://generationnexxxt.com:18806/6f8597d7488b4758bc6a100e319090cd.ts
-Suria,mitv://generationnexxxt.com:18806/c07a528d51234620978e2fb7ffc68bb5.ts
-ONE,mitv://generationnexxxt.com:18806/e90a14a81b8a4a988faac34b031e9ea4.ts
-Nickelodeon,mitv://generationnexxxt.com:18806/446fb488320c4b99a1aba4caf30e16d6.ts
-NickJr.,mitv://generationnexxxt.com:18806/86dca900fa0d490893385f6b4447681f.ts
-NBA,mitv://generationnexxxt.com:18806/315cc16eb4c548a28f2483900c6d2f68.ts
-KBS World,mitv://generationnexxxt.com:18806/5668387b07f1486bb836c4d820f85edf.ts
-HITS,mitv://generationnexxxt.com:18806/3c7ada8592f74d1a8b79b451288fcf37.ts
-HGTV居家乐活频道,mitv://generationnexxxt.com:18806/d8995a2c3fff48769133a41a31ea0525.ts
-GEM,mitv://generationnexxxt.com:18806/c85558f88afd48c690756427e7ae8bc6.ts
-Fox News,mitv://generationnexxxt.com:18806/653a878f3ebf47a2b570cca6398bb59e.ts
-Euronews,mitv://generationnexxxt.com:18806/16eeed9e4f9d487c91df21335050ef61.ts
-Colors Hindi,mitv://generationnexxxt.com:18806/1cd378aa4ad54178a763d01c737da618.ts
-CNBC,mitv://generationnexxxt.com:18806/7d8fae2b99c542f8bfa1bb7f72f7c5a4.ts
-CGTN,mitv://generationnexxxt.com:18806/aa40d9a0014c4c78a9656a4ef05890c1.ts
-Cartoon Network,mitv://generationnexxxt.com:18806/eadcc8a03df04e1492c997a2a04d0037.ts
-Boomerang,mitv://generationnexxxt.com:18806/e5a72908a13c4f38b62c7211884cf387.ts
-Bloomberg TV,mitv://generationnexxxt.com:18806/12940710d2cd4359a7453a2364305d33.ts
-BBC World News,mitv://generationnexxxt.com:18806/9d30ce2867384468a0082ec3bc422c30.ts
-AXN亞洲,mitv://generationnexxxt.com:18806/35a72fa657b84fc7964b8426d5599fa7.ts
-Arirang,mitv://generationnexxxt.com:18806/d023f8cb36ce47a893fe3d35d09e4d4d.ts
-TV9,mitv://generationnexxxt.com:18806/e090e5f9955a4f239e64c88af49e32b6.ts
-TV3,mitv://generationnexxxt.com:18806/be0e8df7e2bb49f385f4fa85f1b93f0f.ts
-TV2,mitv://generationnexxxt.com:18806/ee3b3aba97964a41acbcd712be098a54.ts
-TV1,mitv://generationnexxxt.com:18806/9e9f8c7d7fac44dbb32bd1fa08cedca2.ts
-TA-DAA!,mitv://generationnexxxt.com:18806/3625ad5a2db4470398fd727d545fcdd8.ts
-SUN TV,mitv://generationnexxxt.com:18806/c65ff3d013694a569ea6ae2b553d60ae.ts
-Star Vijay,mitv://generationnexxxt.com:18806/662cf60132cb43a78a0c62678f1c7e0c.ts
-SPOTV,mitv://generationnexxxt.com:18806/d9ea41b387fb485b826ca6a5f44ad873.ts
-Sky News,mitv://generationnexxxt.com:18806/153c976e8f264640a16dd5584f22e063.ts
-SHOWCASE MOVIES,mitv://generationnexxxt.com:18806/f62dd33250654dc48f907d2bc98fb6cd.ts
-ONE,mitv://generationnexxxt.com:18806/e90a14a81b8a4a988faac34b031e9ea4.ts
-NTV7,mitv://generationnexxxt.com:18806/acdb67ba4c54400c965cdd72c1da26dc.ts
-Nickelodeon,mitv://generationnexxxt.com:18806/446fb488320c4b99a1aba4caf30e16d6.ts
-NickJr.,mitv://generationnexxxt.com:18806/86dca900fa0d490893385f6b4447681f.ts
-KIX,mitv://generationnexxxt.com:18806/04efbfbbd1264eed9613c766da747da2.ts
-KBS World,mitv://generationnexxxt.com:18806/5668387b07f1486bb836c4d820f85edf.ts
-France24,mitv://generationnexxxt.com:18806/f3d9607670664b0898077959a3f04a37.ts
-DW,mitv://generationnexxxt.com:18806/83dfcbce304a4bea96e0370cb3985c13.ts
-Drama Sangat,mitv://generationnexxxt.com:18806/717a8d2c74b74149aa156fb94d6e1ba8.ts
-Colors Tamil,mitv://generationnexxxt.com:18806/8fe82780ecfe49898fd912955d27ae97.ts
-Colors Hindi,mitv://generationnexxxt.com:18806/1cd378aa4ad54178a763d01c737da618.ts
-CNN,mitv://generationnexxxt.com:18806/3fe6d6be5f2046569126d674109096ae.ts
-CNBCHongKong,mitv://generationnexxxt.com:18806/7d8fae2b99c542f8bfa1bb7f72f7c5a4.ts
-CGTN,mitv://generationnexxxt.com:18806/aa40d9a0014c4c78a9656a4ef05890c1.ts
-Cartoon Network,mitv://generationnexxxt.com:18806/eadcc8a03df04e1492c997a2a04d0037.ts
-Boomerang,mitv://generationnexxxt.com:18806/e5a72908a13c4f38b62c7211884cf387.ts
-BOO,mitv://generationnexxxt.com:18806/a47ce3e8e33d4b3095f666e6943d8f90.ts
-BloombergTV,mitv://generationnexxxt.com:18806/12940710d2cd4359a7453a2364305d33.ts
-Berita RTM,mitv://generationnexxxt.com:18806/13c2df61ea7a48b4a0665f33d55b0573.ts
-AXN,mitv://generationnexxxt.com:18806/11137530e63047f0ba9ce176e586e3be.ts
-Awesome TV,mitv://generationnexxxt.com:18806/b40c0712ed054b14a51713565356da10.ts
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1712,6 +1628,10 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 豆瓣高分,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 喜剧電影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+CHC动作,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC高清,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC家庭,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC家庭,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
 CHC高清,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 CHC家庭,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
@@ -4204,32 +4124,32 @@ M2音乐,http://live.m2.tv/hls3/stream.m3u8
 舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
 
  🔞日韩松視,#genre#
-松視1臺,p2p://generationnexxxt.com:18806/0029bf9f99404c5ba1cee97e14ca39fd
-松視2臺,P2p://generationnexxxt.com:18806/77029388d37445b9bf0740d74a95c83c
-松視3臺,P2p://generationnexxxt.com:18806/6bc46f3fb81c4e51a850fdc6370267bf
-彩虹E臺,P2p://generationnexxxt.com:18806/3ed3a87c9a4d485f896122e0682fdb12
-香蕉臺,P2p://generationnexxxt.com:18806/744c31eeee3c4d4e85d994828b48e866
-彩虹電影,P2p://generationnexxxt.com:18806/166b10b0247d475abc0151adeb088146
-潘朵啦玩美,P2p://generationnexxxt.com:18806/3a6b4d3d19eb4848aac2aaa77e980441
-驚豔電影臺,P2p://generationnexxxt.com:18806/44b2795ce3b240beaba8b2b08daf662d
-JStar極限臺,P2p://generationnexxxt.com:18806/b267ce08e68a42f3b386428c1222313f
-HAPPY,P2p://generationnexxxt.com:18806/cbaed3220bf94e4e89a5815911a10d2f
-K 頻道,P2p://generationnexxxt.com:18806/7e9d1131b8724c25b7f56eb46416c1b4
-Look ,P2p://generationnexxxt.com:18806/59a595c19e7448d5b8dfe0f913d1c0f6
-PLAYBOY,P2p://generationnexxxt.com:18806/192dabb7a5e9481083de1c4c1f9c1cd1
-松視1臺,mitv://generationnexxxt.com:18806/0029bf9f99404c5ba1cee97e14ca39fd
-松視2臺,mitv://generationnexxxt.com:18806/77029388d37445b9bf0740d74a95c83c
-松視3臺,mitv://generationnexxxt.com:18806/6bc46f3fb81c4e51a850fdc6370267bf
-彩虹E臺,mitv://generationnexxxt.com:18806/3ed3a87c9a4d485f896122e0682fdb12
-香蕉臺,mitv://generationnexxxt.com:18806/744c31eeee3c4d4e85d994828b48e866
-彩虹電影,mitv://generationnexxxt.com:18806/166b10b0247d475abc0151adeb088146
-潘朵啦玩美,mitv://generationnexxxt.com:18806/3a6b4d3d19eb4848aac2aaa77e980441
-驚豔電影臺,mitv://generationnexxxt.com:18806/44b2795ce3b240beaba8b2b08daf662d
-JStar極限臺,mitv://generationnexxxt.com:18806/b267ce08e68a42f3b386428c1222313f
-HAPPY,mitv://generationnexxxt.com:18806/cbaed3220bf94e4e89a5815911a10d2f
-K 頻道,mitv://generationnexxxt.com:18806/7e9d1131b8724c25b7f56eb46416c1b4
-Look ,mitv://generationnexxxt.com:18806/59a595c19e7448d5b8dfe0f913d1c0f6
-PLAYBOY,mitv://generationnexxxt.com:18806/192dabb7a5e9481083de1c4c1f9c1cd1
+松視1臺,p2p://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
+松視2臺,P2p://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
+松視3臺,P2p://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
+彩虹E臺,P2p://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
+香蕉臺,P2p://generationnexxxt.com:18806/a4aff22693ef4c80aabf4ae598fe1301
+彩虹電影,P2p://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
+潘朵啦玩美,P2p://generationnexxxt.com:18806/4b6f680d6a9a440e9e778a1482ec8402
+驚豔電影臺,P2p://generationnexxxt.com:18806/9b1f1e5146c2426f8ea6c509e1c3b925
+JStar極限臺,P2p://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
+HAPPY,P2p://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
+K 頻道,P2p://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
+Look HD,P2p://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
+PLAYBOY,P2p://generationnexxxt.com:18806/1ea235b4262a4d528bedec4d7f2814f9
+松視1臺,mitv://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
+松視2臺,mitv://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
+松視3臺,mitv://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
+彩虹E臺,mitv://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
+香蕉臺,mitv://generationnexxxt.com:18806/a4aff22693ef4c80aabf4ae598fe1301
+彩虹電影,mitv://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
+潘朵啦玩美,mitv://generationnexxxt.com:18806/4b6f680d6a9a440e9e778a1482ec8402
+驚豔電影臺,mitv://generationnexxxt.com:18806/9b1f1e5146c2426f8ea6c509e1c3b925
+JStar極限臺,mitv://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
+HAPPY,mitv://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
+K 頻道,mitv://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
+Look HD,mitv://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
+PLAYBOY,mitv://generationnexxxt.com:18806/1ea235b4262a4d528bedec4d7f2814f9
 PLAYBOY TV,http://tv.urllista.net/live/Artur86/Artur86/37061.m3u8
 PLAYBOY TV,http://tv.urllista.net/live/Artur86/Artur86/41513.m3u8
 PLAYBOY TV,http://tv.urllista.net/live/Artur86/Artur86/40749.m3u8
@@ -4392,381 +4312,6 @@ MYLF TV HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6236/index.m3u8
 Hustler HD Europe,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/244/index.m3u8
 小亞洲人HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6230/index.m3u8
 XY 混合高清,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6287/index.m3u8
-
-🔞福利姬,#genre#
-萌白酱3,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengbaijiangtianweimiman3o26.mp4/playlist.m3u8?&tokenhash=FvLiUhlXFWx9LYwtpFj3XuW9Pv_wpLNXFonbb9knSz8=
-橘猫黑丝,https://vod1.zerovideo.stream/vod/d3/mp4:d3/fulijijumao12.mp4/playlist.m3u8?
-橘猫长裙,https://vod1.zerovideo.stream/vod/d3/mp4:d3/fulijijumao10.mp4/playlist.m3u8?&tokenhash=6UDTNGxy_P9_UtkZS8RXYg36rsVduxvf0grkI4Y8_BI=
-橘猫,https://vod1.zerovideo.stream/vod/d3/mp4:d3/fulijijumao9.mp4/playlist.m3u8?&tokenhash=HYyCnjcHeTLN3apwurGRtKYrrsf_JFCupKJ2XX47Xf8=
-玩具少女,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu2z41.mp4/playlist.m3u8?&tokenhash=4NFHEvqeiFrGZfi0yu1ivqy6OVgCA6_LvL1qqFc=
-玩具少女2,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu2z40.mp4/playlist.m3u8?&tokenhash=vztZF15cAeveCQOP-9QL8MepS4VVqzre0qgeLG7enrI=
-玩具少女3,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu2z37.mp4/playlist.m3u8?&tokenhash=ez6CsZxhFAnHhwJ64ibTx3YcvP7-Hg5A0pTIjRq5yX8=
-玩具少女4,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu2z20.mp4/playlist.m3u8?&tokenhash=xl4esU-xRxikZYL_u7otM4wIMOz1XKxP2AxILpRKpj8=
-小鸟酱1,https://vod1.zerovideo.stream/vod/d3/mp4:d3/xiaoniaojiangdisanbu3.mp4/playlist.m3u8?&tokenhash=4_nOk7eaQ0UlrbbOgpFWKShsvuME6UXN_YAPqyMIq2Y=
-橘猫红衣,https://vod1.zerovideo.stream/vod/d3/mp4:d3/fulijijumao11.mp4/playlist.m3u8?&tokenhash=9qXGTCvjnuYonAmwUPY-_dQ7pAc9k7JvZdpkDuJU5W8=
-玩具少女2,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu2z40.mp4/playlist.m3u8?&tokenhash=vztZF15cAeveCQOP-9QL8MepS4VVqzre0qgeLG7enrI=
-玩具少女3,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu2z37.mp4/playlist.m3u8?&tokenhash=ez6CsZxhFAnHhwJ64ibTx3YcvP7-Hg5A0pTIjRq5yX8=
-玩具少女4,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu2z20.mp4/playlist.m3u8?&tokenhash=xl4esU-xRxikZYL_u7otM4wIMOz1XKxP2AxILpRKpj8=
-小鸟酱2,https://vod1.zerovideo.stream/vod/d3/mp4:d3/xiaoniaojiangdisanbu3.mp4/playlist.m3u8?&tokenhash=4_nOk7eaQ0UlrbbOgpFWKShsvuME6UXN_YAPqyMIq2Y=
-福利姬1,https://vod1.zerovideo.stream/vod/d2/mp4:d2/guochanSjishencaidanaifanchanuxuemeichaoguai.mp4/playlist.m3u8?&tokenhash=e48ssFneCB8JQFjEpF73IbSWOVWGh-hl5zrj4ldTiuo=
-福利姬2,https://vod1.zerovideo.stream/vod/d2/mp4:d2/mengningshaonufuli9.mp4/playlist.m3u8?&tokenhash=OP_XuShnCqmTIWIYsmMthYkXOuNK4Y9v8iO03y6PsoA=
-福利姬3,https://vod1.zerovideo.stream/vod/d2/mp4:d2/mengningshaonufuli3.mp4/playlist.m3u8?&tokenhash=Owv30PnZiPzjFLZ07vv47go7ZzlmfrYoN3EmyLlFs74=
-福利姬4,https://vod1.zerovideo.stream/vod/d2/mp4:d2/mengningshaonufuli1.mp4/playlist.m3u8?&tokenhash=FKQuinXeZwWz-hu5ZqEgyjgbj54-8rw1hvtO51-kE3I=
-福利姬6,https://vod1.zerovideo.stream/vod/d3/mp4:d3/fulijijumao6.mp4/playlist.m3u8?&tokenhash=3ThGQHsgEXTqhTfWbeggK0bTqGqmsBLZkNu0fCjmv_k=
-福利姬7,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu19.mp4/playlist.m3u8?&tokenhash=cQcWKHOQog3m9HwzQm-KeCZ48yhnYatkmStTvtGAepo=
-福利姬8,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu18.mp4/playlist.m3u8?&tokenhash=aJBJiVVeqSE_427Falj7Pt8oWwiYOqJRH8DqT4b77yo=
-福利姬9,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu15.mp4/playlist.m3u8?&tokenhash=XP8eDb14mq2C19S3VgNYaFLWLf5d1ndm7zP4lBpPy0c=
-福利姬10,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu14.mp4/playlist.m3u8?&tokenhash=8_1YA9SOHVIJnwJhAgLd2hJub3YHWJi-CZhuGOWIbEM=
-福利姬11,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu13.mp4/playlist.m3u8?&tokenhash=PoHhS8laPk99wHtFxq_a4AZ0rGGOPGw7y0LWi7PVva4=
-福利姬12,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu12.mp4/playlist.m3u8?&tokenhash=o_x6f2tFGGVYnH-aWL0pYlTOdbrMVckIry9YbxgoNH0=
-福利姬13,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengbaijiangtianweimiman3o10.mp4/playlist.m3u8?&tokenhash=PLZooMkqcFQnoWSaFmojeHs0Brz8-mZG2LlYG6KIHSY=
-福利姬13,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu4z75.mp4/playlist.m3u8?&tokenhash=JuFayMoZOA2DafkSiOXGdGAJ2bKOsYTGv1lICVJgXM8=
-福利姬14,https://vod1.zerovideo.stream/vod/d3/mp4:d3/wanjushaonu4z74.mp4/playlist.m3u8?&tokenhash=1eW2NzdLHowKmqzFpyeg-t89ovE1f2SGInrqTFC-cA4=
-橘猫 尿,https://vod1.zerovideo.stream/vod/d3/mp4:d3/fulijijumao5.mp4/playlist.m3u8?&tokenhash=-HcAKWJ9QAd8snCVY5hkh8Qg1NSpqHZ93lSySqyiGRc=
-菜头鸡,https://v4b.xukai1026.com/20220228/KB9MztHu/2000kb/hls/index.m3u8?auth_key=1666957628-k3lzeNJOElusd14A4ebeCon041QxJYTMo1mrzQwctIAScbGqbPt4xLu5Qu4n6VFqShElPNLos8v4nUX-0-e51cf22439c867086ecb1a0793ba5e50
-奶子比头大,https://v2b.feiwu-office.com/20211111/GqLaq2z3/2000kb/hls/index.m3u8?auth_key=1666956669-0gVVXjmTN9shb0paWBWCKPfkoqFJsULFKJrle0KlHgR93-0-ad903707eb3848f408a2d3d2226db824
-学姐鸡,https://v2b.feiwu-office.com/20211111/DICK1u/2000kb/hls/index.m3u8?auth_key=1666958679-6bAkOpKch1dXvAdPawKH0oS2llnGWDV3HziUcrf0R8SCBel7cRhNOo5RII9nBDFegkP5cJwsQUz2VQ-0-8387628d119a86e6c359895427580773
-巨乳福利姬,https://vod1.zerovideo.stream/vod/d2/mp4:d2/guochanjipinbaorubeibeizuixinsiyuefufeidingyuejipinhaorurouarouyuantingdanaiwanawan.mp4/playlist.m3u8?&tokenhash=KX5uUhNJ9g-D1f3dcF4CHtjERxvGAFxUspVgtLQJLws=
-香草少女1,https://vod1.zerovideo.stream/vod/d3/mp4:d3/jiuweihumaim121.mp4/playlist.m3u8?&tokenhash=hx7Rzl5WQtkrwqPTWbPhuEQ6SQk0C2IPMWipGaMNj5g=
-小奶香,https://vod1.zerovideo.stream/vod/d3/mp4:d3/jiuweihumaim75.mp4/playlist.m3u8?&tokenhash=KPzCHbfeNJwm5Bn6D1INWY1zY8CdOy2SaY1X6H17mDc=
-九尾狐狸,https://vod1.zerovideo.stream/vod/d3/mp4:d3/jiuweihumaim51.mp4/playlist.m3u8?&tokenhash=1sfXy65o4jsa_NSvAuRvQYYSLl8eXhBxi6lQaWZjjeU=
-花椒全裸舞,https://vod1.zerovideo.stream/vod/d2/mp4:d2/65Glilifuli1.mp4/playlist.m3u8?&tokenhash=3QH9ziZ-zCU8-Mt0p1I6FudfIxJwj3h3-GxfTR5xDog=
-兔子姐姐,https://vod1.zerovideo.stream/vod/d2/mp4:d2/nideweiyangfuli1.mp4/playlist.m3u8?&tokenhash=VeVaW8s3jCFS7dxhkzZ76jAeHoy_0GnvJojotvRhRuA=
-萌白酱2,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengbaijiangtianweimiman5o1.mp4/playlist.m3u8?&tokenhash=Um95xMK03i9qYrQAziSj_eKN4IqrvYQTr7zf3q8sA30=
-谭晓彤,https://vod1.zerovideo.stream/vod/d1/mp4:d1/Elisetanxiaotongelisexiaotuzifuli1.mp4/playlist.m3u8?&tokenhash=bt5LK7KoVE6BSwLpFWWKu5ocwTIvAeiBSvMQQdp6DYE=
-AA喵,https://vod1.zerovideo.stream/vod/d1/mp4:d1/Amiaomiao1.mp4/playlist.m3u8?&tokenhash=Fr_2J7x727oU42NfjpJrofgziDtB1m484pZu3GhNb9w=
-大奶鸡,https://vod1.zerovideo.stream/vod/d1/mp4:d1/ranranbaobao1.mp4/playlist.m3u8?&tokenhash=PJP38-jdpsqH_w1RbjU2ZBfy9hfIaQHO9BgggmzCDi8=
-猪猪吖,https://vod1.zerovideo.stream/vod/d1/mp4:d1/zhuzhuya1.mp4/playlist.m3u8?&tokenhash=cB3tPWSOc_wD7EH2OnE62YqDVUYhxueihNY90KFq-7o=
-小鸟酱,https://vod1.zerovideo.stream/vod/d3/mp4:d3/xiaoniaojiangdisanbu1.mp4/playlist.m3u8?&tokenhash=oR4s9bnZ8JhOtARzWZs9IlhoiVcHaP1r_nqAZyIuGdM=
-qa娘,https://vod1.zerovideo.stream/vod/d1/mp4:d1/QAmeiniangfuli1.mp4/playlist.m3u8?&tokenhash=TnvPcmpZTTStbHGxhW-VHp9LrQFkouf2iUiKttm0-tw=
-周大萌,https://vod1.zerovideo.stream/vod/d1/mp4:d1/douyinwanghongzhoudamengK8aojiaomengmengjurubaihu1.mp4/playlist.m3u8?&tokenhash=hYHVkhFlpRZSZMHHFX25JCZLsq1lgZgMchb-iz5lq5Q=
-萌白酱1,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengbaijiangtianweimiman1.mp4/playlist.m3u8?&tokenhash=CmUJbDUcce-1Q8JBXTtk6uIU1IQ-vCcStiuK2mi1heI=
-巨乳鸡,https://v.kdou5.com/20221012/jsBfagvr/index.m3u8
-巨乳鸡1,https://v.kdou5.com/20221015/vOzsBkRx/index.m3u8
-蜜桃大奶,https://vod1.zerovideo.stream/vod/d3/mp4:d3/daxiongmei2.mp4/playlist.m3u8?&tokenhash=wHM72QbUU4GsRLZMje77L6tsado9uv1U_Y5gmmrMj9E=
-萌柠少女1,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu1.mp4/playlist.m3u8?&tokenhash=UHZyORoN9ORP5dJnxFS0WSgSEpPjaCTxupypa_odssw=
-萌柠少女2,https://vod1.zerovideo.stream/vod/d2/mp4:d2/mengningshaonufuli8.mp4/chunklist_w1121002655.m3u8?tokenhash=b6D9KCHQBH3dQJ49vZLyCL81dOGw-TgCyVc9BPyDgiA=
-萌柠少女3,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu8.mp4/chunklist_w512950885.m3u8?tokenhash=9wvUm_O93yQoVuvwsrzRry6fM7z5DCzCdFDROlUKJTM=
-萌柠少女4,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu10.mp4/playlist.m3u8?&tokenhash=a2OnCfsikaMMUWwfNN18BzAJgw1LFLPbCwpxexV-D3E=
-萌柠少女5,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu9.mp4/playlist.m3u8?&tokenhash=Kt0ARV4yQp-f6DlzmF8XITZ9YcD8krChELYlipMGFBw=
-弱气乙女6,https://vod1.zerovideo.stream/vod/d2/mp4:d2/mengningshaonufuli4.mp4/playlist.m3u8?&tokenhash=3HlNUpevAUSHZZfgNcx8uUI1ac29yaA1rY4DEj2hZOU=
-萌柠少女7,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu3.mp4/chunklist_w200805433.m3u8?tokenhash=FcCAx0KixPirJCanDIijjNgsMpsmgwyQiq8BMZXl2po=
-萌柠少女8,https://vod1.zerovideo.stream/vod/d3/mp4:d3/mengningshaonu4.mp4/playlist.m3u8?&tokenhash=V6LxyhVPh1ViB1bLhVJvaVxa0xCzbNasLF4D6neDgD4=
-弱气乙女1,https://vod1.zerovideo.stream/vod/d2/mp4:d2/weibohongrenxiaoluoliruoqiyinuxingganneiyimozhedanainiaopendaopanzili.mp4/playlist.m3u8?&tokenhash=U_4XbPoUz5E7jstdyfrvuHEG3oB_qvlZPMpJFZ5x6VM=
-弱气乙女2,https://vod1.zerovideo.stream/vod/d2/mp4:d2/fenhongtouxuebainaikeaimengmeizijiwandaopenshui.mp4/playlist.m3u8?&tokenhash=QExfvmNHtA_9ExL4uJ-PK-wWwdd5GmCBiNsnc20iU-Q=
-弱气乙女3,https://vod1.zerovideo.stream/vod/d2/mp4:d2/mengningshaonufuli2.mp4/playlist.m3u8?&tokenhash=CWr6dZv-4mViXTGgTRMmNgMxTIAqwTAohC710gC_-ZA=
-弱气乙女4,https://vod1.zerovideo.stream/vod/d2/mp4:d2/suoyoujinghuadejijieruoqiyinulunaiwanbangyewufamanzutadexingyubaoyuyidingshitoule5.mp4/chunklist_w1104157009.m3u8?tokenhash=20AmWMdlDTwqPmgXpm2SIpWPnH6p047dbf0QguNFMxo=
-弱气乙女5,https://vod1.zerovideo.stream/vod/d2/mp4:d2/suoyoujinghuadejijieruoqiyinulunaiwanbangyewufamanzutadexingyubaoyuyidingshitoule4.mp4/chunklist_w98727764.m3u8?tokenhash=KGgHicm1DjZo8I-cmFCk8sy34wl1xelCboY8PYhLbII=
-弱气乙女6,https://vod1.zerovideo.stream/vod/d2/mp4:d2/suoyoujinghuadejijieruoqiyinulunaiwanbangyewufamanzutadexingyubaoyuyidingshitoule1.mp4/chunklist_w1335618983.m3u8?tokenhash=uIZsk3JGfJESyl-4dlqHRPBYZsb6y04z6fuQyCLgkVU=
-野兔,https://3bmmikh.life/new/hls/629ab914637743a9b29107be2b85aff2/index.m3u8
-爆乳主播合计(1)-时长:20:50,https://ss.rongliren.com/api/video/m3u8?id=17166&admin=1
-爆乳主播合计(3)-时长:45:49,https://ss.rongliren.com/api/video/m3u8?id=17165&admin=1
-爆乳主播合计(4)-时长:02:43:19,https://ss.rongliren.com/api/video/m3u8?id=17152&admin=1
-爆乳主播合计(2)-时长:52:08,https://ss.rongliren.com/api/video/m3u8?id=17151&admin=1
-爆乳主播合计(5)-时长:18:45,https://ss.rongliren.com/api/video/m3u8?id=17150&admin=1
-爆乳主播合计(5) 极品鲍鱼-时长:21:46,https://ss.rongliren.com/api/video/m3u8?id=17149&admin=1
-爆乳主播合计(7)-时长:09:26,https://ss.rongliren.com/api/video/m3u8?id=17148&admin=1
-爆乳主播合计(6) 极品鲍鱼-时长:20:25,https://ss.rongliren.com/api/video/m3u8?id=17147&admin=1
-爆乳主播合计(8)-时长:03:14,https://ss.rongliren.com/api/video/m3u8?id=17145&admin=1
-巨乳超级无敌大G-时长:10:26,https://ss.rongliren.com/api/video/m3u8?id=17144&admin=1
-爆乳主播合计(9)-时长:42:56,https://ss.rongliren.com/api/video/m3u8?id=17143&admin=1
-爆乳主播合计(11)-时长:37:21,https://ss.rongliren.com/api/video/m3u8?id=17142&admin=1
-Tổng số Busty neo (10)-时长:25:10,https://ss.rongliren.com/api/video/m3u8?id=17141&admin=1
-巨乳桃桃 主播死库水自慰秀-时长:03:40:35,https://ss.rongliren.com/api/video/m3u8?id=17126&admin=1
-巨乳主播桃桃 自慰秀-时长:03:22:34,https://ss.rongliren.com/api/video/m3u8?id=17125&admin=1
-巨乳主播桃桃 自慰秀-时长:03:24:48,https://ss.rongliren.com/api/video/m3u8?id=17123&admin=1
-木瓜牛奶 H乳直播秀-时长:38:44,https://ss.rongliren.com/api/video/m3u8?id=17122&admin=1
-巨乳主播桃桃 自慰秀-时长:02:05:27,https://ss.rongliren.com/api/video/m3u8?id=17121&admin=1
-巨乳主播桃桃自慰秀-时长:01:33:00,https://ss.rongliren.com/api/video/m3u8?id=17118&admin=1
-撸点极高,https://ss.rongliren.com/api/video/m3u8?id=17413&admin=1
-坚挺的粉色乳头,https://ss.rongliren.com/api/video/m3u8?id=13485&admin=1
-抖音骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202011/抖音美女诚意奉献精彩作品，喜欢吗/抖音美女诚意奉献精彩作品，喜欢吗.m3u8
-抖音骚鸡合集,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202006/抖音大合集来啦拍了一天了一次性儿让你看个够不说了/抖音大合集来啦拍了一天了一次性儿让你看个够不说了.m3u8
-双马尾卖骚,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202210/极品口罩双马尾KTV包厢卖骚/极品口罩双马尾KTV包厢卖骚.m3u8
-虎牙7骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202210/18岁虎牙萌妹子/18岁虎牙萌妹子.m3u8
-萝莉塔骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202210/蓝色洛丽塔少女/蓝色洛丽塔少女.m3u8
-萝莉塔骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202210/白丝洛丽塔肛塞尾巴超可爱/白丝洛丽塔肛塞尾巴超可爱.m3u8
-骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202210/极品网红萝莉萌白酱白丝制服诱惑/极品网红萝莉萌白酱白丝制服诱惑.m3u8
-恶犬骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202101/恶犬-十字架爆乳套3/恶犬-十字架爆乳套3.m3u8
-童颜巨乳骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202209/极品童颜巨乳美少女自慰/极品童颜巨乳美少女自慰.m3u8
-萝莉扣b,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202209/小小兔汁自慰扣穴/小小兔汁自慰扣穴.m3u8
-喜川cos,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202209/喜多川COS/喜多川COS.m3u8
-白丝骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202208/白丝JK小姐姐冰吊自慰白浆/白丝JK小姐姐冰吊自慰白浆.m3u8
-豪乳骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202207/極品豪乳學妹看著自己的視頻誘惑粉絲飛機/極品豪乳學妹看著自己的視頻誘惑粉絲飛機.m3u8
-海滩露出,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202206/海滩楼道露出/海滩楼道露出.m3u8
-露出骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202205/[软软趴在床单上]-被百人看到的露出/[软软趴在床单上]-被百人看到的露出.m3u8
-糯米骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202205/糯美子米妮大萌萌推特水手服抠逼掰穴/糯美子米妮大萌萌推特水手服抠逼掰穴.m3u8
-骚鸡喷水,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202205/泡泡咕尿道喷水！喷水喷水/泡泡咕尿道喷水！喷水喷水.m3u8
-清纯骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202204/[优优]清纯装/[优优]清纯装.m3u8
-橙香骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202204/[橙香静静]背带白黑套装/[橙香静静]背带白黑套装.m3u8
-优优骚鸡,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202204/[优优]20分钟私人订制黑丝正反女上位坐式自慰插到底高潮白浆/[优优]20分钟私人订制黑丝正反女上位坐式自慰插到底高潮白浆.m3u8
-大奶球,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202209/粉色大乳晕巨乳【紫惜姐姐】颜值女神，掏出两个大奶子揉捏，掰开粉穴特写，乳摇看的观众流鼻血/粉色大乳晕巨乳【紫惜姐姐】颜值女神，掏出两个大奶子揉捏，掰开粉穴特写，乳摇看的观众流鼻血.m3u8
-厕所偷怕,https://yy.x4pmpdr3.xyz/zhubo/202209/m3u8/avid6152022092101/avid6152022092101.m3u8
-g乳骚鸡,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202209/绝对极品！G奶美乳女神下海！解开内衣巨乳蹦出，大乳晕超粉嫩，全裸热舞，翘起肥臀掰穴特写/绝对极品！G奶美乳女神下海！解开内衣巨乳蹦出，大乳晕超粉嫩，全裸热舞，翘起肥臀掰穴特写.m3u8
-气质骚鸡,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202208/气质女神可爱粉红色内衣，脱光光全裸自慰道具插穴，表情销魂/气质女神可爱粉红色内衣，脱光光全裸自慰道具插穴，表情销魂.m3u8
-极品骚鸡1,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202208/女神！女神！极品尤物来袭，168CM极品美腿，完美无毛白虎粉穴，振动棒深插，换装极度诱惑/女神！女神！极品尤物来袭，168CM极品美腿，完美无毛白虎粉穴，振动棒深插，换装极度诱惑.m3u8
-爆乳骚鸡3,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202205/新来的爆乳女神全程露脸，情趣装白丝诱惑好极品，揉着骚奶子自慰骚穴特写展示，淫声荡语互动狼友看了秒硬/新来的爆乳女神全程露脸，情趣装白丝诱惑好极品，揉着骚奶子自慰骚穴特写展示，淫声荡语互动狼友看了秒硬.m3u8
-爆乳骚鸡2,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202203/【近日刚播颜值身材超棒女神】全身抹上精油，两个大车灯油光程亮，抖动肥臀镜头前特写，一线天肥穴多是白浆/【近日刚播颜值身材超棒女神】全身抹上精油，两个大车灯油光程亮，抖动肥臀镜头前特写，一线天肥穴多是白浆.m3u8
-美乳骚鸡,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202201/高颜值性感萝莉女神激情大秀，全程露脸性感的奶子好翘真迷人，洗完澡陪狼友嗨，诱惑舞蹈勾引起最原始的欲望/高颜值性感萝莉女神激情大秀，全程露脸性感的奶子好翘真迷人，洗完澡陪狼友嗨，诱惑舞蹈勾引起最原始的欲望.m3u8
-夜店女神,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202103/猫猫女仆-夜店女神1/猫猫女仆-夜店女神1.m3u8
-混血女神,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202011/最美中日混血萝莉女神【清水美奈】性感情趣装假屌插浪穴狂喷爱液绝世巨乳尤物换装妖娆妩媚超诱惑/最美中日混血萝莉女神【清水美奈】性感情趣装假屌插浪穴狂喷爱液绝世巨乳尤物换装妖娆妩媚超诱惑.m3u8
-骚鸡下厨房,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/201912/极品女神~2019下体下厨~蔬菜水果都是我的性爱好朋友~/极品女神~2019下体下厨~蔬菜水果都是我的性爱好朋友~.m3u8
-爆乳骚鸡,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202206/晕奶的别来，爆乳学妹情趣装诱惑跟狼友互动撩骚，伺候小哥哥洗澡诱惑，让小哥镜头前后入爆草揉奶，各种舔逼/晕奶的别来，爆乳学妹情趣装诱惑跟狼友互动撩骚，伺候小哥哥洗澡诱惑，让小哥镜头前后入爆草揉奶，各种舔逼.m3u8
-大奶乳摇,https://163.x4pmpdr3.xyz/changpian/m3u8/hanguozhubo/202112/萝莉脸配乳摇画面自行脑补/萝莉脸配乳摇画面自行脑补.m3u8
-大奶骚鸡,https://yy.x4pmpdr3.xyz/zhubo/202110/m3u8/avid611d46109a12a/avid611d46109a12a.m3u8
-奶妈挤奶,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202207/大乳晕哺乳期喷奶少妇全程露脸性感的情趣装诱惑，挤奶水给狼友喝淫语互动，口交大鸡巴让大哥哥鸡巴抽脸爆草/大乳晕哺乳期喷奶少妇全程露脸性感的情趣装诱惑，挤奶水给狼友喝淫语互动，口交大鸡巴让大哥哥鸡巴抽脸爆草.m3u8
-巨乳骚鸡,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202209/高颜值可爱新人大眼萌妹子模特身材童颜巨乳没有一点赘肉大秀身材/高颜值可爱新人大眼萌妹子模特身材童颜巨乳没有一点赘肉大秀身材.m3u8
-童颜巨乳,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202202/童颜巨乳可爱的大胸妹子，乳晕很大，三点全裸粉嫩如初/童颜巨乳可爱的大胸妹子，乳晕很大，三点全裸粉嫩如初.m3u8
-童颜巨乳1,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202202/童颜巨乳卡哇伊顶级美妞，颜值身材无毛粉穴集于一身，揉搓阴蒂表情诱人，假屌进出抽插，很敏感没搞几下就喷水/童颜巨乳卡哇伊顶级美妞，颜值身材无毛粉穴集于一身，揉搓阴蒂表情诱人，假屌进出抽插，很敏感没搞几下就喷水.m3u8
-童颜巨乳4,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202201/童颜巨乳小姐姐有点清纯，地上振动棒爆插无毛小穴，高潮流出淫水，两个柔软大奶子，揉捏晃动非常诱人/童颜巨乳小姐姐有点清纯，地上振动棒爆插无毛小穴，高潮流出淫水，两个柔软大奶子，揉捏晃动非常诱人.m3u8
-童颜巨乳5,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202112/漂亮童颜巨乳主播打扮的超级可爱对镜紫薇/漂亮童颜巨乳主播打扮的超级可爱对镜紫薇.m3u8
-童颜巨乳6,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202112/童颜巨乳白虎逼女神草女充气娃娃，全程露脸黑丝情趣给充气娃娃带上假鸡巴激情上位抽插，撅着屁股展示骚洞/童颜巨乳白虎逼女神草女充气娃娃，全程露脸黑丝情趣给充气娃娃带上假鸡巴激情上位抽插，撅着屁股展示骚洞.m3u8
-世界杯,https://yy.x4pmpdr3.xyz/zhubo/202102/m3u8/avid600fa4e7473b0/avid600fa4e7473b0.m3u8
-cos洛天依,https://163.x4pmpdr3.xyz/duanpian/guochanzhubo/m3u8/202112/[沈娇娇]-洛天依COS/[沈娇娇]-洛天依COS.m3u8
-cos福利,https://yy.x4pmpdr3.xyz/zhubo/202007/m3u8/18-6HuULfO1kJQjo8FY4AYy/18-6HuULfO1kJQjo8FY4AYy.m3u8
-巨乳主播,https://163.x4pmpdr3.xyz/changpian/m3u8/guochanzhubo/202206/这妞真俊露脸了，身材不胖却又38F的大骚奶子好诱人，镜头前揉奶自慰玩逼勾搭狼友好骚，抖奶电臀精彩刺激/这妞真俊露脸了，身材不胖却又38F的大骚奶子好诱人，镜头前揉奶自慰玩逼勾搭狼友好骚，抖奶电臀精彩刺激.m3u8
-弹力摇,https://hls-uranus.sb-cd.com/hls/1/1/11936380-,240p,480p,.mp4.urlset/master.m3u8?secure=jiiw_knSSIugP3RcOXnjlQ,1670690850&m=16&d=5&_tid=11936380
-抖奶,https://hls-uranus.sb-cd.com/hls/1/1/11884600-240p.mp4/index-v1-a1.m3u8?_tid=11884600&d=4&m=31&secure=-AhSaXkq8E2QCDwivkNuKg,1670690982
-八字奶母狗,https://long.lgtcpnb.cn/watch9/ad9e5082aa83cb6efab6cf1e4c2a8869/ad9e5082aa83cb6efab6cf1e4c2a8869.m3u8
-网红鸡樱桃味,https://long.lgtcpnb.cn/watch9/756107f81897d161c871dcafe2caa566/756107f81897d161c871dcafe2caa566.m3u8
-抖音鸡胡桃,https://long.lgtcpnb.cn/watch9/028d3086efd996eb7e82bc63116e4afe/028d3086efd996eb7e82bc63116e4afe.m3u8
-台湾鸡小兔子,https://long.lgtcpnb.cn/watch9/2ab6faae16e8bd3492225d219bc00725/2ab6faae16e8bd3492225d219bc00725.m3u8
-网红鸡琳琳,https://long.lgtcpnb.cn/watch9/19ca12b7a53a9ab5b55de67902c62092/19ca12b7a53a9ab5b55de67902c62092.m3u8
-抖音鸡美智子,https://long.lgtcpnb.cn/watch9/8d3903306374eb72e5611ce6a32574bc/8d3903306374eb72e5611ce6a32574bc.m3u8
-抖音鸡瑶妹妹,https://long.lgtcpnb.cn/watch9/ef4698ec61d1d510b235aeb8bd9b0890/ef4698ec61d1d510b235aeb8bd9b0890.m3u8
-虎扑主播,https://long.lgtcpnb.cn/watch9/5f8089a4cc397c99aa7c2e123ac9f733/5f8089a4cc397c99aa7c2e123ac9f733.m3u8
-台湾鸡,https://long.lgtcpnb.cn/watch9/f807e47cce0c32c02c7e805d3c8dbc23/f807e47cce0c32c02c7e805d3c8dbc23.m3u8
-快手鸡,https://long.lgtcpnb.cn/watch9/e668293a80a2950c599f8f87436002c3/e668293a80a2950c599f8f87436002c3.m3u8
-台湾鸡,https://long.lgtcpnb.cn/watch9/6000f02f0d19175fb960036604673011/6000f02f0d19175fb960036604673011.m3u8
-抖音鸡1.https://long.lgtcpnb.cn/watch9/c52fca142af244872596e39bb23f76dc/c52fca142af244872596e39bb23f76dc.m3u8
-抖音鸡2,https://long.lgtcpnb.cn/watch9/fd82ca7a7235b3e37b8dc2f9bc29d32a/fd82ca7a7235b3e37b8dc2f9bc29d32a.m3u8
-美女自嗨,https://long.lgtcpnb.cn/watch9/67811d0f9638e371944acdf24a8804ae/67811d0f9638e371944acdf24a8804ae.m3u8
-虎牙鸡,https://long.lgtcpnb.cn/watch9/d3878ea81fb52e977fe316bddf189f38/d3878ea81fb52e977fe316bddf189f38.m3u8
-海滩随机开放,https://long.lgtcpnb.cn/watch9/6f3eb289288daae71fd5d7e58677f5c7/6f3eb289288daae71fd5d7e58677f5c7.m3u8
-抖音鸡3,https://long.lgtcpnb.cn/watch9/b840f3c630b00f97037ab8f5e96ed474/b840f3c630b00f97037ab8f5e96ed474.m3u8
-大奶nini,https://long.lgtcpnb.cn/watch9/a7279e26f0d8884581696d4d3a5faea6/a7279e26f0d8884581696d4d3a5faea6.m3u8
-普洱老师,https://long.lgtcpnb.cn/watch9/1de9e91958c010fefa37879c8e7ba489/1de9e91958c010fefa37879c8e7ba489.m3u8
-微博鸡,https://long.lgtcpnb.cn/watch9/1b0942b3d9948c27262aea25eb7641aa/1b0942b3d9948c27262aea25eb7641aa.m3u8
-台湾鸡,https://long.lgtcpnb.cn/watch9/ba6b2cb089b64a53b96d9a624acfdf4b/ba6b2cb089b64a53b96d9a624acfdf4b.m3u8
-https://long.lgtcpnb.cn/watch9/3752e036e4425aa807c97076e15ea9f4/3752e036e4425aa807c97076e15ea9f4.m3u8
-高中生上课直播,https://long.lgtcpnb.cn/watch9/80d0388f7eca076a50f5d9a46153c8f9/80d0388f7eca076a50f5d9a46153c8f9.m3u8
-巨乳小螃蟹,https://long.lgtcpnb.cn/watch9/cbf159d291cb7e5453f81a3b0513157b/cbf159d291cb7e5453f81a3b0513157b.m3u8
-猪可儿,https://long.lgtcpnb.cn/watch9/977f5ddf04e36dc8fb773be10d6a09e5/977f5ddf04e36dc8fb773be10d6a09e5.m3u8
-户外裸鸡,https://long.lgtcpnb.cn/watch9/185cc28ae51059c144bf14343074ef4d/185cc28ae51059c144bf14343074ef4d.m3u8
-酒店鸡,https://long.lgtcpnb.cn/watch9/f81744dfde7b1a911ac9733d28eaf9bb/f81744dfde7b1a911ac9733d28eaf9bb.m3u8
-多奶梦,https://md2.lianhevipvideo.com/video-mengduiyuanchuangmote/20221018-YC9E16F0DA/video.m3u8
-可骚妹纸,https://tvvm3u8.ffkm25.com/91tv/91tv/v2BLWqiZibNQ6RH4UlNlwUxmF5DQ7U/hls/1/index.m3u8
-巨乳奶妈,https://video.cdn.rak.xxooen.com/video/hls/3209153/hls-480p-dcd80.m3u8
-巨乳骚鸡1,https://video.cdn.rs.xxooen.com/video/hls/32128f3/hls-480p-130fd.m3u8?e=1670049106&l=0&h=d746caf8c9fc968bc19f5b08b9b55127
-童颜巨乳,https://www.formax05.top/20220810/S0pimZUv/incex.m3u8
-童颜巨乳,https://www.formax05.top/20220605/DZUVMVxn/incex.m3u8
-福利鸡花嫁,https://www.formax05.top/20220404/aBvFLqGT/incex.m3u8
-涂鸦食肉,https://www.foxmaxkb.xyz/20200812/wzjNxnDk/incex.m3u8
-高三巨乳,https://www.foxmaxkb.xyz/20201005/Zj67TxqS/incex.m3u8
-巨乳骚鸡2,https://video.cdn.rs.xxooen.com/video/hls/21b821f/hls.m3u8
-巨乳骚鸡3,https://video.cdn.rak.xxooen.com/video/hls/f83585/hls-360p.m3u8
-巨乳骚鸡4,https://video.cdn.xxooen.com/video/hls/195774b/hls.m3u8
-巨乳骚鸡5,https://video.cdn.xxooen.com/video/hls/282a381/hls.m3u8
-巨乳骚鸡6,https://video.cdn.rak.xxooen.com/video/hls/23ab7eb/hls-250p.m3u8
-亚洲巨乳女合集,https://video.cdn.rs.xxooen.com/video/hls/36a4053/hls.m3u8
-露出,https://m3333.gd-nash.net/rubby001/avid5dde0a2e98f27/index.m3u8?auth_key=1667972029-0-0-bdfe8893c9bd149c4fadbdf3d1eb30f4
-
-🔞美妞直播,#genre#
-tt_tiantian,https://b-hls-08.doppiocdn.com/hls/72527611/master/72527611.m3u8
-LUlumii,https://b-hls-07.doppiocdn.com/hls/76907907/master/76907907.m3u8
-Linda3986,https://b-hls-05.doppiocdn.com/hls/75674947/master/75674947.m3u8
-O-cherry,https://b-hls-03.doppiocdn.com/hls/87359293/master/87359293.m3u8
-yuan_yuan,https://b-hls-05.doppiocdn.com/hls/87803883/master/87803883.m3u8
-Alice_mei,https://b-hls-09.doppiocdn.com/hls/87300629/master/87300629.m3u8
-Toki_ss,https://b-hls-20.doppiocdn.com/hls/50047523/master/50047523.m3u8
-MarceIaGotti,https://b-hls-23.doppiocdn.com/hls/78602776/master/78602776.m3u8
-Sunly_Moon,https://b-hls-09.doppiocdn.com/hls/88778036/master/88778036.m3u8
-_SKY_21,https://b-hls-23.doppiocdn.com/hls/66718214/master/66718214.m3u8
-MiaDowell__,https://b-hls-05.doppiocdn.com/hls/83546471/master/83546471.m3u8
-_CandySweetie_,https://b-hls-02.doppiocdn.com/hls/67627491/master/67627491.m3u8
-_Shy_Girl_Xx,https://b-hls-23.doppiocdn.com/hls/89188275/master/89188275.m3u8
-hasimo,https://b-hls-24.doppiocdn.com/hls/26585495/master/26585495.m3u8
-yo_minii,https://b-hls-16.doppiocdn.com/hls/90846092/master/90846092.m3u8
-dai_suke,https://b-hls-21.doppiocdn.com/hls/72992023/master/72992023.m3u8
-luna_ko,https://b-hls-09.doppiocdn.com/hls/74443640/master/74443640.m3u8
-Sumiky,https://b-hls-12.doppiocdn.com/hls/79123986/master/79123986.m3u8
-mi_suhon,https://b-hls-10.doppiocdn.com/hls/68305541/master/68305541.m3u8
-alisonita,https://b-hls-11.doppiocdn.com/hls/71405313/master/71405313.m3u8
-kyoto-,https://b-hls-16.doppiocdn.com/hls/73011593/master/73011593.m3u8
-Lee_Haeri1,https://b-hls-01.doppiocdn.com/hls/66493811/master/66493811.m3u8
-bbygrace,https://b-hls-20.doppiocdn.com/hls/85920697/master/85920697.m3u8
-tea_lyn,https://b-hls-08.doppiocdn.com/hls/75519683/master/75519683.m3u8
-xxhotsuzanexx,https://b-hls-12.doppiocdn.com/hls/40816255/master/40816255.m3u8
-boa_nee,https://b-hls-12.doppiocdn.com/hls/77488500/master/77488500.m3u8
-MiaMiler,https://b-hls-17.doppiocdn.com/hls/90302988/master/90302988.m3u8
-alisha_li,https://b-hls-11.doppiocdn.com/hls/80294201/master/80294201.m3u8
-khushboo_s,https://b-hls-19.doppiocdn.com/hls/85887007/master/85887007.m3u8
-yoshi_kris,https://b-hls-11.doppiocdn.com/hls/88398959/master/88398959.m3u8
-hina_sweet,https://b-hls-06.doppiocdn.com/hls/72508006/master/72508006.m3u8
-missjenn_x,https://b-hls-07.doppiocdn.com/hls/33264913/master/33264913.m3u8
-LillyBlu,https://b-hls-12.doppiocdn.com/hls/52894065/master/52894065.m3u8
-Horny_Succubus,https://b-hls-17.doppiocdn.com/hls/7309357/master/7309357.m3u8
-sapna,https://b-hls-01.doppiocdn.com/hls/81837462/master/81837462.m3u8
-mikio__san,https://b-hls-10.doppiocdn.com/hls/85812132/master/85812132.m3u8
-vicky_anayaa,https://b-hls-08.doppiocdn.com/hls/90998859/master/90998859.m3u8
-elacoquette,https://b-hls-20.doppiocdn.com/hls/40388352/master/40388352.m3u8
-Kayens,https://b-hls-10.doppiocdn.com/hls/48900857/master/48900857.m3u8
-Grace_Ward,https://b-hls-21.doppiocdn.com/hls/57793818/master/57793818.m3u8
-LadyJeen,https://b-hls-23.doppiocdn.com/hls/13481314/master/13481314.m3u8
-ursinglemom22,https://b-hls-01.doppiocdn.com/hls/80453782/master/80453782.m3u8
-stella_kimi,https://b-hls-18.doppiocdn.com/hls/90502937/master/90502937.m3u8
-MeloniStak,https://b-hls-19.doppiocdn.com/hls/82436746/master/82436746.m3u8
-Mukbang,https://b-hls-21.doppiocdn.com/hls/91447914/master/91447914.m3u8
-simyhvn,https://b-hls-09.doppiocdn.com/hls/56012723/master/56012723.m3u8
-squirthotfuntasy,https://b-hls-08.doppiocdn.com/hls/24997188/master/24997188.m3u8
-Sharonkendrick,https://b-hls-21.doppiocdn.com/hls/77704971/master/77704971.m3u8
-SandraOne,https://b-hls-17.doppiocdn.com/hls/89443647/master/89443647.m3u8
-VeritableWoman,https://b-hls-10.doppiocdn.com/hls/44506932/master/44506932.m3u8
-HelenAlain,https://b-hls-16.doppiocdn.com/hls/75605836/master/75605836.m3u8
-fixylady,https://b-hls-01.doppiocdn.com/hls/83740583/master/83740583.m3u8
-kelly_biguns,https://b-hls-04.doppiocdn.com/hls/62976758/master/62976758.m3u8
-yummy_mummy6_9,https://b-hls-20.doppiocdn.com/hls/52161578/master/52161578.m3u8
-melody4you,https://b-hls-19.doppiocdn.com/hls/90987087/master/90987087.m3u8
-Natasharuso,https://b-hls-17.doppiocdn.com/hls/62310556/master/62310556.m3u8
-Deliciousgal,https://b-hls-24.doppiocdn.com/hls/52761531/master/52761531.m3u8
-supergirl45,https://b-hls-07.doppiocdn.com/hls/63945917/master/63945917.m3u8
-Io_light,https://b-hls-16.doppiocdn.com/hls/89904080/master/89904080.m3u8
-mika_liu,https://b-hls-18.doppiocdn.com/hls/63051109/master/63051109.m3u8
-cougar_star,https://b-hls-21.doppiocdn.com/hls/48411525/master/48411525.m3u8
-Cute_Cuties,https://b-hls-04.doppiocdn.com/hls/76091255/master/76091255.m3u8
-im_yolinna,https://b-hls-03.doppiocdn.com/hls/90828756/master/90828756.m3u8
-Great_Priestess_,https://b-hls-24.doppiocdn.com/hls/89648125/master/89648125.m3u8
-SweetLady22,https://b-hls-04.doppiocdn.com/hls/64318744/master/64318744.m3u8
-Bigclit_17,https://b-hls-03.doppiocdn.com/hls/86983608/master/86983608.m3u8
-kissmelove2023,https://b-hls-02.doppiocdn.com/hls/89892736/master/89892736.m3u8
-CoryMori,https://b-hls-24.doppiocdn.com/hls/82698979/master/82698979.m3u8
-Sweetbaby004,https://b-hls-17.doppiocdn.com/hls/77151734/master/77151734.m3u8
-HaileyVans,https://b-hls-24.doppiocdn.com/hls/75939092/master/75939092.m3u8
-SEXYBOOTY01,https://b-hls-10.doppiocdn.com/hls/67560387/master/67560387.m3u8
-cassiealexanderson_ss,https://b-hls-08.doppiocdn.com/hls/78901369/master/78901369.m3u8
-Princess_Tessa69x,https://b-hls-01.doppiocdn.com/hls/81750522/master/81750522.m3u8
-miss_celeste_,https://b-hls-02.doppiocdn.com/hls/90703729/master/90703729.m3u8
-Emma_Goldman_,https://b-hls-23.doppiocdn.com/hls/90489477/master/90489477.m3u8
-kelyesmith,https://b-hls-20.doppiocdn.com/hls/74187542/master/74187542.m3u8
-jay_vee1,https://b-hls-16.doppiocdn.com/hls/85746950/master/85746950.m3u8
-CHANELL_FLAME,https://b-hls-04.doppiocdn.com/hls/62637809/master/62637809.m3u8
-SelenaRouses,https://b-hls-17.doppiocdn.com/hls/78836594/master/78836594.m3u8
-mskyla1,https://b-hls-17.doppiocdn.com/hls/75152118/master/75152118.m3u8
-awadi_,https://b-hls-24.doppiocdn.com/hls/90778523/master/90778523.m3u8
-_Sunny_Rose,https://b-hls-11.doppiocdn.com/hls/29813296/master/29813296.m3u8
-Hot_Tamara_,https://b-hls-19.doppiocdn.com/hls/88050346/master/88050346.m3u8
-Tattease,https://b-hls-18.doppiocdn.com/hls/23206141/master/23206141.m3u8
-TittenMichelle,https://b-hls-06.doppiocdn.com/hls/13164551/master/13164551.m3u8
-MaryAlenn,https://b-hls-01.doppiocdn.com/hls/74325714/master/74325714.m3u8
-PinayPinayGirl,https://b-hls-02.doppiocdn.com/hls/73582124/master/73582124.m3u8
-queen_canndy,https://b-hls-23.doppiocdn.com/hls/91541844/master/91541844.m3u8
-Mia_Rein,https://b-hls-21.doppiocdn.com/hls/82260137/master/82260137.m3u8
-Devyne_fine,https://b-hls-02.doppiocdn.com/hls/79207393/master/79207393.m3u8
-alessia16,https://b-hls-18.doppiocdn.com/hls/58070553/master/58070553.m3u8
-DirtyAnalFuck,https://b-hls-01.doppiocdn.com/hls/8810260/master/8810260.m3u8
-veronicah_vee,https://b-hls-08.doppiocdn.com/hls/85744515/master/85744515.m3u8
-agatha_jonesss,https://b-hls-19.doppiocdn.com/hls/80924877/master/80924877.m3u8
-cherrypure,https://b-hls-09.doppiocdn.com/hls/81367452/master/81367452.m3u8
-Little_Nikki,https://b-hls-04.doppiocdn.com/hls/89972689/master/89972689.m3u8
-xMaryQueenx,https://b-hls-05.doppiocdn.com/hls/23819236/master/23819236.m3u8
-Victoria_Jonness,https://b-hls-07.doppiocdn.com/hls/83570452/master/83570452.m3u8
-TheRealKisses,https://b-hls-12.doppiocdn.com/hls/53329738/master/53329738.m3u8
-DebbiSown,https://b-hls-09.doppiocdn.com/hls/73732037/master/73732037.m3u8
-Teddybeer31,https://b-hls-09.doppiocdn.com/hls/91367167/master/91367167.m3u8
-AgataSexyGirl,https://b-hls-19.doppiocdn.com/hls/91152879/master/91152879.m3u8
-sweetfoxed,https://b-hls-07.doppiocdn.com/hls/73592296/master/73592296.m3u8
-cute_wendo,https://b-hls-18.doppiocdn.com/hls/76020788/master/76020788.m3u8
-misscectito13,https://b-hls-23.doppiocdn.com/hls/36127614/master/36127614.m3u8
-Caseyblueof,https://b-hls-11.doppiocdn.com/hls/74160547/master/74160547.m3u8
-Lusy_ten,https://b-hls-07.doppiocdn.com/hls/40336472/master/40336472.m3u8
-SofiaNour,https://b-hls-01.doppiocdn.com/hls/22754865/master/22754865.m3u8
-Asianwow69,https://b-hls-09.doppiocdn.com/hls/88152177/master/88152177.m3u8
-AdaFawxq,https://b-hls-08.doppiocdn.com/hls/72071163/master/72071163.m3u8
-Maryannah90,https://b-hls-07.doppiocdn.com/hls/81049241/master/81049241.m3u8
-Johana_bbw,https://b-hls-10.doppiocdn.com/hls/55862709/master/55862709.m3u8
-Naughtypamelaxx,https://b-hls-11.doppiocdn.com/hls/48046969/master/48046969.m3u8
-Cookie1019,https://b-hls-19.doppiocdn.com/hls/43233199/master/43233199.m3u8
-evelin_11,https://b-hls-20.doppiocdn.com/hls/84599300/master/84599300.m3u8
-lizzieclark,https://b-hls-09.doppiocdn.com/hls/76962185/master/76962185.m3u8
-Hot_tildah,https://b-hls-16.doppiocdn.com/hls/88890168/master/88890168.m3u8
-Hippy_Dee,https://b-hls-24.doppiocdn.com/hls/90099377/master/90099377.m3u8
-Darkberry2,https://b-hls-11.doppiocdn.com/hls/76142027/master/76142027.m3u8
-Stacyqueen4,https://b-hls-02.doppiocdn.com/hls/74431191/master/74431191.m3u8
-_pretty_woman_,https://b-hls-11.doppiocdn.com/hls/53185147/master/53185147.m3u8
-Girl_LoveLatin,https://b-hls-18.doppiocdn.com/hls/75317716/master/75317716.m3u8
-Zoay_scarlet,https://b-hls-04.doppiocdn.com/hls/91247434/master/91247434.m3u8
-Africanbeauty2,https://b-hls-08.doppiocdn.com/hls/91437935/master/91437935.m3u8
-Rozah_dee,https://b-hls-04.doppiocdn.com/hls/90648984/master/90648984.m3u8
-randy-mandy,https://b-hls-10.doppiocdn.com/hls/80240168/master/80240168.m3u8
-lisa__6,https://b-hls-08.doppiocdn.com/hls/84334174/master/84334174.m3u8
-Hotchocolate4,https://b-hls-12.doppiocdn.com/hls/79145296/master/79145296.m3u8
-Sunshinee-,https://b-hls-08.doppiocdn.com/hls/55478647/master/55478647.m3u8
-wilmaassylum,https://b-hls-08.doppiocdn.com/hls/73167450/master/73167450.m3u8
-TiffanySweet,https://b-hls-16.doppiocdn.com/hls/1413893/master/1413893.m3u8
-KristinaExcite,https://b-hls-03.doppiocdn.com/hls/85225465/master/85225465.m3u8
-nannicute_,https://b-hls-21.doppiocdn.com/hls/71902350/master/71902350.m3u8
-Persephoni,https://b-hls-18.doppiocdn.com/hls/91576208/master/91576208.m3u8
-jademartin_,https://b-hls-23.doppiocdn.com/hls/88325589/master/88325589.m3u8
-linda326,https://b-hls-18.doppiocdn.com/hls/71145078/master/71145078.m3u8
-Sarsei,https://b-hls-05.doppiocdn.com/hls/46831364/master/46831364.m3u8
-sara18clark,https://b-hls-20.doppiocdn.com/hls/64681532/master/64681532.m3u8
-angel-asia,https://b-hls-19.doppiocdn.com/hls/33291968/master/33291968.m3u8
-naughtykiss,https://b-hls-03.doppiocdn.com/hls/491411/master/491411.m3u8
-PatsyORose,https://b-hls-03.doppiocdn.com/hls/20646379/master/20646379.m3u8
-Merlin_day,https://b-hls-11.doppiocdn.com/hls/76615817/master/76615817.m3u8
-yugibaby,https://b-hls-19.doppiocdn.com/hls/83405863/master/83405863.m3u8
-Tisha_with_pepper,https://b-hls-19.doppiocdn.com/hls/89101041/master/89101041.m3u8
-Molly_Grey_,https://b-hls-03.doppiocdn.com/hls/76205256/master/76205256.m3u8
-LaliaMia,https://b-hls-07.doppiocdn.com/hls/25184253/master/25184253.m3u8
-LabiaXareola,https://b-hls-18.doppiocdn.com/hls/78044360/master/78044360.m3u8
-sandy__ei,https://b-hls-02.doppiocdn.com/hls/89103714/master/89103714.m3u8
-Athenea__1,https://b-hls-03.doppiocdn.com/hls/90485369/master/90485369.m3u8
-Achibest,https://b-hls-02.doppiocdn.com/hls/81048278/master/81048278.m3u8
-emmaMiller7,https://b-hls-01.doppiocdn.com/hls/81708388/master/81708388.m3u8
-Misslullu,https://b-hls-07.doppiocdn.com/hls/91467040/master/91467040.m3u8
-LiNA_Ss,https://b-hls-10.doppiocdn.com/hls/27146634/master/27146634.m3u8
-Asuntababy,https://b-hls-23.doppiocdn.com/hls/89457654/master/89457654.m3u8
-Sweet_verah,https://b-hls-03.doppiocdn.com/hls/89228602/master/89228602.m3u8
-sylviaspadee,https://b-hls-20.doppiocdn.com/hls/73892989/master/73892989.m3u8
-SexyElisabeth,https://b-hls-10.doppiocdn.com/hls/23022125/master/23022125.m3u8
-MarianL0ve,https://b-hls-08.doppiocdn.com/hls/70928729/master/70928729.m3u8
-Katie__Sweet,https://b-hls-23.doppiocdn.com/hls/84202312/master/84202312.m3u8
-lily_bratz,https://b-hls-05.doppiocdn.com/hls/88430402/master/88430402.m3u8
-squirtcummerpussy,https://b-hls-17.doppiocdn.com/hls/24995519/master/24995519.m3u8
-Kiora_Wovidx,https://b-hls-05.doppiocdn.com/hls/88870971/master/88870971.m3u8
-Busty_sugar,https://b-hls-11.doppiocdn.com/hls/75051215/master/75051215.m3u8
-Sexyhotpussy4,https://b-hls-07.doppiocdn.com/hls/80487545/master/80487545.m3u8
-Sexyvalley2,https://b-hls-17.doppiocdn.com/hls/75742372/master/75742372.m3u8
-faiza_sha,https://b-hls-24.doppiocdn.com/hls/87910069/master/87910069.m3u8
-Pixcydolll,https://b-hls-11.doppiocdn.com/hls/74656191/master/74656191.m3u8
-LivCole,https://b-hls-07.doppiocdn.com/hls/61590022/master/61590022.m3u8
-LauritaMilf,https://b-hls-07.doppiocdn.com/hls/91081434/master/91081434.m3u8
-Asia_Hai,https://b-hls-04.doppiocdn.com/hls/88525658/master/88525658.m3u8
-charms_loly,https://b-hls-10.doppiocdn.com/hls/91116067/master/91116067.m3u8
-SweetSteff,https://b-hls-16.doppiocdn.com/hls/84062476/master/84062476.m3u8
-LindiCeleste,https://b-hls-24.doppiocdn.com/hls/87977493/master/87977493.m3u8
-Syntii,https://b-hls-21.doppiocdn.com/hls/82020135/master/82020135.m3u8
-_valeria___,https://b-hls-20.doppiocdn.com/hls/4717054/master/4717054.m3u8
-NatashaPinkss,https://b-hls-10.doppiocdn.com/hls/89560324/master/89560324.m3u8
-LilianShine,https://b-hls-01.doppiocdn.com/hls/85410525/master/85410525.m3u8
-Boobyz_queen,https://b-hls-11.doppiocdn.com/hls/88405498/master/88405498.m3u8
-Blackjuicygarl,https://b-hls-11.doppiocdn.com/hls/77931097/master/77931097.m3u8
-Wildjane4u,https://b-hls-24.doppiocdn.com/hls/21371958/master/21371958.m3u8
-hellkytii,https://b-hls-11.doppiocdn.com/hls/32536064/master/32536064.m3u8
-Rashellrabbit_,https://b-hls-05.doppiocdn.com/hls/84840560/master/84840560.m3u8
-Khushi_-Sharma,https://b-hls-21.doppiocdn.com/hls/90120538/master/90120538.m3u8
-antonela_ladiabla,https://b-hls-07.doppiocdn.com/hls/71837227/master/71837227.m3u8
-hardpepper,https://b-hls-21.doppiocdn.com/hls/75671746/master/75671746.m3u8
-Meloncillo_And_BabyLiss,https://b-hls-05.doppiocdn.com/hls/44441118/master/44441118.m3u8
-nemesis_jordan_28,https://b-hls-12.doppiocdn.com/hls/80258364/master/80258364.m3u8
-JessyAndKyle,https://b-hls-24.doppiocdn.com/hls/83424191/master/83424191.m3u8
-Liz_Martins,https://b-hls-06.doppiocdn.com/hls/63426381/master/63426381.m3u8
-Sexymita@xh,https://b-hls-02.doppiocdn.com/hls/57454512/master/57454512.m3u8
-Letsplay329_2,https://b-hls-01.doppiocdn.com/hls/89188507/master/89188507.m3u8
-crino_kyla,https://b-hls-17.doppiocdn.com/hls/61731104/master/61731104.m3u8
-Small_dicko,https://b-hls-08.doppiocdn.com/hls/78700210/master/78700210.m3u8
-DantaBrody,https://b-hls-23.doppiocdn.com/hls/35936255/master/35936255.m3u8
-ViolettAndMegan,https://b-hls-06.doppiocdn.com/hls/48333432/master/48333432.m3u8
 
 👠欧美高清,#genre#
 Brazzers HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6182/index.m3u8
