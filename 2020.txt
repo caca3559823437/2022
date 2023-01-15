@@ -30,6 +30,24 @@ CGTN,http://live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=000
 CGTN,http://live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,http://live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,http://live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
+CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
+CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
+CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
+CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
+CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
+CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
+CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
+CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
+CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
+CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
+CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
+CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
+CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
+CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
+CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
+CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
+CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
@@ -236,6 +254,27 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 天津衛視,http://live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 浙江衛視,http://live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆衛視,http://live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+浙江衛視,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
+北京衛視,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
+广西衛視,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
+辽宁衛視,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000
+安徽衛視,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
+江苏衛視,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
+東南衛視,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000
+湖南衛視,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
+湖北衛視,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000
+广东衛視,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
+广西衛視,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
+深圳衛視,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
+四川衛視,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000
+山東衛視,https://live.v1.mk/api/ghyx.php?id=ShanDongHD_6000
+河南衛視,https://live.v1.mk/api/ghyx.php?id=HeNanHD_6000
+河北衛視,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000
+天津衛視,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
+重庆衛視,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
+黑龙江衛視,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
+吉林衛視,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
+海南衛視,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
 北京衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京衛視,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 北京衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
@@ -590,6 +629,15 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 
 🇨🇳上海北京,#genre#
 東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+東方衛視,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
+東方衛視,http://117.169.121.162:6610/PLTV/88888910/224/3221225659/index.m3u8
+東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8$超清1080P
+東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
+東方衛視,http://183.207.255.197/live/program/live/hddfws/2300000/mnf.m3u8
+東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
+東方衛視,http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
+東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225561/index.m3u8?fmt=ts2hls
 東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 東方影視,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000010000032212&livemode=1&stbId=10&channel-id=bestzb
 東方影視,http://lu1.cc/c/tv/sjtv/sh/bst5g.php?id=dfys
@@ -634,6 +682,15 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 北京紀實,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京衛視BTV-1,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
+北京文艺BTV-2,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
+北京科教BTV-3,https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
+北京影视BTV-4,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
+北京财经BTV-5,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
+北京体育BTV-6,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
+北京生活BTV-7,https://live.v1.mk/api/ghyx.php?id=BTVShengHuoHD_6000
+北京青年BTV-8,https://live.v1.mk/api/ghyx.php?id=BTVQingNianHD_6000
+北京新聞BTV-9,https://live.v1.mk/api/ghyx.php?id=BTV9HD_6000
 房山无线,http://live.funhillrm.com/2/sd/live.m3u8
 房山有线,http://live.funhillrm.com/5/sd/live.m3u8
 清华大学电視台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
@@ -827,37 +884,7 @@ RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/stre
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK33,http://radius.8866.org:800/hls/91/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
-經典功夫台,p2p://generationnexxxt.com:18806/105e65b69cbf4a74991fd31e84d97462
-J2,p2p://generationnexxxt.com:18806/aa6c1f557b064fd4bba374e972174b3c
-無綫財經,p2p://generationnexxxt.com:18806/1ffeb864a24c40ac87b5b3cc0979f9f2
-無綫新聞,p2p://generationnexxxt.com:18806/08ead76c8e0b4b97b5cb7a1bb1bc80ef
-無綫新聞,p2p://generationnexxxt.com:18806/3668d2fe806948d49f6424f1eaac389f
-18台,p2p://generationnexxxt.com:18806/56e4b869983a4ee696d4c147ba052ec3
-18台,p2p://generationnexxxt.com:18806/e363e6b51f7144dcaad65858dffc047d
-有線新聞,p2p://generationnexxxt.com:18806/bc6f9be833024259ab103e66f759dfcb
-有線財經,p2p://generationnexxxt.com:18806/da2c35f699bf4cfd9969353136492e73
-Now新聞台,p2p://generationnexxxt.com:18806/b370215348044471b5c2ebf5fab3dfe9
-Now直播台,p2p://generationnexxxt.com:18806/b370215348044471b5c2ebf5fab3dfe9
-ViuTV,p2p://generationnexxxt.com:18806/e104628d30f947acafccb1f6fdf98be6
-ViuTV6,p2p://generationnexxxt.com:18806/e468479431ef458ab624e1af794c6863
-RHK31,p2p://generationnexxxt.com:18806/068abc2afcb44ce7a0f07163af6c1900
-RHK32,p2p://generationnexxxt.com:18806/97f409c181a84485a4b7d3b5e039a76a
-有線18台,p2p://generationnexxxt.com:18806/a1ef0cedc6584ad3996096711cbdd2c9
-有線Sports Plus 1,p2p://generationnexxxt.com:18806/fcb52d0ef8d945ee884f2879e87c6481
-有線電影,p2p://generationnexxxt.com:18806/7452eeb7b64945b3a2370af87d53dd72
-有線体育,p2p://generationnexxxt.com:18806/c6531382d3b54bcdad3de838e02ab43f
-TVB经典台,p2p://generationnexxxt.com:18806/b1f114372a854d4587029bced814445c
-TVB星河(粤),p2p://generationnexxxt.com:18806/482c99b1b4f6460385f9bb8b3d51d874
-TVB娱乐新聞,p2p://generationnexxxt.com:18806/7f77f534a0df4329810762b84df5ea0e
-Hands Up,p2p://generationnexxxt.com:18806/4c1176fb6efe4709ae238313636cdd17
-有線娱乐,p2p://generationnexxxt.com:18806/94f08004cd1148b9837af37e02513c2b
-有線603,p2p://generationnexxxt.com:18806/483f3226531c4a49b102bc8b16f72c08
-粤语片台,p2p://generationnexxxt.com:18806/7eda0459311e469f9a8c0482025e261b
-Thrill,p2p://generationnexxxt.com:18806/31bd416359d24750be16a62d204a634e
-美亞電影(粤语),p2p://generationnexxxt.com:18806/bebd2cac800749e3a5a046f2767931d5
-亞洲剧台,p2p://generationnexxxt.com:18806/54f9882b175f41f795995235ffccc9f9
-阳光衛視,p2p://generationnexxxt.com:18806/6762a826f87f4092973b9a14091aee71
-星空衛視,p2p://generationnexxxt.com:18806/70bdbc094aab449f870b2432f8a485d3
+
 開電視,https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/693740340
 TVB星河粤语,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
@@ -935,68 +962,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 台視,http://23.237.10.66:16344
 中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/.m3u8
 中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
-中天新聞,p2p://generationnexxxt.com:18806/1b61755d53a74b16be09fb6aeafd51ec
-中視新聞,p2p://generationnexxxt.com:18806/604c65fbc84a467b8385b3cd4ad0a493
-壹新聞台,p2p://generationnexxxt.com:18806/6a152b847c444a5b864aac5dda5b0877
-台視新聞,p2p://generationnexxxt.com:18806/4d91d39c790d4300b94640c35c1780ba
-台視財經,p2p://generationnexxxt.com:18806/b66d999dcb42421ba096e554c9791523
-三立新聞,p2p://generationnexxxt.com:18806/9d7461ce46254efc8660c558c69ecf6a
-三立iNEWS,p2p://generationnexxxt.com:18806/b1cf3382d5794e5a9b1b8021257b11d8
-年代新聞,p2p://generationnexxxt.com:18806/d0d2db840403463cb4c347d8c540f141
-民視新聞,p2p://generationnexxxt.com:18806/0937fd5ee5bf422f9b79fb12078c26db
-寰宇新聞台湾,p2p://generationnexxxt.com:18806/03b08632930847808fe85a78b00f76af
-寰宇新聞,p2p://generationnexxxt.com:18806/abc05006fff540e48d0f4db75453c8f5
-华視新聞,p2p://generationnexxxt.com:18806/b3ef8fe331624455a3e3544eb1ca1db8
-非凡新聞,p2p://generationnexxxt.com:18806/2ff833f8d01b4054a737e0575a089cc5
-非凡商业,p2p://generationnexxxt.com:18806/0f7ec74a72704c0fac06f1a52aedae72
-東森新聞,p2p://generationnexxxt.com:18806/818db5183ca847b5abbdd3a2c8923a62
-東森財經,p2p://generationnexxxt.com:18806/2c9710cb76ec4822843ba6ee893badcb
-TVBS新聞,p2p://generationnexxxt.com:18806/372154259d114a0b8a0205dbdec4ae77
-NHK新聞资讯台,p2p://generationnexxxt.com:18806/e1c1784112964126923cfd2d4d356b06
-天映频道,p2p://generationnexxxt.com:18806/ed1c3f2ed8ed42f5a9703b66bcb77442
-天映频道,p2p://generationnexxxt.com:18806/ed1c3f2ed8ed42f5a9703b66bcb77442
-天映经典,p2p://generationnexxxt.com:18806/137044e0f4754ae89999acbf55119460
-天映经典,p2p://generationnexxxt.com:18806/137044e0f4754ae89999acbf55119460
-美亞電影,p2p://generationnexxxt.com:18806/4bb07d0ff3bd4c0bb9097ea3cdc8d874
-美亞電影(粤语),p2p://generationnexxxt.com:18806/bebd2cac800749e3a5a046f2767931d5
-LSTime電影,p2p://generationnexxxt.com:18806/3877a3ed85094f52bb152a6011a3a54d
-龍华電影,p2p://generationnexxxt.com:18806/ce84e158a1f44b4997fd5a9c7d007ee0
-靖天映画,p2p://generationnexxxt.com:18806/e0cd9dc712d74d5dac9ca9074c7f22bb
-靖天電影,p2p://generationnexxxt.com:18806/835e89afb4eb42fc9175fedea6eafe31
-好莱坞電影,p2p://generationnexxxt.com:18806/ea6eef745ad54374a781502e11fe3cfd
-影迷数位電影,p2p://generationnexxxt.com:18806/a7deb2f359ff40c3aba57692244a6def
-壹電影台,p2p://generationnexxxt.com:18806/da2326e0b1da4863a60e3a0b874fc9f7
-星衛電影,p2p://generationnexxxt.com:18806/c6fdf401c105490ba4e3039ab111459a
-衛視電影,p2p://generationnexxxt.com:18806/c8bef038bd6f48c28d2da9aa4bbcf6bf
-纬来育乐,p2p://generationnexxxt.com:18806/9b5896190c104d5793d4fdc33976a8bf
-纬来電影,p2p://generationnexxxt.com:18806/296cd8fc669c4173b82a30d7eacf83cd
-凤凰電影,p2p://generationnexxxt.com:18806/1486722c33034362b304c7bc9cbf6112
-東森洋片,p2p://generationnexxxt.com:18806/2c22d5a9294f4e32b0b534212c63b694
-東森電影,p2p://generationnexxxt.com:18806/708eb3120cf04891bcc06201975af68b
-采昌影剧,p2p://generationnexxxt.com:18806/32610cc57577435ab71bca7cb832dfd4
-Star Movies Gold,p2p://generationnexxxt.com:18806/aaad6a15b3c9418484246b81bfad3e49
-STAR World,p2p://generationnexxxt.com:18806/0f2097211b9a4236bd76589638c5a18d
-爱尔达影剧,p2p://generationnexxxt.com:18806/b5bf4d7e648d400da3175de47fb97dd9
-WarnerTV,p2p://generationnexxxt.com:18806/1990cc483ccd4e3b90fcf1c416e0ed7c
-tvN,p2p://generationnexxxt.com:18806/6142a0120e9f41a7be065183c156630e
-tvN Movies HD,p2p://generationnexxxt.com:18806/b807780a7bc84c86b0cead830586f935
-Thrill,p2p://generationnexxxt.com:18806/31bd416359d24750be16a62d204a634e
-StarMoviesHD,p2p://generationnexxxt.com:18806/f31619fc6bc1474da7ae074dd131d236
-SHOWCASE MOVIES,p2p://generationnexxxt.com:18806/a8fe2732b9fa480eaac367a80dbd6943
-HKC電影台,p2p://generationnexxxt.com:18806/7452eeb7b64945b3a2370af87d53dd72
-HITS,p2p://generationnexxxt.com:18806/ff87d64467804db6ad05c72814f9b081
-HITS Movies,p2p://generationnexxxt.com:18806/a9b576a64c904309b94596aa95c41b27
-HBO 原创,p2p://generationnexxxt.com:18806/07124b87558e4350bc30b8d265778c53
-HBO 強檔,p2p://generationnexxxt.com:18806/8d8da94c9e2c426095915133e858d5b6
-HBO HD,p2p://generationnexxxt.com:18806/d6625da83b034cf6a962d11ccd0a939b
-HBO 家庭,p2p://generationnexxxt.com:18806/9b14ab72fb974980954694424fa39daf
-Cinemax HD,p2p://generationnexxxt.com:18806/2830fdbc5cee45cd9cd7e554c585d82c
-Cinemax HD,p2p://generationnexxxt.com:18806/bf9e746e1f6a4e4a9ec31e569d57f307
-CCTV6,p2p://generationnexxxt.com:18806/e41a2385e6d748adbfeba506853e4a04
-CatchPlay電影,p2p://generationnexxxt.com:18806/223b5ca91875487da2c77a5f6b5d171d
-BOO驚悚台,p2p://generationnexxxt.com:18806/04636381d6244f779a040428e8d45aae
-AXN電影,p2p://generationnexxxt.com:18806/59e26a077e804b36bfc3d485206d3586
-AMC,p2p://generationnexxxt.com:18806/02fb1c1147314297864ed8447695d654
+
 東森電影,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森電影,http://120.84.96.73:808/hls/32/index.m3u8
 東森電影,http://120.84.96.85:808/hls/32/index.m3u8
@@ -1209,68 +1175,6 @@ Catchplay Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunkl
 国家地理野生,http://www.yshmzmc.top/gtjm.php?id=live1002
 
 🇯🇵日韓频道,#genre#
-NHK-G综合,p2p://generationnexxxt.com:18806/b87532b51a7c41bdb9a09ed06d0a5df4
-NHK-E教育,p2p://generationnexxxt.com:18806/67d45a6c4cc74718b99308dca6144fb5
-日本テレビ,p2p://generationnexxxt.com:18806/b7479d04eff744c48b405bdf34d757ba
-TBSテレビ,p2p://generationnexxxt.com:18806/0cd41b8c53b349899d8c650e01f2e704
-テレビ东京,p2p://generationnexxxt.com:18806/c26af9c0821b428d9ad9e6e52275ef06
-フジテレビ,p2p://generationnexxxt.com:18806/893f9aabf3a44c5285fd7dc05d3eac3d
-読売テレビ,p2p://generationnexxxt.com:18806/ca2587555e21486e9ce58b6ee681308d
-关西テレビ,p2p://generationnexxxt.com:18806/f67c2815c3604eabac4a164619170420
-KBS京都,p2p://generationnexxxt.com:18806/8919617dfc6040369c305f05fbfe088c
-毎日放送,p2p://generationnexxxt.com:18806/656850bbe9bd452fbaf432a60fa031b9
-朝日放送,p2p://generationnexxxt.com:18806/3e79edd36f8d41e0accd7e92e1314702
-テレビ大阪,p2p://generationnexxxt.com:18806/eed159afd14e4b2389056aa910e0947f
-テレビ朝日,p2p://generationnexxxt.com:18806/21ca5141f1b44ee3a269169b6e21b173
-BS-1,p2p://generationnexxxt.com:18806/b005a0b4930b40638bb07724889e6a17
-BS日テレ,p2p://generationnexxxt.com:18806/eb101a5bcf144c88a4413fb0640dd7fe
-BS朝日,p2p://generationnexxxt.com:18806/f1cd4b8daca142f28bbbca7c21cfa812
-BS-TBS,p2p://generationnexxxt.com:18806/c93944b44a9e4ae2939e2ed8081974f4
-BS11,p2p://generationnexxxt.com:18806/9a98bfa169d5470bbeee72e814c62286
-BSフジ,p2p://generationnexxxt.com:18806/9775322d1137455db9f03bdcb83a5e87
-BS钓りビジョン,p2p://generationnexxxt.com:18806/be765aa2e40d479499603ed5b3618811
-WOWOWプライム,p2p://generationnexxxt.com:18806/ff24f09b4eb94788a21a3f317050a826
-WOWOWライブ,p2p://generationnexxxt.com:18806/56fb59262ef647159afb079bedd011c7
-WOWOWシネマ,p2p://generationnexxxt.com:18806/570bedacf9fb49f3bb09c6c625fbd879
-スター・チャンネル1,p2p://generationnexxxt.com:18806/0e331b4463304eb7a8704b853d433357
-スター・チャンネル2,p2p://generationnexxxt.com:18806/84ea186a647d4afa8a5fab4551520791
-スター・チャンネル3,p2p://generationnexxxt.com:18806/3fc067fa0f9c4001bda00be1970478aa
-BSアニマックス,p2p://generationnexxxt.com:18806/3a22ba6e7d844140be0040158e3560ca
-J Sports 1,p2p://generationnexxxt.com:18806/4637242c0f454f0ba53311a7f4f2aac8
-J Sports 2,p2p://generationnexxxt.com:18806/2b931653bc3b4b9390bae8401cbffdb7
-J Sports 3,p2p://generationnexxxt.com:18806/bba83f5617f4479b84896c32fb0322ac
-J Sports 4,p2p://generationnexxxt.com:18806/1b33fe916f4046da8222147490b0dfa4
-BS12,p2p://generationnexxxt.com:18806/798a8840e98a4977b56589bf0f422029
-ゴルフネットワークHD,p2p://generationnexxxt.com:18806/9d11f7e1af014cdbbf456aaf6ca411df
-チャンネル银河,p2p://generationnexxxt.com:18806/057122a2cb50483cbacfc289ea161efa
-时代剧専门チャンネル,p2p://generationnexxxt.com:18806/974b03243fa846ad8fb9c02d8ae4f3c6
-Music Japan TV,p2p://generationnexxxt.com:18806/7c8edc3296744ea9b15649f88f72ebf3
-キッズステーションHD,p2p://generationnexxxt.com:18806/1f8c039180854b63b9e8e57681123a1e
-ディスカバリーチャンネル,p2p://generationnexxxt.com:18806/41576aa3609a4a628e534f988709aa26
-ナショナルジオグラフィック,p2p://generationnexxxt.com:18806/fff30842d7a3439bb22d8cd4f1ddf19c
-日テレNEWS 24,p2p://generationnexxxt.com:18806/006699c60e8549e990222030fc03a4a2
-旅チャンネル,p2p://generationnexxxt.com:18806/b33afdd6c7f84f77ae2e6fd2f46780e7
-Arirang,p2p://generationnexxxt.com:18806/c5121bac421141cab457f9d896226e2c
-KBS1,p2p://generationnexxxt.com:18806/9c120230e35243e0a4df55a623571729
-KBS2,p2p://generationnexxxt.com:18806/d869313cf6af4da796b0278c8c9a3196
-KBS Drama,p2p://generationnexxxt.com:18806/90f5cba41b364c1abae8ad9eee3c0f88
-KBS Joy,p2p://generationnexxxt.com:18806/85eccf7fea80432b96b2d4b3f29dac9a
-SBS,p2p://generationnexxxt.com:18806/d3ed638eb85b49abaec4681e51e110de
-SBS Biz,p2p://generationnexxxt.com:18806/d8f808781b134e3f855984df8212f26b
-JTBC,p2p://generationnexxxt.com:18806/0a81cbeaaa0b4cf1a8a7a13fbb1ed804
-EBS,p2p://generationnexxxt.com:18806/c1b110473cbe4a8783def2c5d9e9a55c
-YTN,p2p://generationnexxxt.com:18806/9c6bb99c37454e8193dfbff5b0abd8b5
-Mnet,p2p://generationnexxxt.com:18806/8c582b28649b4619b378fcdb7364439a
-tvN,p2p://generationnexxxt.com:18806/6142a0120e9f41a7be065183c156630e
-OCN,p2p://generationnexxxt.com:18806/712d3da177e043829e99a0e578633a27
-OCN Movies,p2p://generationnexxxt.com:18806/110888ecc35a414d8a7f64dd7be81878
-TV Chosun,p2p://generationnexxxt.com:18806/32e617d91b6c4b9aacf1d1d0944dd53f
-MBC,p2p://generationnexxxt.com:18806/59743283e22d476b8b780169af1d9d73
-MBN,p2p://generationnexxxt.com:18806/bbdf59172fab4fa49acbd2c3d6aa6fc7
-Tooniverse,p2p://generationnexxxt.com:18806/299d8d0bcc1c4b4584dd48e6e0251d92
-SPOTV,p2p://generationnexxxt.com:18806/ea11b8c4e67d4e75ad324a2908bc7b97
-SPOTV 2,p2p://generationnexxxt.com:18806/d90827f70fb54054b02a58195e58a64f
-JTBC GOLF,p2p://generationnexxxt.com:18806/6b92504203fd425e924a9e07909b0aa6
 NHK·国际,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
@@ -1700,6 +1604,9 @@ CHC家庭,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
 CHC動作,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
 CHC家庭,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 CHC動作,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+CHC家庭,https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
+CHC高清,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
+CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 峨嵋電影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 峨嵋電影,http://182.151.211.171:808/hls/58/index.m3u8
