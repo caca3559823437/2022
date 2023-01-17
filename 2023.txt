@@ -647,11 +647,18 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 第一財經,http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
 第一財經,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6617141658685778844&livemode=1&stbId=4
 上海都市,http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
+上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
+上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海教育,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 新聞综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 新聞综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&stbId=4
-新聞综合,http://lu1.cc/c/tv/sjtv/p/migu.php?id=shxwzh
+新聞综合,http://39.134.193.112:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+新聞综合,http://tv.redrainl.site:88/sh.php?id=shxwzh
+新聞综合,http://61.156.196.223/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新聞综合,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新聞综合,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
+新聞综合,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
 外语频道,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
 外语频道,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&stbId=4
 紀實人文,http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
@@ -672,6 +679,8 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 五星體育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 五星體育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星體育,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星體育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 金色学堂,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 金山電視,http://live.mudu.tv/watch/4zbn2f.m3u8
 北京衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
@@ -946,6 +955,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 東森新聞,http://www.yshmzmc.top/gtjm.php?id=live1014
 東森新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=2
 東森新聞,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+東森新聞,https://bstvcdn.ballbar.net/ettvnews/playlist-17.m3u8a?t=1673961853&token=e383ca71256e98e1ed0862f0349ce20b
 台視新聞,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 民視新聞,http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 中視新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=8
@@ -953,6 +963,8 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中視新聞,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 寰宇新聞,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+寰宇新聞,https://bstvcdn.ballbar.net/huanyuxinwen_twn/playlist-17.m3u8a?t=1673961770&token=b21a2db4082a1155e03c0e7d810e0bb4
+年代新聞,https://bstvcdn.ballbar.net/niandainews_twn/playlist-17.m3u8a?t=1673961550&token=e83682df4a923d1e4dbc69f565f39ba1
 三立新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=9
 三立iNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=16
 镜新聞台,http://158.101.151.82:9000/jmsytb.m3u8?c=19
@@ -1175,6 +1187,55 @@ Catchplay Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunkl
 国家地理野生,http://www.yshmzmc.top/gtjm.php?id=live1002
 
 🇯🇵日韓频道,#genre#
+AXN海外ドラマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS-TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSスカパー!,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSフジ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS日テレ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+CNN J,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+FOX,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK BSプレミアム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+TBSテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+キッズステーション,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スーパー!ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ファミリー劇場,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレジータス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+時代劇専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK·国际,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
@@ -4185,16 +4246,25 @@ Russian,http://live.redtraffic.xyz:80/russian.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
 Japan HDV,http://tduzsfhg.megatv.fun/iptv/A2U3C8FHYB5PPQ/6225/index.m3u8
 
-Kinoshka Adult HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18060/index.m3u8
+Extasy 4K,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/5014/index.m3u8
+Cum 4k,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/6190/index.m3u8
+Tiny 4K,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/6258/index.m3u8
+SEX_VR,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/19406/index.m3u8
 BCU Charm HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18053/index.m3u8
+Blacked HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6178/index.m3u8
+Brazzers HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6182/index.m3u8
+Cum4k,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6190/index.m3u8
+Digital Desire HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6195/index.m3u8
+Evil Angel HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6199/index.m3u8
+Extasy HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6201/index.m3u8
+Hustler HD Europe,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/244/index.m3u8
+Kinoshka Adult HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18060/index.m3u8
 KinoXXX,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11052/index.m3u8
-XY Plus HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6288/index.m3u8
 Love's Berry HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/14140/index.m3u8
-Xpanded TV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6269/index.m3u8
+MetArt HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6233/index.m3u8
+MYLF TV HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6236/index.m3u8
+Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6242/index.m3u8
 Plus Milf HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12130/index.m3u8
-Tushy HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6261/index.m3u8
-THREESOME TV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12180/index.m3u8
-Tiny4K,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6258/index.m3u8
 SL HOT 1 HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12161/index.m3u8
 SL HOT 2 HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12162/index.m3u8
 SL HOT 3 HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12163/index.m3u8
@@ -4204,18 +4274,13 @@ SL HOT 6 HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12166/index.m3u8
 SL HOT 7 HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12167/index.m3u8
 SL HOT 8 HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12168/index.m3u8
 SL HOT 9 HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12169/index.m3u8
-Extasy HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6201/index.m3u8
-Evil Angel HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6199/index.m3u8
-Cum4k,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6190/index.m3u8
-Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6242/index.m3u8
-Brazzers HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6182/index.m3u8
-Blacked HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6178/index.m3u8
-Digital Desire HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6195/index.m3u8
-MetArt HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6233/index.m3u8
-MYLF TV HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6236/index.m3u8
-Hustler HD Europe,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/244/index.m3u8
-小亞洲人HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6230/index.m3u8
+THREESOME TV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12180/index.m3u8
+Tiny4K,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6258/index.m3u8
+Tushy HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6261/index.m3u8
+Xpanded TV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6269/index.m3u8
+XY Plus HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6288/index.m3u8
 XY 混合高清,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6287/index.m3u8
+小亞洲人HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6230/index.m3u8
 
 欧美_27,https://pcom.st-content.com/content/upload/PPG162_s02/trailers/PPG162_s02_free.mp4
 欧美_28,https://pcom.st-content.com/content/upload/RTA001_s57/trailers/RTA001_s57_free.mp4
@@ -4241,6 +4306,345 @@ FashionTV Czech&Slovak,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 Outside TV Plus,https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
 Distrito TV (1080p),https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 jennyforyou,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
+
+🔞亚洲无码,#genre#
+Caribbeancom-080117_471 魅惑 枢木みかん,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-080117_471/index.m3u8
+Caribbeancom-072917_470  黒木澪,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072917_470/index.m3u8
+Caribbeancom-072817_469 独占 結希真琴,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072817_469/index.m3u8
+Caribbeancom-072617_468  未公開 ～原ちとせ 碧木凛 桃井りの 羽多野しずく,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072617_468/index.m3u8
+Caribbeancom-072517_467 下全裸、星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072517_467/index.m3u8
+Caribbeancom-072217_466 彼氏～ 朝比奈みなみ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072217_466/index.m3u8
+Caribbeancom-072117_465  恍惚 ～極上の濃密～七瀬リナ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072117_465/index.m3u8
+Caribbeancom-071917_464 図鑑 朝比奈みなみ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071917_464/index.m3u8
+Caribbeancom-071317_005  縦型動画 017 ～小悪魔～ 美月るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_005/index.m3u8
+Caribbeancom-071817_463  二輪車冴君麻衣子 上原まさき,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071817_463/index.m3u8
+Caribbeancom-071317_004 下品～ 北島玲,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_004/index.m3u8
+Caribbeancom-070417_455  朝桐光,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070417_455/index.m3u8
+Caribbeancom-071517_462 女仆  希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071517_462/index.m3u8
+Caribbeancom-071317_003 顔面騎乗位～ 観月奏,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_003/index.m3u8
+Caribbeancom-070117_454  木村美羽,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070117_454/index.m3u8
+Caribbeancom-071417_461 水着 白石真琴,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071417_461/index.m3u8
+Caribbeancom-071317_002  縦型動画 014 ～ 水島にな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_002/index.m3u8
+Caribbeancom-063017_453  生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-063017_453/index.m3u8
+Caribbeancom-071317_010  顔面騎乗位～ 咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_010/index.m3u8
+Caribbeancom-071317_001  縦型動画 013 ～画面の尻穴陰毛～ 梢あをな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_001/index.m3u8
+Caribbeancom-062917_452  羽田真里BEST,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062917_452/index.m3u8
+Caribbeancom-071317_009 講師～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_009/index.m3u8
+Caribbeancom-071217_460 我慢大会～七瀬リナ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071217_460/index.m3u8
+Caribbeancom-062617_451 男按摩,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062617_451/index.m3u8
+Caribbeancom-071317_008  謎の熟女祥子～ 高嶋祥子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_008/index.m3u8
+Caribbeancom-071117_459 女熱大陸 File.056 米倉のあ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071117_459/index.m3u8
+Caribbeancom-062417_450  緊縛研究所 ～ 双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062417_450/index.m3u8
+Caribbeancom-071317_007 経験の女性～ 上条藍,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_007/index.m3u8
+Caribbeancom-070817_458  真琴りょう,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070817_458/index.m3u8
+Caribbeancom-062317_449 ～ 神田るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062317_449/index.m3u8
+Caribbeancom-071317_006 素裸女～ 大咲萌,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_006/index.m3u8
+Caribbeancom-070717_457  視界侵入！挿入～北川レイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070717_457/index.m3u8
+Caribbeancom-062117_448 潮吹～ 白石真琴,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062117_448/index.m3u8
+Caribbeancom-070517_456 熟女の放尿娘～ 北島玲 美涼りな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070517_456/index.m3u8
+Caribbeancom-062017_447 找到了理想 松岡すず,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062017_447/index.m3u8
+Caribbeancom-061617_445  嫌の女顔射 水島にな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061617_445/index.m3u8
+Caribbeancom-061717_446 卑猥 星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061717_446/index.m3u8
+Caribbeancom-061417_444 未公開 ～大失禁～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061417_444/index.m3u8
+Caribbeancom-053017_437  水谷心音BEST 2,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053017_437/index.m3u8
+Caribbeancom-061317_443  極上泡姫物語 Vol.52 真咲アイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061317_443/index.m3u8
+C0930-ki170718 人妻斬り 川里舞 35歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170718/index.m3u8
+Caribbeancom-061017_442 視界侵入～ 村上涼子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061017_442/index.m3u8
+C0930-ki170704 野田歩 38歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170704/index.m3u8
+Caribbeancom-060917_441 咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060917_441/index.m3u8
+C0930-ki170604 片桐舞 26歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170604/index.m3u8
+Caribbeancom-060717_001 THE 未公開  双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060717_001/index.m3u8
+C0930-gol0146 人妻斬り 岩岬美鈴 34歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-gol0146/index.m3u8
+Caribbeancom-060617_440  巨乳浴衣娘 折原ほのか,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060617_440/index.m3u8
+10musume-090217_01    田中真由,http://videocdn.quweikm.com:8091/20181101/hd_10musume-090217_01/index.m3u8
+Caribbeancom-060317_439 放課後～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060317_439/index.m3u8
+10musume-083117_01    小沢かれん,http://videocdn.quweikm.com:8091/20181101/hd_10musume-083117_01/index.m3u8
+Caribbeancom-060217_438  恍惚 ～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060217_438/index.m3u8
+10musume-082917_01   朝川ここみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082917_01/index.m3u8
+Caribbeancom-053117_001 縦型動画 012 ～SSR虎の子の潮吹～ 上原亜衣,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053117_001/index.m3u8
+10musume-082617_01   姫野未来,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082617_01/index.m3u8
+10musume-082417_01   芦川芽依,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082417_01/index.m3u8
+10musume-082217_01   制服時代～ 三崎えり,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082217_01/index.m3u8
+10musume-081917_01    初体験 沢村みれい,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081917_01/index.m3u8
+10musume-080317_01  主人様！ 中村ひかる,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080317_01/index.m3u8
+10musume-081617_01   Best30 Part 3,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081617_01/index.m3u8
+10musume-080117_01    豊崎かなえ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080117_01/index.m3u8
+10musume-071317_01    秘蔵 菅野みらい,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071317_01/index.m3u8
+10musume-081517_01  奉仕 白石麗奈,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081517_01/index.m3u8
+10musume-072917_01  泡姫娘～ 朝川ここみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072917_01/index.m3u8
+10musume-071117_01  素人AV面接 ～ 滝川ちさ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071117_01/index.m3u8
+10musume-081317_01   Best30 Part 2,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081317_01/index.m3u8
+10musume-072717_01  制服時代 ～ 立花里奈,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072717_01/index.m3u8
+10musume-070817_01   浴衣 飯田久実子,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070817_01/index.m3u8
+10musume-081217_01   ねぇ～着換,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081217_01/index.m3u8
+10musume-072517_01    門倉めぐみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072517_01/index.m3u8
+10musume-070617_01  生中体験 三崎えり,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070617_01/index.m3u8
+10musume-081117_01   野々村あいり,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081117_01/index.m3u8
+10musume-072217_01   制服時代 ～ 浅倉のどか,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072217_01/index.m3u8
+10musume-070417_01   宮前ことね,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070417_01/index.m3u8
+10musume-081017_01  素人 Best30 Part 1,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081017_01/index.m3u8
+10musume-072017_01  熟人的女儿,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072017_01/index.m3u8
+10musume-070117_01   中村ひかる,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070117_01/index.m3u8
+10musume-080817_01  制服姿～ 松田理沙子,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080817_01/index.m3u8
+10musume-071817_01   まさき,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071817_01/index.m3u8
+10musume-062917_01    制服時代 ～ 楠木真奈美,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062917_01/index.m3u8
+10musume-080517_01  AV面接 ～秋場莉緒,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080517_01/index.m3u8
+10musume-071717_01   つるのゆう,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071717_01/index.m3u8
+10musume-062717_01     松田理沙子,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062717_01/index.m3u8
+10musume-071517_01   素人初撮浴衣のSM～ 藍原優香,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071517_01/index.m3u8
+10musume-062417_01   素人の仕事 ～ 立花里奈,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062417_01/index.m3u8
+10musume-062017_01   主人様 門倉めぐみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062017_01/index.m3u8
+10musume-061717_01  倉田麻紀,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061717_01/index.m3u8
+10musume-062217_01   安室絵里,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062217_01/index.m3u8
+1Pondo-090217_575  結希真琴,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090217_575/index.m3u8
+10musume-061517_01   宮前ことね,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061517_01/index.m3u8
+1Pondo-090117_003  北条麻妃,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090117_003/index.m3u8
+10musume-061317_01   豊崎かなえ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061317_01/index.m3u8
+1Pondo-090117_002  広瀬奈津美,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090117_002/index.m3u8
+10musume-061017_01   制服時代 ～ 朝比奈みなみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061017_01/index.m3u8
+1Pondo-090117_001  羽月ミリア,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090117_001/index.m3u8
+10musume-060817_01   若槻さぁや,http://videocdn.quweikm.com:8091/20181101/hd_10musume-060817_01/index.m3u8
+1Pondo-083117_574  北条麻妃,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-083117_574/index.m3u8
+10musume-060617_01   看護師 岸あやね,http://videocdn.quweikm.com:8091/20181101/hd_10musume-060617_01/index.m3u8
+1Pondo-082917_573 尻軽女 中野ゆう,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082917_573/index.m3u8
+10musume-060317_01  未公開映像 柚月 深美せりな あおい,http://videocdn.quweikm.com:8091/20181101/hd_10musume-060317_01/index.m3u8
+1Pondo-082617_572  美人OL 如月ジュリ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082617_572/index.m3u8
+10musume-060117_01   素人娘～ 山田まみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-060117_01/index.m3u8
+1Pondo-082217_570  魅惑の遊戯 坂西真由美,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082217_570/index.m3u8
+10musume-053017_01   森まゆ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-053017_01/index.m3u8
+1Pondo-081917_569 浴衣美女中出！ 折原ほのか,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081917_569/index.m3u8
+1Pondo-081717_568 潮吹痴女！ 安城アンナ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081717_568/index.m3u8
+1Pondo-081517_567 魔性の肉体 名波ルナ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081517_567/index.m3u8
+1Pondo-081317_566  咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081317_566/index.m3u8
+1Pondo-080217_560 倶楽部 宮沢まき,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080217_560/index.m3u8
+1Pondo-081217_565 仕事の精欲旺盛  江波りゅう,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081217_565/index.m3u8
+1Pondo-080117_001  深美せりな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080117_001/index.m3u8
+1Pondo-071417_552  朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071417_552/index.m3u8
+1Pondo-081117_564 哀愁漂喪服未亡人の肉体豊田ゆう,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081117_564/index.m3u8
+1Pondo-072917_559 北川レイラ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072917_559/index.m3u8
+1Pondo-071217_551  水野優奈,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071217_551/index.m3u8
+1Pondo-080917_563  観月奏,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080917_563/index.m3u8
+1Pondo-072817_558  米倉のあ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072817_558/index.m3u8
+1Pondo-071117_001  さくらみゆき,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071117_001/index.m3u8
+1Pondo-080817_001  朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080817_001/index.m3u8
+1Pondo-072617_001  双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072617_001/index.m3u8
+1Pondo-070817_550  ゆうき美羽,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070817_550/index.m3u8
+1Pondo-080617_562  神田るな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080617_562/index.m3u8
+1Pondo-072517_557  倉田麻紀,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072517_557/index.m3u8
+1Pondo-070717_549 娘倶楽部 乙川結衣,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070717_549/index.m3u8
+1Pondo-080517_561 制服美女 さくらみゆき,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080517_561/index.m3u8
+1Pondo-072217_556  大咲萌,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072217_556/index.m3u8
+1Pondo-070517_001 水着 朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070517_001/index.m3u8
+1Pondo-080417_002  美魔女 南條れいな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080417_002/index.m3u8
+1Pondo-072017_555 美女の美脚！真琴りょう,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072017_555/index.m3u8
+1Pondo-070117_547  双葉みお 朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070117_547/index.m3u8
+1Pondo-080417_001 今村加奈子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080417_001/index.m3u8
+1Pondo-071817_554 撮影会生中出 辻ユキ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071817_554/index.m3u8
+1Pondo-063017_546  音海さや,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-063017_546/index.m3u8
+1Pondo-071517_553 M痴女 深美せりな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071517_553/index.m3u8
+1Pondo-062817_001  彩波有紀,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062817_001/index.m3u8
+1Pondo-062417_544  愛乃まほろ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062417_544/index.m3u8
+1Pondo-060117_534  藤井なな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
+1Pondo-062717_545  末吉りり,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062717_545/index.m3u8
+1Pondo-062317_543  山中麗子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062317_543/index.m3u8
+1Pondo-053017_533  悶絶！美女,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-053017_533/index.m3u8
+1Pondo-062117_001 水着 白石麗奈,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062117_001/index.m3u8
+Girlsdelta-RURUNA 安部流留菜 T146B88W65H90,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-ruruna/index.m3u8
+1Pondo-062017_542 顔出！ 土屋あみ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062017_542/index.m3u8
+GirlsDelta-RINKA_2 戸田凜佳 T158B84W59H86,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-rinka/index.m3u8
+1Pondo-061717_541 制服天使 ももき希,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061717_541/index.m3u8
+GirlsDelta-MIKIE_4 及川幹恵 T162B88W63H90,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-mikie_4/index.m3u8
+1Pondo-061517_540 素人宅訪問 宮間葵,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061517_540/index.m3u8
+GirlsDelta-AYANE_6 八木彩音 T162B81W60H85,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-ayane_6/index.m3u8
+1Pondo-061317_539  上原茉咲,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061317_539/index.m3u8
+GirlsDelta-1172 NATSUKO 3 相葉夏子,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-1172/index.m3u8
+1Pondo-061017_538  美人OL 七瀬リナ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061017_538/index.m3u8
+GirlsDelta-1153 深沢富江 TOMIE,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-1153/index.m3u8
+1Pondo-060617_536  大噴射！潮吹,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060617_536/index.m3u8
+Gachinco-gachip366  オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachip366/index.m3u8
+1Pondo-060317_535 着物の似合淫乱 南條れいな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060317_535/index.m3u8
+Gachinco-gachip365 大放尿,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachip365/index.m3u8
+Gachinco-gachip363  しほり,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachip363/index.m3u8
+Gachinco-gachip362  ちせ,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachip362/index.m3u8
+Gachinco-gachi1163  くみこ,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1163_0/index.m3u8
+Gachinco-gachip361  リエ,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachip361/index.m3u8
+Gachinco-gachi1162  わかこ、リサ,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1162_0/index.m3u8
+Gachinco-gachi1151  蘭　－実録面接147,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1151/index.m3u8
+Gachinco-gachig256  菜々緒,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig256/index.m3u8
+Gachinco-gachi1159 傑作選HD,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1159/index.m3u8
+Gachinco-gachi1150 ミライ－KURADASHI27,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1150/index.m3u8
+Gachinco-gachig255 オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig255_0/index.m3u8
+Gachinco-gachi1158 最終回前編,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1158/index.m3u8
+Gachinco-gachi1149 由美香　－素人生撮122,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1149/index.m3u8
+Gachinco-gachig254  オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig254/index.m3u8
+Gachinco-gachi1157  眞子－実録面接149,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1157/index.m3u8
+Gachinco-gachi1148  佳乃－実録面接146,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1148/index.m3u8
+Gachinco-gachig253  みいな－別刊136,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig253/index.m3u8
+Gachinco-gachi1156  慶子,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1156/index.m3u8
+Gachinco-gachi1147 優子,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1147/index.m3u8
+Gachinco-gachi1166 最終回後編,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1166_0/index.m3u8
+Gachinco-gachi1155 曼荼羅性交絵巻26,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1155/index.m3u8
+Gachinco-gachi1146  祐実,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1146/index.m3u8
+Gachinco-gachi1165  オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1165_0/index.m3u8
+Gachinco-gachi1154  彩香,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1154/index.m3u8
+Gachinco-gachi1145 麗華－実録面接145,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1145/index.m3u8
+Gachinco-gachi1164 まや、もえ,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1164_0/index.m3u8
+Gachinco-gachi1153 香苗－実録面接148,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1153/index.m3u8
+Gachinco-gachi1144  真由子,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1144/index.m3u8
+Gachinco-gachi1152 友梨佳,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1152/index.m3u8
+Gachinco-gachi1143  弓子－実録面接144,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1143/index.m3u8
+DRG-21 3rd Hard Way ~試練 : 朝桐光,http://videocdn.quweikm.com:8091/20180930/hd_drg-21_0/index.m3u8
+DSAMBD-19 恍惚 : 鈴木さとみ,http://videocdn.quweikm.com:8091/20180930/hd_dsambd-19_0/index.m3u8
+DLPT-175 料理研究家  : 羽奈美すず,http://videocdn.quweikm.com:8091/20180930/hd_dlpt-175_0/index.m3u8
+Caribbeancompr-081817_001  S Model 174 顔面 愛乃まほろ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081817_001/index.m3u8
+DLBT-158 真白愛梨,http://videocdn.quweikm.com:8091/20180930/hd_dlbt-158_0/index.m3u8
+Caribbeancompr-081117_002  S Model 175 初彼女！ 華城まや,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081117_002/index.m3u8
+CWPBD-162  制服JK性交 : 希咲良,http://videocdn.quweikm.com:8091/20180930/hd_cwpbd-162_0/index.m3u8
+Caribbeancompr-081117_001  S Model 173 DEBUT 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081117_001/index.m3u8
+CWP-164  超高級嬢 : 深美せりな,http://videocdn.quweikm.com:8091/20180930/hd_cwp-164_0/index.m3u8
+Caribbeancompr-081017_002 図鑑 村上佳苗,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081017_002/index.m3u8
+CWP-163 超高級嬢 : 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_cwp-163_0/index.m3u8
+Caribbeancompr-080717_001 恥帯～ 白瀬ここね 西野なこ 小高里保 大咲萌,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-080717_001/index.m3u8
+Caribbeancompr-090217_001 月刊 水谷あおい,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-090217_001/index.m3u8
+Caribbeancompr-080417_001 絶対24時 七瀬リナ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-080417_001/index.m3u8
+Caribbeancompr-090117_002  超高級嬢！生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-090117_002/index.m3u8
+Caribbeancompr-072817_001 制服JK性交 さくらみゆき,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072817_001/index.m3u8
+南澤ゆりえ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-082617_002/index.m3u8
+Caribbeancompr-072617_003 DIRTY SCHOOLGIRLS 01 完全版,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072617_003/index.m3u8
+Caribbeancompr-082517_001  S Model 176 中毒美少女生 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-082517_001/index.m3u8
+Caribbeancompr-072217_002  THE 潮吹洪水～ 加藤えま 越川アメリ 一条リオン 千野くるみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072217_002/index.m3u8
+Caribbeancompr-072117_001  KIRARI 138   桃井りの,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072117_001/index.m3u8
+Caribbeancompr-071417_001  巨乳自慢の彼女 ゆうき美羽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-071417_001/index.m3u8
+Caribbeancompr-070817_001  THE 巨乳Ⅲ～北山かんな 初音ろりあ 篠田あゆみ 小向美奈子,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-070817_001/index.m3u8
+Caribbeancompr-052617_003  KIRARI 137 Kirari Model Collection Remix 3HRS 波多野結衣 篠田あゆみ 花井メイサ 羽月希,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-052617_003/index.m3u8
+Caribbeancompr-070717_001 水着  白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-070717_001/index.m3u8
+Caribbeancompr-033117_001  上原亜衣 江波りゅう 朝桐光 希咲エマ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-033117_001/index.m3u8
+Caribbeancom-082417_001 看護婦奉仕~ 真白愛梨,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082417_001/index.m3u8
+Caribbeancompr-063017_001  DEBUT 華城まや,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-063017_001/index.m3u8
+Caribbeancom-090517_493  放課後～ 美月るな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090517_493/index.m3u8
+Caribbeancom-082317_485  THE 未公開 ～ 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082317_485/index.m3u8
+Caribbeancompr-062717_002 奴隷妻 中島京子,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-062717_002/index.m3u8
+Caribbeancom-090217_492  北山かんな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090217_492/index.m3u8
+Caribbeancom-082217_484 僕の彼女白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082217_484/index.m3u8
+Caribbeancompr-062417_001  THE 処女　大人の階段の生娘,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-062417_001/index.m3u8
+Caribbeancom-090117_491 令嬢召使 渋谷ひとみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090117_491/index.m3u8
+Caribbeancom-081917_483  中出3連発 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081917_483/index.m3u8
+Caribbeancompr-062317_001  S Model 172 丘咲エミリ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-062317_001/index.m3u8
+Caribbeancom-083117_490 木村美羽の家撮影 木村美羽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083117_490/index.m3u8
+Caribbeancom-081817_482 素顔 麻生希,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081817_482/index.m3u8
+Caribbeancompr-060917_002 月刊 大橋ひとみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-060917_002/index.m3u8
+Caribbeancom-083017_489  早抜 咲乃柑菜BEST,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083017_489/index.m3u8
+Caribbeancom-081717_481 浴衣美女の顔 朝桐光,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081717_481/index.m3u8
+大塚咲,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-060217_002/index.m3u8
+Caribbeancom-082917_488 恍猛烈交尾～ 如月ジュリ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082917_488/index.m3u8
+Caribbeancom-081617_480 放尿～黒木澪,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081617_480/index.m3u8
+Caribbeancompr-060217_001  月刊 美咲結衣,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-060217_001/index.m3u8
+Caribbeancom-082617_487 夏の想出 Vol.11 豊田ゆう,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082617_487/index.m3u8
+Caribbeancom-081517_479 温泉旅行 逢沢はるか 美月優芽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081517_479/index.m3u8
+Caribbeancom-082517_486  米倉のあ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082517_486/index.m3u8
+Caribbeancom-081217_478 僕の彼女 北川レイラ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081217_478/index.m3u8
+Caribbeancom-081017_006 希咲あや 蒼井さくら 真琴りょう,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_006/index.m3u8
+Caribbeancom-081017_005  碧しの,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_005/index.m3u8
+Caribbeancom-081117_477 超高速生騎乗位～立花瑠莉,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081117_477/index.m3u8
+Caribbeancom-080217_472 図鑑 羽多野しずく,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080217_472/index.m3u8
+Caribbeancom-081017_004 水着～ 宮下華奈,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_004/index.m3u8
+Heyzo-1551 他人妻味～童顔奥様～ 彩波有紀,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1551/index.m3u8
+Caribbeancom-081017_003  君島アンナ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_003/index.m3u8
+Heyzo-1549 美巨乳～ 双葉みお,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1549/index.m3u8
+Caribbeancom-081017_002 卑猥水着講座～ 並木あゆ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_002/index.m3u8
+Heyzo-1548 橋本怜奈の手淫,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1548/index.m3u8
+Caribbeancom-081017_001 天然美少女と真夏の水着SEX～ 青山未来,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_001/index.m3u8
+Heyzo-1546 続々生中！ 初音ろりあ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1546/index.m3u8
+Caribbeancom-080917_476 美人中出天国～ 前田由美,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080917_476/index.m3u8
+Heyzo-1543 綾瀬ゆいの手淫 綾瀬ゆい,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1543/index.m3u8
+Caribbeancom-080817_475  極上泡姫物語 Vol.53 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080817_475/index.m3u8
+Heyzo-1539 幼馴染 愛乃まほろ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1539/index.m3u8
+Caribbeancom-080517_474  羽多野しずく,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080517_474/index.m3u8
+Heyzo-1538 出張 山中麗子,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1538/index.m3u8
+Caribbeancom-080417_473 葵千恵 千野くるみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080417_473/index.m3u8
+Heyzo-1537 真面目後輩！ 宮藤まい,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1537/index.m3u8
+Heyzo-1536   秋野千尋,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1536/index.m3u8
+Heyzo-1535 天国 桜木ももか,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1535/index.m3u8
+Heyzo-1534 上手巨乳 北山かんな,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1534/index.m3u8
+Heyzo-1505 手机捡到的感谢之情 ！ 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1505/index.m3u8
+Heyzo-1533 出張の手配 米倉のあ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1533/index.m3u8
+Heyzo-1504 放課後美少女調教 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1504/index.m3u8
+H4610-pla0094 今西日名子 22歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-pla0094/index.m3u8
+Heyzo-1532 进行评价！ 西野なこ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1532/index.m3u8
+Heyzo-1502 個人撮影会～ 桜木ももか,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1502/index.m3u8
+H4610-ori1618  阪井 まなか,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ori1618/index.m3u8
+Heyzo-1526 素人娘！！ 倉田麻紀,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1526/index.m3u8
+Heyzo-1492 主人様 白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1492/index.m3u8
+H4610-ki170831 加瀬亜弓 30歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170831/index.m3u8
+Heyzo-1525 痴女占卜师の童貞狩り 麻生希,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1525/index.m3u8
+Heyzo-1476 派给你！ ゆうき美羽,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1476/index.m3u8
+H4610-ki170713  喜里川心 26歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170713/index.m3u8
+Heyzo-1523 不停～ 朝川ここみ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1523/index.m3u8
+Heyzo-1469 同僚 白瀬ここね,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1469/index.m3u8
+H4610-ki170625  森 理都子 35歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170625/index.m3u8
+Heyzo-1520 欲求不満人妻 菊池よしの,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1520/index.m3u8
+Heyzo-1464 優柔不断男誘惑～ 霧島ミカ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1464/index.m3u8
+H4610-ki170622 秋田 小百合 27歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170622/index.m3u8
+Heyzo-1517 撲滅講座 臼井さと美,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1517/index.m3u8
+Heyzo-1433 美痴女～～ 七瀬リナ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1433/index.m3u8
+H4610-ki170604 有田睦 27歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170604/index.m3u8
+Heyzo-1515 余分 雲母みくる,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1515/index.m3u8
+Heyzo-1410 SHOW！！ いろはまりん,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1410/index.m3u8
+H4610-ki170530 山本けい 22歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170530/index.m3u8
+Heyzo-1331 快感！ 安城アンナ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1331/index.m3u8
+H0930-ori1467  大脇 隆美 32歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ori1467/index.m3u8
+H0930-ki170625  屋代 十三恵 41歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170625/index.m3u8
+H0930-ki170723  寺村真利 42歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170723/index.m3u8
+H0930-ki170604 青井和枝 52歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170604/index.m3u8
+Pacopacomama-060317_098 場合 桂きよみ,http://videocdn.quweikm.com:8091/20180831/hd_pacopacomama-060317_098/index.m3u8
+H0930-ki170601 神谷ゆかり 36歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170601/index.m3u8
+Pacopacomama-053017_095 G罩杯奥様～ 長田真結美,http://videocdn.quweikm.com:8091/20180831/hd_pacopacomama-053017_095/index.m3u8
+H0930-gol174 伊藤莉名 27歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-gol174/index.m3u8
+Kin8tengoku-1735 Candy Alexa,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1735/index.m3u8
+GirlsDelta-YUKIE_3 早見雪枝,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-yukie_3/index.m3u8
+Kin8tengoku-1733 Liona,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1733/index.m3u8
+GirlsDelta-YUAKO 宇佐美由愛子,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-yuako/index.m3u8
+Kin8tengoku-1724 Comfort Pussy,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1724/index.m3u8
+Girlsdelta-TSUMIKA 岩井つみか,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-tsumika/index.m3u8
+Kin8tengoku-1723 JAPANESE STYLE MASSAGE,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1723/index.m3u8
+GirlsDelta-TSUKIHO_3 小早川月帆,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-tsukiho_3/index.m3u8
+Kin8tengoku-1722 HOT LEGS COLLECTION Shy Love,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1722/index.m3u8
+GirlsDelta-TOMIE_3 深沢富江,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-tomie_3/index.m3u8
+Kin8tengoku-1720 Huney Bunny MAKE LOVE Keisie,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1720/index.m3u8
+Girlsdelta-SHIZUNE_3 荒尾閑音,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-shizune_3/index.m3u8
+Kin8tengoku-1719 Tara Lynn Foxx Nikita James,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1719/index.m3u8
+Kin8tengoku-1717 可愛誘惑天使,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1717/index.m3u8
+Kin8tengoku-1715  Japanese Style Massage,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1715/index.m3u8
+Kin8tengoku-1714 Jael,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1714/index.m3u8
+Heyzo-1561 性感按摩快感~滝川エリナの場合 滝川エリナ,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1561/index.m3u8
+Kin8tengoku-1713  Oil Massage Salon Meddy,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1713/index.m3u8
+Heyzo-1560 潜入！女性専用 白石麗奈,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1560/index.m3u8
+Pacopacomama-060217_003  一泊二日の不倫温泉旅行 朝桐光,http://videocdn.quweikm.com:8091/20180831/hd_pacopacomama-060217_003/index.m3u8
+Kin8tengoku-1712  Sensitive Anal Kylie,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1712/index.m3u8
+Heyzo-1559 家事代行 愛咲ななみ,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1559/index.m3u8
+Pacopacomama-060117_096 人妻剛毛奥様～ 神崎莉乃,http://videocdn.quweikm.com:8091/20180831/hd_pacopacomama-060117_096/index.m3u8
+Kin8tengoku-1711  Candy Alexa,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1711/index.m3u8
+Heyzo-1558 和喝醉的女儿做爱 朝比奈菜々子,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1558/index.m3u8
+Pacopacomama-053117_002  驚異 小向美奈子,http://videocdn.quweikm.com:8091/20180831/hd_pacopacomama-053117_002/index.m3u8
+Kin8tengoku-1710  Melanie Jayne,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1710/index.m3u8
+Heyzo-1557 痴女奥様～卑猥下着誘惑～ 沢木りりか,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1557/index.m3u8
+Pacopacomama-033017_054 熟女,http://videocdn.quweikm.com:8091/20180831/hd_pacopacomama-033017_054/index.m3u8
+Kin8tengoku-1709  ルシール,http://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1709/index.m3u8
+Heyzo-1556 主人様性人形～ ももき希,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1556/index.m3u8
+MKBD-S141 KIRARI 141  : 愛乃まほろ,http://videocdn.quweikm.com:8091/20180831/hd_mkbd-s141_0/index.m3u8
+Heyzo-1567 让我来吧！ 木ノ花あみる,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1567/index.m3u8
+Heyzo-1555 美人家政婦～ 上原茉咲,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1555/index.m3u8
+MKBD-s140 KIRARI 140 主人様 : 希咲良,http://videocdn.quweikm.com:8091/20180831/hd_mkbd-s140_0/index.m3u8
+Heyzo-1564 让我来看看！ ！ 牧野えり,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1564/index.m3u8
+Heyzo-1554 浴衣の君欲情,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1554/index.m3u8
+MKBD-S139 KIRARI 139 派遣家政婦 : 白石真琴,http://videocdn.quweikm.com:8091/20180831/hd_mkbd-s139_0/index.m3u8
+Heyzo-1562 美痴女～貪欲美肌熟女～井上綾子,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1562/index.m3u8
+Heyzo-1553 激烈の潮吹！ 葵千恵,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1553/index.m3u8
+有坂未央,http://videocdn.quweikm.com:8091/20180831/hd_mcr-08_0/index.m3u8
+Heyzo-1552 着物即尺,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1552/index.m3u8
+双葉みか,http://videocdn.quweikm.com:8091/20180831/hd_mcr-07_0/index.m3u8
+LAFBD-85 OL娘倶楽部 : 七瀬リナ,http://videocdn.quweikm.com:8091/20180831/hd_lafbd-85_0/index.m3u8
+PGD-928-女子校生 栄川乃亜,http://ginocdn.bybzj.com:8091/youma/20180501/PGD-928/650kb/hls/index.m3u8
 
 🔞激情壹区,#genre#
 高清1,https://vip4.ddyunbo.com/20210208/Hroo5vY9/index.m3u8?skipl=1
@@ -4534,38 +4938,158 @@ jennyforyou,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/pla
 本道_10,https://vip1.fhbf9.com/20210705/uM9kEzhS/index.m3u8
 
 🔞激情贰区,#genre#
-PURE BABES,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12112/index.m3u8
-BRAZZERS TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12113/index.m3u8
+18++电影HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18053/index.m3u8
+A3 Bikini,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6165/index.m3u8
+Adult Time,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6166/index.m3u8
+Alba 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12106/index.m3u8
+Alba 1 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12105/index.m3u8
+Alba 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12108/index.m3u8
+Alba 2 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12107/index.m3u8
+Alba 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12109/index.m3u8
+Alba 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12110/index.m3u8
+Alba 5,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12111/index.m3u8
+Anal Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6167/index.m3u8
+Analized HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6168/index.m3u8
+AST TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6169/index.m3u8
+AST TV 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6170/index.m3u8
+Babes TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6172/index.m3u8
+BAG U,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12170/index.m3u8
+Balkan Erotic,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6270/index.m3u8
+Bang Bros HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6173/index.m3u8
 Bang U,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12114/index.m3u8
-XY Plus 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12115/index.m3u8
-XY Plus 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12116/index.m3u8
-XY Plus 6,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12117/index.m3u8
-XY Plus 12,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12118/index.m3u8
-XY Plus 24,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12119/index.m3u8
-PASSION XXX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12120/index.m3u8
-Super one HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12121/index.m3u8
-X1 TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12122/index.m3u8
-LEO TV FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12123/index.m3u8
-French Lover,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12124/index.m3u8
-Meiden Van Holland,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12125/index.m3u8
-EROCOM TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12128/index.m3u8
-DUSK TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12129/index.m3u8
-X Plus Milf HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12130/index.m3u8
+Bang!,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6174/index.m3u8
+BANGBROS UHD 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12181/index.m3u8
+Barely legal,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/871/index.m3u8
+Big Ass Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6175/index.m3u8
+Big Dick Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6176/index.m3u8
+Big Tits Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6177/index.m3u8
+Blacked HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6178/index.m3u8
+BLACKED TV ELITE,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12191/index.m3u8
+BLACKED TV PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12190/index.m3u8
+Blonde Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6179/index.m3u8
+Blowjob Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6180/index.m3u8
+Blue Hustler,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1064/index.m3u8
+Brazzers eXXtra,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6181/index.m3u8
+Brazzers HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6182/index.m3u8
+BRAZZERS TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12113/index.m3u8
+Brazzers TV Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/910/index.m3u8
+Brunette Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6183/index.m3u8
+cento x cento,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6184/index.m3u8
+Cherry Pimps,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6185/index.m3u8
+Club 17,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6186/index.m3u8
+Compilation Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6187/index.m3u8
+Cuckold Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6188/index.m3u8
+Cum Louder,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6189/index.m3u8
+Cum4k,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6190/index.m3u8
+Day with a Pornstar,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6192/index.m3u8
+DDF Busty,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6193/index.m3u8
+DDF Network,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6194/index.m3u8
+Digital Desire HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6195/index.m3u8
+Digital Playground HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6196/index.m3u8
+DIRTY HOBBY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12183/index.m3u8
+Dorcel Club,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6197/index.m3u8
+Dorcel HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9064/index.m3u8
+Dorcel TV FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/878/index.m3u8
 DORCEL TV FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12131/index.m3u8
+Dorcel TV FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12120/index.m3u8
+Dorcel TV FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12120/index.m3u8,
+Dorcel TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/245/index.m3u8
+Dorcel TV HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9067/index.m3u8
 DORCEL XXX TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12132/index.m3u8
-Venus HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12133/index.m3u8
+DuckTV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18138/index.m3u8
+Dusk,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6198/index.m3u8
+DUSK TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12129/index.m3u8
+Emanuelle HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6272/index.m3u8
+EROCOM TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12128/index.m3u8
+Eromania 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/10049/index.m3u8
+Erotic,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6289/index.m3u8
+Erotic 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6290/index.m3u8
+Erotic 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6291/index.m3u8
+Erotic 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6292/index.m3u8
+Erotic 6,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6293/index.m3u8
+Erotic 7,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6294/index.m3u8
+Erotic 8,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6295/index.m3u8
+Erox HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6296/index.m3u8
+Eroxxx HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5015/index.m3u8
+Evil Angel HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6199/index.m3u8
+Evolved Fights,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6200/index.m3u8
+Extasy 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5014/index.m3u8
+Extasy HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6201/index.m3u8
+EXTASY HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11051/index.m3u8
+Extreme,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6273/index.m3u8
+Exxxotica HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2397/index.m3u8
+EXXXOTICA HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9346/index.m3u8
+Fake Taxi HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6202/index.m3u8
+Fap TV 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6203/index.m3u8
+Fap TV 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6204/index.m3u8
+Fap TV Anal,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6206/index.m3u8
+Fap TV BBW,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6207/index.m3u8
+Fap TV Compilation,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6208/index.m3u8
+Fap TV Lesbian,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6209/index.m3u8
+Fap TV Parody,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6210/index.m3u8
+Fap TV Teens,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6211/index.m3u8
+Fast Boyz,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6274/index.m3u8
+FAST BOYZ GAY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12205/index.m3u8
+FemJoy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6212/index.m3u8
+Fetish Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6213/index.m3u8
 FREE X TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12134/index.m3u8
-PLAYBOY TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12135/index.m3u8
+French Lover,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12124/index.m3u8
+FrenchLover,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2160/index.m3u8
+Gangbang Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6214/index.m3u8
+GANGBANG CREAMPIE,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12184/index.m3u8
+Gay Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6215/index.m3u8
+GAY PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12204/index.m3u8
+GLORYHOLE LOVE FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12192/index.m3u8
+Got MYLF,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6216/index.m3u8
+Hands on Hardcore,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6217/index.m3u8
+Hard X,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6218/index.m3u8
+Hardcore Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6219/index.m3u8
+Hitzefrei HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6220/index.m3u8
+Holed,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6221/index.m3u8
+HOT,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6275/index.m3u8
+Hot and Mean,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6222/index.m3u8
+Hot Guys Fuck,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6223/index.m3u8
+Hot Pleasure,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6277/index.m3u8
+HOT XXL HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6276/index.m3u8
+HOTWIFE PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12187/index.m3u8
+Hustler HD Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/244/index.m3u8
+Hustler HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9065/index.m3u8
+Interracial Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6224/index.m3u8
+Japan HDV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
+Kinoshka Adult HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18060/index.m3u8
+KinoXXX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11052/index.m3u8
+Latina Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6226/index.m3u8
+LATINA TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12172/index.m3u8
+LEO TV FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12123/index.m3u8
+Lesbea,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6227/index.m3u8
+Lesbian Affair,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6278/index.m3u8
+Lesbian Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6228/index.m3u8
+Lethal Hardcore,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6229/index.m3u8
+LIBERTY EROTIKA HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16069/index.m3u8
+Little Asians HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6230/index.m3u8
+Live Cams Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6231/index.m3u8
+Lust Cinema,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6232/index.m3u8
+MAD SEX PARTY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12194/index.m3u8
+Meiden Van Holland,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12125/index.m3u8
+MetArt HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6233/index.m3u8
+MILF Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6234/index.m3u8
+MILF TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12173/index.m3u8
+Monsters of Cock,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6235/index.m3u8
+MvH Hard,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6297/index.m3u8
+MYLF TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6236/index.m3u8
+Naughty America,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6237/index.m3u8
+Nubiles TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6238/index.m3u8
+O-la-la,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2161/index.m3u8
+O-La-La orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9068/index.m3u8
+Oldtimer,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6279/index.m3u8
+ox-ax HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6239/index.m3u8
 PASSIE TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12136/index.m3u8
-VERAPORN 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12137/index.m3u8
-VERAPORN 4K 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12138/index.m3u8
-VERAPORN TEENS,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12139/index.m3u8
-VERAPORN TEENS 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12140/index.m3u8
-VERAPORN GROUP SEX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12141/index.m3u8
-VERAPORN GROUP SEX 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12142/index.m3u8
-VERAPORN ANAL,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12143/index.m3u8
-VERAPORN FEET,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12144/index.m3u8
-VERAPORN BIG TITS,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12145/index.m3u8
+Penthouse Gold HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5011/index.m3u8
+Penthouse Passion HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1073/index.m3u8
+Penthouse Quickies 1300k,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5012/index.m3u8
+Penthouse Quickies HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5013/index.m3u8
+Pink Erotic 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6240/index.m3u8
+Pink Erotic 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6241/index.m3u8
 PINK EROTICA 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12146/index.m3u8
 PINK EROTICA 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12147/index.m3u8
 PINK EROTICA 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12148/index.m3u8
@@ -4574,11 +5098,39 @@ PINK EROTICA 5,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12150/index.m3u8
 PINK EROTICA 6,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12151/index.m3u8
 PINK EROTICA 7,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12152/index.m3u8
 PINK EROTICA 8,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12153/index.m3u8
-TURKCE ALTAZILI YENI,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12154/index.m3u8
-TURKCE ALTAZILI YENI 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12155/index.m3u8
-TURKCE ALTAZILI YENI 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12156/index.m3u8
-TURKCE ALTAZILI YENI 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12157/index.m3u8
-TURKCE ALTAZILI YENI 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12158/index.m3u8
+Playboy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/527/index.m3u8
+Playboy LA,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6280/index.m3u8
+Playboy Plus,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6242/index.m3u8
+PLAYBOY TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12135/index.m3u8
+Pornstar Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6243/index.m3u8
+PORNSTAR TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12174/index.m3u8
+POV Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6244/index.m3u8
+POV TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12175/index.m3u8
+Private HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6245/index.m3u8
+Private TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/243/index.m3u8
+PROKOPTV XXX HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19401/index.m3u8
+Public Agent,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6246/index.m3u8
+PURE BABES,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12112/index.m3u8
+Reality Kings HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6247/index.m3u8
+Red Lips,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6271/index.m3u8
+Red XXX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6281/index.m3u8
+Redlight HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/242/index.m3u8
+Redlight HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9066/index.m3u8
+RK Prime,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6248/index.m3u8
+RK TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6249/index.m3u8
+ROCCO TV 7/24,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12189/index.m3u8
+Rough Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6250/index.m3u8
+ROUGH TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12176/index.m3u8
+Russian Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6251/index.m3u8
+RUSSIAN TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12177/index.m3u8
+Sex With Muslims,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6252/index.m3u8
+SexArt,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6253/index.m3u8
+sext 6 senso,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6254/index.m3u8
+Sexto Senso,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/875/index.m3u8
+Sexy Hot,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6282/index.m3u8
+SINematica,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6255/index.m3u8
+SKY HIGH ADULT HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15166/index.m3u8
+SKY_HIGH_SEX_VR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19406/index.m3u8
 SL EROTIC HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12160/index.m3u8
 SL HOT 1 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12161/index.m3u8
 SL HOT 2 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12162/index.m3u8
@@ -4589,215 +5141,70 @@ SL HOT 6 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12166/index.m3u8
 SL HOT 7 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12167/index.m3u8
 SL HOT 8 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12168/index.m3u8
 SL HOT 9 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12169/index.m3u8
-BAG U,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12170/index.m3u8
-XXXINTERRACIAL TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12171/index.m3u8
-LATINA TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12172/index.m3u8
-MILF TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12173/index.m3u8
-PORNSTAR TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12174/index.m3u8
-POV TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12175/index.m3u8
-ROUGH TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12176/index.m3u8
-RUSSIAN TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12177/index.m3u8
-TEEN TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12178/index.m3u8
-THREESOME TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12180/index.m3u8
-BANGBROS UHD 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12181/index.m3u8
-DIRTY HOBBY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12183/index.m3u8
-GANGBANG CREAMPIE,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12184/index.m3u8
-HOTWIFE PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12187/index.m3u8
-TUSHY TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12188/index.m3u8
-ROCCO TV 7/24,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12189/index.m3u8
-BLACKED TV PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12190/index.m3u8
-BLACKED TV ELITE,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12191/index.m3u8
-GLORYHOLE LOVE FHD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12192/index.m3u8
-TRANS PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12193/index.m3u8
-MAD SEX PARTY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12194/index.m3u8
-GAY PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12204/index.m3u8
-FAST BOYZ GAY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12205/index.m3u8
-XXX Love\'s Berry HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14140/index.m3u8
-YOSSO TV SEXY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14176/index.m3u8
-SKY HIGH ADULT HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15166/index.m3u8
-Kaloopy hd tv,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16018/index.m3u8
-LIBERTY EROTIKA HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16069/index.m3u8
-Кино 18+ HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18075/index.m3u8
-Кино 18+ International,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18076/index.m3u8
-Kinoshka Adult HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18060/index.m3u8
-Eromania 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/10049/index.m3u8
-DuckTV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18138/index.m3u8
-PROKOPTV XXX HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19401/index.m3u8
-SKY_HIGH_SEX_VR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19406/index.m3u8
-Brazzers HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6182/index.m3u8
-Brazzers TV Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/910/index.m3u8
-Brazzers eXXtra,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6181/index.m3u8
-Hustler HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9065/index.m3u8
-Hustler HD Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/244/index.m3u8
-Blue Hustler,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1064/index.m3u8
-Penthouse Passion HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1073/index.m3u8
-Penthouse Gold HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5011/index.m3u8
-Penthouse Quickies HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5013/index.m3u8
-DDF Network,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6194/index.m3u8
-DDF Busty,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6193/index.m3u8
-Naughty America,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6237/index.m3u8
-Нюарт TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2057/index.m3u8
-Шалун,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/922/index.m3u8
-Playboy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/527/index.m3u8
-Sexto Senso,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/875/index.m3u8
-Penthouse Quickies 1300k,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5012/index.m3u8
-Candy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/923/index.m3u8
-FrenchLover,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2160/index.m3u8
-Redlight HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/242/index.m3u8
-Vivid Red HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2162/index.m3u8
-Eroxxx HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5015/index.m3u8
-XXL,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5009/index.m3u8
-Passion XXX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/878/index.m3u8
-O-la-la,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2161/index.m3u8
-Extasy 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5014/index.m3u8
-Private TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/243/index.m3u8
-Barely legal,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/871/index.m3u8
-Exxxotica HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2397/index.m3u8
-Dorcel TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/245/index.m3u8
-Adult Time,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6166/index.m3u8
-Anal Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6167/index.m3u8
-Analized HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6168/index.m3u8
-AST TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6169/index.m3u8
-AST TV 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6170/index.m3u8
-A3 Bikini,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6165/index.m3u8
-Babes TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6172/index.m3u8
-Bang Bros HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6173/index.m3u8
-Bang!,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6174/index.m3u8
-Big Ass Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6175/index.m3u8
-Big Dick Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6176/index.m3u8
-Big Tits Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6177/index.m3u8
-Blacked HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6178/index.m3u8
-Blonde Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6179/index.m3u8
-Blowjob Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6180/index.m3u8
-Brunette Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6183/index.m3u8
-Cherry Pimps,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6185/index.m3u8
-Club 17,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6186/index.m3u8
-Русская ночь orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9344/index.m3u8
-Compilation Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6187/index.m3u8
-Cuckold Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6188/index.m3u8
-Cum Louder,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6189/index.m3u8
-Cum4k,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6190/index.m3u8
-cento x cento,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6184/index.m3u8
-Day with a Pornstar,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6192/index.m3u8
-Digital Desire HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6195/index.m3u8
-Digital Playground HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6196/index.m3u8
-Dorcel Club,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6197/index.m3u8
-Dusk,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6198/index.m3u8
-Evil Angel HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6199/index.m3u8
-Evolved Fights,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6200/index.m3u8
-Extasy HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6201/index.m3u8
-Fake Taxi HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6202/index.m3u8
-Fap TV 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6203/index.m3u8
-Fap TV 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6204/index.m3u8
-Fap TV Anal,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6206/index.m3u8
-Fap TV BBW,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6207/index.m3u8
-Fap TV Compilation,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6208/index.m3u8
-Fap TV Lesbian,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6209/index.m3u8
-Fap TV Parody,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6210/index.m3u8
-Fap TV Teens,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6211/index.m3u8
-FemJoy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6212/index.m3u8
-Fetish Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6213/index.m3u8
-Gangbang Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6214/index.m3u8
-Gay Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6215/index.m3u8
-Got MYLF,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6216/index.m3u8
-Hands on Hardcore,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6217/index.m3u8
-Hard X,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6218/index.m3u8
-Hardcore Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6219/index.m3u8
-Hitzefrei HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6220/index.m3u8
-Holed,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6221/index.m3u8
-Hot and Mean,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6222/index.m3u8
-Hot Guys Fuck,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6223/index.m3u8
-Interracial Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6224/index.m3u8
-Japan HDV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
-Latina Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6226/index.m3u8
-Lesbea,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6227/index.m3u8
-Lesbian Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6228/index.m3u8
-Lethal Hardcore,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6229/index.m3u8
-Little Asians HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6230/index.m3u8
-Live Cams Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6231/index.m3u8
-Lust Cinema,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6232/index.m3u8
-MetArt HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6233/index.m3u8
-MILF Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6234/index.m3u8
-Monsters of Cock,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6235/index.m3u8
-MYLF TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6236/index.m3u8
-Nubiles TV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6238/index.m3u8
-ox-ax HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6239/index.m3u8
-Pink Erotic 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6240/index.m3u8
-Pink Erotic 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6241/index.m3u8
-Playboy Plus,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6242/index.m3u8
-Pornstar Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6243/index.m3u8
-POV Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6244/index.m3u8
-Private HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6245/index.m3u8
-Public Agent,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6246/index.m3u8
-Reality Kings HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6247/index.m3u8
-RK Prime,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6248/index.m3u8
-RK TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6249/index.m3u8
-Rough Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6250/index.m3u8
-Russian Adult TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6251/index.m3u8
-Sex With Muslims,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6252/index.m3u8
-SexArt,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6253/index.m3u8
-sext 6 senso,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6254/index.m3u8
-SINematica,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6255/index.m3u8
+Super one HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12121/index.m3u8
+SuperOne HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6298/index.m3u8
+Taboo,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6283/index.m3u8
 Teen Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6256/index.m3u8
+TEEN TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12178/index.m3u8
 Threesome Red TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6257/index.m3u8
+THREESOME TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12180/index.m3u8
 Tiny4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6258/index.m3u8
 Trans Angels,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6259/index.m3u8
+TRANS PREMIUM,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12193/index.m3u8
 True Amateurs,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6260/index.m3u8
+TURKCE ALTAZILI YENI,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12154/index.m3u8
+TURKCE ALTAZILI YENI 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12155/index.m3u8
+TURKCE ALTAZILI YENI 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12156/index.m3u8
+TURKCE ALTAZILI YENI 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12157/index.m3u8
+TURKCE ALTAZILI YENI 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12158/index.m3u8
 Tushy HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6261/index.m3u8
+TUSHY TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12188/index.m3u8
 TushyRAW,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6262/index.m3u8
+Venus,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6284/index.m3u8
+Venus HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12133/index.m3u8
+VERAPORN 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12137/index.m3u8
+VERAPORN 4K 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12138/index.m3u8
+VERAPORN ANAL,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12143/index.m3u8
+VERAPORN BIG TITS,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12145/index.m3u8
+VERAPORN FEET,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12144/index.m3u8
+VERAPORN GROUP SEX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12141/index.m3u8
+VERAPORN GROUP SEX 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12142/index.m3u8
+VERAPORN TEENS,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12139/index.m3u8
+VERAPORN TEENS 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12140/index.m3u8
+VF Cartoon 18+,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11117/index.m3u8
 Visit-X TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6263/index.m3u8
+Vivid Red HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2162/index.m3u8
 Vivid TV Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6264/index.m3u8
 Vixen HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6265/index.m3u8
 We Live Together,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6266/index.m3u8
 White Boxxx,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6267/index.m3u8
 Wicked,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6268/index.m3u8
-Xpanded TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6269/index.m3u8
-Balkan Erotic,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6270/index.m3u8
-Bangerz,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6271/index.m3u8
-Emanuelle HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6272/index.m3u8
-Extreme,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6273/index.m3u8
-Fast Boyz,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6274/index.m3u8
-HOT,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6275/index.m3u8
-HOT XXL HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6276/index.m3u8
-Hot Pleasure,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6277/index.m3u8
-Lesbian Affair,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6278/index.m3u8
-Oldtimer,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6279/index.m3u8
-Playboy LA,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6280/index.m3u8
-Red XXX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6281/index.m3u8
-Sexy Hot,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6282/index.m3u8
-Taboo,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6283/index.m3u8
-Venus,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6284/index.m3u8
+X Plus Milf HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12130/index.m3u8
+X1 TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12122/index.m3u8
 X-MO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6285/index.m3u8
+Xpanded TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6269/index.m3u8
+XXL,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5009/index.m3u8
+XXL orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9345/index.m3u8
+XXX Love\'s Berry HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14140/index.m3u8
+XXXINTERRACIAL TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12171/index.m3u8
 XY Max HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6286/index.m3u8
 XY Mix HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6287/index.m3u8
+XY Plus 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12115/index.m3u8
+XY Plus 12,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12118/index.m3u8
+XY Plus 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12116/index.m3u8
+XY Plus 24,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12119/index.m3u8
+XY Plus 6,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12117/index.m3u8
 XY Plus HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6288/index.m3u8
-Erotic,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6289/index.m3u8
-Erotic 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6290/index.m3u8
-Erotic 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6291/index.m3u8
-Erotic 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6292/index.m3u8
-Erotic 6,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6293/index.m3u8
-Erotic 7,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6294/index.m3u8
-Erotic 8,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6295/index.m3u8
-Erox HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6296/index.m3u8
-MvH Hard,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6297/index.m3u8
-SuperOne HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6298/index.m3u8
-Dorcel HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9064/index.m3u8
-Redlight HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9066/index.m3u8
-Passion XXX orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9067/index.m3u8
-O-La-La orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9068/index.m3u8
-XXL orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9345/index.m3u8
-EXXXOTICA HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9346/index.m3u8
+YOSSO TV SEXY,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14176/index.m3u8
+Кино 18+ HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18075/index.m3u8
+Кино 18+ International,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18076/index.m3u8
+Нюарт TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2057/index.m3u8
 ОХ-АХ HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11068/index.m3u8
-KinoXXX,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11052/index.m3u8
-EXTASY HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11051/index.m3u8
-VF Cartoon 18+,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11117/index.m3u8
-Alba 1 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12105/index.m3u8
-Alba 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12106/index.m3u8
-Alba 2 HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12107/index.m3u8
-Alba 2,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12108/index.m3u8
-Alba 3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12109/index.m3u8
-Alba 4,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12110/index.m3u8
-Alba 5,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12111/index.m3u8
+Русская Ночь,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/147/index.m3u8
+Русская ночь orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9344/index.m3u8
+Шалун,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/922/index.m3u8
+Kaloopy hd tv,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16018/index.m3u8
+Candy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/923/index.m3u8
 
 SWAG,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18060/index.m3u8
 SWAG电影,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18053/index.m3u8
