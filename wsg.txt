@@ -2150,76 +2150,6 @@ CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 埋堆堆64,http://111.62.156.24/tx.flv.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs 
 埋堆堆65,http://111.62.156.24/tx.flv.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 埋堆堆66,http://111.62.156.24/tx.flv.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
-埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
-埋堆堆4,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
-埋堆堆10,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
-埋堆堆25,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
-埋堆堆26,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
-埋堆堆28,http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
-埋堆堆29,http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
-埋堆堆32,http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
-埋堆堆40,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
-埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
-埋堆堆11,http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
-埋堆堆12,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
-埋堆堆16,http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
-埋堆堆21,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
-埋堆堆23,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
-埋堆堆24,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
-埋堆堆27,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
-埋堆堆30,http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
-埋堆堆31,http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
-埋堆堆42,http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
-埋堆堆44,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
-埋堆堆47,http://txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
-埋堆堆49,http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
-埋堆堆52,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
-埋堆堆54,http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
-埋堆堆56,http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
-埋堆堆57,http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
-埋堆堆58,http://txtest-xp2p.p2p.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.xs
-埋堆堆61,http://txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
-埋堆堆65,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
-埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
-埋堆堆68,http://txtest-xp2p.p2p.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.xs
-埋堆堆3,http://txtest-xp2p.p2p.huya.com/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
-埋堆堆5,http://txtest-xp2p.p2p.huya.com/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
-埋堆堆6,http://txtest-xp2p.p2p.huya.com/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-埋堆堆9,http://txtest-xp2p.p2p.huya.com/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-埋堆堆13,http://txtest-xp2p.p2p.huya.com/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
-埋堆堆19,http://txtest-xp2p.p2p.huya.com/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-埋堆堆22,http://txtest-xp2p.p2p.huya.com/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1.xs
-埋堆堆25,http://txtest-xp2p.p2p.huya.com/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
-埋堆堆28,http://txtest-xp2p.p2p.huya.com/1423782076-1423782076-6115097453050986496-2847687608-10057-A-0-1.xs
-埋堆堆29,http://txtest-xp2p.p2p.huya.com/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.xs
-埋堆堆35,http://txtest-xp2p.p2p.huya.com/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
-埋堆堆36,http://txtest-xp2p.p2p.huya.com/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1.xs
-埋堆堆37,http://txtest-xp2p.p2p.huya.com/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-埋堆堆40,http://txtest-xp2p.p2p.huya.com/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-埋堆堆42,http://txtest-xp2p.p2p.huya.com/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1.xs
-埋堆堆43,http://txtest-xp2p.p2p.huya.com/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-埋堆堆44,http://txtest-xp2p.p2p.huya.com/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-埋堆堆48,http://txtest-xp2p.p2p.huya.com/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
-埋堆堆49,http://txtest-xp2p.p2p.huya.com/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-埋堆堆51,http://txtest-xp2p.p2p.huya.com/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
-埋堆堆58,http://txtest-xp2p.p2p.huya.com/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
-埋堆堆59,http://txtest-xp2p.p2p.huya.com/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-埋堆堆65,http://txtest-xp2p.p2p.huya.com/1099531752778-1099531752778-86436225421934592-2199063629012-10057-A-0-1.xs
-埋堆堆67,http://txtest-xp2p.p2p.huya.com/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.xs
-埋堆堆68,http://txtest-xp2p.p2p.huya.com/1099531752774-1099531752774-86436208242065408-2199063629004-10057-A-0-1.xs
-埋堆堆69,http://txtest-xp2p.p2p.huya.com/1099531752770-1099531752770-86436191062196224-2199063628996-10057-A-0-1.xs
-埋堆堆71,http://txtest-xp2p.p2p.huya.com/1099531752777-1099531752777-86436221126967296-2199063629010-10057-A-0-1.xs
-埋堆堆74,http://txtest-xp2p.p2p.huya.com/1099531752772-1099531752772-86436199652130816-2199063629000-10057-A-0-1.xs
-埋堆堆75,http://txtest-xp2p.p2p.huya.com/1099531752749-1099531752749-86436100867883008-2199063628954-10057-A-0-1.xs
-埋堆堆76,http://txtest-xp2p.p2p.huya.com/1099531752785-1099531752785-86436255486705664-2199063629026-10057-A-0-1.xs
-埋堆堆78,http://txtest-xp2p.p2p.huya.com/1099531752773-1099531752773-86436203947098112-2199063629002-10057-A-0-1.xs
-埋堆堆83,http://txtest-xp2p.p2p.huya.com/1423787819-1423787819-6115122119048167424-2847699094-10057-A-0-1.xs
-埋堆堆87,http://txtest-xp2p.p2p.huya.com/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.xs
-埋堆堆89,http://txtest-xp2p.p2p.huya.com/1099531752783-1099531752783-86436246896771072-2199063629022-10057-A-0-1.xs
-埋堆堆90,http://txtest-xp2p.p2p.huya.com/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.xs
-埋堆堆93,http://txtest-xp2p.p2p.huya.com/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-埋堆堆95,http://txtest-xp2p.p2p.huya.com/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.xs
-埋堆堆96,http://txtest-xp2p.p2p.huya.com/1099531752771-1099531752771-86436195357163520-2199063628998-10057-A-0-1.xs
 
 🐟斗鱼劇场,#genre#
 吃米滴虫,http://epg.112114.xyz/douyu/315457
@@ -8018,6 +7948,266 @@ Vod 6997,https://vod.mycamtv.net/6997.m3u8
 Vod 6998,https://vod.mycamtv.net/6998.m3u8
 Vod 6999,https://vod.mycamtv.net/6999.m3u8
 Vod 7000,https://vod.mycamtv.net/7000.m3u8
+
+🔞欧美激情_666,#genre#
+XXX Playboy,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/230/stream.m3u8
+XXX Redlight HD,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/233/stream.m3u8
+XXX Hustler HD,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/234/stream.m3u8
+XXX Barely Legal TV,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/243/stream.m3u8
+XXX Nuart,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/269/stream.m3u8
+XXX Olala,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/281/stream.m3u8
+XXX Eroxxx,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/363/stream.m3u8
+XXX VISIT,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/525/stream.m3u8
+XXX BLUE HUSTLER,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/544/stream.m3u8
+XXX RED LIPS,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1888/stream.m3u8
+XXX Кино 18+,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1857/stream.m3u8
+XXX Babestation,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1662/stream.m3u8
+XXX Extasy 4K,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/940/stream.m3u8
+XXX Penthouse Quickies HD,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1154/stream.m3u8
+XXX Pornstar,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/632/stream.m3u8
+XXX YOSSO TV SEXY,http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1771/stream.m3u8
+
+FrenchLover,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/2160/index.m3u8
+Redlight HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/242/index.m3u8
+Vivid Red HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/2162/index.m3u8
+Eroxxx HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/5015/index.m3u8
+XXL,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/5009/index.m3u8
+Dorcel TV FHD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/878/index.m3u8
+O-la-la,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/2161/index.m3u8
+Extasy 4K,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/5014/index.m3u8
+Private TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/243/index.m3u8
+Barely legal,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/871/index.m3u8
+Exxxotica HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/2397/index.m3u8
+Dorcel TV HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/245/index.m3u8
+Adult Time,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6166/index.m3u8
+Anal Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6167/index.m3u8
+Analized HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6168/index.m3u8
+AST TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6169/index.m3u8
+AST TV 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6170/index.m3u8
+A3 Bikini,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6165/index.m3u8
+Babes TV HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6172/index.m3u8
+Bang Bros HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6173/index.m3u8
+Bang!,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6174/index.m3u8
+Big Ass Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6175/index.m3u8
+Big Dick Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6176/index.m3u8
+Big Tits Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6177/index.m3u8
+Blacked HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6178/index.m3u8
+Blonde Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6179/index.m3u8
+Blowjob Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6180/index.m3u8
+Brunette Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6183/index.m3u8
+Cherry Pimps,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6185/index.m3u8
+Club 17,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6186/index.m3u8
+Русская ночь orig,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9344/index.m3u8
+Compilation Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6187/index.m3u8
+Cuckold Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6188/index.m3u8
+Cum Louder,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6189/index.m3u8
+Cum4k,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6190/index.m3u8
+cento x cento,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6184/index.m3u8
+Day with a Pornstar,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6192/index.m3u8
+Digital Desire HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6195/index.m3u8
+Digital Playground HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6196/index.m3u8
+Dorcel Club,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6197/index.m3u8
+Dusk,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6198/index.m3u8
+Evil Angel HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6199/index.m3u8
+Evolved Fights,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6200/index.m3u8
+Extasy HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6201/index.m3u8
+Fake Taxi HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6202/index.m3u8
+Fap TV 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6203/index.m3u8
+Fap TV 3,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6204/index.m3u8
+Fap TV Anal,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6206/index.m3u8
+Fap TV BBW,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6207/index.m3u8
+Fap TV Compilation,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6208/index.m3u8
+Fap TV Lesbian,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6209/index.m3u8
+Fap TV Parody,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6210/index.m3u8
+Fap TV Teens,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6211/index.m3u8
+FemJoy,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6212/index.m3u8
+Fetish Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6213/index.m3u8
+Gangbang Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6214/index.m3u8
+Gay Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6215/index.m3u8
+Got MYLF,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6216/index.m3u8
+Hands on Hardcore,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6217/index.m3u8
+Hard X,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6218/index.m3u8
+Hardcore Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6219/index.m3u8
+Hitzefrei HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6220/index.m3u8
+Holed,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6221/index.m3u8
+Hot and Mean,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6222/index.m3u8
+Hot Guys Fuck,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6223/index.m3u8
+Interracial Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6224/index.m3u8
+Japan HDV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6225/index.m3u8
+Latina Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6226/index.m3u8
+Lesbea,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6227/index.m3u8
+Lesbian Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6228/index.m3u8
+Lethal Hardcore,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6229/index.m3u8
+Little Asians HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6230/index.m3u8
+Live Cams Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6231/index.m3u8
+Lust Cinema,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6232/index.m3u8
+MetArt HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6233/index.m3u8
+MILF Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6234/index.m3u8
+Monsters of Cock,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6235/index.m3u8
+MYLF TV HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6236/index.m3u8
+Nubiles TV HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6238/index.m3u8
+ox-ax HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6239/index.m3u8
+Pink Erotic 3,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6240/index.m3u8
+Pink Erotic 4,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6241/index.m3u8
+Playboy Plus,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6242/index.m3u8
+Pornstar Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6243/index.m3u8
+POV Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6244/index.m3u8
+Private HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6245/index.m3u8
+Public Agent,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6246/index.m3u8
+Reality Kings HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6247/index.m3u8
+RK Prime,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6248/index.m3u8
+RK TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6249/index.m3u8
+Rough Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6250/index.m3u8
+Russian Adult TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6251/index.m3u8
+Sex With Muslims,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6252/index.m3u8
+SexArt,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6253/index.m3u8
+sext 6 senso,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6254/index.m3u8
+SINematica,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6255/index.m3u8
+Teen Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6256/index.m3u8
+Threesome Red TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6257/index.m3u8
+Tiny4K,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6258/index.m3u8
+Trans Angels,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6259/index.m3u8
+True Amateurs,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6260/index.m3u8
+Tushy HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6261/index.m3u8
+TushyRAW,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6262/index.m3u8
+Visit-X TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6263/index.m3u8
+Vivid TV Europe,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6264/index.m3u8
+Vixen HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6265/index.m3u8
+We Live Together,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6266/index.m3u8
+White Boxxx,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6267/index.m3u8
+Wicked,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6268/index.m3u8
+Xpanded TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6269/index.m3u8
+Balkan Erotic,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6270/index.m3u8
+Red Lips,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6271/index.m3u8
+Emanuelle HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6272/index.m3u8
+Extreme,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6273/index.m3u8
+Fast Boyz,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6274/index.m3u8
+HOT,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6275/index.m3u8
+HOT XXL HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6276/index.m3u8
+Hot Pleasure,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6277/index.m3u8
+Lesbian Affair,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6278/index.m3u8
+Oldtimer,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6279/index.m3u8
+Playboy LA,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6280/index.m3u8
+Red XXX,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6281/index.m3u8
+Sexy Hot,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6282/index.m3u8
+Taboo,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6283/index.m3u8
+Venus,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6284/index.m3u8
+X-MO,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6285/index.m3u8
+XY Max HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6286/index.m3u8
+XY Mix HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6287/index.m3u8
+XY Plus HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6288/index.m3u8
+Erotic,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6289/index.m3u8
+Erotic 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6290/index.m3u8
+Erotic 3,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6291/index.m3u8
+Erotic 4,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6292/index.m3u8
+Erotic 6,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6293/index.m3u8
+Erotic 7,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6294/index.m3u8
+Erotic 8,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6295/index.m3u8
+Erox HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6296/index.m3u8
+SuperOne HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6298/index.m3u8
+Dorcel HD orig,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9064/index.m3u8
+Redlight HD orig,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9066/index.m3u8
+Dorcel TV HD orig,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9067/index.m3u8
+O-La-La orig,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9068/index.m3u8
+XXL orig,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9345/index.m3u8
+EXXXOTICA HD orig,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9346/index.m3u8
+KinoXXX,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/11052/index.m3u8
+EXTASY HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/11051/index.m3u8
+VF Cartoon,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/11117/index.m3u8
+Alba 1 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12105/index.m3u8
+Alba 1,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12106/index.m3u8
+Alba 2 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12107/index.m3u8
+Alba 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12108/index.m3u8
+Alba 3,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12109/index.m3u8
+Alba 4,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12110/index.m3u8
+Alba 5,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12111/index.m3u8
+PURE BABES,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12112/index.m3u8
+BRAZZERS TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12113/index.m3u8
+Bang U,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12114/index.m3u8
+XY Plus 1,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12115/index.m3u8
+XY Plus 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12116/index.m3u8
+XY Plus 6,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12117/index.m3u8
+XY Plus 12,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12118/index.m3u8
+XY Plus 24,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12119/index.m3u8
+Super one HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12121/index.m3u8
+X1 TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12122/index.m3u8
+LEO TV FHD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12123/index.m3u8
+French Lover,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12124/index.m3u8
+Meiden Van Holland,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12125/index.m3u8
+EROCOM TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12128/index.m3u8
+DUSK TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12129/index.m3u8
+X Plus Milf HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12130/index.m3u8
+DORCEL TV FHD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12131/index.m3u8
+DORCEL XXX TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12132/index.m3u8
+Venus HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12133/index.m3u8
+FREE X TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12134/index.m3u8
+PLAYBOY TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12135/index.m3u8
+PASSIE TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12136/index.m3u8
+VERAPORN 4K,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12137/index.m3u8
+VERAPORN 4K 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12138/index.m3u8
+VERAPORN TEENS,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12139/index.m3u8
+VERAPORN TEENS 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12140/index.m3u8
+VERAPORN GROUP SEX,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12141/index.m3u8
+VERAPORN GROUP SEX 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12142/index.m3u8
+VERAPORN FEET,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12144/index.m3u8
+VERAPORN BIG TITS,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12145/index.m3u8
+PINK EROTICA 1,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12146/index.m3u8
+PINK EROTICA 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12147/index.m3u8
+PINK EROTICA 3,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12148/index.m3u8
+PINK EROTICA 4,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12149/index.m3u8
+PINK EROTICA 5,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12150/index.m3u8
+PINK EROTICA 6,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12151/index.m3u8
+PINK EROTICA 7,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12152/index.m3u8
+PINK EROTICA 8,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12153/index.m3u8
+TURKCE ALTAZILI YENI,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12154/index.m3u8
+TURKCE ALTAZILI YENI 1,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12155/index.m3u8
+TURKCE ALTAZILI YENI 2,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12156/index.m3u8
+TURKCE ALTAZILI YENI 3,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12157/index.m3u8
+TURKCE ALTAZILI YENI 4,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12158/index.m3u8
+SL EROTIC HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12160/index.m3u8
+SL HOT 1 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12161/index.m3u8
+SL HOT 2 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12162/index.m3u8
+SL HOT 3 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12163/index.m3u8
+SL HOT 4 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12164/index.m3u8
+SL HOT 5 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12165/index.m3u8
+SL HOT 6 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12166/index.m3u8
+SL HOT 7 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12167/index.m3u8
+SL HOT 8 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12168/index.m3u8
+SL HOT 9 HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12169/index.m3u8
+BAG U,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12170/index.m3u8
+XXXINTERRACIAL TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12171/index.m3u8
+LATINA TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12172/index.m3u8
+MILF TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12173/index.m3u8
+PORNSTAR TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12174/index.m3u8
+POV TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12175/index.m3u8
+ROUGH TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12176/index.m3u8
+RUSSIAN TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12177/index.m3u8
+TEEN TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12178/index.m3u8
+THREESOME TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12180/index.m3u8
+BANGBROS UHD 4K,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12181/index.m3u8
+DIRTY HOBBY,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12183/index.m3u8
+HOTWIFE PREMIUM,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12187/index.m3u8
+TUSHY TV,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12188/index.m3u8
+ROCCO TV 7/24,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12189/index.m3u8
+BLACKED TV PREMIUM,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12190/index.m3u8
+BLACKED TV ELITE,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12191/index.m3u8
+GLORYHOLE LOVE FHD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12192/index.m3u8
+TRANS PREMIUM,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12193/index.m3u8
+MAD SEX PARTY,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12194/index.m3u8
+GAY PREMIUM,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12204/index.m3u8
+FAST BOYZ GAY,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12205/index.m3u8
+XXX Love\\\'s Berry HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/14140/index.m3u8
+YOSSO TV SEXY,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/14176/index.m3u8
+SKY HIGH ADULT HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/15166/index.m3u8
+LIBERTY EROTIKA HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/16069/index.m3u8
+Кино  HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18075/index.m3u8
+Кино  International,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18076/index.m3u8
+Kinoshka Adult HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18060/index.m3u8
+Eromania 4K,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/10049/index.m3u8
+DuckTV HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18138/index.m3u8
+PROKOPTV XXX HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/19401/index.m3u8
+SKY_HIGH_SEX_VR,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/19406/index.m3u8
+Dorcel TV FHD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12120/index.m3u8
 
 🔞钓老熟女_666,#genre#
 专找老阿姨07-05四十多岁的老熟女,https://t7.cdn2020.com/video/m3u8/2021/07/07/b98b1880/index.m3u8
