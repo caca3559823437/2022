@@ -759,6 +759,88 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 都市劇场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 新視觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+歡笑劇场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
+金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
+第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+新聞综合,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+紀實人文,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+東方影視,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+五星體育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+外语频道,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+七彩戲劇,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
+上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
+全紀實,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+新視觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+歡笑劇场,http://cfss.cc/ds/bst.php?id=Cf-45
+歡笑劇场,http://cfss.cc/ds/bst.php?id=Cf-46
+戏曲精选,http://cfss.cc/ds/bst.php?id=Cf-49
+新聞综合,http://cfss.cc/ds/bst.php?id=Cf-50
+上海都市,http://cfss.cc/ds/bst.php?id=Cf-51
+紀實人文,http://cfss.cc/ds/bst.php?id=Cf-52
+東方影視,http://cfss.cc/ds/bst.php?id=Cf-53
+五星體育,http://cfss.cc/ds/bst.php?id=Cf-54
+外语频道,http://cfss.cc/ds/bst.php?id=Cf-55
+七彩戲劇,http://cfss.cc/ds/bst.php?id=Cf-56
+上海教育,http://cfss.cc/ds/bst.php?id=Cf-57
+全紀實,http://cfss.cc/ds/bst.php?id=Cf-58
+生活时尚,http://cfss.cc/ds/bst.php?id=Cf-59
+新視觉,http://cfss.cc/ds/bst.php?id=Cf-60
+游戏风云,http://cfss.cc/ds/bst.php?id=Cf-61
+热门综艺,http://cfss.cc/ds/bst.php?id=Cf-62
+超级体育,http://cfss.cc/ds/bst.php?id=Cf-63
+健康养生,http://cfss.cc/ds/bst.php?id=Cf-64
+百变课堂,http://cfss.cc/ds/bst.php?id=Cf-65
+華语影院,http://cfss.cc/ds/bst.php?id=Cf-66
+電竞天堂,http://cfss.cc/ds/bst.php?id=Cf-67
+青春动漫,http://cfss.cc/ds/bst.php?id=Cf-68
+宝宝动画,http://cfss.cc/ds/bst.php?id=Cf-69
+星光影院,http://cfss.cc/ds/bst.php?id=Cf-70
+谍战剧场,http://cfss.cc/ds/bst.php?id=Cf-71
+全球大片,http://cfss.cc/ds/bst.php?id=Cf-72
+热门剧场,http://cfss.cc/ds/bst.php?id=Cf-73
+纪实科教,http://cfss.cc/ds/bst.php?id=Cf-78
+茶频道,http://cfss.cc/ds/bst.php?id=Cf-79
+足球高清,http://cfss.cc/ds/bst.php?id=Cf-80
+炫动卡通,http://cfss.cc/ds/bst.php?id=Cf-81
+東方財經,http://cfss.cc/ds/bst.php?id=Cf-82
+都市剧场,http://cfss.cc/ds/bst.php?id=Cf-83
+动漫秀场,http://cfss.cc/ds/bst.php?id=Cf-84
+法治天地,http://cfss.cc/ds/bst.php?id=Cf-85
+魅力足球,http://cfss.cc/ds/bst.php?id=Cf-86
+第一財經,http://cfss.cc/ds/bst.php?id=Cf-87
+看天下精选,http://cfss.cc/ds/bst.php?id=Cf-88
+歡笑劇场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
+金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
+第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+新聞综合,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+紀實人文,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+東方影視,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+五星體育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+外语频道,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+七彩戲劇,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
+上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
+全紀實,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+新視觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
+热门综艺,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+健康养生,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
+百变课堂,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+看天下精选,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+華语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+五星體育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+靓妆,http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -931,9 +1013,11 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中天新聞,http://www.yshmzmc.top/gtjm.php?id=live1015
 中天新聞,http://2023.stream-link.org/playlist/cti_news
 中天新聞,https://pkj99.github.io/YTLive/中天新闻.m3u8
+東森LIVE,http://2023.stream-link.org/playlist/ebc_news
 東森新聞,http://www.yshmzmc.top/gtjm.php?id=live1014
 東森新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=2
 東森新聞,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+寰宇新聞,http://2023.stream-link.org/playlist/global_tw
 寰宇新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=74
@@ -2662,6 +2746,76 @@ CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 埋堆堆64,http://111.62.156.24/tx.flv.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs 
 埋堆堆65,http://111.62.156.24/tx.flv.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 埋堆堆66,http://111.62.156.24/tx.flv.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
+埋堆堆1,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+埋堆堆2,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+埋堆堆3,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+埋堆堆4,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+埋堆堆5,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.xs
+埋堆堆6,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+埋堆堆7,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+埋堆堆8,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+埋堆堆9,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+埋堆堆10,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+埋堆堆11,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+埋堆堆12,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+埋堆堆13,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+埋堆堆14,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+埋堆堆15,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+埋堆堆16,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+埋堆堆17,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+埋堆堆18,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+埋堆堆19,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+埋堆堆20,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+埋堆堆21,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+埋堆堆22,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+埋堆堆23,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+埋堆堆24,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
+埋堆堆25,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+埋堆堆26,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+埋堆堆27,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+埋堆堆28,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
+埋堆堆29,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+埋堆堆30,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.xs
+埋堆堆31,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+埋堆堆32,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+埋堆堆33,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
+埋堆堆34,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+埋堆堆35,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+埋堆堆36,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
+埋堆堆37,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
+埋堆堆38,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+埋堆堆39,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+埋堆堆40,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+埋堆堆41,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+埋堆堆42,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+埋堆堆43,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+埋堆堆44,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.xs
+埋堆堆45,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+埋堆堆46,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+埋堆堆47,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+埋堆堆48,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+埋堆堆49,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+埋堆堆50,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+埋堆堆51,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+埋堆堆52,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+埋堆堆53,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+埋堆堆54,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+埋堆堆55,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs?
+埋堆堆56,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+埋堆堆57,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+埋堆堆58,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+埋堆堆59,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.xs
+埋堆堆60,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+埋堆堆61,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+埋堆堆62,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+埋堆堆63,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
+埋堆堆64,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+埋堆堆65,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+埋堆堆66,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+埋堆堆67,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+埋堆堆68,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
+埋堆堆69,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+埋堆堆70,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
 
 🐟斗鱼劇场,#genre#
 吃米滴虫,http://epg.112114.xyz/douyu/315457
