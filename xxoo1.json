@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;5f350e3b859432e66db59eebc3ccce78",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -16,7 +16,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
+      "changeable": 0,
       "ext": {
         "drives": [
           {
@@ -610,7 +610,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ]
