@@ -927,6 +927,7 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,https://api.leonardpark.dev/live/icable/109
 有線新聞,http://2022.stream-link.org/playlist/cable_news
 有線財經,http://2022.stream-link.org/playlist/cable_finance
@@ -1018,11 +1019,11 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 東森新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=2
 東森新聞,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 寰宇新聞,http://2023.stream-link.org/playlist/global_tw
+寰宇新聞,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
 寰宇新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=74
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-寰宇新聞,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
 三立新聞,http://158.101.151.82:9000/jmsytb.m3u8?c=9
 三立iNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=16
 镜新聞台,http://158.101.151.82:9000/jmsytb.m3u8?c=19
