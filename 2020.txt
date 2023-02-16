@@ -646,6 +646,8 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 新聞综合,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 新聞综合,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
 新聞综合,http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1
+新聞综合,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+新聞综合,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 外语频道,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
 外语频道,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&stbId=4
 紀實人文,http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
@@ -970,6 +972,23 @@ now體育台,http://2022.stream-link.org/playlist/now_sports
 澳亞衛視,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 🇹🇼台灣频道,#genre#
+TVBS HD,http://frankfwang.synology.me:9000/live.m3u8?c=2
+TVBS新聞,http://frankfwang.synology.me:9000/live.m3u8?c=1
+中天新聞,http://frankfwang.synology.me:9000/live.m3u8?c=5
+東森LIVE,http://frankfwang.synology.me:9000/live.m3u8?c=10
+三立新聞,http://frankfwang.synology.me:9000/live.m3u8?c=14
+三立iNEWS,http://frankfwang.synology.me:9000/live.m3u8?c=13
+東森財經,http://123.51.230.108:18515/.m3u8
+寰宇新聞,http://frankfwang.synology.me:9000/live.m3u8?c=4
+民視新聞,http://frankfwang.synology.me:9000/live.m3u8?c=32
+民視新聞,http://123.51.230.108:18663/.m3u8
+台視新聞,http://frankfwang.synology.me:9000/live.m3u8?c=8
+中視新聞,http://frankfwang.synology.me:9000/live.m3u8?c=7
+镜新聞台,http://frankfwang.synology.me:9000/live.m3u8?c=3
+台視,http://107.151.203.111:2209/135/us50.php?id=tsk
+台視,http://23.237.10.66:16344
+民視,http://107.151.203.111:2209/135/us50.php?id=msk
+民視,http://23.237.10.66:16334
 TVBS HD,http://2022.stream-link.org/playlist/tvbs
 民視新聞,http://2022.stream-link.org/playlist/ftv_news
 TVBS新聞,http://2022.stream-link.org/playlist/tvbs_news
@@ -1034,6 +1053,13 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 镜新聞台,http://158.101.151.82:9000/jmsytb.m3u8?c=19
 民視,http://23.237.10.66:16334
 台視,http://23.237.10.66:16344
+台視新聞,http://2023.stream-link.org/playlist/ttv_news
+寰宇新聞,http://2023.stream-link.org/playlist/global_tw.flv
+三立新聞,http://2023.stream-link.org/playlist/set_news.flv
+私人影院,http://120.84.96.108:808/hls/24/index.m3u8
+東森電影,http://120.84.96.108:808/hls/32/index.m3u8
+東森洋片,http://120.84.96.108:808/hls/33/index.m3u8
+龍祥電影,http://120.84.96.108:808/hls/35/index.m3u8
 東森電影,http://120.84.96.72:808/hls/32/index.m3u8
 東森電影,http://120.84.96.73:808/hls/32/index.m3u8
 東森電影,http://120.84.96.89:808/hls/32/index.m3u8
@@ -1047,6 +1073,9 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+HBO HD,http://xtv.ooo:8080/311009689/6471777/228255
+HBO HD,http://xtv.ooo:8080/311009689/6471777/228263
+HBO强档,http://xtv.ooo:8080/311009689/6471777/228260
 HBO HD,http://208.115.225.174:14136
 HBO 原创,http://208.115.225.174:14160
 HBO2,http://208.115.225.174:14140
@@ -1779,36 +1808,29 @@ Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 爱极限,http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
 
 📺電影劇场,#genre#
-周星驰,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
-吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
-沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-成龍,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-刘德華,http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
-黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-警匪系列,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-喜劇系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
-动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
-玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
-王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
-历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-死神来了,http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
-搞笑鬼片,http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
-香港黑帮,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
-恐惧竞技,http://txtest-xp2p.p2p.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
+007系列,http://live.aptvapp.com/live/huya/21059585
+杰森·斯坦森,http://live.aptvapp.com/live/huya/21059588
+巨石强森,http://live.aptvapp.com/live/huya/21059581
+周星驰-粤语,http://live.aptvapp.com/live/huya/11336587
+星爷经典,http://live.aptvapp.com/live/huya/11342412
+林正英,http://live.aptvapp.com/live/huya/11342421
+沉腾,http://live.aptvapp.com/live/huya/11601968
+甄子丹,http://live.aptvapp.com/live/huya/11352935
+成龙,http://live.aptvapp.com/live/huya/11342386
+李连杰,http://live.aptvapp.com/live/huya/11342390
+周润发,http://live.aptvapp.com/live/huya/11342387
+刘德华,http://live.aptvapp.com/live/huya/11342424
+洪金宝,http://live.aptvapp.com/live/huya/11279251
+黄渤,http://live.aptvapp.com/live/huya/11342429
+王晶导演,http://live.aptvapp.com/live/huya/11602058
+黑帮系列,http://live.aptvapp.com/live/huya/11336719
+警徽系列,http://live.aptvapp.com/live/huya/11352886
+喜剧系列,http://live.aptvapp.com/live/huya/11602044
+动作大片,http://live.aptvapp.com/live/huya/11602077
+古墓系列,http://live.aptvapp.com/live/huya/11352913
+各类经典电影,http://live.aptvapp.com/live/huya/27203821
+贺岁喜剧,http://live.aptvapp.com/live/huya/11601986
+金庸武侠系列,http://live.aptvapp.com/live/huya/11342427
 林正英6,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 林正英7,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 林正英13,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
@@ -1847,22 +1869,19 @@ Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 超级電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
 超级電視剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 超级電視剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8
-豆瓣高分,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 4K测试,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K测试,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CHC动作,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC動作,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 CHC家庭,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 CHC高清,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
-CHC電影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
 CHC動作,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
-CHC家庭,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
-CHC動作,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC家庭,https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
 CHC高清,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
 CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
@@ -1897,10 +1916,7 @@ CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 江西影視,http://39.134.115.163:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 万州影視,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 万州影視,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-河北影視,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
 河北影視,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
-兴隆影視,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-平泉影視,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 四川影視,http://182.151.211.171:808/hls/53/index.m3u8
 西安影視,http://stream2.xiancity.cn/xatv4/playlist.m3u8
 西安影視,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
@@ -1916,20 +1932,13 @@ CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 烟台影視,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 嘉兴文化影視,http://pluslive.jiaxingren.com/whys/sd/live.m3u8
 菏泽影視,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-定州国学影視,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
-定州国学影視,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 新昌休闲影視,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-济阳影視,https://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
-任城影視娱乐,https://jsylivealone302.iqilu.com/rencheng/rencheng_tv02.m3u8
 東至影視,http://223.247.33.124:1935/live/yingshi/HasBahCa.m3u8
 石河子影視文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-云南影視,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 南京影視,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 隆化影視,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 浙江影視,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 吉林影視,http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
-高青影視,https://jsylivealone302.iqilu.com/gaoqing/gaoqing_tv02.m3u8
-莱山影視,https://jsylivealone302.iqilu.com/laishan/laishan_tv02.m3u8
 隆化影視,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
 昆明影視,http://wshls.live.migucloud.com/live/KYLNJWFD_C0/playlist.m3u8
 
@@ -2141,7 +2150,6 @@ CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 斗鱼音乐,http://epg.112114.xyz/douyu/3870925
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 鬼片恐怖惊悚,http://maomao.kandiantv.cn/douyu1.php?id=2935323
-漫威直播,http://akm-tct.douyucdn.cn/live/6140589rHSWEc7hv.m3u8?uuid=
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 恐怖故事,http://maomao.kandiantv.cn/douyu1.php?id=2337939
 科幻动作,http://maomao.kandiantv.cn/douyu1.php?id=4332
@@ -2217,11 +2225,7 @@ CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 译制影片,http://epg.112114.xyz/douyu/2436390
 華语经典,http://epg.112114.xyz/douyu/434971
 林正英電影2,http://maomao.kandiantv.cn/douyu1.php?id=7356023
-怀旧90,http://epg.112114.xyz/douyu/9275635
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
-高帧影片,http://epg.112114.xyz/douyu/6763930
-米娅電影,http://epg.112114.xyz/douyu/6537888
-小九電影,http://epg.112114.xyz/douyu/7136517
 贝爷影厅,http://epg.112114.xyz/douyu/4332
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
 邵氏-電影1集,https://50069.njc.svp.tencent-cloud.com/0bc3piaauaaa4uabys2em5rfa6wdbj5aacqa.f10003.mp4
@@ -2229,7 +2233,8 @@ CHC動作,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 邵氏-電影3集,https://50069.njc.svp.tencent-cloud.com/0bc3zeaauaaa5yaapi2ei5rfbsodbleqacqa.f10003.mp4
 邵氏-電影4集,https://50069.njc.svp.tencent-cloud.com/0bc3d4aayaaa6uab7sceerrfah6dbqpqadaa.f10003.mp4
 邵氏-電影6集,https://50069.njc.svp.tencent-cloud.com/0bc3lmaawaaaxqac5jkeg5rfaw6dbnnqacya.f10003.mp4
-邵氏-電影7集,https://50069.njc.svp.tencent-cloud.com/0bc3h4aayaaaumac74ceerrfap6dbq7qadaa.f10003.mp4
+邵氏-電影7集,https://50069.njc.svp.tencent-
+cloud.com/0bc3h4aayaaaumac74ceerrfap6dbq7qadaa.f10003.mp4
 邵氏-電影8集,https://50069.njc.svp.tencent-cloud.com/0bc364aauaaamiabi3selfrfb56dbl3qacqa.f10003.mp4
 邵氏-電影9集,https://50069.njc.svp.tencent-cloud.com/0b2ejyaaeaaa34acx42eefrfatwdajhaaaqa.f10003.mp4
 邵氏-電影0集,https://50069.njc.svp.tencent-cloud.com/0bc3fqaayaaameacxaceefrfalgdbqwaadaa.f10003.mp4
