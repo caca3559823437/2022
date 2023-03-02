@@ -981,31 +981,142 @@ TVB RICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
 澳亞衛視,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+RHK31,mitv://generationnexxxt.com:19806/58cb293bb6ed45528ed2a739c1536c4a
+RHK32,mitv://generationnexxxt.com:19806/143e471e3de946f08d281f85dbf477c8
+香港开电视,mitv://generationnexxxt.com:19806/13eebc989d2f462390f5feca1b9ac99d
+翡翠台,mitv://generationnexxxt.com:19806/8fb1cc240a46409fb6db45af3fe436a3
+J2,mitv://generationnexxxt.com:19806/905bc6404d9a44e6ac5ad8fd7decdc9a
+無綫新聞,mitv://generationnexxxt.com:19806/53d2416198234f76a9e3207886db4517
+無綫新聞,mitv://generationnexxxt.com:19806/3fab81cdbe234f20a5036669ce3c42d1
+無綫財經,mitv://generationnexxxt.com:19806/1a23c36c314c417b902bacb8a71af96c
+ViuTVsix6,mitv://generationnexxxt.com:19806/bb8a848b3d9345fca9a222a64cbbb798
+凤凰衛視,mitv://generationnexxxt.com:19806/113ff3c5757a4b9bbbea03d4120cddd5
+凤凰資訊,mitv://generationnexxxt.com:19806/acfa4dede5014680b678d2ea7cd30dd2
+凤凰香港,mitv://generationnexxxt.com:19806/4db086bf46f840fd90bdcd9d03cbe8ad
+TVB星河(粵),mitv://generationnexxxt.com:19806/58c0491e371e49e79272ffe8c3420b95
+陽光衛視,mitv://generationnexxxt.com:19806/68d400b7bf094108b3e2ca40ef42cf32
+澳門-MACAU,mitv://generationnexxxt.com:19806/76c92167e22d43548f56f47bbc837a2f
+澳門蓮花,mitv://generationnexxxt.com:19806/7ef01264f6354f198f586f31c3c1b2fe
+now新聞台,mitv://generationnexxxt.com:19806/93c087f216d647a0a97f7effad3d1ea1
+有線電影,mitv://generationnexxxt.com:19806/e7fa3ea62ea049aea12c9c0ac199e75a
+鳳凰電影,mitv://generationnexxxt.com:19806/aaaf310c9c8f4b489e935ce136c26e93
+有線新聞,mitv://generationnexxxt.com:19806/65928ae266e840acbb3fdc626b5dd04c
+有線財經,mitv://generationnexxxt.com:19806/d0475fc328224a1aaca627e81d10e222
+HKC 18,mitv://generationnexxxt.com:19806/1f2613f05b0249cbb345eff86ee8fa1f
+HKC 603,mitv://generationnexxxt.com:19806/318fc8b0b9cc429cb4c5087906b86228
+有線体育,mitv://generationnexxxt.com:19806/1c579a7538d24f4d92482c71688a3dd0
+HKC Sports Plus 1,mitv://generationnexxxt.com:19806/9a5bace2ed3f49518e68b876868681c3
+有線綜合,mitv://generationnexxxt.com:19806/7c1248369c384868b7c18e0f2f0db62b
+有線娛樂,mitv://generationnexxxt.com:19806/3f40b850077f423a95e69eb904328532
+翡翠台,mitv://generationnexxxt.com:19806/cc878aae36824a018ad86c21cb53482d
+TVB經典台,mitv://generationnexxxt.com:19806/7cd2243d91314e36852d713a058d7fa8
+Thrill,mitv://generationnexxxt.com:19806/3caec6e54207426db34555538a671f99
+明珠台,mitv://generationnexxxt.com:19806/94bcbf944d944e239dc982db831a5f59
+有線18台,mitv://generationnexxxt.com:19806/434531e6b8b541e5aff9e45547cd6a6f
+HKC Sports Plus 3,mitv://generationnexxxt.com:19806/6049814ecef34f09b504a724d2141ee3
+功夫台(華語),mitv://generationnexxxt.com:19806/5aa8a2e529bb467b9e5372beba679bd9
+美亞電影,mitv://generationnexxxt.com:19806/653a01b5f4164627a0896435190e3b09
+Hands Up,mitv://generationnexxxt.com:19806/948e5f6068674f3a846cefe1b1ce4180
+語片台,mitv://generationnexxxt.com:19806/3714c1d8d0874d2eb4767380dac6fed5
+亞洲劇台,mitv://generationnexxxt.com:19806/39b2516c7f3e465da6e7a93837c1ea81
+功夫台,mitv://generationnexxxt.com:19806/f8ee828aa7484a53ad43e37416758e9e
+有線資訊,mitv://generationnexxxt.com:19806/4b9e780005d04d86ab87f7c2949aa8d1
 
 🇹🇼台灣频道,#genre#
+壹新聞台,mitv://generationnexxxt.com:19806/a99d04ecdbc04aea952c4041fa9ce7be
+年代新聞,mitv://generationnexxxt.com:19806/d24c3d264f5042cb9797a1870d13a076
+東森新聞,mitv://generationnexxxt.com:19806/43b3b02013504e6cbe091a5f65bbd937
+中天新聞,mitv://generationnexxxt.com:19806/f412237e0e5c474bb46f519e635f8ca1
+民視新聞,mitv://generationnexxxt.com:19806/4612abb49797482ba0fb581d43e4b345
+三立新聞,mitv://generationnexxxt.com:19806/1917f3fcc4c1464fb931cbda20bc4a18
+TVBS新聞,mitv://generationnexxxt.com:19806/360dfb7911184069a9436d58df6ace3a
+TVBS HD,mitv://generationnexxxt.com:19806/96a090604ac2478d9becada150a42359
+東森財經,mitv://generationnexxxt.com:19806/21d189ce8a5f4c4498b8b9b469a96193
+非凡新聞,mitv://generationnexxxt.com:19806/c6a69d6c86414154a41cb21c203d86ac
+中視新聞,mitv://generationnexxxt.com:19806/88fa811850154773ab811eff3149ae02
+寰宇新聞,mitv://generationnexxxt.com:19806/7db7267e06c94e1abb15074a0e976a05
+華視新聞,mitv://generationnexxxt.com:19806/e6cb34aa3d9c45be8bc72f789f0923de
+NHK新聞,mitv://generationnexxxt.com:19806/361ca480351843ccbf39a62141d4fe12
+台視新聞,mitv://generationnexxxt.com:19806/600aa1dde9984def8c295d3c1bd7c36f
+寰宇台灣,mitv://generationnexxxt.com:19806/a7f20e32dea34b8693620901246faabf
+台視財經,mitv://generationnexxxt.com:19806/92e3139e3b3543c7aa89a9d6988e2151
+
+HBO HD,mitv://generationnexxxt.com:19806/6c84f12033f44898a9d6ba5d1a0a7975
+HBO 強檔,mitv://generationnexxxt.com:19806/ca8f37d06bdb489d848920e5cfe4c4e4
+HBO 原創,mitv://generationnexxxt.com:19806/1ed75764438346a3954d6657d9b7d438
+HBO 家庭,mitv://generationnexxxt.com:19806/cf3d2c5629ff4bb18d98c7567ce8ea1a
+美亞電影,mitv://generationnexxxt.com:19806/3de70ae790cb4a04bfa4d2ec8f829c7f
+龍華電影,mitv://generationnexxxt.com:19806/511adff55ef24694a9150dadc4e5cb59
+星衛電影,mitv://generationnexxxt.com:19806/6bca6a7a60f04eec9045a60293854792
+靖天映畫,mitv://generationnexxxt.com:19806/1ae0628dd53647be972fae7c82986d47
+靖天電影,mitv://generationnexxxt.com:19806/18d726207e794c23ad7633d6bde95431
+WARNER TV,mitv://generationnexxxt.com:19806/47e7ab51c21f4c89979781206b9d5a94
+Star Movies HD,mitv://generationnexxxt.com:19806/87d115e077d8432ab17c1644949863f0
+AMC最愛電影,mitv://generationnexxxt.com:19806/af1da7fde6c04daf8b8654833b58f7a4
+CatchPlay電影,mitv://generationnexxxt.com:19806/a2a9c105a3884f4db01878ef53169d86
+CinemaWorld,mitv://generationnexxxt.com:19806/684f4ee9fe3041ae9bb0fe77b2657eb1
+壹電影台,mitv://generationnexxxt.com:19806/8159f9249cfc418c941162816f4b29c7
+衛視電影,mitv://generationnexxxt.com:19806/8521fa14acf9427f934189fa0b368e89
+東森電影,mitv://generationnexxxt.com:19806/10ba7fd555ed4ba8a728380ad8127298
+緯來電影,mitv://generationnexxxt.com:19806/ca8ade0363ad4918a6e699c3731ed610
+龍祥電影,mitv://generationnexxxt.com:19806/2681827bd35e4189a1e6f5f02b8a69eb
+東森洋片,mitv://generationnexxxt.com:19806/6962e21bb93447e4b429f16a038acb5c
+AXN,mitv://generationnexxxt.com:19806/76c9099eb34d44ad91e6311e90c347f6
+好萊塢電影,mitv://generationnexxxt.com:19806/ccec12e7f6ea45f185c539049b9fa391
+CINEMAX,mitv://generationnexxxt.com:19806/9be9c542bfdc45aa901ff5260a00a6ef
+
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-中天新聞,http://2023.stream-link.org/playlist/cti_news
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 寰宇新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 寰宇新聞,http://2023.stream-link.org/playlist/global_tw
 寰宇新聞,http://2023.stream-link.org/playlist/global_tw.flv
-三立新聞,http://2023.stream-link.org/playlist/set_news.flv
-三立iNEWS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+三立Live,http://2023.stream-link.org/playlist/set_news.flv
+三立Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立iNews,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 東森LIVE,http://2023.stream-link.org/playlist/ebc_news
 東森財經,http://123.51.230.108:18515/.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東風37,http://123.51.230.108:18560/.m3u8
 华視資訊,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 华視資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+三立財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+公視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+公視台湾,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+华視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+华視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+三立新聞,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立iNews,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+鏡新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
+鏡新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
+寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+寰宇新聞,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
+壹新聞台,http://60.251.59.180:8501/.m3u8
+東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞,http://220.134.196.147:9541/http/60.251.39.91:8081/hls/75/817/ch57.m3u8?token=
+非凡新聞,http://220.134.196.147:9539/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 中天綜合,http://23.237.10.66:16372
 中天綜合,https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
 中天綜合,http://107.151.203.111:2209/135/us50.php?id=ztz
+中天亚洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中視新聞,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 台視,http://107.151.203.111:2209/135/us50.php?id=tsk
 台視,http://23.237.10.66:16344
@@ -1024,6 +1135,14 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 镜新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://2023.stream-link.org/playlist/ftv_news
+TVBS高清,http://2023.stream-link.org/playlist/tvbs
+TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news
+中視新聞,http://2023.stream-link.org/playlist/ctv_news
+東森財經,http://2023.stream-link.org/playlist/ebc_finance
+東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo.flv
+三立新聞,http://2023.stream-link.org/playlist/set_news+
+三立財經,http://2023.stream-link.org/playlist/set_inews
 超级電影,http://39.134.115.221:8080/PLTV/88888910/224/3221225623/index.m3u8
 超级電視剧,http://39.134.115.221:8080/PLTV/88888910/224/3221225625/index.m3u8
 看看電影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
@@ -1040,6 +1159,16 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 龍祥電影,http://120.84.96.89:808/hls/35/index.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+民視,rtmp://219.80.97.77/sat/tv051
+台視,rtmp://219.80.97.77/sat/tv071
+中視,rtmp://219.80.97.77/sat/tv091
+华視,rtmp://219.80.97.77/sat/tv111
+TVBS欢乐,rtmp://219.80.97.77/sat/tv421
+緯來体育,rtmp://219.80.97.77/sat/tv721
+緯來育乐,rtmp://219.80.97.77/sat/tv701
+緯來日本,rtmp://219.80.97.77/sat/tv771
+東森超視,rtmp://219.80.97.77/sat/tv331
+MoMo综合,rtmp://219.80.97.77/sat/tv761
 HBO HD,http://208.115.225.174:14136
 HBO 原创,http://208.115.225.174:14160
 HBO2,http://208.115.225.174:14140
@@ -1097,14 +1226,6 @@ STYLE,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 原住民台,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
 龍祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
 亚洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-民視新聞,http://2023.stream-link.org/playlist/ftv_news
-TVBS高清,http://2023.stream-link.org/playlist/tvbs
-TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news
-中視新聞,http://2023.stream-link.org/playlist/ctv_news
-東森財經,http://2023.stream-link.org/playlist/ebc_finance
-東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo.flv
-三立直播+,http://2023.stream-link.org/playlist/set_news+
-三立財經,http://2023.stream-link.org/playlist/set_inews
 華语電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 
 🇯🇵日韓频道,#genre#
