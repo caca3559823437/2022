@@ -541,6 +541,9 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 上海都市,http://39.136.172.100/hlsmgsplive.miguvideo.com//wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海教育,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
+新聞综合,http://39.136.173.100/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
+新聞综合,http://124.225.44.186/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新聞综合,http://122.228.87.15/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 新聞综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 新聞综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&stbId=4
 新聞综合,http://39.136.172.8/hlsztemgsplive.miguvideo.com/migu/kailu/xwzhhd265/55/20200407/index.m3u8?&encrypt=1
@@ -725,13 +728,27 @@ Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 
 🇭🇰香港频道,#genre#
+凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰資訊,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰資訊,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+凤凰資訊,http://123.51.230.108:18580/.m3u8
+凤凰資訊,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
+凤凰資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰資訊,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+
 凤凰電影,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
 凤凰香港,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
 凤凰中文,mitv://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
 翡翠台,mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
 明珠台,mitv://generationnexxxt.com:19806/5367b44c18e24cc6b45ede2d8eef89c2
 翡翠台(华丽台),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
-﻿翡翠台,mitv://generationnexxxt.com:19806/bcce94ed6c7040489dd2d82da6c57f78
+翡翠台,mitv://generationnexxxt.com:19806/bcce94ed6c7040489dd2d82da6c57f78
 RHK31,mitv://generationnexxxt.com:19806/74fc0c2698d7473993bf38cc305005d8
 RHK32,mitv://generationnexxxt.com:19806/2c0081f46ec34d938526a4840a8d77db
 有線體育,mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
@@ -768,34 +785,6 @@ Thrill,mitv://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 澳门-MACAU,mitv://generationnexxxt.com:19806/2df34f6afc8c4ca583776ce95f685e31
 澳门莲花,mitv://generationnexxxt.com:19806/47c068088f364f139bbee06bc68b6bf3
 
-凤凰資訊,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰資訊,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-凤凰資訊,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-凤凰資訊,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰資訊,http://2022.stream-link.org/playlist/phtv_info
-凤凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
-凤凰資訊,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://2022.stream-link.org/playlist/phtv_live
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
-凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
 凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
