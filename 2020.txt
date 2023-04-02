@@ -531,6 +531,10 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 兵团衛視,http://222.175.159.226:808/hls/76/index.m3u8
 
 🇨🇳上海北京,#genre#
+東方衛視,http://120.221.209.44/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+東方衛視,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000$百视通
+東方衛視,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
+東方衛視,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 東方衛視,http://39.136.173.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=1
 東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
@@ -905,6 +909,7 @@ TVBS新聞,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 中視新聞,mitv://generationnexxxt.com:19806/b752f0eeba5e4e4783d89f99a7b64053
 東森新聞(备),mitv://generationnexxxt.com:19806/0c90cd060e114bdfa4380f3dff8e1a73
 镜新聞台,mitv://generationnexxxt.com:19806/3cada11582784405b35fe1d3bed65c7d
+
 TVBS新聞,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 東森新聞,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
 中天新聞,mitv://generationnexxxt.com:19806/c88a7e7e25334800becd67d8aca62756
@@ -921,6 +926,7 @@ TVBS新聞,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 中視新聞,mitv://generationnexxxt.com:19806/b752f0eeba5e4e4783d89f99a7b64053
 東森新聞(备),mitv://generationnexxxt.com:19806/0c90cd060e114bdfa4380f3dff8e1a73
 镜新聞台,mitv://generationnexxxt.com:19806/3cada11582784405b35fe1d3bed65c7d
+
 TVBS新聞,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 東森新聞,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
 中天新聞,mitv://generationnexxxt.com:19806/c88a7e7e25334800becd67d8aca62756
@@ -937,6 +943,7 @@ TVBS新聞,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 中視新聞,mitv://generationnexxxt.com:19806/b752f0eeba5e4e4783d89f99a7b64053
 東森新聞(备),mitv://generationnexxxt.com:19806/0c90cd060e114bdfa4380f3dff8e1a73
 镜新聞台,mitv://generationnexxxt.com:19806/3cada11582784405b35fe1d3bed65c7d
+
 TVBS新聞,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 東森新聞,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
 中天新聞,mitv://generationnexxxt.com:19806/c88a7e7e25334800becd67d8aca62756
@@ -1861,7 +1868,7 @@ HBO SIGNATURE,http://meuplay.shop:80/6424562754/26372647263/796
 HBO SIGNATURE,http://meuplay.shop:80/6424562754/26372647263/253
 HBO SIGNATURE,http://meuplay.shop:80/6424562754/26372647263/43
 HBO XTREME,http://meuplay.shop:80/6424562754/26372647263/798
-HBO XTREME :,http://meuplay.shop:80/6424562754/26372647263/261
+HBO XTREME,http://meuplay.shop:80/6424562754/26372647263/261
 HBO XTREME,http://meuplay.shop:80/6424562754/26372647263/49
 PARAMOUNT,http://meuplay.shop:80/6424562754/26372647263/845
 PARAMOUNT,http://meuplay.shop:80/6424562754/26372647263/272
@@ -2698,8 +2705,6 @@ CHC動作,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
 秀才遇到兵,http://aldirect.corp-hls.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.m3u8??
 
 🐟斗鱼劇场,#genre#
-吃米滴虫,http://epg.112114.xyz/douyu/315457
-吃米滴虫,http://maomao.kandiantv.cn/douyu1.php?id=315457
 神乐影片,http://epg.112114.xyz/douyu/122402
 神乐影片,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 神乐影片2,http://epg.112114.xyz/douyu/85894
