@@ -873,6 +873,23 @@ RHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 點掌財經,http://cclive.aniu.tv/live/anzb.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8
+RHK31,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/236957176?ticket=597daaf2659b03770c1272b8a371b1e14068a5e1&profile=pass
+RHK32,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/239019394?ticket=aa4f8d47ccc101b748e3afa86813b14b88596744&profile=pass
+RHK33,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/330285744?ticket=23b3ac69d6ff4f7f2d4c7355e1d6d5a0f3ba12f3&profile=pass
+RHK34,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/217962996?ticket=f71e9c4c14ae087325a447aa54d2ca75d68aa9f8&profile=pass
+香港國際財經,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/1754254005?ticket=7c2b74f883e62eed79f9b58b213441d568989e88&profile=pass
+HOY TV,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/654765611?ticket=9cd530a0a5259b9e128dd444131e9d5180e7baba&profile=pass
+財經資訊,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2045866624?ticket=fa0f9d4f1ca6c2159d8a0a9d412725928d363be4&profile=pass
+翡翠台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/999257032?ticket=388fd35a10a278849ed397e6d0afd0697208ea7f&profile=pass
+J2,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/75720589?ticket=c079bbfec179df3b0cd45ecf5260cc5d7f3fa7ba&profile=pass
+無綫新聞,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2036169997?ticket=53b9a8f29f5261c02dc146954e37f7e3f66e8a14&profile=pass
+明珠台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/174735530?ticket=1edc03e1328bec7f99a2affa5fdacbdb2d0fdbdf&profile=pass
+無綫財經,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/714799654?ticket=45b858b577c1176f2eec7ffa34a9fe7ae0f29b37&profile=pass
+ViuTV6,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2070525578?ticket=fa3971afc4b3304fa4878cf6c862def95f703874&profile=pass
+ViuTV,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/1001584734?ticket=d3d100c02bd40ed72e3b02b2829a856324865ef1&profile=pass
+星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
+天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 有線新聞,http://107.151.203.111:2209/135/hk.php?id=cable37h
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
