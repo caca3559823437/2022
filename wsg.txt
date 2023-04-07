@@ -740,6 +740,7 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰資訊,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰資訊,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+凤凰資訊,rtmp://playtv-live.ifeng.com:1935/live/06OLEEWQKN4
 凤凰資訊,http://123.51.230.108:18580/.m3u8
 凤凰資訊,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
 凤凰資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
@@ -747,6 +748,7 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+凤凰中文,rtmp://playtv-live.ifeng.com:1935/live/06OLEGEGM4G
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
@@ -800,8 +802,18 @@ TVB娛樂新聞,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d4982
 有線財經,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 有線財經,https://api.leonardpark.dev/live/icable/108
 有線直播,https://api.leonardpark.dev/live/icable/110
+無綫新聞,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8?by=yeslivetv_com
+無綫新聞,http://09.xinda.fit/news.php
+無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0&hq$50屏
+無綫財經,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212214.m3u8?by=yeslivetv_com
+無綫財經,http://chuangye168.gnway.org:56994/j1x2j0d.php?id=wxcj$搭酒
+無綫財經,http://live.cooltv.top/tv/tvb.php?id=2&hq$50屏
+HOYTV,http://chuangye168.gnway.org:56994/h9k2y8x.php?id=hoy
+HKC新聞,http://chuangye168.gnway.org:56994/h9k2y8x.php?id=hkcxw
+香港國際財經,http://chuangye168.gnway.org:56994/h9k2y8x.php?id=gjcj
 翡翠華麗台,http://23.237.10.66:16410
 翡翠華麗台,http://r.jdshipin.com/thuYX
+翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782023040217253.m3u8?by=yeslivetv_com$港
 翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
@@ -1026,6 +1038,11 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民視,http://chuangye168.gnway.org:56994/j1x2j0d.php?id=ms
+好莱坞電影,http://chuangye168.gnway.org:56994/j1x2j0d.php?id=hlw
+東森洋片,http://chuangye168.gnway.org:56994/j1x2j0d.php?id=dsyp
+龍祥时代,http://chuangye168.gnway.org:56994/j1x2j0d.php?id=lxsd
+私人影院,http://chuangye168.gnway.org:56994/j1x2j0d.php?id=sryy
 東森電影,http://120.84.96.108:808/hls/32/index.m3u8
 東森電影,http://120.84.96.73:808/hls/32/index.m3u8
 東森電影,http://120.84.96.89:808/hls/32/index.m3u8
