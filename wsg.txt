@@ -531,6 +531,14 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 兵团衛視,http://222.175.159.226:808/hls/76/index.m3u8
 
 🇨🇳上海北京,#genre#
+東方衛視,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?&HlsSubType=&encrypt=1
+東方衛視,http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongfanghd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=1
+東方衛視,http://live.cooltv.top/tv/aishang.php?id=dfwshd
+新聞综合,https://bp-live01.bestv.cn:443/live/bestvxwzhHD.m3u8?auth_key=1681016402-9d8ba701f4a040ada03898c521c6a1ff-0-ed5411953e2a0fbb20ae7a10fd6e1f6e
+新聞综合,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?&HlsSubType=&encrypt=1
+上海都市,https://bp-live01.bestv.cn:443/live/bestvdspdHD.m3u8?auth_key=1681016402-cc4827574ebe40e891a964e2fddde061-0-ebfe7d4786bd4396f1a38b39d1c0ebc5
+上海都市,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/yulehd/3000/01.m3u8?&HlsSubType=&encrypt=1
+五星體育,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/3000/01.m3u8?&HlsSubType=&encrypt=1
 東方衛視,http://120.221.209.44/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 東方衛視,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000$百视通
 東方衛視,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
