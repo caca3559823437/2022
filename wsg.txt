@@ -971,26 +971,14 @@ TVBS新聞,http://2023.stream-link.org/live/401131254
 三立iNews,http://2023.stream-link.org/live/172551145
 東森財經,rtmp://9wv7.mine.nu/sat/tv571
 東森財經,http://2023.stream-link.org/live/249006034
-東森LIVE,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=44
 東森新聞,http://2023.stream-link.org/live/1793825065
-中天新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=43
 中天新聞,http://2023.stream-link.org/live/1552993665
-民視新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=50
 民視新聞,http://123.51.230.108:18663/.m3u8
-三立新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=49
 三立新聞,http://123.51.230.64:18543/.m3u8
-TVBS新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=54
-中視新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=46
 中視新聞,http://2023.stream-link.org/live/926790469
 中視新聞,mitv://generationnexxxt.com:19806/b752f0eeba5e4e4783d89f99a7b64053
-寰宇新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=53
-華視新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=51
 華視新聞,mitv://generationnexxxt.com:19806/2eef3a29a07741bf81c9564ea7478fc0
-台視新聞,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=47
 台視新聞,mitv://generationnexxxt.com:19806/ef8ee9e7a5f54528b1016a192376681e
-镜新聞台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=52
-TVBS HD,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=56
-TVBS歡樂,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=57
 中天綜合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 
 壹新聞台,mitv://generationnexxxt.com:19806/976f5a23754b496db9785a3645fd0e02.ts
