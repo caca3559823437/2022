@@ -2094,229 +2094,229 @@ SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 🇺🇸欧美频道,#genre#
-A&E,http://meuplay.shop:80/6424562754/26372647263/851
-A&E,http://meuplay.shop:80/6424562754/26372647263/210
-A&E,http://meuplay.shop:80/6424562754/26372647263/1
-AMC,http://meuplay.shop:80/6424562754/26372647263/840
-AMC,http://meuplay.shop:80/6424562754/26372647263/211
-AMC,http://meuplay.shop:80/6424562754/26372647263/2
-AXN,http://meuplay.shop:80/6424562754/26372647263/835
-AXN,http://meuplay.shop:80/6424562754/26372647263/213
-AXN,http://meuplay.shop:80/6424562754/26372647263/4
-HBO,http://meuplay.shop:80/6424562754/26372647263/792
-HBO,http://meuplay.shop:80/6424562754/26372647263/251
-HBO,http://meuplay.shop:80/6424562754/26372647263/41
-HBO 2,http://meuplay.shop:80/6424562754/26372647263/793
-HBO 2,http://meuplay.shop:80/6424562754/26372647263/254
-HBO 2,http://meuplay.shop:80/6424562754/26372647263/39
-HBO FAMILY,http://meuplay.shop:80/6424562754/26372647263/795
-HBO FAMILY,http://meuplay.shop:80/6424562754/26372647263/40
-HBO MUNDI,http://meuplay.shop:80/6424562754/26372647263/797
-HBO MUNDI,http://meuplay.shop:80/6424562754/26372647263/260
-HBO MUNDI,http://meuplay.shop:80/6424562754/26372647263/48
-HBO PLUS,http://meuplay.shop:80/6424562754/26372647263/794
-HBO PLUS,http://meuplay.shop:80/6424562754/26372647263/252
-HBO PLUS,http://meuplay.shop:80/6424562754/26372647263/42
-HBO POP,http://meuplay.shop:80/6424562754/26372647263/799
-HBO POP,http://meuplay.shop:80/6424562754/26372647263/262
-HBO POP,http://meuplay.shop:80/6424562754/26372647263/50
-HBO SIGNATURE,http://meuplay.shop:80/6424562754/26372647263/796
-HBO SIGNATURE,http://meuplay.shop:80/6424562754/26372647263/253
-HBO SIGNATURE,http://meuplay.shop:80/6424562754/26372647263/43
-HBO XTREME,http://meuplay.shop:80/6424562754/26372647263/798
-HBO XTREME,http://meuplay.shop:80/6424562754/26372647263/261
-HBO XTREME,http://meuplay.shop:80/6424562754/26372647263/49
-PARAMOUNT,http://meuplay.shop:80/6424562754/26372647263/845
-PARAMOUNT,http://meuplay.shop:80/6424562754/26372647263/272
-PARAMOUNT,http://meuplay.shop:80/6424562754/26372647263/60
-TNT,http://meuplay.shop:80/6424562754/26372647263/785
-TNT,http://meuplay.shop:80/6424562754/26372647263/296
-TNT,http://meuplay.shop:80/6424562754/26372647263/84
-TNT SERIES,http://meuplay.shop:80/6424562754/26372647263/849
-TNT SERIES,http://meuplay.shop:80/6424562754/26372647263/297
-TNT SERIES,http://meuplay.shop:80/6424562754/26372647263/85
-UNIVERSAL CHANNEL,http://meuplay.shop:80/6424562754/26372647263/848
-UNIVERSAL CHANNEL,http://meuplay.shop:80/6424562754/26372647263/301
-UNIVERSAL CHANNEL,http://meuplay.shop:80/6424562754/26372647263/90
-WARNER CHANNEL,http://meuplay.shop:80/6424562754/26372647263/850
-WARNER CHANNEL,http://meuplay.shop:80/6424562754/26372647263/303
-WARNER CHANNEL,http://meuplay.shop:80/6424562754/26372647263/93
-STAR CHANNEL,http://meuplay.shop:80/6424562754/26372647263/836
-STAR CHANNEL,http://meuplay.shop:80/6424562754/26372647263/241
-STAR CHANNEL,http://meuplay.shop:80/6424562754/26372647263/28
-CANAL SONY,http://meuplay.shop:80/6424562754/26372647263/219
-CANAL SONY,http://meuplay.shop:80/6424562754/26372647263/844
-CANAL SONY,http://meuplay.shop:80/6424562754/26372647263/7
-CINEMAX,http://meuplay.shop:80/6424562754/26372647263/841
-CINEMAX,http://meuplay.shop:80/6424562754/26372647263/221
-CINEMAX,http://meuplay.shop:80/6424562754/26372647263/9
-FX,http://meuplay.shop:80/6424562754/26372647263/842
-FX,http://meuplay.shop:80/6424562754/26372647263/246
-FX,http://meuplay.shop:80/6424562754/26372647263/34
-MEGAPIX,http://meuplay.shop:80/6424562754/26372647263/843
-MEGAPIX,http://meuplay.shop:80/6424562754/26372647263/263
-MEGAPIX,http://meuplay.shop:80/6424562754/26372647263/51
-SPACE,http://meuplay.shop:80/6424562754/26372647263/846
-SPACE,http://meuplay.shop:80/6424562754/26372647263/282
-SPACE,http://meuplay.shop:80/6424562754/26372647263/70
-CINECANAL,http://meuplay.shop:80/6424562754/26372647263/837
-CINECANAL,http://meuplay.shop:80/6424562754/26372647263/29
-STUDIO UNIVERSAL,http://meuplay.shop:80/6424562754/26372647263/847
-STUDIO UNIVERSAL,http://meuplay.shop:80/6424562754/26372647263/286
-STUDIO UNIVERSAL,http://meuplay.shop:80/6424562754/26372647263/74
-SYFY,http://meuplay.shop:80/6424562754/26372647263/857
-SYFY,http://meuplay.shop:80/6424562754/26372647263/287
-SYFY,http://meuplay.shop:80/6424562754/26372647263/75
-TBS,http://meuplay.shop:80/6424562754/26372647263/856
-TBS,http://meuplay.shop:80/6424562754/26372647263/288
-TBS,http://meuplay.shop:80/6424562754/26372647263/76
-TCM,http://meuplay.shop:80/6424562754/26372647263/877
-TCM,http://meuplay.shop:80/6424562754/26372647263/131
-BORA FILMES,http://meuplay.shop:80/6424562754/26372647263/63052
-ENTRETENDO FILMES,http://meuplay.shop:80/6424562754/26372647263/63864
-NOVA PLAY FILMES E SERIES,http://meuplay.shop:80/6424562754/26372647263/60181
-NATGEO,http://meuplay.shop:80/6424562754/26372647263/805
-NATGEO,http://meuplay.shop:80/6424562754/26372647263/266
-NATGEO,http://meuplay.shop:80/6424562754/26372647263/54
-LOVE NATURE,http://meuplay.shop:80/6424562754/26372647263/305
-ANIMAL PLANET,http://meuplay.shop:80/6424562754/26372647263/804
-ANIMAL PLANET,http://meuplay.shop:80/6424562754/26372647263/212
-ANIMAL PLANET,http://meuplay.shop:80/6424562754/26372647263/3
-DISCOVERY CHANNEL,http://meuplay.shop:80/6424562754/26372647263/808
-DISCOVERY CHANNEL,http://meuplay.shop:80/6424562754/26372647263/224
-DISCOVERY CHANNEL,http://meuplay.shop:80/6424562754/26372647263/12
-DISCOVERY H&H,http://meuplay.shop:80/6424562754/26372647263/807
-DISCOVERY H&H,http://meuplay.shop:80/6424562754/26372647263/226
-DISCOVERY H&H,http://meuplay.shop:80/6424562754/26372647263/14
-DISCOVERY SCIENCE,http://meuplay.shop:80/6424562754/26372647263/820
-DISCOVERY SCIENCE,http://meuplay.shop:80/6424562754/26372647263/228
-DISCOVERY SCIENCE,http://meuplay.shop:80/6424562754/26372647263/16
-DISCOVERY THEATER,http://meuplay.shop:80/6424562754/26372647263/821
-DISCOVERY THEATER,http://meuplay.shop:80/6424562754/26372647263/229
-DISCOVERY THEATER,http://meuplay.shop:80/6424562754/26372647263/17
-DISCOVERY TURBO,http://meuplay.shop:80/6424562754/26372647263/818
-DISCOVERY TURBO,http://meuplay.shop:80/6424562754/26372647263/230
-DISCOVERY TURBO,http://meuplay.shop:80/6424562754/26372647263/18
-DISCOVERY WORLD,http://meuplay.shop:80/6424562754/26372647263/802
-DISCOVERY WORLD,http://meuplay.shop:80/6424562754/26372647263/231
-DISCOVERY WORLD,http://meuplay.shop:80/6424562754/26372647263/19
-INVESTIGAÇAO DISCOVERY,http://meuplay.shop:80/6424562754/26372647263/819
-INVESTIGAÇAO DISCOVERY,http://meuplay.shop:80/6424562754/26372647263/257
-INVESTIGAÇAO DISCOVERY,http://meuplay.shop:80/6424562754/26372647263/46
-HISTORY,http://meuplay.shop:80/6424562754/26372647263/781
-HISTORY,http://meuplay.shop:80/6424562754/26372647263/255
-HISTORY,http://meuplay.shop:80/6424562754/26372647263/45
-HISTORY 2,http://meuplay.shop:80/6424562754/26372647263/806
-HISTORY 2,http://meuplay.shop:80/6424562754/26372647263/256
-HISTORY 2,http://meuplay.shop:80/6424562754/26372647263/44
-URBAN DOC,http://meuplay.shop:80/6424562754/26372647263/67258
-TLC,http://meuplay.shop:80/6424562754/26372647263/809
-TLC,http://meuplay.shop:80/6424562754/26372647263/295
-TLC,http://meuplay.shop:80/6424562754/26372647263/83
-HGTV,http://meuplay.shop:80/6424562754/26372647263/861
-HGTV,http://meuplay.shop:80/6424562754/26372647263/225
-HGTV,http://meuplay.shop:80/6424562754/26372647263/13
-FISH TV,http://meuplay.shop:80/6424562754/26372647263/239
-ARTE 1,http://meuplay.shop:80/6424562754/26372647263/876
-ARTE 1,http://meuplay.shop:80/6424562754/26372647263/130
-CASA DE VIDRO BBB 2023,http://meuplay.shop:80/6424562754/26372647263/84416
-BBB CAM 01,http://meuplay.shop:80/6424562754/26372647263/84966
-BBB CAM 02,http://meuplay.shop:80/6424562754/26372647263/84967
-BBB CAM 03,http://meuplay.shop:80/6424562754/26372647263/84968
-BBB CAM 04,http://meuplay.shop:80/6424562754/26372647263/84969
-BBB CAM 05,http://meuplay.shop:80/6424562754/26372647263/84970
-BBB CAM 06,http://meuplay.shop:80/6424562754/26372647263/84971
-BBB CAM 07,http://meuplay.shop:80/6424562754/26372647263/84972
-BBB CAM 08,http://meuplay.shop:80/6424562754/26372647263/84973
-BBB CAM 09,http://meuplay.shop:80/6424562754/26372647263/84974
-BBB CAM 10,http://meuplay.shop:80/6424562754/26372647263/84975
-SANDY & JUNIOR,http://meuplay.shop:80/6424562754/26372647263/83820
-ROBERTO CARLOS,http://meuplay.shop:80/6424562754/26372647263/83821
-IVETE SANGALO,http://meuplay.shop:80/6424562754/26372647263/83822
-J.QUEST,http://meuplay.shop:80/6424562754/26372647263/83823
-RAÇA NEGRA,http://meuplay.shop:80/6424562754/26372647263/83824
-OS MENOTTI,http://meuplay.shop:80/6424562754/26372647263/83825
-FABIO JR,http://meuplay.shop:80/6424562754/26372647263/83826
-SKANK,http://meuplay.shop:80/6424562754/26372647263/83827
-SÉRGIO REIS,http://meuplay.shop:80/6424562754/26372647263/83828
-JOELMA,http://meuplay.shop:80/6424562754/26372647263/83829
-NATIRUTS,http://meuplay.shop:80/6424562754/26372647263/83830
-ALEXANDRE PIRES,http://meuplay.shop:80/6424562754/26372647263/83831
-MARILIA MENDONÇA,http://meuplay.shop:80/6424562754/26372647263/83832
-BELO,http://meuplay.shop:80/6424562754/26372647263/83833
-BRUNO E MARRONE,http://meuplay.shop:80/6424562754/26372647263/83834
-SIMONE E SIMARAIA,http://meuplay.shop:80/6424562754/26372647263/83835
-FELIPE ARAUJO,http://meuplay.shop:80/6424562754/26372647263/83836
-CABARÉ,http://meuplay.shop:80/6424562754/26372647263/83838
-JORGE E MATHEUS,http://meuplay.shop:80/6424562754/26372647263/83839
-MAIARA E MARAISA,http://meuplay.shop:80/6424562754/26372647263/83840
-ZÉ NETO E CRISTIANO,http://meuplay.shop:80/6424562754/26372647263/83841
-LEONARDO,http://meuplay.shop:80/6424562754/26372647263/83842
-AMADO BATISTA,http://meuplay.shop:80/6424562754/26372647263/83843
-UFC Fight Pass,http://meuplay.shop:80/6424562754/26372647263/84480
-RED BULL TV,http://meuplay.shop:80/6424562754/26372647263/31744
-NBA LEAGUE PASS 01,http://meuplay.shop:80/6424562754/26372647263/83025
-NBA LEAGUE PASS 02,http://meuplay.shop:80/6424562754/26372647263/83026
-NBA LEAGUE PASS 03,http://meuplay.shop:80/6424562754/26372647263/83027
-NBA LEAGUE PASS 04,http://meuplay.shop:80/6424562754/26372647263/83028
-NBA LEAGUE PASS 05,http://meuplay.shop:80/6424562754/26372647263/83029
-NBA LEAGUE PASS 06,http://meuplay.shop:80/6424562754/26372647263/83030
-NBA LEAGUE PASS 07,http://meuplay.shop:80/6424562754/26372647263/83031
-SPORTV,http://meuplay.shop:80/6424562754/26372647263/776
-SPORTV,http://meuplay.shop:80/6424562754/26372647263/285
-SPORTV,http://meuplay.shop:80/6424562754/26372647263/73
-SPORTV 2,http://meuplay.shop:80/6424562754/26372647263/777
-SPORTV 2,http://meuplay.shop:80/6424562754/26372647263/283
-SPORTV 2,http://meuplay.shop:80/6424562754/26372647263/71
-SPORTV 3,http://meuplay.shop:80/6424562754/26372647263/778
-SPORTV 3,http://meuplay.shop:80/6424562754/26372647263/284
-SPORTV 3,http://meuplay.shop:80/6424562754/26372647263/72
-ELEVEN SPORTS(JOGO 1),http://meuplay.shop:80/6424562754/26372647263/166
-ELEVEN SPORTS(JOGO 2),http://meuplay.shop:80/6424562754/26372647263/167
-ELEVEN SPORTS(JOGO 3),http://meuplay.shop:80/6424562754/26372647263/168
-ELEVEN SPORTS(JOGO 4),http://meuplay.shop:80/6424562754/26372647263/169
-ELEVEN SPORTS(JOGO 5),http://meuplay.shop:80/6424562754/26372647263/170
-ELEVEN SPORTS(JOGO 6),http://meuplay.shop:80/6424562754/26372647263/171
-ELEVEN SPORTS(JOGO 7),http://meuplay.shop:80/6424562754/26372647263/172
-ELEVEN SPORTS(JOGO 8),http://meuplay.shop:80/6424562754/26372647263/173
-ELEVEN SPORTS(JOGO 9),http://meuplay.shop:80/6424562754/26372647263/174
-ELEVEN SPORTS(JOGO 10),http://meuplay.shop:80/6424562754/26372647263/175
-DAZN 01,http://meuplay.shop:80/6424562754/26372647263/325
-DAZN 02,http://meuplay.shop:80/6424562754/26372647263/326
-DAZN 03,http://meuplay.shop:80/6424562754/26372647263/327
-DAZN 04,http://meuplay.shop:80/6424562754/26372647263/111
-ESPN,http://meuplay.shop:80/6424562754/26372647263/769
-ESPN,http://meuplay.shop:80/6424562754/26372647263/238
-ESPN,http://meuplay.shop:80/6424562754/26372647263/24
-ESPN 2,http://meuplay.shop:80/6424562754/26372647263/771
-ESPN 2,http://meuplay.shop:80/6424562754/26372647263/236
-ESPN 2,http://meuplay.shop:80/6424562754/26372647263/25
-ESPN 3,http://meuplay.shop:80/6424562754/26372647263/772
-ESPN 3,http://meuplay.shop:80/6424562754/26372647263/237
-ESPN 3,http://meuplay.shop:80/6424562754/26372647263/23
-ESPN 4,http://meuplay.shop:80/6424562754/26372647263/774
-ESPN 4,http://meuplay.shop:80/6424562754/26372647263/244
-ESPN EXTRA,http://meuplay.shop:80/6424562754/26372647263/770
-ESPN EXTRA,http://meuplay.shop:80/6424562754/26372647263/235
-ESPN EXTRA,http://meuplay.shop:80/6424562754/26372647263/26
-ALL SPORTS,http://meuplay.shop:80/6424562754/26372647263/31745
-COMBATE,http://meuplay.shop:80/6424562754/26372647263/784
-COMBATE,http://meuplay.shop:80/6424562754/26372647263/222
-COMBATE,http://meuplay.shop:80/6424562754/26372647263/10
-BAND SPORTS,http://meuplay.shop:80/6424562754/26372647263/768
-BAND SPORTS,http://meuplay.shop:80/6424562754/26372647263/215
-BAND SPORTS,http://meuplay.shop:80/6424562754/26372647263/5
-PRIME VIDEO 1,http://meuplay.shop:80/6424562754/26372647263/83809
-PRIME VIDEO 2,http://meuplay.shop:80/6424562754/26372647263/83810
-PRIME VIDEO 3,http://meuplay.shop:80/6424562754/26372647263/83811
-PRIME VIDEO 4,http://meuplay.shop:80/6424562754/26372647263/83812
-FOX SPORTS 2,http://meuplay.shop:80/6424562754/26372647263/773
-FOX SPORTS 2,http://meuplay.shop:80/6424562754/26372647263/245
-FOX SPORTS 2,http://meuplay.shop:80/6424562754/26372647263/32
-CONMEBOL TV(JOGO 1),http://meuplay.shop:80/6424562754/26372647263/117
-CONMEBOL TV(JOGO 2),http://meuplay.shop:80/6424562754/26372647263/118
-CONMEBOL TV(JOGO 3),http://meuplay.shop:80/6424562754/26372647263/120
-CONMEBOL TV(JOGO 4),http://meuplay.shop:80/6424562754/26372647263/147
+A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/851
+A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/210
+A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/1
+AMC,http://meuplay.shop:80/v7yzzocf/uenoaubj/840
+AMC,http://meuplay.shop:80/v7yzzocf/uenoaubj/211
+AMC,http://meuplay.shop:80/v7yzzocf/uenoaubj/2
+AXN,http://meuplay.shop:80/v7yzzocf/uenoaubj/835
+AXN,http://meuplay.shop:80/v7yzzocf/uenoaubj/213
+AXN,http://meuplay.shop:80/v7yzzocf/uenoaubj/4
+HBO,http://meuplay.shop:80/v7yzzocf/uenoaubj/792
+HBO,http://meuplay.shop:80/v7yzzocf/uenoaubj/251
+HBO,http://meuplay.shop:80/v7yzzocf/uenoaubj/41
+HBO 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/793
+HBO 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/254
+HBO 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/39
+HBO FAMILY,http://meuplay.shop:80/v7yzzocf/uenoaubj/795
+HBO FAMILY,http://meuplay.shop:80/v7yzzocf/uenoaubj/40
+HBO MUNDI,http://meuplay.shop:80/v7yzzocf/uenoaubj/797
+HBO MUNDI,http://meuplay.shop:80/v7yzzocf/uenoaubj/260
+HBO MUNDI,http://meuplay.shop:80/v7yzzocf/uenoaubj/48
+HBO PLUS,http://meuplay.shop:80/v7yzzocf/uenoaubj/794
+HBO PLUS,http://meuplay.shop:80/v7yzzocf/uenoaubj/252
+HBO PLUS,http://meuplay.shop:80/v7yzzocf/uenoaubj/42
+HBO POP,http://meuplay.shop:80/v7yzzocf/uenoaubj/799
+HBO POP,http://meuplay.shop:80/v7yzzocf/uenoaubj/262
+HBO POP,http://meuplay.shop:80/v7yzzocf/uenoaubj/50
+HBO SIGNATURE,http://meuplay.shop:80/v7yzzocf/uenoaubj/796
+HBO SIGNATURE,http://meuplay.shop:80/v7yzzocf/uenoaubj/253
+HBO SIGNATURE,http://meuplay.shop:80/v7yzzocf/uenoaubj/43
+HBO XTREME,http://meuplay.shop:80/v7yzzocf/uenoaubj/798
+HBO XTREME,http://meuplay.shop:80/v7yzzocf/uenoaubj/261
+HBO XTREME,http://meuplay.shop:80/v7yzzocf/uenoaubj/49
+PARAMOUNT,http://meuplay.shop:80/v7yzzocf/uenoaubj/845
+PARAMOUNT,http://meuplay.shop:80/v7yzzocf/uenoaubj/272
+PARAMOUNT,http://meuplay.shop:80/v7yzzocf/uenoaubj/60
+TNT,http://meuplay.shop:80/v7yzzocf/uenoaubj/785
+TNT,http://meuplay.shop:80/v7yzzocf/uenoaubj/296
+TNT,http://meuplay.shop:80/v7yzzocf/uenoaubj/84
+TNT SERIES,http://meuplay.shop:80/v7yzzocf/uenoaubj/849
+TNT SERIES,http://meuplay.shop:80/v7yzzocf/uenoaubj/297
+TNT SERIES,http://meuplay.shop:80/v7yzzocf/uenoaubj/85
+UNIVERSAL CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/848
+UNIVERSAL CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/301
+UNIVERSAL CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/90
+WARNER CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/850
+WARNER CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/303
+WARNER CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/93
+STAR CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/836
+STAR CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/241
+STAR CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/28
+CANAL SONY,http://meuplay.shop:80/v7yzzocf/uenoaubj/219
+CANAL SONY,http://meuplay.shop:80/v7yzzocf/uenoaubj/844
+CANAL SONY,http://meuplay.shop:80/v7yzzocf/uenoaubj/7
+CINEMAX,http://meuplay.shop:80/v7yzzocf/uenoaubj/841
+CINEMAX,http://meuplay.shop:80/v7yzzocf/uenoaubj/221
+CINEMAX,http://meuplay.shop:80/v7yzzocf/uenoaubj/9
+FX,http://meuplay.shop:80/v7yzzocf/uenoaubj/842
+FX,http://meuplay.shop:80/v7yzzocf/uenoaubj/246
+FX,http://meuplay.shop:80/v7yzzocf/uenoaubj/34
+MEGAPIX,http://meuplay.shop:80/v7yzzocf/uenoaubj/843
+MEGAPIX,http://meuplay.shop:80/v7yzzocf/uenoaubj/263
+MEGAPIX,http://meuplay.shop:80/v7yzzocf/uenoaubj/51
+SPACE,http://meuplay.shop:80/v7yzzocf/uenoaubj/846
+SPACE,http://meuplay.shop:80/v7yzzocf/uenoaubj/282
+SPACE,http://meuplay.shop:80/v7yzzocf/uenoaubj/70
+CINECANAL,http://meuplay.shop:80/v7yzzocf/uenoaubj/837
+CINECANAL,http://meuplay.shop:80/v7yzzocf/uenoaubj/29
+STUDIO UNIVERSAL,http://meuplay.shop:80/v7yzzocf/uenoaubj/847
+STUDIO UNIVERSAL,http://meuplay.shop:80/v7yzzocf/uenoaubj/286
+STUDIO UNIVERSAL,http://meuplay.shop:80/v7yzzocf/uenoaubj/74
+SYFY,http://meuplay.shop:80/v7yzzocf/uenoaubj/857
+SYFY,http://meuplay.shop:80/v7yzzocf/uenoaubj/287
+SYFY,http://meuplay.shop:80/v7yzzocf/uenoaubj/75
+TBS,http://meuplay.shop:80/v7yzzocf/uenoaubj/856
+TBS,http://meuplay.shop:80/v7yzzocf/uenoaubj/288
+TBS,http://meuplay.shop:80/v7yzzocf/uenoaubj/76
+TCM,http://meuplay.shop:80/v7yzzocf/uenoaubj/877
+TCM,http://meuplay.shop:80/v7yzzocf/uenoaubj/131
+BORA FILMES,http://meuplay.shop:80/v7yzzocf/uenoaubj/63052
+ENTRETENDO FILMES,http://meuplay.shop:80/v7yzzocf/uenoaubj/63864
+NOVA PLAY FILMES E SERIES,http://meuplay.shop:80/v7yzzocf/uenoaubj/60181
+NATGEO,http://meuplay.shop:80/v7yzzocf/uenoaubj/805
+NATGEO,http://meuplay.shop:80/v7yzzocf/uenoaubj/266
+NATGEO,http://meuplay.shop:80/v7yzzocf/uenoaubj/54
+LOVE NATURE,http://meuplay.shop:80/v7yzzocf/uenoaubj/305
+ANIMAL PLANET,http://meuplay.shop:80/v7yzzocf/uenoaubj/804
+ANIMAL PLANET,http://meuplay.shop:80/v7yzzocf/uenoaubj/212
+ANIMAL PLANET,http://meuplay.shop:80/v7yzzocf/uenoaubj/3
+DISCOVERY CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/808
+DISCOVERY CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/224
+DISCOVERY CHANNEL,http://meuplay.shop:80/v7yzzocf/uenoaubj/12
+DISCOVERY H&H,http://meuplay.shop:80/v7yzzocf/uenoaubj/807
+DISCOVERY H&H,http://meuplay.shop:80/v7yzzocf/uenoaubj/226
+DISCOVERY H&H,http://meuplay.shop:80/v7yzzocf/uenoaubj/14
+DISCOVERY SCIENCE,http://meuplay.shop:80/v7yzzocf/uenoaubj/820
+DISCOVERY SCIENCE,http://meuplay.shop:80/v7yzzocf/uenoaubj/228
+DISCOVERY SCIENCE,http://meuplay.shop:80/v7yzzocf/uenoaubj/16
+DISCOVERY THEATER,http://meuplay.shop:80/v7yzzocf/uenoaubj/821
+DISCOVERY THEATER,http://meuplay.shop:80/v7yzzocf/uenoaubj/229
+DISCOVERY THEATER,http://meuplay.shop:80/v7yzzocf/uenoaubj/17
+DISCOVERY TURBO,http://meuplay.shop:80/v7yzzocf/uenoaubj/818
+DISCOVERY TURBO,http://meuplay.shop:80/v7yzzocf/uenoaubj/230
+DISCOVERY TURBO,http://meuplay.shop:80/v7yzzocf/uenoaubj/18
+DISCOVERY WORLD,http://meuplay.shop:80/v7yzzocf/uenoaubj/802
+DISCOVERY WORLD,http://meuplay.shop:80/v7yzzocf/uenoaubj/231
+DISCOVERY WORLD,http://meuplay.shop:80/v7yzzocf/uenoaubj/19
+INVESTIGAÇAO DISCOVERY,http://meuplay.shop:80/v7yzzocf/uenoaubj/819
+INVESTIGAÇAO DISCOVERY,http://meuplay.shop:80/v7yzzocf/uenoaubj/257
+INVESTIGAÇAO DISCOVERY,http://meuplay.shop:80/v7yzzocf/uenoaubj/46
+HISTORY,http://meuplay.shop:80/v7yzzocf/uenoaubj/781
+HISTORY,http://meuplay.shop:80/v7yzzocf/uenoaubj/255
+HISTORY,http://meuplay.shop:80/v7yzzocf/uenoaubj/45
+HISTORY 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/806
+HISTORY 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/256
+HISTORY 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/44
+URBAN DOC,http://meuplay.shop:80/v7yzzocf/uenoaubj/67258
+TLC,http://meuplay.shop:80/v7yzzocf/uenoaubj/809
+TLC,http://meuplay.shop:80/v7yzzocf/uenoaubj/295
+TLC,http://meuplay.shop:80/v7yzzocf/uenoaubj/83
+HGTV,http://meuplay.shop:80/v7yzzocf/uenoaubj/861
+HGTV,http://meuplay.shop:80/v7yzzocf/uenoaubj/225
+HGTV,http://meuplay.shop:80/v7yzzocf/uenoaubj/13
+FISH TV,http://meuplay.shop:80/v7yzzocf/uenoaubj/239
+ARTE 1,http://meuplay.shop:80/v7yzzocf/uenoaubj/876
+ARTE 1,http://meuplay.shop:80/v7yzzocf/uenoaubj/130
+CASA DE VIDRO BBB 2023,http://meuplay.shop:80/v7yzzocf/uenoaubj/84416
+BBB CAM 01,http://meuplay.shop:80/v7yzzocf/uenoaubj/84966
+BBB CAM 02,http://meuplay.shop:80/v7yzzocf/uenoaubj/84967
+BBB CAM 03,http://meuplay.shop:80/v7yzzocf/uenoaubj/84968
+BBB CAM 04,http://meuplay.shop:80/v7yzzocf/uenoaubj/84969
+BBB CAM 05,http://meuplay.shop:80/v7yzzocf/uenoaubj/84970
+BBB CAM 06,http://meuplay.shop:80/v7yzzocf/uenoaubj/84971
+BBB CAM 07,http://meuplay.shop:80/v7yzzocf/uenoaubj/84972
+BBB CAM 08,http://meuplay.shop:80/v7yzzocf/uenoaubj/84973
+BBB CAM 09,http://meuplay.shop:80/v7yzzocf/uenoaubj/84974
+BBB CAM 10,http://meuplay.shop:80/v7yzzocf/uenoaubj/84975
+SANDY & JUNIOR,http://meuplay.shop:80/v7yzzocf/uenoaubj/83820
+ROBERTO CARLOS,http://meuplay.shop:80/v7yzzocf/uenoaubj/83821
+IVETE SANGALO,http://meuplay.shop:80/v7yzzocf/uenoaubj/83822
+J.QUEST,http://meuplay.shop:80/v7yzzocf/uenoaubj/83823
+RAÇA NEGRA,http://meuplay.shop:80/v7yzzocf/uenoaubj/83824
+OS MENOTTI,http://meuplay.shop:80/v7yzzocf/uenoaubj/83825
+FABIO JR,http://meuplay.shop:80/v7yzzocf/uenoaubj/83826
+SKANK,http://meuplay.shop:80/v7yzzocf/uenoaubj/83827
+SÉRGIO REIS,http://meuplay.shop:80/v7yzzocf/uenoaubj/83828
+JOELMA,http://meuplay.shop:80/v7yzzocf/uenoaubj/83829
+NATIRUTS,http://meuplay.shop:80/v7yzzocf/uenoaubj/83830
+ALEXANDRE PIRES,http://meuplay.shop:80/v7yzzocf/uenoaubj/83831
+MARILIA MENDONÇA,http://meuplay.shop:80/v7yzzocf/uenoaubj/83832
+BELO,http://meuplay.shop:80/v7yzzocf/uenoaubj/83833
+BRUNO E MARRONE,http://meuplay.shop:80/v7yzzocf/uenoaubj/83834
+SIMONE E SIMARAIA,http://meuplay.shop:80/v7yzzocf/uenoaubj/83835
+FELIPE ARAUJO,http://meuplay.shop:80/v7yzzocf/uenoaubj/83836
+CABARÉ,http://meuplay.shop:80/v7yzzocf/uenoaubj/83838
+JORGE E MATHEUS,http://meuplay.shop:80/v7yzzocf/uenoaubj/83839
+MAIARA E MARAISA,http://meuplay.shop:80/v7yzzocf/uenoaubj/83840
+ZÉ NETO E CRISTIANO,http://meuplay.shop:80/v7yzzocf/uenoaubj/83841
+LEONARDO,http://meuplay.shop:80/v7yzzocf/uenoaubj/83842
+AMADO BATISTA,http://meuplay.shop:80/v7yzzocf/uenoaubj/83843
+UFC Fight Pass,http://meuplay.shop:80/v7yzzocf/uenoaubj/84480
+RED BULL TV,http://meuplay.shop:80/v7yzzocf/uenoaubj/31744
+NBA LEAGUE PASS 01,http://meuplay.shop:80/v7yzzocf/uenoaubj/83025
+NBA LEAGUE PASS 02,http://meuplay.shop:80/v7yzzocf/uenoaubj/83026
+NBA LEAGUE PASS 03,http://meuplay.shop:80/v7yzzocf/uenoaubj/83027
+NBA LEAGUE PASS 04,http://meuplay.shop:80/v7yzzocf/uenoaubj/83028
+NBA LEAGUE PASS 05,http://meuplay.shop:80/v7yzzocf/uenoaubj/83029
+NBA LEAGUE PASS 06,http://meuplay.shop:80/v7yzzocf/uenoaubj/83030
+NBA LEAGUE PASS 07,http://meuplay.shop:80/v7yzzocf/uenoaubj/83031
+SPORTV,http://meuplay.shop:80/v7yzzocf/uenoaubj/776
+SPORTV,http://meuplay.shop:80/v7yzzocf/uenoaubj/285
+SPORTV,http://meuplay.shop:80/v7yzzocf/uenoaubj/73
+SPORTV 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/777
+SPORTV 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/283
+SPORTV 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/71
+SPORTV 3,http://meuplay.shop:80/v7yzzocf/uenoaubj/778
+SPORTV 3,http://meuplay.shop:80/v7yzzocf/uenoaubj/284
+SPORTV 3,http://meuplay.shop:80/v7yzzocf/uenoaubj/72
+ELEVEN SPORTS(JOGO 1),http://meuplay.shop:80/v7yzzocf/uenoaubj/166
+ELEVEN SPORTS(JOGO 2),http://meuplay.shop:80/v7yzzocf/uenoaubj/167
+ELEVEN SPORTS(JOGO 3),http://meuplay.shop:80/v7yzzocf/uenoaubj/168
+ELEVEN SPORTS(JOGO 4),http://meuplay.shop:80/v7yzzocf/uenoaubj/169
+ELEVEN SPORTS(JOGO 5),http://meuplay.shop:80/v7yzzocf/uenoaubj/170
+ELEVEN SPORTS(JOGO 6),http://meuplay.shop:80/v7yzzocf/uenoaubj/171
+ELEVEN SPORTS(JOGO 7),http://meuplay.shop:80/v7yzzocf/uenoaubj/172
+ELEVEN SPORTS(JOGO 8),http://meuplay.shop:80/v7yzzocf/uenoaubj/173
+ELEVEN SPORTS(JOGO 9),http://meuplay.shop:80/v7yzzocf/uenoaubj/174
+ELEVEN SPORTS(JOGO 10),http://meuplay.shop:80/v7yzzocf/uenoaubj/175
+DAZN 01,http://meuplay.shop:80/v7yzzocf/uenoaubj/325
+DAZN 02,http://meuplay.shop:80/v7yzzocf/uenoaubj/326
+DAZN 03,http://meuplay.shop:80/v7yzzocf/uenoaubj/327
+DAZN 04,http://meuplay.shop:80/v7yzzocf/uenoaubj/111
+ESPN,http://meuplay.shop:80/v7yzzocf/uenoaubj/769
+ESPN,http://meuplay.shop:80/v7yzzocf/uenoaubj/238
+ESPN,http://meuplay.shop:80/v7yzzocf/uenoaubj/24
+ESPN 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/771
+ESPN 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/236
+ESPN 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/25
+ESPN 3,http://meuplay.shop:80/v7yzzocf/uenoaubj/772
+ESPN 3,http://meuplay.shop:80/v7yzzocf/uenoaubj/237
+ESPN 3,http://meuplay.shop:80/v7yzzocf/uenoaubj/23
+ESPN 4,http://meuplay.shop:80/v7yzzocf/uenoaubj/774
+ESPN 4,http://meuplay.shop:80/v7yzzocf/uenoaubj/244
+ESPN EXTRA,http://meuplay.shop:80/v7yzzocf/uenoaubj/770
+ESPN EXTRA,http://meuplay.shop:80/v7yzzocf/uenoaubj/235
+ESPN EXTRA,http://meuplay.shop:80/v7yzzocf/uenoaubj/26
+ALL SPORTS,http://meuplay.shop:80/v7yzzocf/uenoaubj/31745
+COMBATE,http://meuplay.shop:80/v7yzzocf/uenoaubj/784
+COMBATE,http://meuplay.shop:80/v7yzzocf/uenoaubj/222
+COMBATE,http://meuplay.shop:80/v7yzzocf/uenoaubj/10
+BAND SPORTS,http://meuplay.shop:80/v7yzzocf/uenoaubj/768
+BAND SPORTS,http://meuplay.shop:80/v7yzzocf/uenoaubj/215
+BAND SPORTS,http://meuplay.shop:80/v7yzzocf/uenoaubj/5
+PRIME VIDEO 1,http://meuplay.shop:80/v7yzzocf/uenoaubj/83809
+PRIME VIDEO 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/83810
+PRIME VIDEO 3,http://meuplay.shop:80/v7yzzocf/uenoaubj/83811
+PRIME VIDEO 4,http://meuplay.shop:80/v7yzzocf/uenoaubj/83812
+FOX SPORTS 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/773
+FOX SPORTS 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/245
+FOX SPORTS 2,http://meuplay.shop:80/v7yzzocf/uenoaubj/32
+CONMEBOL TV(JOGO 1),http://meuplay.shop:80/v7yzzocf/uenoaubj/117
+CONMEBOL TV(JOGO 2),http://meuplay.shop:80/v7yzzocf/uenoaubj/118
+CONMEBOL TV(JOGO 3),http://meuplay.shop:80/v7yzzocf/uenoaubj/120
+CONMEBOL TV(JOGO 4),http://meuplay.shop:80/v7yzzocf/uenoaubj/147
 Fox News,mitv://generationnexxxt.com:19806/0ca77bf69d4a4777a2e145f1158814a3
 BBC World News,mitv://generationnexxxt.com:19806/e47a7f3ef6714885a39d5eedebffd158
 CNN USA,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5

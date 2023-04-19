@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;962a1af0469ede7b575046c69c1f52d3",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0bc15f10795f089154b14a04db37b9f4",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
@@ -586,8 +586,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+      "changeable": 0
     }
   ]
 }
