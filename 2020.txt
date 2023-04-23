@@ -745,21 +745,19 @@ Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 
 🇭🇰香港频道,#genre#
-凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-凤凰資訊,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-凤凰資訊,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
-凤凰資訊,rtmp://playtv-live.ifeng.com:1935/live/06OLEEWQKN4
+凤凰資訊,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰資訊,http://123.51.230.108:18580/.m3u8
-凤凰資訊,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
-凤凰資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰資訊,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
-凤凰中文,rtmp://playtv-live.ifeng.com:1935/live/06OLEGEGM4G
+凤凰資訊,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
+凤凰資訊,https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8
+
+凤凰中文,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,http://39.134.115.221:8080/PLTV/88888910/224/3221226248/index.m3u8
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://flv.mp4cdn.live/gt-key=00569874.php?id=182
 
 RHK31,mitv://generationnexxxt.com:19806/74fc0c2698d7473993bf38cc305005d8.ts
 RHK32,mitv://generationnexxxt.com:19806/2c0081f46ec34d938526a4840a8d77db.ts
@@ -913,8 +911,6 @@ ViuTV,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/1001584734?
 天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 有線新聞,http://107.151.203.111:2209/135/hk.php?id=cable37h
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
 凤凰香港,http://107.151.203.111:2209/135/hk.php?id=fhhk
 香港衛視,http://107.151.203.111:2209/135/hk.php?id=hkws
 星空衛視,http://107.151.203.111:2209/135/hk.php?id=xkwst
@@ -932,6 +928,34 @@ ViuTV,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/1001584734?
 澳亞衛視,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 🇹🇼台灣频道,#genre#
+TVBS HD,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=56
+TVBS新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=54
+東森LIVE,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=44
+中天新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=43
+民視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=50
+中視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=46
+台視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=47
+LIVE三立,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=48
+三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
+三立News+,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=49
+華視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=51
+镜新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=52
+寰宇新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=53
+TVBS歡樂,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=57
+TVBS HD,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=56
+TVBS新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=54
+東森LIVE,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=44
+中天新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=43
+民視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=50
+中視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=46
+台視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=47
+LIVE三立,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=48
+三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
+三立News+,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=49
+華視新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=51
+镜新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=52
+寰宇新聞,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=53
+TVBS歡樂,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=57
 TVBS HD,http://2023.stream-link.org/live/1711676066
 TVBS新聞,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新聞,http://2023.stream-link.org/live/401131254
@@ -5294,3 +5318,4 @@ M2音乐,http://live.m2.tv/hls3/stream.m3u8
 舞蹈10,https://mvvideoshare2.meitudata.com/5e6c8487eaf562ip8evyy22386_H264_4_9b6cb4c3ea353.mp4
 舞蹈11,https://mvvideoshare2.meitudata.com/5e634cf2141a92hpybf7m04115_H264_4_384eeaf91555b.mp4
 舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
+
