@@ -1,29 +1,4 @@
-﻿[
-{"name":"精选","url":"https://taijichadao.github.io/live/live.txt"},
-{"name":"肥猫","url":"http://我不是.肥猫.love:63/TV/tvzb.txt"},
-{"name":"饭太硬","url":"http://ftyyy.tk/live.txt"},
-{"name":"dxawi","url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt"},
-{"name":"龙门","url":"https://www.looo.top/app/conf/live.txt"}
-]
-//备用配置
-//唐三 https://hutool.ml/tang
-//神器 https://神器每日推送.tk/pz.json
-//巧技 http://pandown.pro/tvbox/tvbox.json
-//道长 https://pastebin.com/raw/5NHaxyGR
-//菜妮丝 https://tvbox.cainisi.cf/ https://cainisi.cf/mao.html
-//肥猫 http://我不是.肥猫.love:63/接口禁止贩卖
-//蜂蜜 https://raw.iqiq.io//FongMi/CatVodSpider/main/json/config.json
-//蜂蜜大人 https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json
-//饭太硬 http://饭太硬.ga/tv
-//小雅js http://drpy.site/js1
-//应用多多 https://yydsys.top/duo
-//张弘 https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json
-//多仓 https://gitlab.com/ygbh1/666/-/raw/main/dcang/ygbh.json
-
-
-//20230407 影视⚽云盘☁切片◑◐其他❀音乐♪榜单★⑱ Ⓑ 🅑 ⚃ ❂◉◎
-
-{
+﻿{
 
 "spider":"./jar/0407.jar;md5;613066b0150c902b3d51bde7a433be83",
 
