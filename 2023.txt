@@ -424,11 +424,13 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 凤凰資訊,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰資訊,http://123.51.230.108:18580/.m3u8
 凤凰資訊,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰資訊,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4
 凤凰資訊,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
 凤凰資訊,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 凤凰資訊,https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8
 凤凰中文,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://39.134.115.221:8080/PLTV/88888910/224/3221226248/index.m3u8
+凤凰中文,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
@@ -583,6 +585,15 @@ RHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 翡翠台,http://120.84.96.113:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.73:808/hls/25/index.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/live/bc93b287862818b6abc97fbe5da932a1.flv
+翡翠台,http://pull-l3-cny.douyincdn.com/live/876c9a52cab3d6889fbb7e3ea5e72110.flv
+翡翠台,http://pull-l3-cny.douyincdn.com/live/8a8b2483c8a021d44858ab554929be13.flv
+翡翠台,http://pull-l3-cny.douyincdn.com/live/5a84582ca1e18bc797624d3ba65dd08e.flv
+翡翠台,http://pull-l3-cny.douyincdn.com/live/7163e91d246f51fc1b348ce7c8581ce1.flv
+功夫台,http://pull-l3-cny.douyincdn.com/live/bac024ce8a8d8f34e9d32da1b2e13b12.flv
+Now剧集台,http://pull-l3-cny.douyincdn.com/live/c14ecdef1160ff9e678186ae31a6df62.flv
+Now华剧台，http://pull-l3-cny.douyincdn.com/live/91ad47c6c51ce88efc62122a28076cc6.flv
+Now国际台，http://pull-l3-cny.douyincdn.com/live/0419fbdcfcf376b7c78069977e0ceeb5.flv
 美国中文,https://cdnts.sinovision.net/livestream.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -1593,7 +1604,7 @@ HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 壹电视新闻台,mitv://generationnexxxt.com:19806/7e044c3949604e4387063e9924b1eea4
 年代新闻,mitv://generationnexxxt.com:19806/c1ae01ebfb874789956a7d6753b14c4c
 东森新闻台,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
-中天新闻台,mitv://generationnexxxt.com:19806/dbb6973962204567b4719e3746a957e1
+中天新闻台,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
 民视新闻台,mitv://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d
 三立新闻台,mitv://generationnexxxt.com:19806/d0e6a89f1b7d42ae96f75f679e8da0f3
 TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
@@ -2084,7 +2095,6 @@ NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 城市电视,mitv://generationnexxxt.com:19806/4ed9cf9666d7430d94e6f4f8c26986f6
 Fox News,mitv://generationnexxxt.com:19806/0ca77bf69d4a4777a2e145f1158814a3
 BBC World News,mitv://generationnexxxt.com:19806/e47a7f3ef6714885a39d5eedebffd158
-CNN USA,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5
 CBC News,mitv://generationnexxxt.com:19806/f4f2d24eb46f42c693d83e97290457e8
 MSNBC,mitv://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61
 CTV News,mitv://generationnexxxt.com:19806/be706e24ed1f4245876b3e0ddc697571
@@ -2440,6 +2450,13 @@ SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 🇺🇸欧美频道,#genre#
+CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
+CNN,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5
+CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,http://50.7.238.98:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/851
 A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/210
 A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/1
@@ -2724,7 +2741,6 @@ SONY MAX,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYwS46QSZuV47YElbaFWE3U/ts
 SONY TV,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaf-pLm5wZ0jmKNO-smcEF7s/ts
 GREAT! CLASSIC +1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaYOlXWpV9c504FpO1tqvg0E/ts
 GREAT! ACTION+1,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINabFNOPNILjO9CS_soguhfrg/ts
-CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
 TeleCine,http://23.237.10.66:16195
 NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 新加坡国际,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -5510,6 +5526,8 @@ HAPPY,mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e
 K 頻道,mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8
 Look HD,mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f
 PLAYBOY,mitv://generationnexxxt.com:19806/ff05e3399b5f475aa01eaa69701bdf12
+松視3臺,https://epg.pw/stream/d49993547f5b6618bae7388954cbf26814b5fb6f3c0f737ffc657f25f4d765e3.m3u8
+松視3臺,https://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
 
 🔞三級倫理,#genre#
 這像整過後的嗎,https://vod1.vodyutu.com/20221105/bRqiC0aQ/index.m3u8
