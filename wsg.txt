@@ -452,9 +452,13 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港衛視,http://124.238.99.44:808/hls/352/index.m3u8
 香港衛視,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+無綫新聞,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-127406a1-8537-4fe6-8b05-c80fac079141.m3u8
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0&hq$50屏
 無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8
 無綫新聞,https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8?by=yeslivetv_com
+無綫財經,http://120.84.96.89:808/hls/86/index.m3u8
+無綫財經,http://120.84.96.87:808/hls/86/index.m3u8
 無綫財經,http://59.149.114.27:9981/stream/channelid/795359597?profile=matroska
 無綫財經,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 無綫財經,http://live.cooltv.top/tv/tvb.php?id=2&hq$50屏
@@ -465,6 +469,8 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://107.151.203.111:2209/135/hk.php?id=cable37h
+有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有線新聞,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
 財經資訊,https://api.leonardpark.dev/live/icable/108
 財經資訊,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 財經資訊,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
@@ -473,12 +479,19 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://120.84.96.73:808/hls/25/index.m3u8
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
+明珠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-466bc050-ee67-4156-b009-1599a952cfed.m3u8
 明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 ViuTV6,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 TVB星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 TVB RICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+HOY資訊台,http://154.216.191.59/ycdz/x.php?id=23
+HOY TV,http://154.216.191.59/ycdz/x.php?id=24
+HKC体育台,mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
+J2,http://r.jdshipin.com/Nr5jq
+Now新聞台,mitv://generationnexxxt.com:19806/d7d8ced83c694ee09eda089b554d9dc5
 星空衛視,http://107.151.203.111:2209/135/hk.php?id=xkwst
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
@@ -499,14 +512,25 @@ TVB RICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳门Macau,http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
 🇹🇼台灣频道,#genre#
-TVBS HD,http://154.216.191.59/ycdz/x.php?id=56
 TVBS HD,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-71e43e9f-ffec-42ac-b63a-38c5f7ef6ec1.m3u8?by=yeslivetv_com
-
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-300d09ed-7cca-4909-831e-3184bf30496f.m3u8?by=yeslivetv_com
-TVBS新聞,http://154.216.191.59/ycdz/x.php?id=54
-民視新聞,http://154.216.191.59/ycdz/x.php?id=50
-寰宇新聞,http://154.216.191.59/ycdz/x.php?id=53
-中天新聞,http://154.216.191.59/ycdz/x.php?id=43
+東森新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=44
+東森新聞,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+中天新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=43
+中天新聞,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=43
+中視新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=46
+中視新聞,mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
+台視新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=47
+民視新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=50
+三立新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=49
+TVBS新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=54
+TVBS新聞,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+镜新聞台,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=52
+寰宇新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=53
+寰宇新聞,mitv://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f
+華視新聞,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=51
+華視新聞,mitv://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d
+
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -538,7 +562,9 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 民視,rtmp://219.80.97.77/sat/tv051
 中視,rtmp://219.80.97.77/sat/tv091
 華視,rtmp://219.80.97.77/sat/tv111
-
+TVBS歡樂,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=57
+東森电影,http://120.84.96.87:808/hls/32/index.m3u8
+東森电影,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
 東森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
 東森洋片,http://120.84.96.89:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.73:808/hls/33/index.m3u8
