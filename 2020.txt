@@ -370,12 +370,10 @@ ViuTV,http://php.733240.com/hk/hk.php?id=2
 澳门Macau,http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
 🇹🇼台灣频道,#genre#
-TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS HD,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334178
 TVBS新聞,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
-東森新聞,http://awei.beimua.com/yes.php?id=1
-TVBS新聞,http://awei.beimua.com/yes.php?id=3
 中天新聞,http://awei.beimua.com/iptv.php?id=43
-東森新聞,http://awei.beimua.com/iptv.php?id=44
+東森LIVE,http://awei.beimua.com/iptv.php?id=44
 中視新聞,http://awei.beimua.com/iptv.php?id=46
 台視新聞,http://awei.beimua.com/iptv.php?id=47
 三立新聞,http://awei.beimua.com/iptv.php?id=48
@@ -384,14 +382,12 @@ TVBS新聞,http://awei.beimua.com/yes.php?id=3
 镜新聞台,http://awei.beimua.com/iptv.php?id=52
 寰宇新聞,http://awei.beimua.com/iptv.php?id=53
 TVBS新聞,http://awei.beimua.com/iptv.php?id=54
-東森新聞,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
-中天新聞,http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=43
 中視新聞,mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
 寰宇新聞,mitv://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f
 華視新聞,mitv://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d
 壹新聞台,mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333
 年代新聞,mitv://generationnexxxt.com:19806/64548033000a719c4be99d8434f175bc
-東森新聞,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334237#mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+東森新聞,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334237
 中天新聞,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334230#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334177#mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
 民視新聞,mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
 三立新聞,mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
@@ -406,8 +402,8 @@ TVBS新聞,http://awei.beimua.com/iptv.php?id=54
 台視財經,mitv://generationnexxxt.com:19806/6458c34c00065a835c8fc1003c896dab
 東森新聞,mitv://generationnexxxt.com:19806/645c9fee000e01606ba59bc415d52492
 镜新聞台,mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027
-TVBS新聞,http://php.733240.com/hk/hk.php?id=12#mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
-TVBS HD,http://php.733240.com/hk/hk.php?id=13#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334178
+TVBS新聞,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+
 
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -418,6 +414,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -1100,8 +1097,7 @@ CLASSICA 古典乐,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec2
 CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
 
 🇹🇼旋风加速,#genre#
-TVBS HD,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS HD,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
@@ -1134,6 +1130,16 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MA4A22332601223326
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
@@ -1290,7 +1296,7 @@ CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct
 中天亞洲,http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+
 TVBS歡樂,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
@@ -2387,6 +2393,57 @@ CHC家庭,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTI
 埋堆堆62,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23863818
 
 🐟斗鱼劇场,#genre#
+吃米滴虫,http://epg.112114.xyz/douyu/315457
+神乐影片1,http://epg.112114.xyz/douyu/122402
+神乐影片2,http://epg.112114.xyz/douyu/85894
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
+喜剧经典,http://epg.112114.xyz/douyu/9650887
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
+可乐电影,http://epg.112114.xyz/douyu/20415
+冰冰经典电影,http://epg.112114.xyz/douyu/74374
+避风港影院,http://epg.112114.xyz/douyu/9826611
+林林影院,http://epg.112114.xyz/douyu/9652323
+漫威电影,http://epg.112114.xyz/douyu/4282654
+恐怖经典,http://epg.112114.xyz/douyu/1165374
+华语电影,http://epg.112114.xyz/douyu/3928
+粤语综艺,http://epg.112114.xyz/douyu/7919720
+华语经典,http://epg.112114.xyz/douyu/434971
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+漫威影片,http://epg.112114.xyz/douyu/6140589
+林正英电影2,http://epg.112114.xyz/douyu/7356023
+女神金电影,http://epg.112114.xyz/douyu/747764
+霍格影片,http://epg.112114.xyz/douyu/8814650
+变种人电影,http://epg.112114.xyz/douyu/9651304
+禧剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+电视剧,http://diyp.112114.xyz/douyu/7623292
+刘华强,http://diyp.112114.xyz/douyu/2726977
+降魔的,http://diyp.112114.xyz/douyu/3627728
+经典剧场,http://diyp.112114.xyz/douyu/8543072
+经典影视,http://diyp.112114.xyz/douyu/3113309
+雍正专业,http://diyp.112114.xyz/douyu/9650836
+活佛济公,http://diyp.112114.xyz/douyu/8595134
+吃米滴虫,http://diyp.112114.xyz/douyu/315457
+周末狂欢,http://diyp.112114.xyz/douyu/7476264
+少年阴影,http://diyp.112114.xyz/douyu/2935323
+古装喜剧,http://diyp.112114.xyz/douyu/431460
+古装神剧,http://diyp.112114.xyz/douyu/338759
+国产影片,http://diyp.112114.xyz/douyu/5423
+刑侦破案,http://diyp.112114.xyz/douyu/8323493
+人民港剧,http://diyp.112114.xyz/douyu/5261342
+港剧天地,http://diyp.112114.xyz/douyu/4290711
+热门港剧,http://diyp.112114.xyz/douyu/5522351
+经典搞笑,http://diyp.112114.xyz/douyu/5429211
+邵氏经典,http://diyp.112114.xyz/douyu/4246519
+华语经典①,http://diyp.112114.xyz/douyu/434971
+经典港剧①,http://diyp.112114.xyz/douyu/4549169
+武侠电视剧,http://diyp.112114.xyz/douyu/7338853
+刘德华电影,http://diyp.112114.xyz/douyu/2516864
+林正英电影,http://diyp.112114.xyz/douyu/218859
+港剧电视剧,http://diyp.112114.xyz/douyu/9548850
+康熙私访,http://diyp.112114.xyz/douyu/7550220
 神乐影片,http://epg.112114.xyz/douyu/122402
 神乐影片,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 神乐影片2,http://epg.112114.xyz/douyu/85894
