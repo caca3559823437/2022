@@ -171,6 +171,12 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 新聞综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 新聞综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 新聞综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&stbId=4
+新聞综合,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海都市,http://fjbciptv.live.bestvcdn.com.cn//live/program/live/ylpdhd/4000000/mnf.m3u8
+上海都市,http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
+五星體育,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+第一財經,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
+外语频道,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
 東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 東方影視,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 東方財經,http://112.25.48.70/live/program/live/dfcj/1300000/mnf.m3u8
@@ -276,11 +282,20 @@ Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 
 🇭🇰香港频道,#genre#
-凤凰資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰資訊,http://113.117.74.15:8081/hls/36/index.m3u8
+凤凰資訊,http://r.jdshipin.com/0Rp07
 凤凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
+凤凰資訊,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
+凤凰資訊,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+
+凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰中文,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港,http://107.151.203.111:2209/135/hk.php?id=fhhk
 香港衛視,http://107.151.203.111:2209/135/hk.php?id=hkws
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -288,11 +303,15 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港衛視,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+無綫新聞,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
+無綫新聞,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0&hq$50屏
 無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8
 無綫財經,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 無綫財經,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 無綫財經,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+無綫財經,http://120.84.96.87:808/hls/86/index.m3u8
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,https://api.leonardpark.dev/live/icable/109
 有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -337,7 +356,10 @@ Now新聞台,mitv://generationnexxxt.com:19806/d7d8ced83c694ee09eda089b554d9dc5
 澳门Macau,http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
 🇹🇼台灣频道,#genre#
-TVBS HD
+TVBS HD,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f017a31b62f.m3u8?by=yeslivetv_com
+年代新聞,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
+東森新聞,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8?by=yeslivetv_com
+TVBS新聞,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18386c7e-b0ef-4fb1-89f1-0168fe04bc71.m3u8?by=yeslivetv_com
 TVBS新聞,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
 中天新聞,http://awei.beimua.com/iptv.php?id=43
 中天新聞,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w×tamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign= ee9793023b0702b7fcd1bb47ca489dd7
@@ -1306,14 +1328,15 @@ SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 🇺🇸欧美频道,#genre#
-CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
-CNN,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
 CNN,https://ancom.ga/fptplay_sv2/cnn/bitrate_5000.m3u8
 CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,http://50.7.238.98:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
+CNN,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5
 A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/851
 A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/210
 A&E,http://meuplay.shop:80/v7yzzocf/uenoaubj/1
