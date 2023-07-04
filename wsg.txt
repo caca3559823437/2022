@@ -335,23 +335,27 @@ Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 
 🇭🇰香港频道,#genre#
-凤凰資訊,http://www.372583307.top:4022/udp/233.50.200.192:5140
-凤凰資訊,http://r.jdshipin.com/0Rp07
-凤凰資訊,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-凤凰資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰資訊,http://113.117.74.15:8081/hls/36/index.m3u8
-凤凰資訊,http://iptv.weai.love/live/88888888/fhzx.m3u8
+鳳凰資訊,http://sc2022.stream-link.org/tv2306.php?id=h15
+鳳凰衛視,http://sc2022.stream-link.org/tv2306.php?id=h16
+鳳凰香港,http://sc2022.stream-link.org/tv2306.php?id=h17
 
-凤凰衛視,http://www.372583307.top:4022/udp/233.50.200.191:5140
-凤凰衛視,http://113.117.74.10:8081/hls/37/index.m3u8
-凤凰衛視,http://iptv.weai.love/live/88888888/fhzw.m3u8
-凤凰衛視,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰衛視,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰衛視,http://r.jdshipin.com/cCCzW
+鳳凰資訊,http://www.372583307.top:4022/udp/233.50.200.192:5140
+鳳凰資訊,http://r.jdshipin.com/0Rp07
+鳳凰資訊,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+鳳凰資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+鳳凰資訊,http://113.117.74.15:8081/hls/36/index.m3u8
+鳳凰資訊,http://iptv.weai.love/live/88888888/fhzx.m3u8
 
-凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-凤凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
-凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+鳳凰衛視,http://www.372583307.top:4022/udp/233.50.200.191:5140
+鳳凰衛視,http://113.117.74.10:8081/hls/37/index.m3u8
+鳳凰衛視,http://iptv.weai.love/live/88888888/fhzw.m3u8
+鳳凰衛視,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+鳳凰衛視,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+鳳凰衛視,http://r.jdshipin.com/cCCzW
+
+鳳凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+鳳凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
+鳳凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 
 香港衛視,http://107.151.203.111:2209/135/hk.php?id=hkws
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -362,10 +366,17 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ec991d84cbef928ab3a882ad-165166992977141&wsIPSercert=315bc45f13e35a4a62376fd85478636c&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 
+無綫新聞,http://sc2022.stream-link.org/tv2306.php?id=h04
+無綫新聞,http://sc2022.stream-link.org/tv2306.php?id=h04
+無綫新聞,http://sc2022.stream-link.org/tv2306.php?id=h06
 無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
 
+無綫財經,http://sc2022.stream-link.org/tv2306.php?id=h05
+無綫財經,http://sc2022.stream-link.org/tv2306.php?id=h07
 無綫財經,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 
+翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h02
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
@@ -379,7 +390,9 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 
 香港时尚,https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
-
+RTHK31,http://sc2022.stream-link.org/tv2306.php?id=h08
+RTHK32,http://sc2022.stream-link.org/tv2306.php?id=h09
+RTHK33,http://sc2022.stream-link.org/tv2306.php?id=h10
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
@@ -387,12 +400,16 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 RTHK34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 ViuTV6,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+國際財經,http://sc2022.stream-link.org/tv2306.php?id=h12
+開電視,http://sc2022.stream-link.org/tv2306.php?id=h13
+開電視資訊,http://sc2022.stream-link.org/tv2306.php?id=h14
 
 TVB星河台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 TVB星河台,http://103.112.191.9:880/LAOSAT1092.m3u8
 
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
+J2,http://sc2022.stream-link.org/tv2306.php?id=h03
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -415,11 +432,12 @@ J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGt
 
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 
-澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
-澳门莲花,http://lu1.cc/itv/gatv/lhws.php
-澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
-澳门莲花,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/xzlhtv.php
+澳門蓮花,http://sc2022.stream-link.org/tv2306.php?id=h18
+澳門蓮花,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+澳門蓮花,http://lu1.cc/itv/gatv/lhws.php
+澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
+澳門蓮花,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/xzlhtv.php
 
 澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
 澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8?WithCaption
@@ -563,6 +581,33 @@ FOX新聞,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 
+東森新聞,http://sc2022.stream-link.org/tv2306.php?id=t01
+東森財經,http://sc2022.stream-link.org/tv2306.php?id=t02
+中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
+華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
+中視新聞,http://sc2022.stream-link.org/tv2306.php?id=t05
+民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
+寰宇新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇台灣,http://sc2022.stream-link.org/tv2306.php?id=t08
+三立財經,http://sc2022.stream-link.org/tv2306.php?id=t09
+三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t10
+三立新聞+,http://sc2022.stream-link.org/tv2306.php?id=t11
+台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
+TVBS新聞,http://sc2022.stream-link.org/tv2306.php?id=t13
+TVBS財經,http://sc2022.stream-link.org/tv2306.php?id=t14
+中天亞洲,http://sc2022.stream-link.org/tv2306.php?id=t15
+TVBS亞洲,http://sc2022.stream-link.org/tv2306.php?id=t16
+民視,http://sc2022.stream-link.org/tv2306.php?id=t17
+民視第一,http://sc2022.stream-link.org/tv2306.php?id=t18
+民視台灣,http://sc2022.stream-link.org/tv2306.php?id=t19
+民視綜藝,http://sc2022.stream-link.org/tv2306.php?id=t20
+民視影劇,http://sc2022.stream-link.org/tv2306.php?id=t21
+民視旅遊,http://sc2022.stream-link.org/tv2306.php?id=t22
+三立台灣,http://sc2022.stream-link.org/tv2306.php?id=t23
+三立都會,http://sc2022.stream-link.org/tv2306.php?id=t24
+天才衝衝衝,http://sc2022.stream-link.org/tv2306.php?id=t25
+東森yoyo,http://sc2022.stream-link.org/tv2306.php?id=t26
+
 🇹🇼全球频道,#genre#
 港台電視31,mitv://generationnexxxt.com:19806/5c7ff8bb2e0349cdab492d5aea25ff3c
 港台电视32,mitv://generationnexxxt.com:19806/afa315c3220e4a3898e3e2b3beca6ac7
@@ -574,16 +619,16 @@ J2,mitv://generationnexxxt.com:19806/647d77b600025c24ebf0909411923c9c
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/64858f6e000523aa0b8d380f4a2f33ce
 ViuTVsix,mitv://generationnexxxt.com:19806/c4c1c3b894794541baf86612a8c8ce33
 ViuTV,mitv://generationnexxxt.com:19806/894e66f1d02e423f9d6726108942dcf1
-凤凰中文台,mitv://generationnexxxt.com:19806/647574b800008e59cca4d6bf018a19b0
-凤凰资讯台,mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
-凤凰香港台,mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
+鳳凰中文台,mitv://generationnexxxt.com:19806/647574b800008e59cca4d6bf018a19b0
+鳳凰资讯台,mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
+鳳凰香港台,mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
 阳光卫视,mitv://generationnexxxt.com:19806/2248ad425a574167b4c28e6378071e2e
 澳门-MACAU,mitv://generationnexxxt.com:19806/c387d27336de4557b3dbe76999c5d9e5
-澳门莲花,mitv://generationnexxxt.com:19806/bba45ad672ed40a9b433330c4839cfe2
+澳門蓮花,mitv://generationnexxxt.com:19806/bba45ad672ed40a9b433330c4839cfe2
 now新闻台,mitv://generationnexxxt.com:19806/64916be800065a6939e27f9c6e3d2501
 香港卫视,mitv://generationnexxxt.com:19806/6479664a0001a160dc0c795d69a0053f
-凤凰电影台,mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
+鳳凰电影台,mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
 香港国际财经台,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
 香港卫视综艺台,mitv://generationnexxxt.com:19806/647b15a20006f2c4e2a1739d20244068
 HKC 18,mitv://generationnexxxt.com:19806/2ea5b3599fc94ffbaf94bcec0b1a436d
@@ -659,7 +704,7 @@ CCTV6,mitv://generationnexxxt.com:19806/8cf06c01d4a14947a753a183865d1031
 天映频道,mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0
 天映经典,mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6
 tvN Movies HD,mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
-凤凰电影台,mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
+鳳凰电影台,mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
 卫视电影台,mitv://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8
 东森电影台,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
 纬来电影台,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
@@ -1582,6 +1627,30 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 CNN,http://50.7.238.98:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 CNN,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5
+
+ABC News Australia,http://sc2022.stream-link.org/tv2306.php?id=e01
+ABC News,http://sc2022.stream-link.org/tv2306.php?id=e02
+ANN News,http://sc2022.stream-link.org/tv2306.php?id=e03
+Asianet News,http://sc2022.stream-link.org/tv2306.php?id=e04
+BBC News,http://sc2022.stream-link.org/tv2306.php?id=e05
+CNA News,http://sc2022.stream-link.org/tv2306.php?id=e06
+CNN Live,http://sc2022.stream-link.org/tv2306.php?id=e07
+DW News,http://sc2022.stream-link.org/tv2306.php?id=e08
+EURO News,http://sc2022.stream-link.org/tv2306.php?id=e09
+Fox Live,http://sc2022.stream-link.org/tv2306.php?id=e10
+France 24 English,http://sc2022.stream-link.org/tv2306.php?id=e11
+GB News,http://sc2022.stream-link.org/tv2306.php?id=e12
+Haber Turk,http://sc2022.stream-link.org/tv2306.php?id=e13
+NBC News,http://sc2022.stream-link.org/tv2306.php?id=e14
+NHK World Japan,http://sc2022.stream-link.org/tv2306.php?id=e15
+SKY News,http://sc2022.stream-link.org/tv2306.php?id=e16
+Radio Ticino,http://sc2022.stream-link.org/tv2306.php?id=e17
+Smithsonian Channel,http://sc2022.stream-link.org/tv2306.php?id=e18
+Love Nature,http://sc2022.stream-link.org/tv2306.php?id=e19
+Lego,http://sc2022.stream-link.org/tv2306.php?id=e20
+Bloomberg,http://sc2022.stream-link.org/tv2306.php?id=e21
+CNBC Marathon,http://sc2022.stream-link.org/tv2306.php?id=e22
+
 HBO EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3796
 HBO WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
 HBO 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/16806
@@ -3670,20 +3739,20 @@ dj2,https://txmov2.a.kwimgs.com/upic/2022/02/26/21/BMjAyMjAyMjYyMTA0NDNfNDgxMDc1
 冷漠-你把爱情给了谁,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
 冷漠-我是否也在你心中,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4378249&response=res&format=mp4&type=convert_url
 冷漠-多情的人不该相遇,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1041689&response=res&format=mp4&type=convert_url
-凤凰传奇-華夏传说,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
-凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
-凤凰传奇-今生的缘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_646024&response=res&format=mp4&type=convert_url
-凤凰传奇-荷塘月色,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
-凤凰传奇-自由飞翔,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_18747906&response=res&format=mp4&type=convert_url
-凤凰传奇-策马奔腾,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042013&response=res&format=mp4&type=convert_url
-凤凰传奇-温柔姑娘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
-凤凰传奇-自由自在,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042025&response=res&format=mp4&type=convert_url
-凤凰传奇-奇迹世界,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_954805&response=res&format=mp4&type=convert_url
-凤凰传奇-歌唱二小放牛郎,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_8120530&response=res&format=mp4&type=convert_url
-凤凰传奇-中国味道,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042021&response=res&format=mp4&type=convert_url
-凤凰传奇-光芒,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
-凤凰传奇-御龙归字谣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
-凤凰传奇-月亮之上,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
+鳳凰传奇-華夏传说,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
+鳳凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
+鳳凰传奇-今生的缘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_646024&response=res&format=mp4&type=convert_url
+鳳凰传奇-荷塘月色,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
+鳳凰传奇-自由飞翔,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_18747906&response=res&format=mp4&type=convert_url
+鳳凰传奇-策马奔腾,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042013&response=res&format=mp4&type=convert_url
+鳳凰传奇-温柔姑娘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
+鳳凰传奇-自由自在,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042025&response=res&format=mp4&type=convert_url
+鳳凰传奇-奇迹世界,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_954805&response=res&format=mp4&type=convert_url
+鳳凰传奇-歌唱二小放牛郎,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_8120530&response=res&format=mp4&type=convert_url
+鳳凰传奇-中国味道,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042021&response=res&format=mp4&type=convert_url
+鳳凰传奇-光芒,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
+鳳凰传奇-御龙归字谣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
+鳳凰传奇-月亮之上,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
 巨星珍藏系列:邓丽君經典歌曲精选(1),https://vdse.bdstatic.com//d2b16e989b950ad5db5461066c8dbf46.mp4
 巨星珍藏系列:邓丽君經典歌曲精选(2),https://vdse.bdstatic.com//9b36b59762cdf4a47f8c27672b35e343.mp4
 巨星珍藏系列：邓丽君經典歌曲精选（3),https://vdse.bdstatic.com//a43cab220b1ac8f879a1b5e29592c9f3.mp4
@@ -3872,14 +3941,14 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 雨花石-云朵,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/20a65dbb23e4448cbcb52a756ebdc74d/2000.m3u8
 一砖一瓦-杨哲,http://txmov2.a.yximgs.com/upic/2020/11/07/23/BMjAyMDExMDcyMzQxMzZfMTU0MDc1NjUwOF8zODg5OTUwODg5MF8yXzM=_b_B41249b6fddaf4b4ef4bb5aee7c4f431c.mp4
 雨中相思-龙千玉,http://txmov2.a.yximgs.com/upic/2020/11/25/16/BMjAyMDExMjUxNjAwNDRfMTU0MDc1NjUwOF8zOTc3MTI2OTA2MF8yXzM=_b_B0652e68c50f21d5cb6bdda5dbc7a3c13.mp4
-月光瞑-蔡秋凤,http://txmov2.a.yximgs.com/upic/2020/11/25/15/BMjAyMDExMjUxNTQxMjRfMTU0MDc1NjUwOF8zOTc3MDYxOTQzOF8yXzM=_b_B5ef50d6b7967ca637b709b0bbd215806.mp4
+月光瞑-蔡秋鳳,http://txmov2.a.yximgs.com/upic/2020/11/25/15/BMjAyMDExMjUxNTQxMjRfMTU0MDc1NjUwOF8zOTc3MDYxOTQzOF8yXzM=_b_B5ef50d6b7967ca637b709b0bbd215806.mp4
 梦中情人-林乔安,http://txmov2.a.yximgs.com/upic/2020/11/08/21/BMjAyMDExMDgyMTAwMTNfMTU0MDc1NjUwOF8zODk0OTg4ODcxN18yXzM=_b_B5faf49255e0be7fc042ea521c28a458e.mp4
 一句再会-陈思安,http://txmov2.a.yximgs.com/upic/2020/11/07/23/BMjAyMDExMDcyMzM3MTdfMTU0MDc1NjUwOF8zODg5OTQ0NTkxMl8yXzM=_b_B75778f52a4759d91ee9275fffb96812f.mp4
 王彩華爱情的骗子我问你,http://vd4.bdstatic.com/mda-jm4h7v1isxwc660u/sc/mda-jm4h7v1isxwc660u.mp4
 蔡丽津月圆情,http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
 陈小云爱人跟人走,http://vd4.bdstatic.com/mda-jgvqig36bu4rc0ej/sc/mda-jgvqig36bu4rc0ej.mp4
 江蕙梦中的情话,http://vd2.bdstatic.com/mda-ji4rwrwg7fijyqkh/mda-ji4rwrwg7fijyqkh.mp4
-小凤凤爱情一阵风,http://vd2.bdstatic.com/mda-jjm7vgq1iahz0zpg/mda-jjm7vgq1iahz0zpg.mp4
+小鳳鳳爱情一阵风,http://vd2.bdstatic.com/mda-jjm7vgq1iahz0zpg/mda-jjm7vgq1iahz0zpg.mp4
 张秀卿车站,http://vd2.bdstatic.com/mda-jjmnjgiabtvmy13u/sc/mda-jjmnjgiabtvmy13u.mp4
 龙飘飘 歌声恋情,https://vd3.bdstatic.com/mda-nbr8qai32badkdf1/sc/cae_h264_delogo/1645933170027877953/mda-nbr8qai32badkdf1.mp4
 陈百潭初恋[848*480],http://vd4.bdstatic.com/mda-jk22i7yt5vyjbgwt//mda-jk22i7yt5vyjbgwt.mp4
@@ -3934,8 +4003,8 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 邓紫棋★14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240297965874.mp4
 
 🎤歌曲大全,#genre#
-凤舞九天召唤,https://vd3.bdstatic.com/mda-ma5d9z96hupwrjd9//mda-ma5d9z96hupwrjd9.mp4?pd=19&vt=1&playlist=%5B%22%22%2C%22sc%22%5D
-凤舞九天,https://vdse.bdstatic.com//ccbc85445a868b7a35e8ca6a0b7fc60d.mp4
+鳳舞九天召唤,https://vd3.bdstatic.com/mda-ma5d9z96hupwrjd9//mda-ma5d9z96hupwrjd9.mp4?pd=19&vt=1&playlist=%5B%22%22%2C%22sc%22%5D
+鳳舞九天,https://vdse.bdstatic.com//ccbc85445a868b7a35e8ca6a0b7fc60d.mp4
 夜慢长,https://vd3.bdstatic.com/mda-mmjctfnwhg1feren/480p/h264/1639991307500489482/mda-mmjctfnwhg1feren.mp4
 流浪兄弟,https://vdse.bdstatic.com//67e938750c1a340a341f780278fdd8c9.mp4
 好听歌曲,https://vd3.bdstatic.com/mda-na43dwtsm11dzpin/480p/h264/1641353122464317502/mda-na43dwtsm11dzpin.mp4
