@@ -203,6 +203,17 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 五星體育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星體育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 五星體育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星體育,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=wxtyhd8m/8000000
+劲爆体育,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=jbtyhd8m/8000000
+第一財經,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=dycjhd8m/8000000
+新聞综合,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=xwzhhd8m/8000000
+上海都市,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=dshd8m/8000000
+五星體育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
+乐游,http://58.34.204.67:9901/tsfile/live/1010_1.m3u8
+魅力足球,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=mlyyhd8m/8000000
+魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
+法治天地,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=fztd8m/8000000
 金山電視,http://live.mudu.tv/watch/4zbn2f.m3u8
 北京衛視,http://pull.dayuntongzhou.com/live/tztv.m3u8
 北京新聞,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
@@ -357,6 +368,10 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 鳳凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
 鳳凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 
+鳳凰資訊,http://171.110.62.53:8181/tsfile/live/1069_1.m3u8
+鳳凰衛視,http://171.110.62.53:8181/tsfile/live/1070_1.m3u8
+鳳凰香港,http://171.110.62.53:8181/tsfile/live/1071_1.m3u8
+
 香港衛視,http://107.151.203.111:2209/135/hk.php?id=hkws
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -403,7 +418,7 @@ ViuTV6,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 國際財經,http://sc2022.stream-link.org/tv2306.php?id=h12
 開電視,http://sc2022.stream-link.org/tv2306.php?id=h13
 開電視資訊,http://sc2022.stream-link.org/tv2306.php?id=h14
-
+Now新聞,http://51.159.104.43:2095/live/partyplay/ZevXWKLzKN/910940.ts?token=GEFeAEAMEQ5EBQxQU11RVgFdBFFWAgYDU1EICgBSBFQFBwdUBVEGAFYRFUcSTBRRUgg6WwEVC1gGAAkGURpAFhAGRD5aABEORAQMUVYMRBgREQxfABULUAEICAdSDlRQVU8UEVoAEQ5EAg5TVgtEGBEAHUYARV8AW29UVxdfAQZBWVgUXwgfFgldZgEEVQdaV0dfEFUVHUNeQ0AQW1gXDw9PFANaEEFVElYbX0MJUAILR0kQBlhED0NCSRBbFDcwQU8UBEsQVloVWlYLQwJEQEBHSRAMRG4TUkNEQARXDwYRQQxDA0YfFgtSQToCVwhaVgYRWwpZQkMNEgIHURROQQ4MWAhHC0FrFlpdR1saUgYBXVMQGA==
 TVB星河台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 TVB星河台,http://103.112.191.9:880/LAOSAT1092.m3u8
 
@@ -491,14 +506,19 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 東森新聞,mitv://generationnexxxt.com:19806/645c9fee000e01606ba59bc415d52492
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 
-東森电影,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
+東森電影,http://171.108.239.112:8020/tsfile/live/1010_1.m3u8
+東森電影,http://171.110.62.89:8181/tsfile/live/1075_1.m3u8
+東森電影,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
 東森電影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 東森電影,http://103.112.191.9:880/LAOSAT1017.m3u8
 
 東森洋片,http://103.112.191.9:880/LAOSAT1018.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708
-
+東森洋片,http://171.108.239.112:8020/tsfile/live/1016_1.m3u8
+東森洋片,http://171.110.62.89:8181/tsfile/live/1133_1.m3u8
+龍祥时代,http://171.108.239.112:8020/tsfile/live/1011_1.m3u8
+私人影院,http://171.108.239.112:8020/tsfile/live/1014_1.m3u8
 非凡新聞,mitv://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a
 
 台視新聞,mitv://generationnexxxt.com:19806/6458c34b000df71b5c8fbf0c55f221b5
