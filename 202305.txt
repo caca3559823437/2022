@@ -1,0 +1,216 @@
+﻿//新贰叁影视。
+{
+    "urls": [
+        
+{
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "😺电影合集01"
+        },
+{
+            "url": "http://饭太硬.top/tv",
+            "name": "😺电影合集02"
+        },
+{
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "name": "😺 电影合集03"
+        },
+{
+            "url": "https://qu.ax/VfUg.json",
+            "name": "😺 电影合集04"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
+            "name": "😺 电影合集05"
+        },
+
+{
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "😺 电影合集06"
+        },
+ 
+{
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "😺 电影合集07"
+        },
+{
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "😺 电影合集08"
+        },
+        
+{
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "😺 电影合集09"
+        },
+{
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "😺 电影合集10"
+        },
+{
+            "url": "https://tvbox.cainisi.cf",
+            "name": "😺 电影合集11"
+        },
+{
+            "url": "https://kjsc0310.github.io/tvy/jk9.json",
+            "name": "😺 电影合集12"
+        },
+{
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "😺 电影合集13"
+        },   
+        
+{
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "😺 电影合集14"
+        },
+{
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "😺 电影合集15"
+        },
+{
+            "url": "https://yydsys.top/duo",
+            "name": "😺 电影合集16"
+        },
+{
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "😺 电影合集17"
+        },
+
+{
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
+            "name": "😺 电影合集18"
+        },
+ 
+{
+            "url": "https://download.kstore.space/download/3313/mao/ymxx",
+            "name": "😺 电影合集19"
+        },
+{
+            "url": "https://fastly.jsdelivr.net/gh/ysztcn/ysztcn.github.io@master/biubiu/zhushou.json",
+            "name": "😺 电影合集20"
+        },
+{
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "😺 电影合集21"
+        },
+{
+            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "name": "😺 电影合集22"
+        },
+{
+            "url": "https://download.kstore.space/download/3313/mao/ymz",
+            "name": "😺 电影合集23"
+        },
+{
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
+            "name": "😺 电影合集24"
+        },
+{
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "😺 电影合集25"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
+            "name": "🌸激情影视01"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo1.json",
+            "name": "🌸激情影视02"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo2.json",
+            "name": "🌸激情影视03"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo3.json",
+            "name": "🌸激情影视04"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
+            "name": "🌸激情影视05"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+            "name": "🌸激情影视06"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+            "name": "🌸激情影视07"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
+            "name": "🌸激情影视08"
+        },
+{
+            "url": "https://agit.ai/xixi/yizhan/raw/branch/master/b.txt",
+            "name": "🌸激情影视09"
+        },
+{
+            "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/ss.json",
+            "name": "🌸激情影视10"
+        },
+{
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
+            "name": "🌸激情影视11"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/hh",
+            "name": "🌸激情影视12"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1",
+            "name": "🌸激情影视13"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2",
+            "name": "🌸激情影视14"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3",
+            "name": "🌸激情影视15"
+        },
+{
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/ziyong.json",
+            "name": "🌸激情影视16"
+        },
+{
+            "url": "http://52bsj.vip:98/dxwoai",
+            "name": "🌸激情影视17"
+        },
+{
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt",
+            "name": "🌸激情影视18"
+        },
+{
+            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
+            "name": "🌸激情影视19"
+        },
+{
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+            "name": "🌸激情影视20"
+        },
+{
+            "url": "https://codeberg.org/caic/a/raw/branch/main/不正经.json",
+            "name": "🌸激情影视21"
+        },
+{
+            "url": "https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt",
+            "name": "🌸激情影视22"
+        },
+{
+            "url": "https://huhujunxx.neocities.org/AV.json",
+            "name": "🌸激情影视23"
+        },
+{
+            "url": "https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json",
+            "name": "🌸激情影视24"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/jessic01/box1/main/19.json",
+            "name": "🌸激情影视25"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
+            "name": "🌸激情影视26"
+        }
+    ]
+}
