@@ -19,6 +19,10 @@
             "name": "😺 电影合集04"
         },
 {
+            "url": "https://qu.ax/joAo.json",
+            "name": "😺 电影合集26"
+        },
+{
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
             "name": "😺 电影合集05"
         },
@@ -29,7 +33,7 @@
         },
  
 {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json",
             "name": "😺 电影合集07"
         },
 {

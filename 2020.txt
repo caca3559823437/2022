@@ -539,7 +539,13 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 鳳凰資訊,http://113.117.74.12:8081/hls/36/index.m3u8
 鳳凰資訊,http://171.110.62.53:8181/tsfile/live/1069_1.m3u8
 鳳凰資訊,http://www.372583307.top:4022/udp/233.50.200.192:5140
+鳳凰資訊,http://685123.xyz:4022/udp/239.61.5.213:1025
+鳳凰資訊,http://e2.woc.iiiya.cn:8888/udp/239.61.5.213:1025
+鳳凰資訊,http://www.pr666.site:4040/udp/239.255.30.70:8231
 
+鳳凰衛視,http://685123.xyz:4022/udp/239.61.5.214:1025
+鳳凰衛視,http://e2.woc.iiiya.cn:8888/udp/239.61.5.214:1025
+鳳凰衛視,http://www.pr666.site:4040/udp/239.255.30.50:8231
 鳳凰衛視,http://gyj12315.top:4022/udp/239.93.26.9:2192
 鳳凰衛視,http://www.372583307.top:4022/udp/233.50.200.191:5140
 鳳凰衛視,http://iptv.weai.love/live/88888888/fhzw.m3u8
@@ -554,6 +560,7 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 鳳凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
 鳳凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 鳳凰香港,http://171.110.62.53:8181/tsfile/live/1071_1.m3u8
+鳳凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
 
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -562,6 +569,39 @@ Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ec991d84cbef928ab3a882ad-165166992977141&wsIPSercert=315bc45f13e35a4a62376fd85478636c&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+
+RTHK32,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=rhk32_twn
+RTHK31,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=rhk31_twn
+翡翠台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=jade_twn
+美亞電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=meiyamovie_twn
+星衛電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=xingwei_movie
+衛視中文,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=weishichinese_twn
+鳳凰香港,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=hkphoenix_twn
+鳳凰資訊,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=phoenixinfo_hd
+鳳凰衛視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=phoenixtv_hd
+TVB星河台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Xinhe
+TVB星河台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbxinhe_twn
+J2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=j2_twn
+J5,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=j5_twn
+無綫財經,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbcaijing_twn
+ViuTV1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=viu1_twn
+thai3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tpbs_pat
+itv 2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=itv2_antik
+iNews新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=inews_twn
+iNewsTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Inewstv
+iNews新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=inews_twn
+iNews新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=inews_twn
+鳳凰香港,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=hkphoenix_twn
+鳳凰資訊,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=phoenixinfo_hd
+鳳凰衛視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=phoenixtv_hd
+美亞電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=meiyamovie_twn
+星衛電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=xingwei_movie
+TVB星河台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Xinhe
+TVB星河台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbxinhe_twn
+ViuTV6,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=viusix_twn
+ViuTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=viu_twn
+iNews新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=inews_twn
+iNewsTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Inewstv
 
 翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h01 
 翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h02 
@@ -702,6 +742,83 @@ J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGt
 TVBS新聞,https://fsv4.yj011.net/sat/tv551.flv
 TVBS歡樂,https://fsv4.yj011.net/sat/tv421.flv
 東森財經,https://fsv4.yj011.net/sat/tv571.flv
+
+TVBS HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbs
+TVBS新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbs_n
+非凡新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=feifannews_twn
+民視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ftvnew_taiwan
+年代新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=niandainews_twn
+中視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=zhongshinews_twn
+中天新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ctinews
+東森財經,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvcaijing_twn
+東森新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvnews
+非凡新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=feifannews_twn
+民視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ftvnew_taiwan
+民視台湾,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ftvtaiwan_twn
+民視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ftvhd_taiwan
+年代新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=niandainews_twn
+台視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ttv_taiwan
+華視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ctshd_twn
+公視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ctv_taiwan
+中視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=zhongshinews_twn
+中視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=zhongshihd_twn
+中天新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ctinews
+東森超視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvsuper
+東森財經,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvcaijing_twn
+東森洋片,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvwestern
+東森洋片,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvwestern
+東森新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvnews
+東森電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvmovie
+HBO,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=hbohd_twn
+HBO原创,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=hbosignature_twn
+好莱坞電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=hollywoodmovies_twn
+龍祥时代,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lungxiangtime_twn
+龍華经典,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuajingdian_twn
+龍華洋片,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuawestern_twn
+美亞電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=meiyamovie_twn
+龍華经典,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuajingdian_twn
+龍華洋片,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuawestern_twn
+龍華戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuaxiju_twn
+龍華偶像,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuaidol_twn
+爱尔达影剧,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltayingju_twn
+爱尔达影剧,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltayingju_twn
+爱尔达体育2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport2_twn
+爱尔达体育1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport_twn
+美食星球,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=foodplanet_twn
+中天娱乐,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ctient
+中天亞洲,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ctiasia_twn
+八大综合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=badazhonghe
+龍華戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuaxiju_twn
+龍華偶像,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=lunghuaidol_twn
+龍華卡通,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=jingtiancartoon_twn
+東森戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvdrama
+三立综合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sanlizhonghe
+三立戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sanlixiju_twn
+東森戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvdrama
+三立戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sanlixiju_twn
+東森電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvmovie
+八大戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=badadrama
+八大第一,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=badafirst
+EYETV戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eyetvxiju_twn
+EYETV旅游,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eyetvtravel_twn
+JET綜合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=jettv_japan
+TVBS欢乐,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbshuanle_twn
+東森综合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ettvzhonghe
+中天综合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ctizhonghe
+八大综合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=badazhonghe
+八大戲劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=badadrama
+八大第一,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=badafirst
+小太阳,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Xiaotaiyang
+纬来体育,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=videolandsport
+靖天资讯,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=jingtianinfo_twn
+靖天卡通,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=jingtiancartoon_twn
+靖天国际,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=jingtianintl_twn
+衛視中文,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=weishichinese_twn
+博斯高球2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bosigolf2_twn
+博斯运动2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bosisport2_twn
+博斯运动1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bosisport1_twn
+博斯网球,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bositennis_twn
+
 壹电视新闻台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
 年代新闻,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
 now新闻台,mitv://generationnexxxt.com:19806/56aca5e712214663825c77b7ae979522
@@ -923,7 +1040,8 @@ HBO Mundi,http://208.115.225.174:14148
 
 NHK,http://61.221.81.93:8078/hls/32/80/nhk.m3u8
 FOX新聞,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
+地理野生频道,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+动物星球,http://208.115.225.174:14192
 番薯電視,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯電視,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯電視,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -1496,6 +1614,33 @@ SkySportsAction,mitv://generationnexxxt.com:19806/d627b2c21c264a13afa935d2140609
 GolfChannel,mitv://generationnexxxt.com:19806/f91a855bf6ce47e2b2911917a4b3d5ef
 
 🇯🇵日韓频道,#genre#
+テレビ東京 Tokyo TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tokyotv_japan
+NHKBS1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=nhkbs1_japan
+NHK-E,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=nhke_japan
+NHK World,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=nhkworld_japan
+Muslim TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=MuslimTV
+Music TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=MusicTV
+itv1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=itv1_antik
+tvNMovie,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Tvnmovie
+テレビ朝日AsahiTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=asahitv_japan
+CNAJapan,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cna_japan
+AllTheKpop,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=allthekpop_korea
+ARIRANG,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=arirang_korea
+NHK,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=nhkworld_japan
+The K-POP,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=jthekpop_korea
+CBS,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cbs_korea
+CGNTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cgntv_korea
+EBS 2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ebs2_korea
+EBS KIDS,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ebskids_korea
+MBC,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=mbc_korea
+SBS,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sbs_korea
+YTN,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ytn_korea
+YTN Science,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ytnscience_korea
+YTN Korean,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ytnkorean_korea
+YTN DMB,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ytndmb_korea
+阿里郎 Arirang,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=arirang_twn
+阿里郎 Arirang,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=arirang_twn
+
 NHK-G综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
 NHK-E教育,mitv://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
 日本テレビ,mitv://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
@@ -1741,6 +1886,170 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 CNN,http://50.7.238.98:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 CNN,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5
+
+BBC1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbc1_antik
+BBC2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbc2_antik
+BBCEarthHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcearth_twn
+BBCEarthTamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcearthtam_raj
+BBCWorldNews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcnews_twn
+BBCWorldNews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcworldnews_antik
+BTESPN,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=btespn
+BTSports1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=beeone
+BTSports2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=beetwo
+BTSports3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=beethree
+Beinsports2HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Bein2hd
+BloombergNews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bloomberg_twn
+Boomerang,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Boomerang
+CBBC,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cbbc_antik
+CBSHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cbshd_glo
+CBSNHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cbsn_glo
+BBC1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbc1_antik
+BBC2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbc2_antik
+BBCEarthHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcearth_twn
+BBCEarthTamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcearthtam_raj
+BBCWorldNews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcnews_twn
+BBCWorldNews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bbcworldnews_antik
+CNBC,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cnbc_twn
+BloombergNews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=bloomberg_twn
+Boomerang,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Boomerang
+CBBC,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cbbc_antik
+CBSHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cbshd_glo
+CBSNHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cbsn_glo
+TVN,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TVN
+
+Zee TV HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Zeetvhd
+Zee Business,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Zeebusiness
+Zee Action,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Zeeaction
+Workpoint,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=workpoint_pat
+Warner TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=WarnerTV
+WWE,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Wwe
+Vision Prime,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=VisionPrime
+Vasantham,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Vasantham
+VTV6 HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=vtv6_viet
+VTV4 HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=vtv3_viet
+VTV3 HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=vtv3_viet
+VTV1 HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=vtv1_viet
+VTC3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=vtc3_viet
+Tvone,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Tvone
+TvN,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TVN
+True Premium 2 HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=truepre2_pat
+True Premium 1 HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=truepre1_pat
+Transtv,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Transtv
+Trans 7,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Trans7_eko
+Tnn24,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tnn24_pat
+Thrill,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Thrill
+Thairath,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=thairath_pat
+Tawaf TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TawafTV
+TVRI National,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TVRI
+TVMU,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TVMU_eko
+TVBS News,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbs_n
+TVBS HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbs
+TVB 星河台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Xinhe
+TVB 星河,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tvbxinhe_twn
+TV9,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TV9
+TV9 Indonesia,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TV9_eko/playlist.m3u8?tid=MF4F9337624493376244&ct=19249&tsum=c0c0a819b22ab768c25d0ac336f514e5
+TV8,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
+TV3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
+TV3 backup,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TV3_backup
+TV2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TV2
+TV1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=TV1
+TPTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tptv_pat
+TOKYOMX,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tokyomx_japan
+TLC,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Tlc
+Suria,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Suria
+Suria SD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Suriah264
+Supersports 4,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Assp4
+Supersports 3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Assp3
+Supersports 2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Assp2
+Sunnah HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sunnah_mido
+Sun Music,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sunmusic_raj
+Starmaa HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=starmaa_raj
+Star Vijay,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Starvijay
+Star Vijay India,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=starvijay_raj
+Sony Yay Tamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sonyyaytam_raj
+Sony Six HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=sonysix_raj
+Sony HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=SetOne
+Skysports Arena,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=tiankongarena
+Skynews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=skynews_antik
+SCTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Sctv
+SCM,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Weishimovie
+RTM Sports HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Rtmsport
+RCTI,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Rcti
+Quran HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=quran_mido
+Prima,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Prima
+Pick TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=picktv_antik
+PPTV Thailand1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=pptv_pat
+One,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=One
+Oasis,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Oasis
+Nickelodeon,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Nickelodeon
+Nick Jr,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Nickjr
+News 18 Tamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=news18tamil_raj
+New,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=new_pat
+Net TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=NetTV
+Nation,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=nation_pat
+Natgeo_HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeohd_twn
+Natgeo Wild,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeowildtamil_raj
+NatGeo_Wild HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeowild_twn
+NatGeo Wild HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Natgeowild
+NatGeo Tamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeotamil_raj
+NatGeo HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Natgeo
+More4,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=more4_antik
+Momo TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=momo1_twn
+MiaoMi,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=MiaoMi
+Metro TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=metrotv_eko
+Makkal TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Makkaltv
+AFC亞洲旅游台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=asiatravel_twn
+AOD511,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Aod350
+AODHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=AodHD
+AXNTaiwan,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=axn_twn
+AnimalPlanet(Eng),http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=AnimalPlanet
+Animal_Planet,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=animalplanet_twn
+ArirangHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=arirang_korea
+Asianet,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=asianet_raj
+AsianetNews,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=asianetnews_raj
+Awani,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Awani
+AxnHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Axn
+CINEMAX,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cinemax_twn
+CNAJapan,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cna_japan
+CNBC,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cnbc_twn
+CelestialClassic,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Celestial2
+CelestialMoviesHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Celestialindo
+Channel3Thailand,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=ch3_pat
+Channel4,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=channel4_antik
+DiscoveryAsia,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoverytwn_twn
+DiscoveryHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoveryhd_twn
+DiscoveryKidsTamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoverykidtamil_raj
+DiscoveryTurbo,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoveryturbo_twn
+DiscoveryWorldTamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoveryworldtam_raj
+Discovery_Science,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoverysc_twn
+Natgeo_HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeohd_twn
+Natgeo Wild,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeowildtamil_raj
+NatGeo_Wild HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeowild_twn
+NatGeo Wild HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Natgeowild
+NatGeo Tamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=natgeotamil_raj
+NatGeo HD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Natgeo
+AnimalPlanet(Eng),http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=AnimalPlanet
+Animal_Planet,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=animalplanet_twn
+DiscoveryAsia,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoverytwn_twn
+DiscoveryHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoveryhd_twn
+DiscoveryKidsTamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoverykidtamil_raj
+DiscoveryTurbo,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoveryturbo_twn
+DiscoveryWorldTamil,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoveryworldtam_raj
+Discovery_Science,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=discoverysc_twn
+WWE,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Wwe
+Supersports 4,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Assp4
+Supersports 3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Assp3
+Supersports 2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Assp2
+Warner TV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=WarnerTV
+Thrill,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Thrill
+AOD511,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Aod350
+AODHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=AodHD
+Awani,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Awani
+AxnHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Axn
+CINEMAX,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=cinemax_twn
+CelestialClassic,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Celestial2
+CelestialMoviesHD,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Celestialindo
+Citra,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=Citra
 
 HBO EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3796
 HBO WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
