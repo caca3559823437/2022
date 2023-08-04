@@ -117,7 +117,7 @@
             "name": "🌸激情影视01"
         },
 {
-            "url": "http://大屌蜂蜜.eu.org",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
             "name": "🌸激情影视02"
         },
 {
@@ -125,7 +125,7 @@
             "name": "🌸激情影视03"
         },
 {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "🌸激情影视04"
         },
 {
