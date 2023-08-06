@@ -3,114 +3,137 @@
     "urls": [
         
 {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "😺电影合集01"
-        },
-{
-            "url": "http://饭太硬.top/tv",
-            "name": "😺电影合集02"
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
+            "name": "😺 宝盒没宝XXOO"
         },
 {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "😺 电影合集03"
-        },
-{
-            "url": "https://qu.ax/VfUg.json",
-            "name": "😺 电影合集04"
+            "name": "😺 月光宝盒影视"
         },
 {
             "url": "https://qu.ax/joAo.json",
-            "name": "😺 电影合集26"
+            "name": "😺 搜索XXOO影视"
+        },
+{
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json",
+            "name": "😺 宝盒没宝影视"
+        },
+{
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "😺肥猫影视"
+        },
+{
+            "url": "http://饭太硬.top/tv",
+            "name": "😺饭太硬影视"
+        },
+{
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "😺 道长影视"
+        },
+
+{
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "😺 吾爱影视"
+        },
+{
+            "url": "https://tvbox.cainisi.cf",
+            "name": "😺 菜尼丝影视"
+        },
+{
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "😺 小米影视"
+        },
+{
+            "url": "https://yydsys.top/duo",
+            "name": "😺 👩‍👦多多影视"
+        },
+{
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "😺 南风影视"
+        },
+
+{
+            "url": "https://download.kstore.space/download/3313/mao/ymxx",
+            "name": "😺 夜猫子影视"
+        },
+{
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "😺 云星日记影视"
+        },
+{
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "😺 讴歌影视"
+        },
+{
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "😺 分享者影视"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "😺 蜂蜜影视"
+        },
+{
+            "url": "http://miaotvs.cn/meow",
+            "name": "😺 喵影视"
+        },
+{
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "😺 乱世影视"
+        },
+{
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "😺 巧技影视"
+        },
+{
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "😺 白嫖影视"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "😺 老刘备影视"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "name": "😺 甜蜜影视"
+        },
+{
+            "url": "https://weixine.net/ysc.json",
+            "name": "😺 运输车影视"
+        },
+{
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json",
+            "name": "😺 小苹果影视"
         },
 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
-            "name": "😺 电影合集05"
+            "name": "😺 豆瓣影视"
         },
 
 {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "😺 电影合集06"
-        },
- 
-{
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json",
-            "name": "😺 电影合集07"
-        },
-{
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "😺 电影合集08"
-        },
-        
-{
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "😺 电影合集09"
-        },
-{
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "😺 电影合集10"
-        },
-{
-            "url": "https://tvbox.cainisi.cf",
-            "name": "😺 电影合集11"
-        },
-{
-            "url": "https://kjsc0310.github.io/tvy/jk9.json",
-            "name": "😺 电影合集12"
-        },
-{
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "😺 电影合集13"
-        },   
-        
-{
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-            "name": "😺 电影合集14"
-        },
-{
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "😺 电影合集15"
-        },
-{
-            "url": "https://yydsys.top/duo",
-            "name": "😺 电影合集16"
-        },
-{
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "😺 电影合集17"
+            "name": "😺 360影视"
         },
 
 {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "😺 蚂蚁影视"
+        },
+{
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "😺 综合影视1"
+        },
+{
+            "url": "https://kjsc0310.github.io/tvy/jk9.json",
+            "name": "😺 吾爱"
+        },
+{
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
-            "name": "😺 电影合集18"
+            "name": "😺 人人影视"
         },
  
 {
-            "url": "https://download.kstore.space/download/3313/mao/ymxx",
-            "name": "😺 电影合集19"
-        },
-{
-            "url": "https://fastly.jsdelivr.net/gh/ysztcn/ysztcn.github.io@master/biubiu/zhushou.json",
-            "name": "😺 电影合集20"
-        },
-{
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "😺 电影合集21"
-        },
-{
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
-            "name": "😺 电影合集22"
-        },
-{
-            "url": "https://download.kstore.space/download/3313/mao/ymz",
-            "name": "😺 电影合集23"
-        },
-{
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
-            "name": "😺 电影合集24"
-        },
-{
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "😺 电影合集25"
+            "name": "😺 魔改影视"
         },
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
