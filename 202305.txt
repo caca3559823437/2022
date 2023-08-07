@@ -136,6 +136,10 @@
             "name": "😺 魔改影视"
         },
 {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json  ",
+            "name": "😺 二哈18XXOO"
+        },
+{
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
             "name": "🌸激情影视01"
         },
