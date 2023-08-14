@@ -1,0 +1,46 @@
+﻿//新贰叁影视。
+{
+    "urls": [
+        
+{
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "😺影视肥猫"
+        },
+{
+            "url": "http://饭太硬.top/tv",
+            "name": "😺影视饭太硬"
+        },
+{
+            "url": "https://tvbox.cainisi.cf",
+            "name": "😺 影视菜尼丝"
+        },
+{
+            "url": "http://yydsys.top/duo",
+            "name": "😺 影视多多"
+        },
+{
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "😺 影视道长"
+        },
+{
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "😺 影视小米"
+        },
+{
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "😺 影视云星"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "😺 影视蜂蜜"
+        },
+{
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
+            "name": "😺 🔞影视宝盒"
+        },
+{
+            "url": "http://yydsys.top/duo/ali",
+            "name": "😺 🔞影视阿里"
+        }
+    ]
+}
