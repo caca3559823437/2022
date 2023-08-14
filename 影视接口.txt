@@ -35,12 +35,12 @@
             "name": "😺 影视蜂蜜"
         },
 {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
-            "name": "😺 🔞影视宝盒"
+            "url": "http://yydsys.top/duo/ali",
+            "name": "😺 影视阿里"
         },
 {
-            "url": "http://yydsys.top/duo/ali",
-            "name": "😺 🔞影视阿里"
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
+            "name": "😺 🔞影视宝盒"
         }
     ]
 }
