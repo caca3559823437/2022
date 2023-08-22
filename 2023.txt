@@ -613,20 +613,19 @@ ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 求索.生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1612
 
 🇭🇰香港频道,#genre#
-鳳凰資訊,https://us.dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&token=c0vzuc7wqkzk
+鳳凰資訊,http://180.143.112.210:8181/tsfile/live/1000_1.m3u8
 鳳凰資訊,http://175.13.226.6:8888/udp/239.76.246.8:1234
 
 鳳凰資訊,http://175.13.226.6:8888/udp/239.76.246.7:1234
 
 
+鳳凰衛視,http://180.143.112.210:8181/tsfile/live/1001_1.m3u8
 鳳凰衛視,http://175.13.226.6:8888/udp/239.76.253.135:9000
 
 鳳凰衛視,http://175.13.226.6:8888/udp/239.76.253.134:9000
 
-鳳凰衛視,https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?stream_id=cg4l8oajkyww&token=c0vzuc7wqkzk
-鳳凰衛視,https://us.dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&token=c0vzuc7wqkzk
 
-鳳凰香港,https://us.dispatch.ulivetv.net/v/live/cfxs8eqh503k.m3u8?stream_id=cfxs8eqh503k&token=c0vzuc7wqkzk
+鳳凰香港,http://180.143.112.210:8181/tsfile/live/1002_1.m3u8
 
 鳳凰電影,http://epg.112114.xyz/huya/11602058
 
@@ -852,243 +851,7 @@ TVB功夫台,mitv://generationnexxxt.com:19806/4c3f27dd7eb44be289557ccfb7c410b3
 HOY資訊台,mitv://generationnexxxt.com:19806/277e07151c874174b35d4d3ce7d772a2
 黄金翡翠台,mitv://generationnexxxt.com:19806/aa014240bbec4e91990ca9a7f57875fd
 
-鳳凰衛視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=phoenixtv_hd
-鳳凰資訊,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=phoenixinfo_hd
-香港衛視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=hkphoenix_twn
-RTHK31,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=rhk31_twn
-RTHK32,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=rhk32_twn
-翡翠台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=jade_twn
-無綫新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=inews_twn
-無綫財經,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=tvbcaijing_twn
-J1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=tvbxinhe_twn
-J2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=j2_twn
-明珠台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=pearl_twn
-ViuTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=viu1_twn
-ViuTV6,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=viusix_twn
-
 🇹🇼台灣频道,#genre#
-TVBS HD,https://us.dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&token=c0vzuc7wqkzk
-TVBS新聞,https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&token=c0vzuc7wqkzk
-中天新聞,http://211.72.65.236:8554/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
-中天新聞,http://211.72.65.236:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
-寰宇新聞,http://211.72.65.236:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-東森新聞,http://211.72.65.236:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-壹新聞台,http://211.72.65.236:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-東森新聞,https://us.dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&token=c0vzuc7wqkzk
-中天新聞,https://us.dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&token=c0vzuc7wqkzk
-寰宇新聞,https://us.dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&token=c0vzuc7wqkzk
-年代新聞,https://us.dispatch.ulivetv.net/v/live/cl7cbgg2j000.m3u8?stream_id=cl7cbgg2j000&token=c0vzuc7wqkzk
-非凡新聞,https://us.dispatch.ulivetv.net/v/live/cl7cc13lsxc0.m3u8?stream_id=cl7cc13lsxc0&token=c0vzuc7wqkzk
-華視新聞,https://us.dispatch.ulivetv.net/v/live/cfxxj2c5l6f4.m3u8?stream_id=cfxxj2c5l6f4&token=c0vzuc7wqkzk
-中視新聞,https://us.dispatch.ulivetv.net/v/live/clev54g636bk.m3u8?stream_id=clev54g636bk&token=c0vzuc7wqkzk
-台視新聞,https://us.dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&token=c0vzuc7wqkzk
-東森財經,https://us.dispatch.ulivetv.net/v/live/cl7c5f64zg74.m3u8?stream_id=cl7c5f64zg74&token=c0vzuc7wqkzk
-镜新聞台,https://us.dispatch.ulivetv.net/v/live/cfxxf3nxvem8.m3u8?stream_id=cfxxf3nxvem8&token=c0vzuc7wqkzk
-镜新聞台,https://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk
-中視,https://us.dispatch.ulivetv.net/v/live/cl7c5tec5wow.m3u8?stream_id=cl7c5tec5wow&token=c0vzuc7wqkzk
-華視,https://us.dispatch.ulivetv.net/v/live/cl7c69hc4m2o.m3u8?stream_id=cl7c69hc4m2o&token=c0vzuc7wqkzk
-台視,https://us.dispatch.ulivetv.net/v/live/cl7c6o644t6o.m3u8?stream_id=cl7c6o644t6o&token=c0vzuc7wqkzk
-中視,https://us.dispatch.ulivetv.net/v/live/cfm2qel2kn9c.m3u8?stream_id=cfm2qel2kn9c&token=c0vzuc7wqkzk
-公視,https://us.dispatch.ulivetv.net/v/live/cg0hhu6qlpz4.m3u8?stream_id=cg0hhu6qlpz4&token=c0vzuc7wqkzk
-公視3,https://us.dispatch.ulivetv.net/v/live/cg0hro4vn54w.m3u8?stream_id=cg0hro4vn54w&token=c0vzuc7wqkzk
-東森電影,https://us.dispatch.ulivetv.net/v/live/cg488dxn8xxc.m3u8?stream_id=cg488dxn8xxc&token=c0vzuc7wqkzk
-東森電影,https://us.dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&token=c0vzuc7wqkzk
-東森洋片,https://us.dispatch.ulivetv.net/v/live/cl7cavg498sg.m3u8?stream_id=cl7cavg498sg&token=c0vzuc7wqkzk
-衛視中文,https://us.dispatch.ulivetv.net/v/live/cl7ciyx4pznk.m3u8?stream_id=cl7ciyx4pznk&token=c0vzuc7wqkzk
-衛視電影,https://us.dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&token=c0vzuc7wqkzk
-龍祥電影,https://us.dispatch.ulivetv.net/v/live/cl7cjqrlyzeo.m3u8?stream_id=cl7cjqrlyzeo&token=c0vzuc7wqkzk
-星衛電影,https://us.dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&token=c0vzuc7wqkzk
-緯来電影,https://us.dispatch.ulivetv.net/v/live/cl7cmdp021mo.m3u8?stream_id=cl7cmdp021mo&token=c0vzuc7wqkzk
-龍華電影,https://us.dispatch.ulivetv.net/v/live/cl7cmqsyvdmo.m3u8?stream_id=cl7cmqsyvdmo&token=c0vzuc7wqkzk
-龍華洋片,https://us.dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&token=c0vzuc7wqkzk
-靖天電影,https://us.dispatch.ulivetv.net/v/live/cl7cnhrqwreo.m3u8?stream_id=cl7cnhrqwreo&token=c0vzuc7wqkzk
-美亞電影,https://us.dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&token=c0vzuc7wqkzk
-好莱坞電影,https://us.dispatch.ulivetv.net/v/live/cl7ck1qkwzpc.m3u8?stream_id=cl7ck1qkwzpc&token=c0vzuc7wqkzk
-民視,https://fsv4.yj011.net/sat/tv051.flv
-台視,https://fsv4.yj011.net/sat/tv071.flv
-中視,https://fsv4.yj011.net/sat/tv091.flv
-華視,https://fsv4.yj011.net/sat/tv111.flv
-TVBS新聞,https://fsv4.yj011.net/sat/tv551.flv
-TVBS歡樂,https://fsv4.yj011.net/sat/tv421.flv
-東森財經,https://fsv4.yj011.net/sat/tv571.flv
-民視,rtmp://219.80.97.77/sat/tv051
-台視,rtmp://219.80.97.77/sat/tv071
-中視,rtmp://219.80.97.77/sat/tv091
-華視,rtmp://219.80.97.77/sat/tv111
-TVBS新聞,rtmp://219.80.97.77/sat/tv551
-TVBS歡樂,rtmp://219.80.97.77/sat/tv421
-東森財經,rtmp://219.80.97.77/sat/tv571
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-緯來體育,rtmp://219.80.97.77/sat/tv721
-ELEVEN1,rtmp://219.80.97.77/sat/tv731
-ELEVEN2,rtmp://219.80.97.77/sat/tv741
-MOMO綜合,rtmp://219.80.97.77/sat/tv761
-緯來日本,rtmp://219.80.97.77/sat/tv771
-民視,rtmp://119.81.124.89/sat/tv051
-台視,rtmp://119.81.124.89/sat/tv071
-中視,rtmp://119.81.124.89/sat/tv091
-華視,rtmp://119.81.124.89/sat/tv111
-TVBS新聞,rtmp://119.81.124.89/sat/tv551
-TVBS歡樂,rtmp://119.81.124.89/sat/tv421
-東森財經,rtmp://119.81.124.89/sat/tv571
-緯來育樂,rtmp://119.81.124.89/sat/tv701
-緯來體育,rtmp://119.81.124.89/sat/tv721
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
-MOMO綜合,rtmp://119.81.124.89/sat/tv761
-緯來日本,rtmp://119.81.124.89/sat/tv771
-中視,rtmp://119.81.124.89/sat/tv091
-中視,rtmp://219.80.97.77/sat/tv091
-華視,rtmp://119.81.124.89/sat/tv111
-華視,rtmp://219.80.97.77/sat/tv111
-民視,rtmp://219.80.97.77/sat/tv051
-民視,rtmp://119.81.124.89/sat/tv051
-台視,rtmp://219.80.97.77/sat/tv071
-台視,rtmp://119.81.124.89/sat/tv071
-緯來日本,rtmp://119.81.124.89/sat/tv771
-緯來日本,rtmp://219.80.97.77/sat/tv771
-TVBS欢樂,rtmp://219.80.97.77/sat/tv421
-緯來体育,rtmp://219.80.97.77/sat/tv721
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-MoMo综合,rtmp://219.80.97.77/sat/tv761
-東森超視,rtmp://219.80.97.77/sat/tv331
-緯来精彩,rtmp://119.81.124.89/sat/md041
-緯来日本,rtmp://119.81.124.89/sat/tv771
-緯来体育,rtmp://119.81.124.89/sat/tv721
-緯来育樂,rtmp://119.81.124.89/sat/tv701
-華視,rtmp://119.81.124.89/sat/tv111
-民視,rtmp://119.81.124.89/sat/tv051
-民視第一,rtmp://119.81.124.89/sat/md021
-中視,rtmp://119.81.124.89/sat/tv091
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
-ELTA体育1,rtmp://119.81.124.89/sat/md031
-MOMO综合,rtmp://119.81.124.89/sat/tv761
-TVBS欢樂,rtmp://119.81.124.89/sat/tv421
-TVBS新聞,rtmp://119.81.124.89/sat/tv551
-東森財經,rtmp://119.81.124.89/sat/tv571
-緯来精彩,rtmp://119.81.124.89/sat/md041
-緯来日本,rtmp://119.81.124.89/sat/tv771
-緯来体育,rtmp://119.81.124.89/sat/tv721
-緯来育樂,rtmp://119.81.124.89/sat/tv701
-華視,rtmp://119.81.124.89/sat/tv111
-民視,rtmp://119.81.124.89/sat/tv051
-民視第一,rtmp://119.81.124.89/sat/md021
-中視,rtmp://119.81.124.89/sat/tv091
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
-ELTA体育1,rtmp://119.81.124.89/sat/md031
-MOMO综合,rtmp://119.81.124.89/sat/tv761
-TVBS欢樂,rtmp://119.81.124.89/sat/tv421
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-中視,rtmp://9wv7.mine.nu/sat/tv091
-東森超視,rtmp://219.80.97.77/sat/tv331
-東森超視,rtmp://119.81.124.89/sat/tv331
-台視,rtmp://119.81.124.89/sat/tv071
-民視,rtmp://9wv7.mine.nu/sat/tv051
-華視,rtmp://9wv7.mine.nu/sat/tv111
-TVB新聞,rtmp://119.81.124.89/sat/tv551
-緯來日本,rtmp://9wv7.mine.nu/sat/tv771
-綜合台,rtmp://119.81.124.89/sat/tv761
-緯來育樂,rtmp://119.81.124.89/sat/tv701
-緯來日本,rtmp://119.81.124.89/sat/tv771
-緯來日本,rtmp://219.80.97.77/sat/tv771
-MOMO綜合,rtmp://219.80.97.77/sat/tv761
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-東森財經,rtmp://119.81.124.89/sat/tv571
-華視,rtmp://119.81.124.89/sat/tv111
-民視,rtmp://119.81.124.89/sat/tv051
-民視第一台,rtmp://119.81.124.89/sat/md021
-緯来精彩,rtmp://119.81.124.89/sat/md041
-緯来体育,rtmp://119.81.124.89/sat/tv721
-中視,rtmp://119.81.124.89/sat/tv091
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
-ELTA体育1,rtmp://119.81.124.89/sat/md031
-NHK,http://123.51.230.108:18525/.m3u8
-TVBS欢樂,rtmp://119.81.124.89/sat/tv421
-八大第一,http://123.51.230.108:18539/.m3u8
-博斯网球,rtmp://119.81.124.89/sat/md051
-緯来育樂,https://fsv4.yj011.net/sat/tv701.flv
-緯来体育,https://fsv4.yj011.net/sat/tv721.flv
-緯来日本,https://fsv4.yj011.net/sat/tv771.flv
-博斯网球1,https://fsv4.yj011.net/sat/md031.flv
-博斯网球2,https://fsv4.yj011.net/sat/md041.flv
-博斯运动,https://fsv4.yj011.net/sat/md051.flv
-MoMo综合,https://fsv4.yj011.net/sat/tv761.flv
-ELEVEN1,https://fsv4.yj011.net/sat/tv731.flv
-ELEVEN2,https://fsv4.yj011.net/sat/tv741.flv
-
-中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新聞,http://107.151.203.111:2209/135/hk.php?id=ztxw
-
-台視,http://8.217.19.107:18128/islitve/twiptv.php?id=live1047
-中視,http://8.217.19.107:18128/islitve/twiptv.php?id=live1048
-華視,http://8.217.19.107:18128/islitve/twiptv.php?id=live1049
-民視,http://8.217.19.107:18128/islitve/twiptv.php?id=live1050
-公視,http://8.217.19.107:18128/islitve/twiptv.php?id=live1201
-TVBS,http://8.217.19.107:18128/islitve/twiptv.php?id=live1251
-TVBS新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1051
-年代新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1192
-東森新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1014
-中天新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1015
-民視新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1204
-三立新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1016
-非凡新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1013
-非凡商业,http://8.217.19.107:18128/islitve/twiptv.php?id=live1012
-東森财經,http://8.217.19.107:18128/islitve/twiptv.php?id=live1017
-寰宇新聞,http://8.217.19.107:18128/islitve/twiptv.php?id=live1222
-壹新聞台,http://8.217.19.107:18128/islitve/twiptv.php?id=live1242
-衛視電影,http://8.217.19.107:18128/islitve/twiptv.php?id=live1031
-好莱坞電影,http://8.217.19.107:18128/islitve/twiptv.php?id=live1025
-緯来電影,http://8.217.19.107:18128/islitve/twiptv.php?id=live118​​3
-龍華電影,http://8.217.19.107:18128/islitve/twiptv.php?id=live1245
-HBO,http://8.217.19.107:18128/islitve/twiptv.php?id=live1029
-AXN,http://8.217.19.107:18128/islitve/twiptv.php?id=live1054
-CINEMAX,http://8.217.19.107:18128/islitve/twiptv.php?id=live1030
-明星電影,http://8.217.19.107:18128/islitve/twiptv.php?id=live1032
-CNBC,http://8.217.19.107:18128/islitve/twiptv.php?id=live1063
-彭博社,http://8.217.19.107:18128/islitve/twiptv.php?id=live1066
-NHK,http://8.217.19.107:18128/islitve/twiptv.php?id=live1228
-国家地理,http://8.217.19.107:18128/islitve/twiptv.php?id=live1003
-探索频道,http://8.217.19.107:18128/islitve/twiptv.php?id=live1002
-TLC,http://8.217.19.107:18128/islitve/twiptv.php?id=live1005
-动物星球,http://8.217.19.107:18128/islitve/twiptv.php?id=live1004
-亞洲旅游,http://8.217.19.107:18128/islitve/twiptv.php?id=live1219
-宝贝電視,http://8.217.19.107:18128/islitve/twiptv.php?id=live1007
-東森幼幼,http://8.217.19.107:18128/islitve/twiptv.php?id=live1008
-ANIMAX,http://8.217.19.107:18128/islitve/twiptv.php?id=live1060
-龍華卡通,http://8.217.19.107:18128/islitve/twiptv.php?id=custom29
-緯来综合,http://8.217.19.107:18128/islitve/twiptv.php?id=live1044
-八大第一,http://8.217.19.107:18128/islitve/twiptv.php?id=live1043
-八大综合,http://8.217.19.107:18128/islitve/twiptv.php?id=live1019
-三立台湾,http://8.217.19.107:18128/islitve/twiptv.php?id=live1021
-三立都会,http://8.217.19.107:18128/islitve/twiptv.php?id=live1020
-衛視中文,http://8.217.19.107:18128/islitve/twiptv.php?id=live1024
-東森综合,http://8.217.19.107:18128/islitve/twiptv.php?id=live1041
-東森超視,http://8.217.19.107:18128/islitve/twiptv.php?id=live118​​0
-中天综合,http://8.217.19.107:18128/islitve/twiptv.php?id=live1022
-中天娱樂,http://8.217.19.107:18128/islitve/twiptv.php?id=live1023
-東风衛視,http://8.217.19.107:18128/islitve/twiptv.php?id=live1195
-年代,http://8.217.19.107:18128/islitve/twiptv.php?id=live118​​9
-東森戲劇,http://8.217.19.107:18128/islitve/twiptv.php?id=live1042
-八大戲劇,http://8.217.19.107:18128/islitve/twiptv.php?id=live1057
-TVBS欢樂,http://8.217.19.107:18128/islitve/twiptv.php?id=live1018
-緯来戲劇,http://8.217.19.107:18128/islitve/twiptv.php?id=live118​​6
-龍華戲劇,http://8.217.19.107:18128/islitve/twiptv.php?id=live1009
-龍華日韩,http://8.217.19.107:18128/islitve/twiptv.php?id=live1010
-龍華偶像,http://8.217.19.107:18128/islitve/twiptv.php?id=live1235
-緯来日本,http://8.217.19.107:18128/islitve/twiptv.php?id=live1026
-台湾加,http://8.217.19.107:18128/islitve/twiptv.php?id=live1238
-星际世界,http://8.217.19.107:18128/islitve/twiptv.php?id=live1040
-緯来育樂,http://8.217.19.107:18128/islitve/twiptv.php?id=live1045
-緯来体育,http://8.217.19.107:18128/islitve/twiptv.php?id=live1011
-博斯运动一,http://8.217.19.107:18128/islitve/twiptv.php?id=live1225
-momo综合,http://8.217.19.107:18128/islitve/twiptv.php?id=live1248
-ELEVEN1,http://8.217.19.107:18128/islitve/twiptv.php?id=live1069
-ELEVEN2,http://8.217.19.107:18128/islitve/twiptv.php?id=live1072
-
 壹新聞台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
 年代新聞,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
 Now新聞台,mitv://generationnexxxt.com:19806/56aca5e712214663825c77b7ae979522
@@ -1100,7 +863,6 @@ TVBS新聞,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
 東森財經,mitv://generationnexxxt.com:19806/3c7772c47dc6438a9f14cd6b6ac66d80
 非凡新聞,mitv://generationnexxxt.com:19806/d1472f8b243542f29e2c00221691f99b
 中視新聞,mitv://generationnexxxt.com:19806/32625135017f4968877e7937fb020136
-寰宇新聞,mitv://generationnexxxt.com:19806/cfebef54166f47ff9658a5ddf9524886
 華視新聞,mitv://generationnexxxt.com:19806/48e192a37e924bc0986bdc071b33400d
 NHK新聞資訊,mitv://generationnexxxt.com:19806/ab18005d98f84a79ab1ea38eb8e2c38e
 NDTV,mitv://generationnexxxt.com:19806/3cfc82296d36480c90b721984f6f0e43
@@ -1472,174 +1234,6 @@ FOX新聞,http://fox-foxnewsNow-samsungus.amagi.tv/playlist.m3u8
 三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 東森電影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 
-
-镜天資訊,https://us.dispatch.ulivetv.net/v/live/cg16rqyr0wqo.m3u8?stream_id=cg16rqyr0wqo&token=c0vzuc7wqkzk
-東森戏劇,https://us.dispatch.ulivetv.net/v/live/cl7caihk7zr4.m3u8?stream_id=cl7caihk7zr4&token=c0vzuc7wqkzk
-中天綜合,https://us.dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&token=c0vzuc7wqkzk
-大爱二台,https://us.dispatch.ulivetv.net/v/live/cl7c83atb64g.m3u8?stream_id=cl7c83atb64g&token=c0vzuc7wqkzk
-大爱一台,https://us.dispatch.ulivetv.net/v/live/cl7c7r2jpg3k.m3u8?stream_id=cl7c7r2jpg3k&token=c0vzuc7wqkzk
-中天亞洲,https://us.dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&token=c0vzuc7wqkzk
-東森超視,https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
-靖天國際,https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
-TVBS亞洲,https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
-客家電視台,https://us.dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&token=c0vzuc7wqkzk
-八大綜合,https://us.dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&token=c0vzuc7wqkzk
-東森綜合,https://us.dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&token=c0vzuc7wqkzk
-緯来日本,https://us.dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&token=c0vzuc7wqkzk
-緯来綜合,https://us.dispatch.ulivetv.net/v/live/cl7clh349vpc.m3u8?stream_id=cl7clh349vpc&token=c0vzuc7wqkzk
-八大第一,https://us.dispatch.ulivetv.net/v/live/cs0cbcjywtog.m3u8?stream_id=cs0cbcjywtog&token=c0vzuc7wqkzk
-ELTA綜合,https://us.dispatch.ulivetv.net/v/live/cl7cqw6n9sqo.m3u8?stream_id=cl7cqw6n9sqo&token=c0vzuc7wqkzk
-TVBS歡樂,https://us.dispatch.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?stream_id=cg0hzu3sgc00&token=c0vzuc7wqkzk
-中天娱樂,https://us.dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&token=c0vzuc7wqkzk
-八大娱樂,https://us.dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&token=c0vzuc7wqkzk
-八大戏劇,https://us.dispatch.ulivetv.net/v/live/cl7ckupkipc0.m3u8?stream_id=cl7ckupkipc0&token=c0vzuc7wqkzk
-緯来戏劇,https://us.dispatch.ulivetv.net/v/live/cl7cm1w9tl1c.m3u8?stream_id=cl7cm1w9tl1c&token=c0vzuc7wqkzk
-MTV Live HD,https://us.dispatch.ulivetv.net/v/live/clecsxddtsxs.m3u8?stream_id=clecsxddtsxs&token=c0vzuc7wqkzk
-靖洋戏劇,https://us.dispatch.ulivetv.net/v/live/clect8xzw534.m3u8?stream_id=clect8xzw534&token=c0vzuc7wqkzk
-ELTA影劇,https://us.dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&token=c0vzuc7wqkzk
-ELTA戏劇,https://us.dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&token=c0vzuc7wqkzk
-星衛娱樂,https://us.dispatch.ulivetv.net/v/live/cl7csf4rd2gw.m3u8?stream_id=cl7csf4rd2gw&token=c0vzuc7wqkzk
-
-國家地理,https://us.dispatch.ulivetv.net/v/live/cg1khzm3mzls.m3u8?stream_id=cg1khzm3mzls&token=c0vzuc7wqkzk
-國家地理野生,https://us.dispatch.ulivetv.net/v/live/cg1kmp2fnw00.m3u8?stream_id=cg1kmp2fnw00&token=c0vzuc7wqkzk
-动物星球,https://us.dispatch.ulivetv.net/v/live/cg1l4589x9s0.m3u8?stream_id=cg1l4589x9s0&token=c0vzuc7wqkzk
-DMAX,https://us.dispatch.ulivetv.net/v/live/cg1lcqvmahfk.m3u8?stream_id=cg1lcqvmahfk&token=c0vzuc7wqkzk
-探索科学,https://us.dispatch.ulivetv.net/v/live/cg1lhf32n268.m3u8?stream_id=cg1lhf32n268&token=c0vzuc7wqkzk
-探索亞洲,https://us.dispatch.ulivetv.net/v/live/cr8qvn9sf96o.m3u8?stream_id=cr8qvn9sf96o%20&token=c0vzuc7wqkzk
-History,https://us.dispatch.ulivetv.net/v/live/cl7ch406n6ww.m3u8?stream_id=cl7ch406n6ww&token=c0vzuc7wqkzk
-History2,https://us.dispatch.ulivetv.net/v/live/cl7chgdb1t4w.m3u8?stream_id=cl7chgdb1t4w&token=c0vzuc7wqkzk
-TLC旅游生活,https://us.dispatch.ulivetv.net/v/live/cl7chv63w4ao.m3u8?stream_id=cl7chv63w4ao&token=c0vzuc7wqkzk
-CI罪案侦查,https://us.dispatch.ulivetv.net/v/live/cl7ci6wopq68.m3u8?stream_id=cl7ci6wopq68&token=c0vzuc7wqkzk
-亞洲旅游,https://us.dispatch.ulivetv.net/v/live/cl7cikas48n4.m3u8?stream_id=cl7cikas48n4&token=c0vzuc7wqkzk
-美食星球,https://us.dispatch.ulivetv.net/v/live/cl7cq7br5d4w.m3u8?stream_id=cl7cq7br5d4w&token=c0vzuc7wqkzk
-EYE旅游,https://us.dispatch.ulivetv.net/v/live/cl7crdhyxn0g.m3u8?stream_id=cl7crdhyxn0g&token=c0vzuc7wqkzk
-緯来体育,https://us.dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&token=c0vzuc7wqkzk
-ELEVEN1,https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&token=c0vzuc7wqkzk
-ELEVEN2,https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&token=c0vzuc7wqkzk
-博斯运动1,https://us.dispatch.ulivetv.net/v/live/cg1mq9e7sl34.m3u8?stream_id=cg1mq9e7sl34&token=c0vzuc7wqkzk
-博斯运动2,https://us.dispatch.ulivetv.net/v/live/cg1mvz20c14w.m3u8?stream_id=cg1mvz20c14w&token=c0vzuc7wqkzk
-博斯高球1,https://us.dispatch.ulivetv.net/v/live/cg1n0b4bgbeo.m3u8?stream_id=cg1n0b4bgbeo&token=c0vzuc7wqkzk
-博斯高球2,https://us.dispatch.ulivetv.net/v/live/cg1n6ib9u4sg.m3u8?stream_id=cg1n6ib9u4sg&token=c0vzuc7wqkzk
-博斯网球,https://us.dispatch.ulivetv.net/v/live/cg1nb00eplts.m3u8?stream_id=cg1nb00eplts&token=c0vzuc7wqkzk
-博斯无限,https://us.dispatch.ulivetv.net/v/live/clecumtydz28.m3u8?stream_id=clecumtydz28&token=c0vzuc7wqkzk
-NBA,https://us.dispatch.ulivetv.net/v/live/cl7cdvv53n40.m3u8?stream_id=cl7cdvv53n40&token=c0vzuc7wqkzk
-ELTA体育1,https://us.dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&token=c0vzuc7wqkzk
-ELTA体育2,https://us.dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&token=c0vzuc7wqkzk
-ELTA体育3,https://us.dispatch.ulivetv.net/v/live/cnnh2pl4cam8.m3u8?stream_id=cnnh2pl4cam8&token=c0vzuc7wqkzk
-靖天卡通,https://us.dispatch.ulivetv.net/v/live/cg16vy7fp9s0.m3u8?stream_id=cg16vy7fp9s0&token=c0vzuc7wqkzk
-東森幼幼,https://us.dispatch.ulivetv.net/v/live/ciw8f5pwdghs.m3u8?stream_id=ciw8f5pwdghs&token=c0vzuc7wqkzk
-Astro小太阳,https://us.dispatch.ulivetv.net/v/live/cgbwueb4f8hs.m3u8?stream_id=cgbwueb4f8hs&token=c0vzuc7wqkzk
-MOMOTV,https://us.dispatch.ulivetv.net/v/live/ciw8e2mbl9z4.m3u8?stream_id=ciw8e2mbl9z4&token=c0vzuc7wqkzk
-迪士尼频道,https://us.dispatch.ulivetv.net/v/live/cl7ccczgethc.m3u8?stream_id=cl7ccczgethc&token=c0vzuc7wqkzk
-小尼克频道,https://us.dispatch.ulivetv.net/v/live/cl7ccsvv560w.m3u8?stream_id=cl7ccsvv560w&token=c0vzuc7wqkzk
-MOMO亲子,https://us.dispatch.ulivetv.net/v/live/cl7cd4sc85a8.m3u8?stream_id=cl7cd4sc85a8&token=c0vzuc7wqkzk
-CN卡通,https://us.dispatch.ulivetv.net/v/live/cl7cebyhju80.m3u8?stream_id=cl7cebyhju80&token=c0vzuc7wqkzk
-Bloomeranq,https://us.dispatch.ulivetv.net/v/live/cl7cetj6bz5s.m3u8?stream_id=cl7cetj6bz5s&token=c0vzuc7wqkzk
-Animax卡通,https://us.dispatch.ulivetv.net/v/live/cl7cf8045n7k.m3u8?stream_id=cl7cf8045n7k&token=c0vzuc7wqkzk
-尼克儿童频道,https://us.dispatch.ulivetv.net/v/live/clecty3pkqm8.m3u8?stream_id=clecty3pkqm8&token=c0vzuc7wqkzk
-ABC新聞,https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&token=c0vzuc7wqkzk
-FOX新聞,https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&token=c0vzuc7wqkzk
-BBC世界新聞,https://us.dispatch.ulivetv.net/v/live/cfxzpvvyodkw.m3u8?stream_id=cfxzpvvyodkw&token=c0vzuc7wqkzk
-CNN,https://us.dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&token=c0vzuc7wqkzk
-CBS新聞,https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo&token=c0vzuc7wqkzk
-CNBC,https://us.dispatch.ulivetv.net/v/live/cl7cdjqouc3k.m3u8?stream_id=cl7cdjqouc3k&token=c0vzuc7wqkzk
-HBO HD,https://us.dispatch.ulivetv.net/v/live/cl7cfnwsvl4w.m3u8?stream_id=cl7cfnwsvl4w&token=c0vzuc7wqkzk
-HBO Hits,https://us.dispatch.ulivetv.net/v/live/cl7cgrkacmv4.m3u8?stream_id=cl7cgrkacmv4&token=c0vzuc7wqkzk
-HLN,https://us.dispatch.ulivetv.net/v/live/cl7cstetysao.m3u8?stream_id=cl7cstetysao&token=c0vzuc7wqkzk
-CNN國際,https://us.dispatch.ulivetv.net/v/live/cl7ct8ccm6yo.m3u8?stream_id=cl7ct8ccm6yo&token=c0vzuc7wqkzk
-欧洲新聞,https://us.dispatch.ulivetv.net/v/live/cl7ctk7x8hq8.m3u8?stream_id=cl7ctk7x8hq8&token=c0vzuc7wqkzk
-
-HBO1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Hbo
-HBO HITS,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=hbohead_twn
-HBO-原创,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=hbosignature_twn
-HBO家庭,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=fyi_twn
-HBO_,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=hbohd_twn
-TVB星河,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Xinhe
-東森電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ettvmovie
-緯来電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=videolandmovie
-龍祥電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=cb7a1fec69
-龍祥電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=lungxiangtime_twn
-美亞電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=meiyamovie_twn
-星衛電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=xingwei_movie
-天映频道1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Celestialindo
-天映频道2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Celestial
-好莱坞電影,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=hollywoodmovies_twn
-Thrill,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Thrill
-Boo,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Boo
-星空電影 Movies,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=starmovies_raj
-AXN,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Axn
-AXNTW,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=axn_twn
-CINEMAX,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=cinemax_twn
-龍華戏劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=lunghuaxiju_twn
-龍華偶像,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=lunghuaidol_twn
-龍華洋片,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=lunghuawestern_twn
-爱尔达影劇台1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eltadrama_twn
-爱尔达影劇台2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eltayingju_twn
-爱尔达綜合台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eltazonghe
-民視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ftvhd_taiwan
-台視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ttvnews_twn
-華視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ctshd_twn
-中視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=zhongshihd_twn
-公視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ctv_taiwan
-中視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ca73a13c37
-中視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=zhongshinews_twn
-民視新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ftvnew_taiwan
-民視台湾,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ftvtaiwan_twn
-民視第一,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=lunghuajingdian_twn
-三立台湾,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=sanlitaiwan
-三立綜合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=sanlizhonghe
-三立戏劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=sanlixiju_twn
-中天綜合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ctizhonghe
-中天娱樂,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ctient
-中天新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ctinews
-中天亞洲,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ctiasia_twn
-TVBS,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=tvbs
-TVBS新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=tvbs_n
-TVBS歡樂,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=tvbshuanle_twn
-八大第一,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=badafirst
-八大綜合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=badazhonghe
-八大戏劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=badadrama
-緯来日本,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=videolandjapan
-緯来体育,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=videolandsport
-東森LIVE,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ettvnews
-東森戏劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ettvdrama
-東森財經,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ettvcaijing_twn
-東森洋片,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ettvwestern
-東森超視,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ettvsuper
-東森綜合,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ettvzhonghe
-寰宇新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=huanyuxinwen_twn
-寰宇財經,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=huanyutaiwan_twn
-非凡新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=feifannews_twn
-年代新聞,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=niandainews_twn
-靖天卡通,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=jingtiancartoon_twn
-靖天國際,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=jingtianintl_twn
-动物星球,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=animalplanet_twn
-HGTV,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=HGTV
-探索频道,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=ba86fcd935
-探索频道,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=discoveryhd_twn
-探索,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=discoverych_twn
-探索亞洲,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=discoverytwn_twn
-國家地理野生,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=natgeowild_twn
-國家地理,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=natgeohd_twn
-博斯运动 1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=bosisport1_twn
-博斯运动2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=bosisport2_twn
-博斯高球1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=bosigolf1_twn
-博斯高球2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=bosigolf2_twn
-博斯网球,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=bositennis_twn
-ELEVEN 1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=golfchannel_twn
-EYE戏劇,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eyetvxiju_twn
-EYE旅游,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eyetvtravel_twn
-CN卡通频道,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=Cn
-CN卡通频道2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=momo1_twn
-亞洲美食,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=afc_twn
-美食星球,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=foodplanet_twn
-亞洲旅游,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=asiatravel_twn
-好消息2台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=good2_twn
-大爱台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=daai_twn
-爱尔达体育1台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eltasport1_twn
-爱尔达体育2台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eltasport2_twn
-爱尔达体育3台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/live/iptv/smt.php?id=eltasport3_twn
-
 🇹🇼全球频道,#genre#
 港台電視31,mitv://generationnexxxt.com:19806/bb366f445cec4722b21fdd69fb052834
 港台電視32,mitv://generationnexxxt.com:19806/cf1a2072c9d94514ba98c4b37895daf4
@@ -1675,12 +1269,11 @@ HandsUp,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 功夫台,mitv://generationnexxxt.com:19806/4c3f27dd7eb44be289557ccfb7c410b3
 HOY資訊台,mitv://generationnexxxt.com:19806/277e07151c874174b35d4d3ce7d772a2
 黄金翡翠台,mitv://generationnexxxt.com:19806/aa014240bbec4e91990ca9a7f57875fd
-
 壹新聞台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
 年代新聞,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
 Now新聞台,mitv://generationnexxxt.com:19806/56aca5e712214663825c77b7ae979522
 東森新聞,mitv://generationnexxxt.com:19806/8bc09abe58e944ca97b838dbce2b4455
-中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
+
 中天新聞,http://107.151.203.111:2209/135/hk.php?id=ztxw
 中天新聞,mitv://generationnexxxt.com:19806/26ab4a8f123c4a3292451f072035a681
 民視新聞,mitv://generationnexxxt.com:19806/5bb97363edbf4fdd95c408367a32c0f2
@@ -3061,7 +2654,180 @@ EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
 🇺🇸欧美频道,#genre#
+AXN FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/835
+AXN FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/213
+AXN HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/4
+BAND NEWS FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/866
+BAND NEWS FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/214
+BAND RJ FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/307
+BAND RJ HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/321
+ABC NEWS,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/880
+BBC WORLD HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/134
+CNN BRASIL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/306
+CNN BRASIL HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/102
+COMEDY CENTRAL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/858
+COMEDY CENTRAL H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/223
+CANAL SONY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/219
+CANAL SONY FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/844
+CANAL SONY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/7
+CINEMAX FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/221
+CINEMAX HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/9
+DISCOVERY CHANNEL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/808
+DISCOVERY CHANNEL H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/224
+DISCOVERY H&H FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/807
+DISCOVERY H&H H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/226
+DISCOVERY KIDS FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/824
+DISCOVERY KIDS H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/227
+DISCOVERY SCIENCE FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/820
+DISCOVERY SCIENCE H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/228
+DISCOVERY SCIENCE HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/16
+DISCOVERY THEATER FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/821
+DISCOVERY THEATER H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/229
+DISCOVERY THEATER HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/17
+DISCOVERY TURBO FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/818
+DISCOVERY TURBO H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/230
+DISCOVERY TURBO HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/18
+DISCOVERY WORLD FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/802
+DISCOVERY WORLD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/231
+DISCOVERY WORLD HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/19
+DISNEY CHANNEL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/825
+DISNEY CHANNEL H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/232
+DISNEY CHANNEL HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/20
+ELEVEN SPORTS CHANNEL (JOGO 1),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/166
+ELEVEN SPORTS CHANNEL (JOGO 2),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/167
+ELEVEN SPORTS CHANNEL (JOGO 3),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/168
+ELEVEN SPORTS CHANNEL (JOGO 4),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/169
+ELEVEN SPORTS CHANNEL (JOGO 5),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/170
+ELEVEN SPORTS CHANNEL (JOGO 6),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/171
+ELEVEN SPORTS CHANNEL (JOGO 7),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/172
+ELEVEN SPORTS CHANNELL (JOGO 8),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/173
+ELEVEN SPORTS CHANNELL (JOGO 9),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/174
+ELEVEN SPORTS CHANNEL (JOGO 10),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/175
+ESPN FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/769
+ESPN H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/238
+ESPN HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/24
+ESPN 2 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/771
+ESPN 2 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/236
+ESPN 2 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/25
+ESPN 3 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/772
+ESPN 3 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/237
+ESPN 3 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/23
+ESPN 4 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/89168
+ESPN 4 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/89169
+ESPN 4 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/89170
+ESPN EXTRA FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/770
+ESPN EXTRA H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/235
+ESPN EXTRA HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/26
+FOOD  NETWORK FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/863
+FOOD NETWORK H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/240
+FOOD NETWORK HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/27
+HBO MAX 01,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/78527
+FUTURA,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/485
+FX FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/842
+FX FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/246
+FX HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/34
+HBO 2 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/793
+HBO 2 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/254
+HBO 2 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/39
+HBO 2 SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/499
+HBO FAMILY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/795
+HBO FAMILY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/40
+HBO FAMILY SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/496
+HBO FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/792
+HBO H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/251
+HBO HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/41
+HBO SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/495
+HBO MAX 02,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/204
+HBO MAX 03,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/205
+HBO MAX 04,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/206
+HBO MAX 05,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76696
+HBO MAX 06,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76697
+HBO MAX 07,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76698
+HBO MAX 08,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76699
+HBO MAX 09,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76700
+HBO MUNDI FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/797
+HBO MUNDI H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/260
+HBO MUNDI HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/48
+HBO PLUS FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/794
+HBO PLUS H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/252
+HBO PLUS HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/42
+HBO PLUS SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/497
+HBO POP FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/799
+HBO POP H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/262
+HBO POP HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/50
+HBO SIGNATURE FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/796
+HBO SIGNATURE H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/253
+HBO SIGNATURE HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/43
+HBO SIGNATURE SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/498
+HBO XTREME FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/798
+HBO XTREME FHD H265 :,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/261
+HBO XTREME HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/49
+HBO XTREME SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76662
+HELLO TV,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/63867
+HGTV FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/861
+HGTV H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/225
+HGTV HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/13
+HISTORY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/781
+HISTORY H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/255
+HISTORY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/45
+HISTORY SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/584
+HISTORY 2 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/806
+HISTORY 2 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/256
+HISTORY 2 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/44
+HISTORY 2 SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/500
+INSPIRE TV,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/63866
+INVESTIGAÇAO DISCOVERY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/819
+INVESTIGAÇAO DISCOVERY H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/257
+INVESTIGAÇAO DISCOVERY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/46
+INVESTIGAÇAO DISCOVERY SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/501
+MTV FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/854
+MTV H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/264
+MTV HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/52
+MTV LIVE HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/197
+MTV SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/508
+MULTISHOW FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/860
+MULTISHOW H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/265
+MULTISHOW HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/53
+MULTISHOW SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/509
+MUSIC BOX BRASIL HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/511
+MUSIC BOX BRASIL SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/510
+NATGEO FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/805
+NATGEO H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/266
+NATGEO HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/54
+NATGEO SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/514
+NHK FHD (JAPONES),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/404
+NHK HD (JAPONES),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/403
+NICKELODEON FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/830
+NICKELODEON H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/269
+NICKELODEON HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/57
+BAND 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80551
+RECORD 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80552
+PREMIERE CLUBES 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80553
+TELECINE PREMIUM 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80554
+TNT 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80555
+TNT SERIES 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80556
+ANIMAL PLANET 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80557
+CARTOON NETWORK 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80558
+COMBATE 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80559
+DISCOVERY CHANNEL 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80560
+STAR CHANNEL 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80561
+GLOBO 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80563
+HBO 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80564
+MEGAPIX 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80565
+MULTISHOW 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80566
+SBT 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80567
+SPACE 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80568
+SPORTV 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80569
+HBO XTREME 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80570
+ESPN 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80571
+NATGEO 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80572
+FOX SPORTS 2 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80573
+REDE TV 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80574
+TELECINE PIPOCA 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80575
+JOVEM PAN NEWS 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/81009
+
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
 CNN,https://ancom.ga/fptplay_sv2/cnn/bitrate_5000.m3u8
@@ -10622,29 +10388,4 @@ JK萝莉白虎,https://0yefiks35y.motorjn.com/20220907/xpSbp7eC/index.m3u8
 测试2,https://bf.mmzb09.com/20221227/Zsz4JORK/index.m3u8
 测试1,https://bf2.mmzb09.com/20230709/dSRbv68i/2000kb/hls/index.m3u8
 
-彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
-彩虹e台,mitv://135.148.104.228:19806/3f5f22df9a324f759e43967b0d3ffe65
-彩虹電影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
-彩虹電影台,mitv://135.148.104.228:19806/65b9f44984e749a8b14455a173779644
-LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
-LOOK TV,mitv://135.148.104.228:19806/c8aab8c8683c4f35aba0e745535afd41
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
-潘朵拉玩美台,mitv://135.148.104.228:19806/3f91635cf956419490d1905f7d5c6790
-惊艳成人台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
-惊艳成人台,mitv://135.148.104.228:19806/9eaea463d2f54b5d92fb34948ad0b72d
-松視1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
-松視1台,mitv://135.148.104.228:19806/878c994ac52a4c50a71914f559b0ddc6
-松視2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
-松視2台,mitv://135.148.104.228:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
-PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
-PLAYBOY,mitv://135.148.104.228:19806/47f99c6bdb9449a594cc0621f8980f3c
-香蕉台,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
-香蕉台,mitv://135.148.104.228:19806/cb6c40d4aea546a7b518377e7aee5fb0
-松視3台,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
-松視3台,mitv://135.148.104.228:19806/0045293e14224851a3e930cf0b8a07f8
-JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
-JStar极限台,mitv://135.148.104.228:19806/a55acb84487242d882b0b53dd110b845
-HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
-HAPPY,mitv://135.148.104.228:19806/7b02a03ce3094b4e84f883565805f3a4
-K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
-K,mitv://135.148.104.228:19806/1aec46d506634015a1276c5e4d846976
+
