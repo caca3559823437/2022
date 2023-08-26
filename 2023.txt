@@ -508,7 +508,7 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 新聞综合,https://dispatchnew.ulivetv.net/v/live/cgxalg4ysx4w.m3u8?stream_id=cgxalg4ysx4w&token=c0vzuc7wqkzk
 新聞综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 新聞综合,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
-
+新聞综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
 
 第一財經,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
@@ -852,11 +852,12 @@ HOY資訊台,mitv://generationnexxxt.com:19806/277e07151c874174b35d4d3ce7d772a2
 黄金翡翠台,mitv://generationnexxxt.com:19806/aa014240bbec4e91990ca9a7f57875fd
 
 🇹🇼台灣频道,#genre#
+TVBS HD,mitv://generationnexxxt.com:19806/1b811ad38b0f47a393d0a76155b2fd44
+TVBS新聞,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
 壹新聞台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
 年代新聞,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
-Now新聞台,mitv://generationnexxxt.com:19806/56aca5e712214663825c77b7ae979522
 東森新聞,mitv://generationnexxxt.com:19806/8bc09abe58e944ca97b838dbce2b4455
-中天新聞,mitv://generationnexxxt.com:19806/26ab4a8f123c4a3292451f072035a681
+中天新聞,mitv://generationnexxxt.com:19806/64dc72330007e7d05ef32fec046211e5
 民視新聞,mitv://generationnexxxt.com:19806/5bb97363edbf4fdd95c408367a32c0f2
 三立新聞,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
 TVBS新聞,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
@@ -864,26 +865,24 @@ TVBS新聞,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
 非凡新聞,mitv://generationnexxxt.com:19806/d1472f8b243542f29e2c00221691f99b
 中視新聞,mitv://generationnexxxt.com:19806/32625135017f4968877e7937fb020136
 華視新聞,mitv://generationnexxxt.com:19806/48e192a37e924bc0986bdc071b33400d
-NHK新聞資訊,mitv://generationnexxxt.com:19806/ab18005d98f84a79ab1ea38eb8e2c38e
-NDTV,mitv://generationnexxxt.com:19806/3cfc82296d36480c90b721984f6f0e43
-ABCAustralia,mitv://generationnexxxt.com:19806/94fa84e314d745669761bf70b2bac7e5
 台視新聞,mitv://generationnexxxt.com:19806/b73a296fbd314b87b4133e437a2aa5d1
+寰宇新聞,mitv://generationnexxxt.com:19806/cfebef54166f47ff9658a5ddf9524886
 寰宇台湾,mitv://generationnexxxt.com:19806/24e327a606714508a6288bf277932408
 台視財經,mitv://generationnexxxt.com:19806/8106890430d24687b7f68c076dc8c40f
-CNN,mitv://generationnexxxt.com:19806/05386ac372994a3cb3a2cbaccb50e600
-Now財經台,mitv://generationnexxxt.com:19806/440e31782f224afaacea82278241dda9
 東森新聞,mitv://generationnexxxt.com:19806/6696ee8482ca482aa501f886efbadad0
 镜新聞台,mitv://generationnexxxt.com:19806/6ef8600b028640f49ad6cd73fee386ae
 壹新聞台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
 年代新聞,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
 東森新聞,mitv://generationnexxxt.com:19806/8bc09abe58e944ca97b838dbce2b4455
-中天新聞,mitv://generationnexxxt.com:19806/26ab4a8f123c4a3292451f072035a681
+中天新聞,mitv://generationnexxxt.com:19806/64dc72330007e7d05ef32fec046211e5
 民視新聞,mitv://generationnexxxt.com:19806/5bb97363edbf4fdd95c408367a32c0f2
 三立新聞,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
-TVBS新聞,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
-TVBS,mitv://generationnexxxt.com:19806/1b811ad38b0f47a393d0a76155b2fd44
-東森財經,mitv://generationnexxxt.com:19806/3c7772c47dc6438a9f14cd6b6ac66d80
+東森財經,mitv://generationnexxxt.com:19806/64d780e90008d1594ba4a71a69e821b0
 非凡新聞,mitv://generationnexxxt.com:19806/d1472f8b243542f29e2c00221691f99b
+中視新聞,mitv://generationnexxxt.com:19806/32625135017f4968877e7937fb020136
+寰宇新聞,mitv://generationnexxxt.com:19806/cfebef54166f47ff9658a5ddf9524886
+華視新聞,mitv://generationnexxxt.com:19806/48e192a37e924bc0986bdc071b33400d
+NHK新聞資訊,mitv://generationnexxxt.com:19806/ab18005d98f84a79ab1ea38eb8e2c38e
 衛視電影,mitv://generationnexxxt.com:19806/1dfc2d3ccab34581b745d44173f73a68
 東森電影,mitv://generationnexxxt.com:19806/8578aae119724436acb22453d7ae6c9e
 緯来電影,mitv://generationnexxxt.com:19806/1f2768819be640b187b0de9d628ba29e
@@ -895,10 +894,6 @@ AXN,mitv://generationnexxxt.com:19806/1e1fb5802779465a9948e3a873933a3d
 CINEMAX,mitv://generationnexxxt.com:19806/62e7d5ee3a9949b59ec779f14d81a5f1
 HBO强档,mitv://generationnexxxt.com:19806/78d2e408309d4ace81dd7235c2327767
 HBO原创,mitv://generationnexxxt.com:19806/d16248e49e28441b97e940971121d0c0
-中視新聞,mitv://generationnexxxt.com:19806/32625135017f4968877e7937fb020136
-寰宇新聞,mitv://generationnexxxt.com:19806/cfebef54166f47ff9658a5ddf9524886
-華視新聞,mitv://generationnexxxt.com:19806/48e192a37e924bc0986bdc071b33400d
-NHK新聞資訊,mitv://generationnexxxt.com:19806/ab18005d98f84a79ab1ea38eb8e2c38e
 美亞電影,mitv://generationnexxxt.com:19806/f1d93f4dcdb042a69134be2e3ae8abab
 龍華電影,mitv://generationnexxxt.com:19806/b0f1d3bd5cf34c3e8bb994186e3566b2
 星衛電影,mitv://generationnexxxt.com:19806/65688f2989ab4c4f8592c53da8fe4229
@@ -977,7 +972,10 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/b08b5054487b4685b7ceb7d2371540
 EYETV戲劇,mitv://generationnexxxt.com:19806/adc2a4ea6a77409cb91369152f0baced
 爱尔达影剧,mitv://generationnexxxt.com:19806/ac2f700992734a578b38655b30fb5166
 亞洲剧台,mitv://generationnexxxt.com:19806/ddd1f7ef6ccc486eb861a1215115d7d2
-
+CNN,mitv://generationnexxxt.com:19806/05386ac372994a3cb3a2cbaccb50e600
+NHK新聞資訊,mitv://generationnexxxt.com:19806/ab18005d98f84a79ab1ea38eb8e2c38e
+NDTV,mitv://generationnexxxt.com:19806/3cfc82296d36480c90b721984f6f0e43
+ABCAustralia,mitv://generationnexxxt.com:19806/94fa84e314d745669761bf70b2bac7e5
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
@@ -1275,7 +1273,7 @@ Now新聞台,mitv://generationnexxxt.com:19806/56aca5e712214663825c77b7ae979522
 東森新聞,mitv://generationnexxxt.com:19806/8bc09abe58e944ca97b838dbce2b4455
 
 中天新聞,http://107.151.203.111:2209/135/hk.php?id=ztxw
-中天新聞,mitv://generationnexxxt.com:19806/26ab4a8f123c4a3292451f072035a681
+中天新聞,mitv://generationnexxxt.com:19806/64dc72330007e7d05ef32fec046211e5
 民視新聞,mitv://generationnexxxt.com:19806/5bb97363edbf4fdd95c408367a32c0f2
 三立新聞,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
 TVBS新聞,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
@@ -1297,7 +1295,7 @@ Now財經台,mitv://generationnexxxt.com:19806/440e31782f224afaacea82278241dda9
 壹新聞台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
 年代新聞,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
 東森新聞,mitv://generationnexxxt.com:19806/8bc09abe58e944ca97b838dbce2b4455
-中天新聞,mitv://generationnexxxt.com:19806/26ab4a8f123c4a3292451f072035a681
+中天新聞,mitv://generationnexxxt.com:19806/64dc72330007e7d05ef32fec046211e5
 民視新聞,mitv://generationnexxxt.com:19806/5bb97363edbf4fdd95c408367a32c0f2
 三立新聞,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
 TVBS新聞,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
@@ -2656,178 +2654,6 @@ MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
 🇺🇸欧美频道,#genre#
-AXN FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/835
-AXN FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/213
-AXN HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/4
-BAND NEWS FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/866
-BAND NEWS FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/214
-BAND RJ FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/307
-BAND RJ HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/321
-ABC NEWS,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/880
-BBC WORLD HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/134
-CNN BRASIL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/306
-CNN BRASIL HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/102
-COMEDY CENTRAL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/858
-COMEDY CENTRAL H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/223
-CANAL SONY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/219
-CANAL SONY FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/844
-CANAL SONY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/7
-CINEMAX FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/221
-CINEMAX HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/9
-DISCOVERY CHANNEL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/808
-DISCOVERY CHANNEL H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/224
-DISCOVERY H&H FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/807
-DISCOVERY H&H H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/226
-DISCOVERY KIDS FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/824
-DISCOVERY KIDS H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/227
-DISCOVERY SCIENCE FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/820
-DISCOVERY SCIENCE H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/228
-DISCOVERY SCIENCE HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/16
-DISCOVERY THEATER FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/821
-DISCOVERY THEATER H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/229
-DISCOVERY THEATER HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/17
-DISCOVERY TURBO FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/818
-DISCOVERY TURBO H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/230
-DISCOVERY TURBO HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/18
-DISCOVERY WORLD FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/802
-DISCOVERY WORLD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/231
-DISCOVERY WORLD HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/19
-DISNEY CHANNEL FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/825
-DISNEY CHANNEL H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/232
-DISNEY CHANNEL HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/20
-ELEVEN SPORTS CHANNEL (JOGO 1),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/166
-ELEVEN SPORTS CHANNEL (JOGO 2),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/167
-ELEVEN SPORTS CHANNEL (JOGO 3),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/168
-ELEVEN SPORTS CHANNEL (JOGO 4),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/169
-ELEVEN SPORTS CHANNEL (JOGO 5),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/170
-ELEVEN SPORTS CHANNEL (JOGO 6),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/171
-ELEVEN SPORTS CHANNEL (JOGO 7),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/172
-ELEVEN SPORTS CHANNELL (JOGO 8),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/173
-ELEVEN SPORTS CHANNELL (JOGO 9),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/174
-ELEVEN SPORTS CHANNEL (JOGO 10),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/175
-ESPN FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/769
-ESPN H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/238
-ESPN HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/24
-ESPN 2 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/771
-ESPN 2 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/236
-ESPN 2 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/25
-ESPN 3 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/772
-ESPN 3 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/237
-ESPN 3 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/23
-ESPN 4 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/89168
-ESPN 4 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/89169
-ESPN 4 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/89170
-ESPN EXTRA FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/770
-ESPN EXTRA H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/235
-ESPN EXTRA HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/26
-FOOD  NETWORK FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/863
-FOOD NETWORK H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/240
-FOOD NETWORK HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/27
-HBO MAX 01,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/78527
-FUTURA,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/485
-FX FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/842
-FX FHD H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/246
-FX HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/34
-HBO 2 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/793
-HBO 2 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/254
-HBO 2 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/39
-HBO 2 SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/499
-HBO FAMILY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/795
-HBO FAMILY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/40
-HBO FAMILY SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/496
-HBO FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/792
-HBO H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/251
-HBO HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/41
-HBO SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/495
-HBO MAX 02,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/204
-HBO MAX 03,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/205
-HBO MAX 04,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/206
-HBO MAX 05,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76696
-HBO MAX 06,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76697
-HBO MAX 07,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76698
-HBO MAX 08,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76699
-HBO MAX 09,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76700
-HBO MUNDI FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/797
-HBO MUNDI H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/260
-HBO MUNDI HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/48
-HBO PLUS FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/794
-HBO PLUS H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/252
-HBO PLUS HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/42
-HBO PLUS SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/497
-HBO POP FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/799
-HBO POP H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/262
-HBO POP HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/50
-HBO SIGNATURE FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/796
-HBO SIGNATURE H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/253
-HBO SIGNATURE HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/43
-HBO SIGNATURE SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/498
-HBO XTREME FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/798
-HBO XTREME FHD H265 :,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/261
-HBO XTREME HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/49
-HBO XTREME SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/76662
-HELLO TV,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/63867
-HGTV FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/861
-HGTV H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/225
-HGTV HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/13
-HISTORY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/781
-HISTORY H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/255
-HISTORY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/45
-HISTORY SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/584
-HISTORY 2 FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/806
-HISTORY 2 H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/256
-HISTORY 2 HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/44
-HISTORY 2 SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/500
-INSPIRE TV,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/63866
-INVESTIGAÇAO DISCOVERY FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/819
-INVESTIGAÇAO DISCOVERY H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/257
-INVESTIGAÇAO DISCOVERY HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/46
-INVESTIGAÇAO DISCOVERY SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/501
-MTV FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/854
-MTV H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/264
-MTV HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/52
-MTV LIVE HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/197
-MTV SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/508
-MULTISHOW FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/860
-MULTISHOW H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/265
-MULTISHOW HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/53
-MULTISHOW SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/509
-MUSIC BOX BRASIL HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/511
-MUSIC BOX BRASIL SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/510
-NATGEO FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/805
-NATGEO H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/266
-NATGEO HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/54
-NATGEO SD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/514
-NHK FHD (JAPONES),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/404
-NHK HD (JAPONES),http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/403
-NICKELODEON FHD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/830
-NICKELODEON H265,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/269
-NICKELODEON HD,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/57
-BAND 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80551
-RECORD 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80552
-PREMIERE CLUBES 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80553
-TELECINE PREMIUM 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80554
-TNT 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80555
-TNT SERIES 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80556
-ANIMAL PLANET 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80557
-CARTOON NETWORK 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80558
-COMBATE 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80559
-DISCOVERY CHANNEL 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80560
-STAR CHANNEL 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80561
-GLOBO 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80563
-HBO 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80564
-MEGAPIX 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80565
-MULTISHOW 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80566
-SBT 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80567
-SPACE 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80568
-SPORTV 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80569
-HBO XTREME 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80570
-ESPN 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80571
-NATGEO 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80572
-FOX SPORTS 2 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80573
-REDE TV 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80574
-TELECINE PIPOCA 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/80575
-JOVEM PAN NEWS 4K,http://joao-1-us.mainbkonline.shop:80/287112407404/613661311756/81009
-
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
 CNN,https://ancom.ga/fptplay_sv2/cnn/bitrate_5000.m3u8
