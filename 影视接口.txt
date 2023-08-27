@@ -16,11 +16,11 @@
         },
        
 {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/接口禁止贩卖.json",
             "name": "😺影视肥猫"
         },
 {
-            "url": "http://饭太硬.top/tv",
+            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/tv.json",
             "name": "😺影视饭太硬"
         },
 {
