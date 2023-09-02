@@ -612,84 +612,136 @@ ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 求索.动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=QSDWHD_7000
 求索.生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1612
 
+🇺🇸體育,#genre#
+纬来體育,http://cloud.yumixiu768.com/tmp/123.m3u8
+劲爆體育,https://angtv.cn/test/bestv.php?id=jbtyhd8m/8000000
+劲爆體育,https://cntv.sbs/tv?auth=230830&id=jbty
+广东體育,https://dispatchnew.ulivetv.net/v/live/cgxanasc9q68.m3u8?stream_id=cgxanasc9q68&token=c0vzuc7wqkzk
+北京體育,https://dispatchnew.ulivetv.net/v/live/cgxam6v2ozpc.m3u8?stream_id=cgxam6v2ozpc&token=c0vzuc7wqkzk
+五星體育,https://dispatchnew.ulivetv.net/v/live/cgxamfznu56o.m3u8?stream_id=cgxamfznu56o&token=c0vzuc7wqkzk
+
+EDGE SPORT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1014266&extension=ts
+Astro SuperSport,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1016544&extension=ts
+Now Sports 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
+NBA REPLAY INFO,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040606&extension=ts
+Now Sports 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts
+Now Sports 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110616&extension=ts
+Now Sports 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts
+Now Sports 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110618&extension=ts
+Now Sports 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts
+Now Sports 6,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts
+STAR SPORTS 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
+STAR SPORTS SELECT 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
+STAR SPORTS SELECT 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
+STAR SPORTS 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
+SONY SPORTS 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
+VIAPLAY SPORTS 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
+TSN 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177344&extension=ts
+TSN 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177345&extension=ts
+TSN 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177346&extension=ts
+Sky Sports Mix,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts
+Sky Sports Main Event,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts
+Sky Sports Football,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
+Sky Sports F1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
+Sky Sports Arena,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts
+EUROSPORT 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
+EUROSPORT 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
+BT Sport 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts
+BT Sport 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts
+BT Sport 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts
+BT Sport 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts
+VIAPLAY SPORTS 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
+FOX SOCCER PLUS,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45572&extension=ts
+ESPN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
+ESPN 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45580&extension=ts
+TSN 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904212&extension=ts
+TSN 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904213&extension=ts
+ELEVEN SPORTS 1 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
+Astro SuperSport 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+Sky Sports Action,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=929003&extension=ts
+
+Sportv 1,http://7go.xyz:8080/8589436032/858943Gsts1/54377
+Sportv 1,http://7go.xyz:8080/8589436032/858943Gsts1/65744
+Sportv 1,http://7go.xyz:8080/8589436032/858943Gsts1/22708
+Sportv 2,http://7go.xyz:8080/8589436032/858943Gsts1/42907
+Sportv 2,http://7go.xyz:8080/8589436032/858943Gsts1/22706
+Sportv 2,http://7go.xyz:8080/8589436032/858943Gsts1/18660
+Sportv 3,http://7go.xyz:8080/8589436032/858943Gsts1/18679
+Sportv 3,http://7go.xyz:8080/8589436032/858943Gsts1/22707
+Sportv 3,http://7go.xyz:8080/8589436032/858943Gsts1/18661
+
+SPORT TV 1,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1483
+SPORT TV 2,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1486
+SPORT TV 3,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1489
+SPORT TV 4,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1492
+SPORT TV 5,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1495
+SPORT TV 6,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/281487
+
+SPORT TV 1 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36979
+SPORT TV 2 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36980
+SPORT TV 3 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36981
+SPORT TV 4 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36982
+SPORT TV 5 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36983
+SPORT TV 1 4k,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37016
+SPORT TV 2 4K,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37017
+
+SPORT TV1 HD,http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/430
+SPORT TV2 HD,http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/431
+
+QA: beIN Sports Premium 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/109
+QA: beIN Sports Premium 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280145
+QA: beIN Sports Premium 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280249
+QA: beIN Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/100
+QA: beIN Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/101
+QA: beIN Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/102
+QA: beIN Sports 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/103
+QA: beIN Sports 5,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/104
+QA: beIN Sports 6,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/105
+QA: beIN Sports 7,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/106
+QA: beIN Sports English 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/110
+QA: beIN Sports English 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/111
+QA: beIN Sports English 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/267769
+QA: beIN Sports Max 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296991
+QA: beIN Sports Max 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/199001
+QA: beIN Sports Max 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/13813
+QA: beIN Sports Max 8,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298192
+QA: beIN Sports Max 9,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/13816
+QA: beIN Sports News,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1266
+QA: beIN Sports Xtra 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/290037
+QA: beIN Sports Xtra 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/283294
+AE: Abu Dhabi Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1296
+AE: Abu Dhabi Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1295
+AE: Abu Dhabi Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11023
+AE: Abu Dhabi Sports Premium 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296836
+AE: Abu Dhabi Sports Premium 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296835
+AE: Dubai Sports,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/22058
+AE: Dubai Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/43778
+AE: Dubai Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/21998
+FR: beIN Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/144
+FR: beIN Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/145
+FR: beIN Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146
+FR: beIN Sports Max 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3599
+FR: beIN Sports Max 5,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6083
+FR: beIN Sports Max 6,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4368
+FR: beIN Sports Max 7,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4369
+FR: beIN Sports Max 8,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4370
+FR: beIN Sports Max 9,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4371
+FR: beIN Sports Max 10,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6088
+TR: beIN Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1735
+TR: beIN Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1737
+TR: beIN Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1739
+TR: beIN Sports 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7450
+TR: beIN Sports Haber,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7448
+TR: beIN Sports Max 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8224
+TR: beIN Sports Max 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16878
+
 🇭🇰香港,#genre#
-鳳凰資訊,http://yydns.us59.aihost9.top/ddns.php?id=183
-鳳凰衛視,http://yydns.us59.aihost9.top/ddns.php?id=182
-鳳凰香港,http://yydns.us59.aihost9.top/ddns.php?id=184
-翡翠台,http://yydns.us59.aihost9.top/ddns.php?id=2
-明珠台,http://yydns.us59.aihost9.top/ddns.php?id=3
-J2,http://yydns.us59.aihost9.top/ddns.php?id=5
-無綫新聞,http://yydns.us59.aihost9.top/ddns.php?id=13
-無綫財經,http://yydns.us59.aihost9.top/ddns.php?id=14
-HOY TV,http://yydns.us59.aihost9.top/ddns.php?id=1
-HOY TV,http://yydns.us59.aihost9.top/ddns.php?id=15
-有線財經,http://yydns.us59.aihost9.top/ddns.php?id=16
-有線18台,http://yydns.us59.aihost9.top/ddns.php?id=17
-有線603,http://yydns.us59.aihost9.top/ddns.php?id=18
-RTHK31,http://yydns.us59.aihost9.top/ddns.php?id=29
-RTHK32,http://yydns.us59.aihost9.top/ddns.php?id=30
-ViuTV,http://yydns.us59.aihost9.top/ddns.php?id=19
-ViuTV6,http://yydns.us59.aihost9.top/ddns.php?id=20
-美亞電影,http://yydns.us59.aihost9.top/ddns.php?id=9
-TVB娛樂台,http://yydns.us59.aihost9.top/ddns.php?id=10
-TVB星河台,http://yydns.us59.aihost9.top/ddns.php?id=4
-TVB功夫台,http://yydns.us59.aihost9.top/ddns.php?id=12
-Now星影台,http://yydns.us59.aihost9.top/ddns.php?id=186
-Now爆谷台,http://yydns.us59.aihost9.top/ddns.php?id=187
-TVB亞剧台,http://yydns.us59.aihost9.top/ddns.php?id=7
-TVB華语台,http://yydns.us59.aihost9.top/ddns.php?id=8
-TVB千禧台,http://yydns.us59.aihost9.top/ddns.php?id=11
-TVB千禧台,http://yydns.us59.aihost9.top/ddns.php?id=198
-TVB戲曲台,http://yydns.us59.aihost9.top/ddns.php?id=200
-粤语片台,http://yydns.us59.aihost9.top/ddns.php?id=6
-Now新聞台,http://yydns.us59.aihost9.top/ddns.php?id=21
-Now體育台,http://yydns.us59.aihost9.top/ddns.php?id=22
-Now財經台,http://yydns.us59.aihost9.top/ddns.php?id=23
-Now直播台,http://yydns.us59.aihost9.top/ddns.php?id=27
-NowTV,http://yydns.us59.aihost9.top/ddns.php?id=28
-
-RTHK31,mitv://generationnexxxt.com:19806/46b5d17a4a76433fa3c8844ea592f1a4
-RTHK32,mitv://generationnexxxt.com:19806/bf27a990692d464287ecbc83a985d4e8
-HOY TV,mitv://generationnexxxt.com:19806/66ae283536404e0fa8b242fdfc01fd6f
-﻿翡翠台(備),mitv://generationnexxxt.com:19806/24dc638011e14bd89916a5c771d27672
-J2,mitv://generationnexxxt.com:19806/83317d6eb99b446d95e359d676f16f36
-無綫新聞(備),mitv://generationnexxxt.com:19806/7c5dd5c227254e398d53ca1f86859340
-無綫新聞,mitv://generationnexxxt.com:19806/358bb32c3a944c65bbdf4d0aac3c3e10
-無綫財經,mitv://generationnexxxt.com:19806/dca078faa0094424b00018fec18ef970
-ViuTV6,mitv://generationnexxxt.com:19806/58d17467e46d4423bdfcb646eb8ac2f3
-ViuTV,mitv://generationnexxxt.com:19806/e6f715d7d15f4aa2bd3c9257aa7b95e3
-鳳凰衛視,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰資訊,mitv://generationnexxxt.com:19806/f793ad2fdd964b9d9018896a85234600
-鳳凰香港,mitv://generationnexxxt.com:19806/cf189b4823b84184bae60783da5a1db3
-TVB星河台(粵),mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
-澳門Macau,mitv://generationnexxxt.com:19806/17321a79191445889d2a718375d76471
-澳門蓮花,mitv://generationnexxxt.com:19806/eb6f04e66d8d46b7ab11bc2d38cae6f9
-Now新聞台,mitv://generationnexxxt.com:19806/4ff1faddfb8a44829404ef27aaf0be35
-鳳凰電影,mitv://generationnexxxt.com:19806/2f87c74949904bf5b59b0090ea24a86b
-HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-TVB戲曲台,mitv://generationnexxxt.com:19806/64e1e6030000081f743f926825ac558c
-TVB娛樂台,mitv://generationnexxxt.com:19806/86fe6741d7da4c59919680e5d9857450
-翡翠台,mitv://generationnexxxt.com:19806/220b49a6000a434b9ee6771a35c14f67
-TVB千禧台,mitv://generationnexxxt.com:19806/82237250e487405d87030dd69457ddd8
-Thrill,mitv://generationnexxxt.com:19806/46537ab6e0be4f6384a750a856a1c045
-明珠台,mitv://generationnexxxt.com:19806/dbd02adcc2f54d85be7fff6f5c465b85
-國際財經,mitv://generationnexxxt.com:19806/f09ac5d51854497593cf989f16dd97fc
-有線18台,mitv://generationnexxxt.com:19806/3fb4bcf94b124e15961f49dcde926da9
-Now財經台,mitv://generationnexxxt.com:19806/b9f91cc1cb2543b0a4da323effe673e8
-美亞電影,mitv://generationnexxxt.com:19806/6eac4ae393a34f7ca2da2a053a558ebb
-Hands Up,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
-TVB粵語台,mitv://generationnexxxt.com:19806/887df0bf0d8d492d95b9c2fdf6cc9694
-TVB亞劇台,mitv://generationnexxxt.com:19806/ddd1f7ef6ccc486eb861a1215115d7d2
-TVB功夫台,mitv://generationnexxxt.com:19806/4c3f27dd7eb44be289557ccfb7c410b3
-HOY資訊台,mitv://generationnexxxt.com:19806/415368ba86e14ffcbfb8eb75955909b6
-黃金翡翠台,mitv://generationnexxxt.com:19806/22725782a38d437cb56a92eede2d8c3b
-
 鳳凰資訊,mitv://135.148.104.228:19806/f793ad2fdd964b9d9018896a85234600
 鳳凰衛視,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
 鳳凰香港,mitv://135.148.104.228:19806/cf189b4823b84184bae60783da5a1db3
 RTHK31,mitv://135.148.104.228:19806/46b5d17a4a76433fa3c8844ea592f1a4
 RTHK32,mitv://135.148.104.228:19806/bf27a990692d464287ecbc83a985d4e8
-HOY TV,mitv://135.148.104.228:19806/66ae283536404e0fa8b242fdfc01fd6f
+HOYTV,mitv://135.148.104.228:19806/66ae283536404e0fa8b242fdfc01fd6f
 ﻿翡翠台(備),mitv://135.148.104.228:19806/24dc638011e14bd89916a5c771d27672
 J2,mitv://135.148.104.228:19806/83317d6eb99b446d95e359d676f16f36
 無綫新聞(備),mitv://135.148.104.228:19806/7c5dd5c227254e398d53ca1f86859340
@@ -726,6 +778,7 @@ HOY資訊台,mitv://135.148.104.228:19806/415368ba86e14ffcbfb8eb75955909b6
 鳳凰資訊,http://qspyx.7766.org:9999/tsfile/live/1105_1.m3u8
 鳳凰資訊,http://www.pr666.site:4040/udp/239.255.30.70:8231
 鳳凰資訊,http://e2.woc.iiiya.cn:8888/udp/239.61.5.213:1025
+鳳凰資訊,http://120.8.135.86:10010/hls/100/index.m3u8
 
 鳳凰衛視,http://113.117.74.12:8081/hls/37/index.m3u8
 鳳凰衛視,http://113.64.147.60:8081/hls/37/index.m3u8
@@ -754,26 +807,61 @@ HOY資訊台,mitv://135.148.104.228:19806/415368ba86e14ffcbfb8eb75955909b6
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://113.64.147.60:8081/hls/67/index.m3u8
-翡翠台,https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 明珠台,http://113.117.74.12:8081/hls/26/index.m3u8
-明珠台,https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
+
 TVB星河台,http://113.117.74.12:8081/hls/135/index.m3u8
 TVB星河台,http://113.64.147.60:8081/hls/135/index.m3u8
 
+TVB星河台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+TVB娛樂台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
+TVB娛樂台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+明珠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+
+明珠台,https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
+翡翠台,https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+翡翠台,https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+明珠台,https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
+無綫新聞,https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&token=c0vzuc7wqkzk
+無綫財經,https://dispatchnew.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&token=c0vzuc7wqkzk
+無綫財經,http://pl.laiyin.xyz/live/12.m3u8?auth_key=1691841680-0-0-162471992f5e513f2c31583d16cc2ae1
+HOYTV,https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
+HOY資訊台,https://dispatchnew.ulivetv.net/v/live/ccns0cgwuf9c.m3u8?stream_id=ccns0cgwuf9c&token=c0vzuc7wqkzk
+J2,https://dispatchnew.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&token=c0vzuc7wqkzk
+ViuTV,https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&token=c0vzuc7wqkzk
+ViuTV6,https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&token=c0vzuc7wqkzk
 ViuTV,https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&token=c0vzuc7wqkzk
 ViuTV,https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&token=c0vzuc7wqkzk
 RTHK31,https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
 RTHK32,https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-RTHK34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 HOYTV,https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
 HOY資訊台,https://dispatchnew.ulivetv.net/v/live/ccns0cgwuf9c.m3u8?stream_id=ccns0cgwuf9c&token=c0vzuc7wqkzk
 國際財經,https://dispatchnew.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&token=c0vzuc7wqkzk
-無綫財經,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 無綫財經,https://dispatchnew.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&token=c0vzuc7wqkzk
+
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+RTHK34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+無綫財經,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
+J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
+ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131
+無綫財經,http://107.167.12.58:27347/livehttpplay?channel_id=20121
+ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
+ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
+無綫新聞,http://107.167.12.58:27347/livehttpplay?channel_id=20123
+星空衛視,http://107.167.12.58:27347/livehttpplay?channel_id=20126
+
+無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -805,107 +893,6 @@ HOY資訊台,https://dispatchnew.ulivetv.net/v/live/ccns0cgwuf9c.m3u8?stream_id=
 澳視体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 
 🇹🇼台灣,#genre#
-TVBS HD,http://yydns.us59.aihost9.top/ddns.php?id=140
-TVBS新聞,http://yydns.us59.aihost9.top/ddns.php?id=139
-中天新聞,http://yydns.us59.aihost9.top/ddns.php?id=141
-中天新聞2,http://yydns.us59.aihost9.top/ddns.php?id=142
-中視新聞,http://yydns.us59.aihost9.top/ddns.php?id=143
-民視新聞,http://yydns.us59.aihost9.top/ddns.php?id=144
-東森新聞,http://yydns.us59.aihost9.top/ddns.php?id=145
-東森財經,http://yydns.us59.aihost9.top/ddns.php?id=146
-寰宇新聞,http://yydns.us59.aihost9.top/ddns.php?id=147
-台視新聞,http://yydns.us59.aihost9.top/ddns.php?id=148
-壹新聞台,http://yydns.us59.aihost9.top/ddns.php?id=149
-三立新聞,http://yydns.us59.aihost9.top/ddns.php?id=151
-镜新聞台,http://yydns.us59.aihost9.top/ddns.php?id=152
-華視新聞,http://yydns.us59.aihost9.top/ddns.php?id=153
-非凡新聞,http://yydns.us59.aihost9.top/ddns.php?id=154
-年代新聞,http://yydns.us59.aihost9.top/ddns.php?id=155
-寰宇台湾,http://yydns.us59.aihost9.top/ddns.php?id=158
-中視,http://yydns.us59.aihost9.top/ddns.php?id=35
-民視,http://yydns.us59.aihost9.top/ddns.php?id=36
-華視,http://yydns.us59.aihost9.top/ddns.php?id=38
-公視,http://yydns.us59.aihost9.top/ddns.php?id=39
-SKYNEWS,http://yydns.us59.aihost9.top/ddns.php?id=150
-ABCNEWS,http://yydns.us59.aihost9.top/ddns.php?id=156
-CBSNews,http://yydns.us59.aihost9.top/ddns.php?id=157
-
-HBO,http://yydns.us59.aihost9.top/ddns.php?id=96
-HBO原創,http://yydns.us59.aihost9.top/ddns.php?id=97
-HBO強檔,http://yydns.us59.aihost9.top/ddns.php?id=98
-HBO家庭,http://yydns.us59.aihost9.top/ddns.php?id=99
-好莱坞電影,http://yydns.us59.aihost9.top/ddns.php?id=100
-CINEMAX,http://yydns.us59.aihost9.top/ddns.php?id=101
-AXN,http://yydns.us59.aihost9.top/ddns.php?id=102
-緯來電影,http://yydns.us59.aihost9.top/ddns.php?id=103
-東森電影,http://yydns.us59.aihost9.top/ddns.php?id=104
-東森洋片,http://yydns.us59.aihost9.top/ddns.php?id=105
-東森戲劇,http://yydns.us59.aihost9.top/ddns.php?id=106
-龍華洋片,http://yydns.us59.aihost9.top/ddns.php?id=107
-龍祥时代,http://yydns.us59.aihost9.top/ddns.php?id=108
-衛視中文,http://yydns.us59.aihost9.top/ddns.php?id=109
-天映频道,http://yydns.us59.aihost9.top/ddns.php?id=110
-天映经典,http://yydns.us59.aihost9.top/ddns.php?id=111
-美亞電影,http://yydns.us59.aihost9.top/ddns.php?id=113
-星衛電影,http://yydns.us59.aihost9.top/ddns.php?id=112
-衛視電影,http://yydns.us59.aihost9.top/ddns.php?id=114
-爱尔达影剧,http://yydns.us59.aihost9.top/ddns.php?id=57
-WBTV華纳影視,http://yydns.us59.aihost9.top/ddns.php?id=119
-Thrill恐怖台,http://yydns.us59.aihost9.top/ddns.php?id=121
-
-TVBS HD,mitv://generationnexxxt.com:19806/f953c331e4b342a99a7641c47b1dee7d
-TVBS新聞,mitv://generationnexxxt.com:19806/02856d3c65964deb8276e7adc3281fc3
-壹新聞台,mitv://generationnexxxt.com:19806/c4815d36091444f4b75aa85a2d8e301f
-年代新聞,mitv://generationnexxxt.com:19806/34f11ed9e7a444aaa0bd1dd00416dafb
-東森新聞,mitv://generationnexxxt.com:19806/a9b20866a39f45cbafacba9a002ee334
-中天新聞,mitv://generationnexxxt.com:19806/dd4c2ce1c791486caac5b9014c08793e
-民視新聞,mitv://generationnexxxt.com:19806/122c3f89827b4713bca5a1cbd071624f
-三立新聞,mitv://generationnexxxt.com:19806/ff825aef42f04c589354d7d999b37792
-中視新聞,mitv://generationnexxxt.com:19806/4a6216b7a00f4b59ae53874ef0301696
-寰宇新聞,mitv://generationnexxxt.com:19806/7e0e534ede5e4405a05ca5e668cb5fb1
-華視新聞,mitv://generationnexxxt.com:19806/df1dd1276eb8474da3cd12334065f7dd
-台視新聞,mitv://generationnexxxt.com:19806/b15cfa00997b433185d8bb8fc49a9b58
-寰宇台灣,mitv://generationnexxxt.com:19806/17cea65bbdd4497587905e2f6a06240a
-台視財經,mitv://generationnexxxt.com:19806/614b9e5307774bb683a895391ca263d2
-NHK資訊,mitv://generationnexxxt.com:19806/417ab1c6a5c8434eb9f1cbef2c0f9f34
-東森財經,mitv://generationnexxxt.com:19806/0348927741f64a1ca8006a2ad6ad9631
-非凡新聞,mitv://generationnexxxt.com:19806/a900ce1aac5d489b88d221c7b3ca098e
-民視,mitv://generationnexxxt.com:19806/8b0e721cee984d389cef154c1b1c4ca9
-台視,mitv://generationnexxxt.com:19806/db1ae87e258f44af90cae52fda2d0c4c
-大愛,mitv://generationnexxxt.com:19806/36b6c78f2eff4d0f9c55a220482902d4
-中視,mitv://generationnexxxt.com:19806/a41333c68ce04195ac4ced4da1b4f700
-華視,mitv://generationnexxxt.com:19806/8702388e8a1a44b8a63e02da1ecc6be9
-公視,mitv://generationnexxxt.com:19806/156a8688b13b4c8bb015773a729b7687
-台視(備),mitv://generationnexxxt.com:19806/6e6576428746434cb4ebdecf54e0c190
-大愛(備),mitv://generationnexxxt.com:19806/aa86f2f0554c4b429f4b96fafd1394cb
-中視(備),mitv://generationnexxxt.com:19806/981d81c2f92640599751d03ccddb52ff
-華視(備),mitv://generationnexxxt.com:19806/6722c2a635cf4868a6aa70cc116b5760
-東森新聞(備),mitv://generationnexxxt.com:19806/9b5797a9a0d24d8cad7c105a78371fc8
-鏡新聞台,mitv://generationnexxxt.com:19806/3a5d7702e09f400198caac13eccb0028
-美亞電影,mitv://generationnexxxt.com:19806/28cd5c4044e84ce49d39f840eddf81b4
-龍華電影,mitv://generationnexxxt.com:19806/2fe833794b094ebc9f100639247cb8e4
-星衛電影,mitv://generationnexxxt.com:19806/a0b9d3e7fa5c4cc0b5ddd4a4c66ae0f1
-靖天映畫,mitv://generationnexxxt.com:19806/8cfc5fdd099b4e3296408656b6430024
-靖天電影,mitv://generationnexxxt.com:19806/0428a6f975264d7baeaea6e13019aaea
-WARNER TV,mitv://generationnexxxt.com:19806/c9a0f1268c1941debe359c3183bd2a2b
-Star Movies HD,mitv://generationnexxxt.com:19806/3785278b99584a28b6e00c2062742a55
-AMC最愛電影,mitv://generationnexxxt.com:19806/6db6cb97aa22491e83602e6a2104141f
-HBO,mitv://generationnexxxt.com:19806/4919b215f3c640218f64691304797254
-HBO強檔,mitv://generationnexxxt.com:19806/f6770548f01943068135d39c011073e1
-HBO原創,mitv://generationnexxxt.com:19806/8407e2cb9b194f379f23af0b40148f93
-HBO家庭,mitv://generationnexxxt.com:19806/7bca5155f8a44196ba9fe323990a7347
-CatchPlay電影,mitv://generationnexxxt.com:19806/860efac5532f42a09e2ab286acc2fb11
-CinemaWorld,mitv://generationnexxxt.com:19806/7477c2f2247c470ab03e34d744b5c871
-壹電影台,mitv://generationnexxxt.com:19806/d61a36d1794b4ed7b7fe7903d0edc111
-衛視電影,mitv://generationnexxxt.com:19806/109cdc4e19704dd5848d2de5bdda724b
-東森電影,mitv://generationnexxxt.com:19806/c74f3d648c094225b04a3358e42f21d5
-緯來電影,mitv://generationnexxxt.com:19806/0f1e0b6783254c1fb59d91bfd87d1a95
-龍祥電影,mitv://generationnexxxt.com:19806/d4d97e2feb1c4c09858cbf5499104c59
-東森洋片,mitv://generationnexxxt.com:19806/da16c4d3c8834073b3f56dc7e945e98f
-AXN,mitv://generationnexxxt.com:19806/358b315d8cdf4e6184880329553dc4e0
-好萊塢電影,mitv://generationnexxxt.com:19806/79ce80d4c9f849a09b0cce6f97b30f33
-CINEMAX,mitv://generationnexxxt.com:19806/14a92c2387ac44ebaaee6c7dab8bb85b
-
 TVBS HD,mitv://135.148.104.228:19806/f953c331e4b342a99a7641c47b1dee7d
 TVBS新聞,mitv://135.148.104.228:19806/02856d3c65964deb8276e7adc3281fc3
 壹新聞台,mitv://135.148.104.228:19806/c4815d36091444f4b75aa85a2d8e301f
@@ -982,11 +969,17 @@ ELEVEN2,https://fsv4.yj011.net/sat/tv741.flv
 台視,https://epg.pw/stream/d683ec1b74bb3cac71e6c52bd56e9e0bc2ce256500de142e9ad3f8c63c680cea.m3u8
 中視,https://epg.pw/stream/5c00445bca9aaeefcb38ce5a1227e06ac3d420a57a804161ae6f95eaf4e825e9.m3u8
 中視,https://epg.pw/stream/346a2c128979e64cb392ae58a87ca091f9086a97c228d815ab51c6620500a0e4.m3u8
+
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
 東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+中天亞洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
+東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
+天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
+
 東森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
 
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
@@ -1061,6 +1054,10 @@ HBO POP HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
 HBO Signature,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10630
 HBO Signature,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10122
 
+探索频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571210&extension=ts
+探索亞洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
+中天亞洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1068,207 +1065,7 @@ HBO Signature,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10122
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
-🇹🇼全球,#genre#
-鳳凰資訊,http://yydns.us59.aihost9.top/ddns.php?id=183
-鳳凰衛視,http://yydns.us59.aihost9.top/ddns.php?id=182
-鳳凰香港,http://yydns.us59.aihost9.top/ddns.php?id=184
-翡翠台,http://yydns.us59.aihost9.top/ddns.php?id=2
-明珠台,http://yydns.us59.aihost9.top/ddns.php?id=3
-J2,http://yydns.us59.aihost9.top/ddns.php?id=5
-無綫新聞,http://yydns.us59.aihost9.top/ddns.php?id=13
-無綫財經,http://yydns.us59.aihost9.top/ddns.php?id=14
-HOY TV,http://yydns.us59.aihost9.top/ddns.php?id=1
-HOY TV,http://yydns.us59.aihost9.top/ddns.php?id=15
-有線財經,http://yydns.us59.aihost9.top/ddns.php?id=16
-有線18台,http://yydns.us59.aihost9.top/ddns.php?id=17
-有線603,http://yydns.us59.aihost9.top/ddns.php?id=18
-RTHK31,http://yydns.us59.aihost9.top/ddns.php?id=29
-RTHK32,http://yydns.us59.aihost9.top/ddns.php?id=30
-ViuTV,http://yydns.us59.aihost9.top/ddns.php?id=19
-ViuTV6,http://yydns.us59.aihost9.top/ddns.php?id=20
-美亞電影,http://yydns.us59.aihost9.top/ddns.php?id=9
-TVB娛樂台,http://yydns.us59.aihost9.top/ddns.php?id=10
-TVB星河台,http://yydns.us59.aihost9.top/ddns.php?id=4
-TVB功夫台,http://yydns.us59.aihost9.top/ddns.php?id=12
-Now星影台,http://yydns.us59.aihost9.top/ddns.php?id=186
-Now爆谷台,http://yydns.us59.aihost9.top/ddns.php?id=187
-TVB亞剧台,http://yydns.us59.aihost9.top/ddns.php?id=7
-TVB華语台,http://yydns.us59.aihost9.top/ddns.php?id=8
-TVB千禧台,http://yydns.us59.aihost9.top/ddns.php?id=11
-TVB千禧台,http://yydns.us59.aihost9.top/ddns.php?id=198
-TVB戲曲台,http://yydns.us59.aihost9.top/ddns.php?id=200
-粤语片台,http://yydns.us59.aihost9.top/ddns.php?id=6
-Now新聞台,http://yydns.us59.aihost9.top/ddns.php?id=21
-Now體育台,http://yydns.us59.aihost9.top/ddns.php?id=22
-Now財經台,http://yydns.us59.aihost9.top/ddns.php?id=23
-Now直播台,http://yydns.us59.aihost9.top/ddns.php?id=27
-NowTV,http://yydns.us59.aihost9.top/ddns.php?id=28
-
-TVBS HD,http://yydns.us59.aihost9.top/ddns.php?id=140
-TVBS新聞,http://yydns.us59.aihost9.top/ddns.php?id=139
-中天新聞,http://yydns.us59.aihost9.top/ddns.php?id=141
-中天新聞2,http://yydns.us59.aihost9.top/ddns.php?id=142
-中視新聞,http://yydns.us59.aihost9.top/ddns.php?id=143
-民視新聞,http://yydns.us59.aihost9.top/ddns.php?id=144
-東森新聞,http://yydns.us59.aihost9.top/ddns.php?id=145
-東森財經,http://yydns.us59.aihost9.top/ddns.php?id=146
-寰宇新聞,http://yydns.us59.aihost9.top/ddns.php?id=147
-台視新聞,http://yydns.us59.aihost9.top/ddns.php?id=148
-壹新聞台,http://yydns.us59.aihost9.top/ddns.php?id=149
-三立新聞,http://yydns.us59.aihost9.top/ddns.php?id=151
-镜新聞台,http://yydns.us59.aihost9.top/ddns.php?id=152
-華視新聞,http://yydns.us59.aihost9.top/ddns.php?id=153
-非凡新聞,http://yydns.us59.aihost9.top/ddns.php?id=154
-年代新聞,http://yydns.us59.aihost9.top/ddns.php?id=155
-寰宇台湾,http://yydns.us59.aihost9.top/ddns.php?id=158
-中視,http://yydns.us59.aihost9.top/ddns.php?id=35
-民視,http://yydns.us59.aihost9.top/ddns.php?id=36
-華視,http://yydns.us59.aihost9.top/ddns.php?id=38
-公視,http://yydns.us59.aihost9.top/ddns.php?id=39
-SKYNEWS,http://yydns.us59.aihost9.top/ddns.php?id=150
-ABCNEWS,http://yydns.us59.aihost9.top/ddns.php?id=156
-CBSNews,http://yydns.us59.aihost9.top/ddns.php?id=157
-
-HBO,http://yydns.us59.aihost9.top/ddns.php?id=96
-HBO原創,http://yydns.us59.aihost9.top/ddns.php?id=97
-HBO強檔,http://yydns.us59.aihost9.top/ddns.php?id=98
-HBO家庭,http://yydns.us59.aihost9.top/ddns.php?id=99
-好莱坞電影,http://yydns.us59.aihost9.top/ddns.php?id=100
-CINEMAX,http://yydns.us59.aihost9.top/ddns.php?id=101
-AXN,http://yydns.us59.aihost9.top/ddns.php?id=102
-緯來電影,http://yydns.us59.aihost9.top/ddns.php?id=103
-東森電影,http://yydns.us59.aihost9.top/ddns.php?id=104
-東森洋片,http://yydns.us59.aihost9.top/ddns.php?id=105
-東森戲劇,http://yydns.us59.aihost9.top/ddns.php?id=106
-龍華洋片,http://yydns.us59.aihost9.top/ddns.php?id=107
-龍祥时代,http://yydns.us59.aihost9.top/ddns.php?id=108
-衛視中文,http://yydns.us59.aihost9.top/ddns.php?id=109
-天映频道,http://yydns.us59.aihost9.top/ddns.php?id=110
-天映经典,http://yydns.us59.aihost9.top/ddns.php?id=111
-美亞電影,http://yydns.us59.aihost9.top/ddns.php?id=113
-星衛電影,http://yydns.us59.aihost9.top/ddns.php?id=112
-衛視電影,http://yydns.us59.aihost9.top/ddns.php?id=114
-爱尔达影剧,http://yydns.us59.aihost9.top/ddns.php?id=57
-WBTV華纳影視,http://yydns.us59.aihost9.top/ddns.php?id=119
-Thrill恐怖台,http://yydns.us59.aihost9.top/ddns.php?id=121
-国家地理高清,http://yydns.us59.aihost9.top/ddns.php?id=124
-国家地理野生,http://yydns.us59.aihost9.top/ddns.php?id=125
-动物星球,http://yydns.us59.aihost9.top/ddns.php?id=126
-探索频道,http://yydns.us59.aihost9.top/ddns.php?id=127
-探索动力,http://yydns.us59.aihost9.top/ddns.php?id=128
-探索科学,http://yydns.us59.aihost9.top/ddns.php?id=129
-探索亞洲,http://yydns.us59.aihost9.top/ddns.php?id=130
-亞洲旅游台,http://yydns.us59.aihost9.top/ddns.php?id=131
-CI罪案侦缉,http://yydns.us59.aihost9.top/ddns.php?id=132
-
-公視3台,http://yydns.us59.aihost9.top/ddns.php?id=199
-TVBS歡樂,http://yydns.us59.aihost9.top/ddns.php?id=31
-中天娛樂,http://yydns.us59.aihost9.top/ddns.php?id=32
-中天综合,http://yydns.us59.aihost9.top/ddns.php?id=33
-中天亞洲,http://yydns.us59.aihost9.top/ddns.php?id=34
-八大第一,http://yydns.us59.aihost9.top/ddns.php?id=40
-八大综合,http://yydns.us59.aihost9.top/ddns.php?id=41
-八大戲劇,http://yydns.us59.aihost9.top/ddns.php?id=42
-八大精彩,http://yydns.us59.aihost9.top/ddns.php?id=43
-三立台湾,http://yydns.us59.aihost9.top/ddns.php?id=44
-民視第一,http://yydns.us59.aihost9.top/ddns.php?id=45
-民視第一,http://yydns.us59.aihost9.top/ddns.php?id=50
-民視第一,http://yydns.us59.aihost9.top/ddns.php?id=51
-民視台湾,http://yydns.us59.aihost9.top/ddns.php?id=37
-三立综合,http://yydns.us59.aihost9.top/ddns.php?id=46
-三立都会,http://yydns.us59.aihost9.top/ddns.php?id=26
-三立戲劇,http://yydns.us59.aihost9.top/ddns.php?id=47
-東森综合,http://yydns.us59.aihost9.top/ddns.php?id=48
-東森超視,http://yydns.us59.aihost9.top/ddns.php?id=49
-龍華偶像,http://yydns.us59.aihost9.top/ddns.php?id=52
-靖天国际,http://yydns.us59.aihost9.top/ddns.php?id=53
-緯來日本,http://yydns.us59.aihost9.top/ddns.php?id=54
-靖天卡通,http://yydns.us59.aihost9.top/ddns.php?id=55
-阿里郎,http://yydns.us59.aihost9.top/ddns.php?id=56
-緯來體育,http://yydns.us59.aihost9.top/ddns.php?id=58
-ELEVEN1,http://yydns.us59.aihost9.top/ddns.php?id=59
-ELEVEN2,http://yydns.us59.aihost9.top/ddns.php?id=60
-亞洲综艺,http://yydns.us59.aihost9.top/ddns.php?id=24
-HandsUP,http://yydns.us59.aihost9.top/ddns.php?id=25
-博斯运动1,http://yydns.us59.aihost9.top/ddns.php?id=61
-博斯运动2,http://yydns.us59.aihost9.top/ddns.php?id=62
-博斯高球1,http://yydns.us59.aihost9.top/ddns.php?id=63
-博斯高球2,http://yydns.us59.aihost9.top/ddns.php?id=64
-博斯网球,http://yydns.us59.aihost9.top/ddns.php?id=65
-
-astroAEC,http://yydns.us59.aihost9.top/ddns.php?id=175
-astro双星,http://yydns.us59.aihost9.top/ddns.php?id=176
-astro小太阳,http://yydns.us59.aihost9.top/ddns.php?id=177
-翡翠華丽台,http://yydns.us59.aihost9.top/ddns.php?id=178
-astroAOD511,http://yydns.us59.aihost9.top/ddns.php?id=179
-astro爱奇艺,http://yydns.us59.aihost9.top/ddns.php?id=180
-CP24,http://yydns.us59.aihost9.top/ddns.php?id=181
-SONYsports1,http://yydns.us59.aihost9.top/ddns.php?id=66
-SONYsports2,http://yydns.us59.aihost9.top/ddns.php?id=67
-SONYsports3,http://yydns.us59.aihost9.top/ddns.php?id=68
-SONYsports5,http://yydns.us59.aihost9.top/ddns.php?id=69
-Eurosports2,http://yydns.us59.aihost9.top/ddns.php?id=70
-Truepremierootball,http://yydns.us59.aihost9.top/ddns.php?id=71
-TSN1,http://yydns.us59.aihost9.top/ddns.php?id=72
-TSN2,http://yydns.us59.aihost9.top/ddns.php?id=73
-STV,http://yydns.us59.aihost9.top/ddns.php?id=74
-WWE,http://yydns.us59.aihost9.top/ddns.php?id=75
-NBATV,http://yydns.us59.aihost9.top/ddns.php?id=76
-Eurosports,http://yydns.us59.aihost9.top/ddns.php?id=77
-NBCGol,http://yydns.us59.aihost9.top/ddns.php?id=78
-BTSport1,http://yydns.us59.aihost9.top/ddns.php?id=79
-BTSport2,http://yydns.us59.aihost9.top/ddns.php?id=80
-BTSport3,http://yydns.us59.aihost9.top/ddns.php?id=81
-BTSport4,http://yydns.us59.aihost9.top/ddns.php?id=82
-astroArena,http://yydns.us59.aihost9.top/ddns.php?id=83
-astroCricket,http://yydns.us59.aihost9.top/ddns.php?id=84
-OXsports1,http://yydns.us59.aihost9.top/ddns.php?id=85
-OXsports2,http://yydns.us59.aihost9.top/ddns.php?id=86
-SPOTV,http://yydns.us59.aihost9.top/ddns.php?id=87
-LaligaTV,http://yydns.us59.aihost9.top/ddns.php?id=88
-博斯无限2,http://yydns.us59.aihost9.top/ddns.php?id=89
-ESPN,http://yydns.us59.aihost9.top/ddns.php?id=90
-ESPN2,http://yydns.us59.aihost9.top/ddns.php?id=91
-ESPNU,http://yydns.us59.aihost9.top/ddns.php?id=92
-ESPNNEWS,http://yydns.us59.aihost9.top/ddns.php?id=93
-SkySportsGol,http://yydns.us59.aihost9.top/ddns.php?id=94
-SkySportsMainEvent,http://yydns.us59.aihost9.top/ddns.php?id=95
-SONYPIX,http://yydns.us59.aihost9.top/ddns.php?id=115
-STARMOVIES,http://yydns.us59.aihost9.top/ddns.php?id=116
-BOO,http://yydns.us59.aihost9.top/ddns.php?id=117
-KIX格斗台,http://yydns.us59.aihost9.top/ddns.php?id=118
-One,http://yydns.us59.aihost9.top/ddns.php?id=120
-HitsMovie,http://yydns.us59.aihost9.top/ddns.php?id=122
-tvNMovie,http://yydns.us59.aihost9.top/ddns.php?id=123
-TLC旅游生活,http://yydns.us59.aihost9.top/ddns.php?id=133
-MTVLive,http://yydns.us59.aihost9.top/ddns.php?id=134
-BBCearth,http://yydns.us59.aihost9.top/ddns.php?id=135
-历史频道,http://yydns.us59.aihost9.top/ddns.php?id=136
-BBCliestyle,http://yydns.us59.aihost9.top/ddns.php?id=137
-HGTV,http://yydns.us59.aihost9.top/ddns.php?id=138
-rance24,http://yydns.us59.aihost9.top/ddns.php?id=159
-DWTV,http://yydns.us59.aihost9.top/ddns.php?id=160
-CNN,http://yydns.us59.aihost9.top/ddns.php?id=161
-CNBC,http://yydns.us59.aihost9.top/ddns.php?id=162
-BBCWorldNews,http://yydns.us59.aihost9.top/ddns.php?id=163
-Bloomberg,http://yydns.us59.aihost9.top/ddns.php?id=164
-CGTN,http://yydns.us59.aihost9.top/ddns.php?id=165
-AlJazeera,http://yydns.us59.aihost9.top/ddns.php?id=166
-RT,http://yydns.us59.aihost9.top/ddns.php?id=167
-NHKWorld,http://yydns.us59.aihost9.top/ddns.php?id=168
-OXNEWS,http://yydns.us59.aihost9.top/ddns.php?id=169
-華藏衛視,http://yydns.us59.aihost9.top/ddns.php?id=171
-NBCGol,http://yydns.us59.aihost9.top/ddns.php?id=172
-NBCGol,http://yydns.us59.aihost9.top/ddns.php?id=173
-OneGol,http://yydns.us59.aihost9.top/ddns.php?id=174
-嗯爱尔达體育1,http://yydns.us59.aihost9.top/ddns.php?id=188
-爱尔达體育2,http://yydns.us59.aihost9.top/ddns.php?id=189
-爱尔达體育3,http://yydns.us59.aihost9.top/ddns.php?id=190
-東森幼幼,http://yydns.us59.aihost9.top/ddns.php?id=191
-MUTVCLASSIC,http://yydns.us59.aihost9.top/ddns.php?id=192
-未知名,http://yydns.us59.aihost9.top/ddns.php?id=193
-SkySportsCricket,http://yydns.us59.aihost9.top/ddns.php?id=196
-
+🇺🇸全球,#genre#
 RTHK31,mitv://135.148.104.228:19806/46b5d17a4a76433fa3c8844ea592f1a4
 RTHK32,mitv://135.148.104.228:19806/bf27a990692d464287ecbc83a985d4e8
 HOY TV,mitv://135.148.104.228:19806/66ae283536404e0fa8b242fdfc01fd6f
@@ -1668,7 +1465,7 @@ Sky Sports Main Event,mitv://135.148.104.228:19806/d80cfc5272f14b4bb675b1c8644ad
 Sky Sports Cricket,mitv://135.148.104.228:19806/d342ec6589c24499b5f806408bea4ae8
 Sky Sports Action,mitv://135.148.104.228:19806/d627b2c21c264a13afa935d214060989
 
-🇹🇼全球加速,#genre#
+🇺🇸全球加速,#genre#
 鳳凰資訊,https://sc2022.stream-link.org/tv2306.php?id=h18
 鳳凰衛視,https://sc2022.stream-link.org/tv2306.php?id=h19
 鳳凰香港,https://sc2022.stream-link.org/tv2306.php?id=h20
@@ -1697,6 +1494,38 @@ TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
 北京體育,https://sc2022.stream-link.org/tv2306.php?id=e92
 中央新聞台,https://sc2022.stream-link.org/tv2306.php?id=h12
 
+翡翠台,http://223.17.122.142:9981/stream/channelid/1425740866?ticket=4d71ca20ea7d51f743d233b7ff06f442730b8528&profile=pass
+明珠台,http://223.17.122.142:9981/stream/channelid/1803382046?ticket=305785038c701d4404ab79c3adebdea975240c81&profile=pass
+明珠台,http://223.17.115.122:9981/stream/channelid/9?ticket=D0F1A769034B8A11FFA6A3B5A766BF68941EBA87
+J2,http://223.17.122.142:9981/stream/channelid/2082072924?ticket=988f0393442a8969bc55321243b839de6e792003&profile=pass
+J2,http://223.17.115.122:9981/stream/channelid/11?ticket=A9A7A05D3F617370646DB263FEB0F6DE42F9512D
+RTHK,http://223.17.115.122:9981/stream/channelid/15?ticket=0AC91AD17D717BB024E2CBD7D32EC45CE27EA772
+RTHK31,http://223.17.115.122:9981/stream/channelid/4?ticket=E6581FB07D93D5715F12BF6FD2A2CBAE5BE805AB
+RTHK32,http://223.17.115.122:9981/stream/channelid/7?ticket=8C3B357F44B1CA231326585FC22979FDC2F8A352
+無綫新聞,http://223.17.122.142:9981/stream/channelid/2051586642?ticket=573bd53607b7974a21b0abcf67330c1652227aec&profile=pass
+無綫新聞,http://223.17.115.122:9981/stream/channelid/8?ticket=4D8112FCECE3587CDD278F2E2B06CC6351869BE2
+無綫財經,http://223.17.122.142:9981/stream/channelid/1781676223?ticket=1951f24669548878a3a4af728097b23f5bf140da&profile=pass
+無綫財經,http://223.17.115.122:9981/stream/channelid/10?ticket=97465BF1C4C654EF2DAD73D438A95535404C9D8E
+國際財經,http://223.17.115.122:9981/stream/channelid/13?ticket=81DA52FAD91B3D90FD2FEA62EC0F9D8E47A57F80
+HOY資訊台,http://223.17.115.122:9981/stream/channelid/12?ticket=0FC132CAF15CAD4D39568D9E6845947275F9BB58
+HOYTV,http://223.17.115.122:9981/stream/channelid/14?ticket=3B77369FC3E79D7D5979DD13B089C965528AD673
+ViuTV,http://223.17.122.142:9981/stream/channelid/1336932033?ticket=396a4ed37d25aa2da01624e96e8b29e394594795&profile=pass
+ViuTV,http://223.17.115.122:9981/stream/channelid/1?ticket=2936C8C3B2839440534CAFBAC82E4B00B51A4F15
+ViuTV6,http://223.17.122.142:9981/stream/channelid/2134513294?ticket=7cbbea2728a5c8a05338e0bc43f42fb93419cac6&profile=pass
+ViuTV6,http://223.17.115.122:9981/stream/channelid/3?ticket=7F04E7A529BBA46F990F0AA0D51D7E6D309C1404
+
+翡翠台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
+翡翠台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153396&extension=ts&play_token=qd42npLkoB
+tvbj1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
+TVBe,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
+無綫新聞,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+TVB1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
+TVB千禧台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
+TVB娛樂台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
+TVB星河台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
+
+TVBS亞洲,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
+
 東森新聞,https://sc2022.stream-link.org/tv2306.php?id=t01
 東森財經,https://sc2022.stream-link.org/tv2306.php?id=t02
 中天新聞,https://sc2022.stream-link.org/tv2306.php?id=t03
@@ -1714,14 +1543,14 @@ TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
 TVBS新聞,https://sc2022.stream-link.org/tv2306.php?id=t14
 TVBS財經,https://sc2022.stream-link.org/tv2306.php?id=t15
 TVBS歡樂台,https://sc2022.stream-link.org/tv2306.php?id=t16
-中天亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t17
-TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
+中天亞洲,https://sc2022.stream-link.org/tv2306.php?id=t17
+TVBS亞洲,https://sc2022.stream-link.org/tv2306.php?id=t18
 民視HD,https://sc2022.stream-link.org/tv2306.php?id=t19
-民視第一台,https://sc2022.stream-link.org/tv2306.php?id=t20
-民視台灣台,https://sc2022.stream-link.org/tv2306.php?id=t21
-民視綜藝台,https://sc2022.stream-link.org/tv2306.php?id=t22
-民視影劇台,https://sc2022.stream-link.org/tv2306.php?id=t23
-民視旅遊台,https://sc2022.stream-link.org/tv2306.php?id=t24
+民視第一,https://sc2022.stream-link.org/tv2306.php?id=t20
+民視台灣,https://sc2022.stream-link.org/tv2306.php?id=t21
+民視綜藝,https://sc2022.stream-link.org/tv2306.php?id=t22
+民視影劇,https://sc2022.stream-link.org/tv2306.php?id=t23
+民視旅遊,https://sc2022.stream-link.org/tv2306.php?id=t24
 三立台灣,https://sc2022.stream-link.org/tv2306.php?id=t25
 三立都會,https://sc2022.stream-link.org/tv2306.php?id=t26
 天才衝衝衝,https://sc2022.stream-link.org/tv2306.php?id=t27
@@ -1759,7 +1588,16 @@ Lego,https://sc2022.stream-link.org/tv2306.php?id=e24
 測試05,https://sc2022.stream-link.org/tv2306.php?id=c05
 測試06,https://sc2022.stream-link.org/tv2306.php?id=c06
 
-🇹🇼日本加速,#genre#
+HBO,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
+HBO Mundi,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10620
+HBO Mundi,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10294
+HBO Signature,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10630
+HBO Signature,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10122
+HBO PLUS HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10623
+HBO POP HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10626
+HBO POP HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
+
+🇯🇵日本加速,#genre#
 BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:c&t=0d6938cb3dcf4b79848bc1753a59daf1
 GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -2077,6 +1915,13 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 CNN,http://50.7.238.98:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 CNN,mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5
+NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 HBO EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3796
 HBO WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
@@ -6009,6 +5854,313 @@ M2音樂,http://live.m2.tv/hls3/stream.m3u8
 舞蹈11,https://mvvideoshare2.meitudata.com/5e634cf2141a92hpybf7m04115_H264_4_384eeaf91555b.mp4
 舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
 
+🔞欧美版松视,#genre#
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+
+欧美 Woman (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418707
+欧美 Threesome (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418706
+欧美 Teen (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418705
+欧美 Russian (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418704
+欧美 Rough (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418703
+欧美 POV (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418702
+欧美 Pornstar (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418701
+欧美 MILF (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418700
+欧美 Live Cams (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418699
+欧美 Lesbian (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418698
+欧美 Latina (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418697
+欧美 Interracial (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418696
+欧美 Hardcore (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418695
+欧美 Gay (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418694
+欧美 Gangbang (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418693
+欧美 Fetish (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418692
+欧美 Cuckold (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418691
+欧美 Compilation (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418690
+欧美 Brunette (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418689
+欧美 Blowjob (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418688
+欧美 Blonde (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418687
+欧美 Big Tits (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418686
+欧美 Big Dick (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418685
+欧美 Big Ass (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418684
+欧美 Asian (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418683
+欧美 Anal (720p),http://enzogo.ddns.net:8000/Francescfrangiusep/VUs2kEGuBs/418682
+鸭店台,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12144/index.m3u8
+
+欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
+欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8fluxuslust.m3u8
+欧美版K频道,http://cdn.adultiptv.net/threesome.m3u8
+欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8
+
+欧美版惊艳,http://live.redtraffic.xyz:80/cuckold.m3u8
+欧美版惊艳,http://line.premiumpowers.net:80/Manuel/1234567/777837
+欧美版惊艳,http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+欧美版惊艳,http://live.redtraffic.xyz/cuckold.m3u8
+欧美版惊艳,http://cdn.adultiptv.net/cuckold.m3u8
+
+欧美版松視1,http://live.redtraffic.xyz:80/interracial.m3u8
+欧美版松視1,http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+欧美版松視1,http://live.redtraffic.xyz/interracial.m3u8
+欧美版松視1,http://cdn.adultiptv.net/interracial.m3u8
+
+欧美媒松視2,http://live.redtraffic.xyz:80/fetish.m3u8
+欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8
+欧美媒松視2,http://cdn.adultiptv.net/fetish.m3u8
+欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8fluxuslust.m3u8
+
+欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8fluxuslust.m3u8
+欧美版松視3,http://live.redtraffic.xyz:80/bigdick.m3u8
+欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8
+欧美版松視3,http://cdn.adultiptv.net/bigdick.m3u8
+欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+
+欧美版松視4,http://live.redtraffic.xyz/latina.m3u8fluxuslust.m3u8
+欧美版松視4,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+欧美版松視4,http://live.redtraffic.xyz/latina.m3u8
+欧美版松視4,http://cdn.adultiptv.net/latina.m3u8
+
+欧美版一本道,http://live.redtraffic.xyz:80/bigass.m3u8
+欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8
+欧美版一本道,http://cdn.adultiptv.net/bigass.m3u8
+欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8fluxuslust.m3u8
+
+欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8fluxuslust.m3u8
+欧美版二本道,http://live.redtraffic.xyz:80/blowjob.m3u8
+欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8
+欧美版二本道,http://cdn.adultiptv.net/blowjob.m3u8
+欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+
+欧美版粉红,http://live.redtraffic.xyz:80/teen.m3u8
+欧美版粉红,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+欧美版粉红,http://live.redtraffic.xyz/teen.m3u8
+欧美版粉红,http://cdn.adultiptv.net/teen.m3u8
+
+欧美版香蕉,http://live.redtraffic.xyz:80/milf.m3u8
+欧美版香蕉,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+欧美版香蕉,http://live.redtraffic.xyz/milf.m3u8
+欧美版香蕉,http://cdn.adultiptv.net/milf.m3u8
+
+欧美版玩美,http://live.redtraffic.xyz:80/pov.m3u8
+欧美版玩美,http://live.redtraffic.xyz/pov.m3u8fluxuslust.m3u8
+欧美版玩美,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+欧美版玩美,http://live.redtraffic.xyz/pov.m3u8
+欧美版玩美,http://cdn.adultiptv.net/pov.m3u8
+
+欧美版HOT,http://live.redtraffic.xyz:80/hardcore.m3u8
+欧美版HOT,http://play.iptvxxx.net/hardcore.m3u8
+欧美版HOT,http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+欧美版HOT,http://cdn.adultiptv.net/hardcore.m3u8
+欧美版HOT,http://live.redtraffic.xyz/hardcore.m3u8
+
+欧美版彩虹,http://live.redtraffic.xyz:80/bigtits.m3u8
+欧美版彩虹,http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+欧美版彩虹,http://live.redtraffic.xyz/bigtits.m3u8
+
+欧美版潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8
+欧美版潘多拉,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+欧美版潘多拉,http://live.redtraffic.xyz/pornstar.m3u8
+欧美版潘多拉,http://cdn.adultiptv.net/pornstar.m3u8
+
+欧美版现场,http://cdn.adultiptv.net/livecams.m3u8
+欧美版现场,http://live.redtraffic.xyz/livecams.m3u8
+
+欧美版女同,http://cdn.adultiptv.net/lesbian.m3u8
+欧美版女同,http://live.redtraffic.xyz/lesbian.m3u8
+欧美版女同,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+欧美版女同,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
+
+欧美版大屌,http://cdn.adultiptv.net/rough.m3u8
+欧美版大屌,http://live.redtraffic.xyz/rough.m3u8
+
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
+Gangbang,http://play.iptvxxx.net/gangbang.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Compilation,http://live.redtraffic.xyz/compilation.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Brunette,http://live.redtraffic.xyz/brunette.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Blonde,http://live.redtraffic.xyz/blonde.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8
+Gay,http://play.iptvxxx.net/gay.m3u8
+Anal,http://live.redtraffic.xyz/anal.m3u8
+Anal,http://cdn.adultiptv.net/anal.m3u8
+Asian,http://cdn.adultiptv.net/asian.m3u8
+Asian,http://live.redtraffic.xyz/asian.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8
+Russian,http://live.redtraffic.xyz:80/russian.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+
+AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
+AdultIPTV.net Gangbang,http://live.redtraffic.net/gangbang.m3u8
+AdultIPTV.net Threesome,http://live.redtraffic.xyz/threesome.m3u8
+AdultIPTV.net Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
+AdultIPTV.net Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+AdultIPTV.net Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+AdultIPTV.net Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+
+Ailee Anne,https://video2.51daao.com/btt1/2021/08/20210816/vCyieRDH/index.m3u8
+Kenzie Taylor,https://video2.51daao.com/btt1/2021/07/20210708/PXTnSYTI/index.m3u8
+MyFamilyPies,https://video2.51daao.com/btt1/2021/11/20211104/BfYZafVm/index.m3u8
+金秘书,https://video2.51daao.com/btt1/2021/03/20210319/ACLRy6mQ/index.m3u8
+Pies-Skye Blue,https://video2.51daao.com/btt1/2021/09/20210930/8ka3Bboj/index.m3u8
+欧美_2,https://vip1.fhbf9.com/20210708/os7ueau2/index.m3u8
+欧美_3,https://vip1.fhbf9.com/20210708/Q9bDQ56y/index.m3u8
+欧美_4,https://vip1.fhbf9.com/20210708/lPQa70iL/index.m3u8
+欧美_5,https://vip1.fhbf9.com/20210708/ApZbg6Ny/index.m3u8
+欧美_6,https://vip1.fhbf9.com/20210708/qmvCsbnH/index.m3u8
+欧美_7,https://vip1.fhbf9.com/20210708/eERRb8XC/index.m3u8
+欧美_8,https://vip1.fhbf9.com/20210708/CSvXAjBu/index.m3u8
+欧美_10,https://vip1.fhbf9.com/20210707/oAu30gVK/index.m3u8
+
+Girl & Girl 1,http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
+Girl & Girl 2,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/1191.mp4
+Girl & Girl 3,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/5858.mp4
+Girl & Girl 4,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15301.mp4
+Girl & Girl 5,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/597.mp4
+Girl & Girl 6,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/9443.mp4
+Girl & Girl 7,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/11738.mp4
+Girl & Girl 8,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/7991.mp4
+Girl & Girl 9,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/17353.mp4
+Girl & Girl 10,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15803.mp4
+Girl & Girl 11,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/4147.mp4
+Girl & Girl 12,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/14958.mp4
+Girl & Girl 13,http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/5028.mp4
+Girl & Girl 14,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/7244.mp4
+Girl & Girl 15,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/10334.mp4
+Girl & Girl 16,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/1110.mp4
+Girl & Girl 17,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/6892.mp4
+Girl & Girl 18,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/18160.mp4
+Girl & Girl 19,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/23621.mp4
+Girl & Girl 20,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460.mp4
+Girl & Girl 21,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1516.mp4
+Girl & Girl 22,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/4507.mp4
+Girl & Girl 23,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/963.mp4
+Girl & Girl 24,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/12646.mp4
+Girl & Girl 25,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/3108.mp4
+Girl & Girl 26,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/16443.mp4
+Girl & Girl 27,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/14002.mp4
+Girl & Girl 28,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1285.mp4
+Girl & Girl 29,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/4972.mp4
+Girl & Girl 30,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/20606.mp4
+
+XXX | 4K | Brasileirinhas: Contos do Big,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/758
+XXX | 4K | BangBros 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/744
+XXX | 4K | BangBros 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/745
+XXX | 4K | Holed 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/748
+XXX | 4K | Holed 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/749
+XXX | 4K | Holed 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/751
+XXX | 4K | Holed 07,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/754
+XXX | 4K | Holed 08,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/755
+XXX | 4K | Holed 09,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/757
+XXX | 4K | Holed 10,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/756
+XXX A Casa das Brasileirinhas Vol. 62,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/760
+XXX A Casa das Brasileirinhas Vol. 63,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/761
+XXX Abella Danger,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/765
+XXX Alessandra Marques,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/764
+XXX Alexandre Frota,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/762
+XXX Aline Rios,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/763
+XXX Ana Julia,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/766
+XXX Asiaticas 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/768
+XXX Asiaticas 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/769
+XXX Asiaticas 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/770
+XXX Asiaticas 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/771
+XXX Brad Montana 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/774
+XXX Brad Montana 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/775
+XXX Brad Montana 05,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/777
+XXX Brad Montana 06,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/776
+XXX Brad Montana 07,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/778
+XXX Brad Montana 08,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/779
+XXX Brad Montana 09,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/780
+XXX Brad Montana 10,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/781
+XXX Brad Montana 11,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/783
+XXX Brazzers 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/784
+XXX Brazzers 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/785
+XXX Brazzers 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/786
+XXX Brazzers 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/787
+XXX Carol Fenix,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/790
+XXX Fernandinha Fernandez,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/792
+XXX Gina Jolie,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/793
+XXX Julia Mattos,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/794
+XXX Julia Paes,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/795
+XXX Julianna Vega,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/796
+XXX Loupan,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/797
+XXX Manu Fox,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/798
+XXX Mia Linz,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/799
+XXX Monica Santiago,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/800
+XXX Nicolle Bittencourt,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/801
+XXX Pamela Pantera,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/802
+XXX Rafaela Nakamura,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/803
+XXX Rita Cadillac 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/804
+XXX Rita Cadillac 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/805
+XXX Show de Bundas 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/806
+XXX Show de Bundas 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/807
+XXX Thammy Gretchen,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/808
+XXX Wanessa Boyer,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/809
+
+Anal,http://live.mycamtv.com/anal.m3u8
+ArabGirls,http://live.mycamtv.com/arab.m3u8
+AsianGirls,http://live.mycamtv.com/asian.m3u8
+Big_Ass_Girls,http://live.mycamtv.com/bigass.m3u8
+BigTits_Girls ,http://live.mycamtv.com/bigtits.m3u8
+Blonde_Girls,http://live.mycamtv.com/blonde.m3u8
+Blowjob,http://live.mycamtv.com/blowjob.m3u8
+Brunette_Girls,http://live.mycamtv.com/brunette.m3u8
+Ebony_Girls,http://live.mycamtv.com/ebony.m3u8
+Girls_Squirt,http://live.mycamtv.com/squirt.m3u8
+Latina_Girls,http://live.mycamtv.com/latina.m3u8
+MILF,http://live.mycamtv.com/milf.m3u8
+Mature,http://live.mycamtv.com/bigtits.m3u8
+Medium_Girls,http://live.mycamtv.com/medium.m3u8
+SkinnyGirls,http://live.mycamtv.com/skinny.m3u8
+TeenGirls,http://live.mycamtv.com/teen.m3u8
+WhiteGirls,http://live.mycamtv.com/white.m3u8
+YoungGirls,http://live.mycamtv.com/young.m3u8
+Shemale_TubeTV,https://www.ast.tv/stream/1/low.m3u8
+Shemale_TubeTV HD,https://www.ast.tv/stream/1/ultra.m3u8
+Shemale_TubeTV 2,https://www.ast.tv/stream/2/low.m3u8
+Shemale_TubeTV 2 HD,https://www.ast.tv/stream/2/ultra.m3u8
+Superone ,http://185.96.176.139:8080/superone/index.m3u8
+VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+
 🔞精品玩偶,#genre#
 社长秘书,https://bf1.semaobf1.com/20230420/93CF1321BECEFA58/hls/1500k/index.m3u8
 女教師,https://bf1.semaobf1.com/20230425/8810A2EEF55F6C4D/hls/2000k/index.m3u8
@@ -8003,272 +8155,6 @@ FC2PPV-1271635 【生ドル?未修正】矢〇亜希子激似が声を我慢し�
 苗條的秀麗,https://vip2.slbfsl.com/20230421/ACRIKFyD/index.m3u8
 男人最愛的年輕嫩妹,https://vip2.slbfsl.com/20230421/5g3vtTFe/index.m3u8
 萌えコス淫行三昧,https://vip2.slbfsl.com/20230421/Ij1Y8O5E/index.m3u8
-
-🔞激情壹区,#genre#
-欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
-欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8fluxuslust.m3u8
-欧美版K频道,http://cdn.adultiptv.net/threesome.m3u8
-欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8
-
-欧美版惊艳,http://live.redtraffic.xyz:80/cuckold.m3u8
-欧美版惊艳,http://line.premiumpowers.net:80/Manuel/1234567/777837
-欧美版惊艳,http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
-欧美版惊艳,http://live.redtraffic.xyz/cuckold.m3u8
-欧美版惊艳,http://cdn.adultiptv.net/cuckold.m3u8
-
-欧美版松視1,http://live.redtraffic.xyz:80/interracial.m3u8
-欧美版松視1,http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
-欧美版松視1,http://live.redtraffic.xyz/interracial.m3u8
-欧美版松視1,http://cdn.adultiptv.net/interracial.m3u8
-
-欧美媒松視2,http://live.redtraffic.xyz:80/fetish.m3u8
-欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8
-欧美媒松視2,http://cdn.adultiptv.net/fetish.m3u8
-欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8fluxuslust.m3u8
-
-欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8fluxuslust.m3u8
-欧美版松視3,http://live.redtraffic.xyz:80/bigdick.m3u8
-欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8
-欧美版松視3,http://cdn.adultiptv.net/bigdick.m3u8
-欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-
-欧美版松視4,http://live.redtraffic.xyz/latina.m3u8fluxuslust.m3u8
-欧美版松視4,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-欧美版松視4,http://live.redtraffic.xyz/latina.m3u8
-欧美版松視4,http://cdn.adultiptv.net/latina.m3u8
-
-欧美版一本道,http://live.redtraffic.xyz:80/bigass.m3u8
-欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8
-欧美版一本道,http://cdn.adultiptv.net/bigass.m3u8
-欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8fluxuslust.m3u8
-
-欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8fluxuslust.m3u8
-欧美版二本道,http://live.redtraffic.xyz:80/blowjob.m3u8
-欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8
-欧美版二本道,http://cdn.adultiptv.net/blowjob.m3u8
-欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-
-欧美版粉红,http://live.redtraffic.xyz:80/teen.m3u8
-欧美版粉红,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-欧美版粉红,http://live.redtraffic.xyz/teen.m3u8
-欧美版粉红,http://cdn.adultiptv.net/teen.m3u8
-
-欧美版香蕉,http://live.redtraffic.xyz:80/milf.m3u8
-欧美版香蕉,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-欧美版香蕉,http://live.redtraffic.xyz/milf.m3u8
-欧美版香蕉,http://cdn.adultiptv.net/milf.m3u8
-
-欧美版玩美,http://live.redtraffic.xyz:80/pov.m3u8
-欧美版玩美,http://live.redtraffic.xyz/pov.m3u8fluxuslust.m3u8
-欧美版玩美,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-欧美版玩美,http://live.redtraffic.xyz/pov.m3u8
-欧美版玩美,http://cdn.adultiptv.net/pov.m3u8
-
-欧美版HOT,http://live.redtraffic.xyz:80/hardcore.m3u8
-欧美版HOT,http://play.iptvxxx.net/hardcore.m3u8
-欧美版HOT,http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
-欧美版HOT,http://cdn.adultiptv.net/hardcore.m3u8
-欧美版HOT,http://live.redtraffic.xyz/hardcore.m3u8
-
-欧美版彩虹,http://live.redtraffic.xyz:80/bigtits.m3u8
-欧美版彩虹,http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
-欧美版彩虹,http://live.redtraffic.xyz/bigtits.m3u8
-
-欧美版潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8
-欧美版潘多拉,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-欧美版潘多拉,http://live.redtraffic.xyz/pornstar.m3u8
-欧美版潘多拉,http://cdn.adultiptv.net/pornstar.m3u8
-
-欧美版现场,http://cdn.adultiptv.net/livecams.m3u8
-欧美版现场,http://live.redtraffic.xyz/livecams.m3u8
-
-欧美版女同,http://cdn.adultiptv.net/lesbian.m3u8
-欧美版女同,http://live.redtraffic.xyz/lesbian.m3u8
-欧美版女同,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-欧美版女同,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
-
-欧美版大屌,http://cdn.adultiptv.net/rough.m3u8
-欧美版大屌,http://live.redtraffic.xyz/rough.m3u8
-
-Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
-Gangbang,http://play.iptvxxx.net/gangbang.m3u8
-Compilation,http://cdn.adultiptv.net/compilation.m3u8
-Compilation,http://live.redtraffic.xyz/compilation.m3u8
-Brunette,http://cdn.adultiptv.net/brunette.m3u8
-Brunette,http://live.redtraffic.xyz/brunette.m3u8
-Blonde,http://cdn.adultiptv.net/blonde.m3u8
-Blonde,http://live.redtraffic.xyz/blonde.m3u8
-Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-Gay,http://cdn.adultiptv.net/gay.m3u8
-Gay,http://live.redtraffic.xyz/gay.m3u8
-Gay,http://play.iptvxxx.net/gay.m3u8
-Anal,http://live.redtraffic.xyz/anal.m3u8
-Anal,http://cdn.adultiptv.net/anal.m3u8
-Asian,http://cdn.adultiptv.net/asian.m3u8
-Asian,http://live.redtraffic.xyz/asian.m3u8
-Russian,http://live.redtraffic.xyz/russian.m3u8
-Russian,http://live.redtraffic.xyz:80/russian.m3u8
-Russian,http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
-
-AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
-AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
-AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
-AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
-AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
-AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
-AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
-AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
-AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
-AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
-AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
-AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
-AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
-AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
-AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
-AdultIPTV.net Gangbang,http://live.redtraffic.net/gangbang.m3u8
-AdultIPTV.net Threesome,http://live.redtraffic.xyz/threesome.m3u8
-AdultIPTV.net Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
-AdultIPTV.net Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
-AdultIPTV.net Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
-AdultIPTV.net Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-
-Ailee Anne,https://video2.51daao.com/btt1/2021/08/20210816/vCyieRDH/index.m3u8
-Kenzie Taylor,https://video2.51daao.com/btt1/2021/07/20210708/PXTnSYTI/index.m3u8
-MyFamilyPies,https://video2.51daao.com/btt1/2021/11/20211104/BfYZafVm/index.m3u8
-金秘书,https://video2.51daao.com/btt1/2021/03/20210319/ACLRy6mQ/index.m3u8
-Pies-Skye Blue,https://video2.51daao.com/btt1/2021/09/20210930/8ka3Bboj/index.m3u8
-欧美_2,https://vip1.fhbf9.com/20210708/os7ueau2/index.m3u8
-欧美_3,https://vip1.fhbf9.com/20210708/Q9bDQ56y/index.m3u8
-欧美_4,https://vip1.fhbf9.com/20210708/lPQa70iL/index.m3u8
-欧美_5,https://vip1.fhbf9.com/20210708/ApZbg6Ny/index.m3u8
-欧美_6,https://vip1.fhbf9.com/20210708/qmvCsbnH/index.m3u8
-欧美_7,https://vip1.fhbf9.com/20210708/eERRb8XC/index.m3u8
-欧美_8,https://vip1.fhbf9.com/20210708/CSvXAjBu/index.m3u8
-欧美_10,https://vip1.fhbf9.com/20210707/oAu30gVK/index.m3u8
-
-Girl & Girl 1,http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
-Girl & Girl 2,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/1191.mp4
-Girl & Girl 3,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/5858.mp4
-Girl & Girl 4,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15301.mp4
-Girl & Girl 5,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/597.mp4
-Girl & Girl 6,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/9443.mp4
-Girl & Girl 7,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/11738.mp4
-Girl & Girl 8,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/7991.mp4
-Girl & Girl 9,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/17353.mp4
-Girl & Girl 10,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15803.mp4
-Girl & Girl 11,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/4147.mp4
-Girl & Girl 12,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/14958.mp4
-Girl & Girl 13,http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/5028.mp4
-Girl & Girl 14,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/7244.mp4
-Girl & Girl 15,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/10334.mp4
-Girl & Girl 16,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/1110.mp4
-Girl & Girl 17,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/6892.mp4
-Girl & Girl 18,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/18160.mp4
-Girl & Girl 19,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/23621.mp4
-Girl & Girl 20,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460.mp4
-Girl & Girl 21,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1516.mp4
-Girl & Girl 22,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/4507.mp4
-Girl & Girl 23,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/963.mp4
-Girl & Girl 24,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/12646.mp4
-Girl & Girl 25,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/3108.mp4
-Girl & Girl 26,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/16443.mp4
-Girl & Girl 27,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/14002.mp4
-Girl & Girl 28,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1285.mp4
-Girl & Girl 29,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/4972.mp4
-Girl & Girl 30,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/20606.mp4
-
-XXX | 4K | Brasileirinhas: Contos do Big,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/758
-XXX | 4K | BangBros 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/744
-XXX | 4K | BangBros 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/745
-XXX | 4K | Holed 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/748
-XXX | 4K | Holed 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/749
-XXX | 4K | Holed 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/751
-XXX | 4K | Holed 07,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/754
-XXX | 4K | Holed 08,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/755
-XXX | 4K | Holed 09,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/757
-XXX | 4K | Holed 10,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/756
-XXX A Casa das Brasileirinhas Vol. 62,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/760
-XXX A Casa das Brasileirinhas Vol. 63,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/761
-XXX Abella Danger,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/765
-XXX Alessandra Marques,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/764
-XXX Alexandre Frota,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/762
-XXX Aline Rios,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/763
-XXX Ana Julia,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/766
-XXX Asiaticas 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/768
-XXX Asiaticas 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/769
-XXX Asiaticas 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/770
-XXX Asiaticas 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/771
-XXX Brad Montana 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/774
-XXX Brad Montana 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/775
-XXX Brad Montana 05,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/777
-XXX Brad Montana 06,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/776
-XXX Brad Montana 07,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/778
-XXX Brad Montana 08,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/779
-XXX Brad Montana 09,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/780
-XXX Brad Montana 10,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/781
-XXX Brad Montana 11,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/783
-XXX Brazzers 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/784
-XXX Brazzers 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/785
-XXX Brazzers 03,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/786
-XXX Brazzers 04,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/787
-XXX Carol Fenix,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/790
-XXX Fernandinha Fernandez,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/792
-XXX Gina Jolie,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/793
-XXX Julia Mattos,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/794
-XXX Julia Paes,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/795
-XXX Julianna Vega,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/796
-XXX Loupan,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/797
-XXX Manu Fox,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/798
-XXX Mia Linz,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/799
-XXX Monica Santiago,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/800
-XXX Nicolle Bittencourt,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/801
-XXX Pamela Pantera,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/802
-XXX Rafaela Nakamura,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/803
-XXX Rita Cadillac 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/804
-XXX Rita Cadillac 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/805
-XXX Show de Bundas 01,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/806
-XXX Show de Bundas 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/807
-XXX Thammy Gretchen,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/808
-XXX Wanessa Boyer,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/809
-
-Anal,http://live.mycamtv.com/anal.m3u8
-ArabGirls,http://live.mycamtv.com/arab.m3u8
-AsianGirls,http://live.mycamtv.com/asian.m3u8
-Big_Ass_Girls,http://live.mycamtv.com/bigass.m3u8
-BigTits_Girls ,http://live.mycamtv.com/bigtits.m3u8
-Blonde_Girls,http://live.mycamtv.com/blonde.m3u8
-Blowjob,http://live.mycamtv.com/blowjob.m3u8
-Brunette_Girls,http://live.mycamtv.com/brunette.m3u8
-Ebony_Girls,http://live.mycamtv.com/ebony.m3u8
-Girls_Squirt,http://live.mycamtv.com/squirt.m3u8
-Latina_Girls,http://live.mycamtv.com/latina.m3u8
-MILF,http://live.mycamtv.com/milf.m3u8
-Mature,http://live.mycamtv.com/bigtits.m3u8
-Medium_Girls,http://live.mycamtv.com/medium.m3u8
-SkinnyGirls,http://live.mycamtv.com/skinny.m3u8
-TeenGirls,http://live.mycamtv.com/teen.m3u8
-WhiteGirls,http://live.mycamtv.com/white.m3u8
-YoungGirls,http://live.mycamtv.com/young.m3u8
-Shemale_TubeTV,https://www.ast.tv/stream/1/low.m3u8
-Shemale_TubeTV HD,https://www.ast.tv/stream/1/ultra.m3u8
-Shemale_TubeTV 2,https://www.ast.tv/stream/2/low.m3u8
-Shemale_TubeTV 2 HD,https://www.ast.tv/stream/2/ultra.m3u8
-Superone ,http://185.96.176.139:8080/superone/index.m3u8
-VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 🔞激情叁区,#genre#
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
