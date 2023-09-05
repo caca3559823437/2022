@@ -1,5 +1,4 @@
 ﻿🇨🇳中国,#genre#
-CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
@@ -612,128 +611,12 @@ ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 求索.动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=QSDWHD_7000
 求索.生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1612
 
-🇺🇸體育,#genre#
 纬来體育,http://cloud.yumixiu768.com/tmp/123.m3u8
 劲爆體育,https://angtv.cn/test/bestv.php?id=jbtyhd8m/8000000
 劲爆體育,https://cntv.sbs/tv?auth=230830&id=jbty
 广东體育,https://dispatchnew.ulivetv.net/v/live/cgxanasc9q68.m3u8?stream_id=cgxanasc9q68&token=c0vzuc7wqkzk
 北京體育,https://dispatchnew.ulivetv.net/v/live/cgxam6v2ozpc.m3u8?stream_id=cgxam6v2ozpc&token=c0vzuc7wqkzk
 五星體育,https://dispatchnew.ulivetv.net/v/live/cgxamfznu56o.m3u8?stream_id=cgxamfznu56o&token=c0vzuc7wqkzk
-
-EDGE SPORT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1014266&extension=ts
-Astro SuperSport,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1016544&extension=ts
-Now Sports 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
-NBA REPLAY INFO,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040606&extension=ts
-Now Sports 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts
-Now Sports 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110616&extension=ts
-Now Sports 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts
-Now Sports 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110618&extension=ts
-Now Sports 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts
-Now Sports 6,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts
-STAR SPORTS 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
-STAR SPORTS SELECT 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
-STAR SPORTS SELECT 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
-STAR SPORTS 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
-SONY SPORTS 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
-VIAPLAY SPORTS 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
-TSN 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177344&extension=ts
-TSN 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177345&extension=ts
-TSN 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177346&extension=ts
-Sky Sports Mix,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts
-Sky Sports Main Event,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts
-Sky Sports Football,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
-Sky Sports F1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
-Sky Sports Arena,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts
-EUROSPORT 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
-EUROSPORT 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
-BT Sport 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts
-BT Sport 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts
-BT Sport 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts
-BT Sport 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts
-VIAPLAY SPORTS 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
-FOX SOCCER PLUS,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45572&extension=ts
-ESPN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
-ESPN 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45580&extension=ts
-TSN 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904212&extension=ts
-TSN 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904213&extension=ts
-ELEVEN SPORTS 1 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
-Astro SuperSport 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
-Sky Sports Action,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=929003&extension=ts
-
-Sportv 1,http://7go.xyz:8080/8589436032/858943Gsts1/54377
-Sportv 1,http://7go.xyz:8080/8589436032/858943Gsts1/65744
-Sportv 1,http://7go.xyz:8080/8589436032/858943Gsts1/22708
-Sportv 2,http://7go.xyz:8080/8589436032/858943Gsts1/42907
-Sportv 2,http://7go.xyz:8080/8589436032/858943Gsts1/22706
-Sportv 2,http://7go.xyz:8080/8589436032/858943Gsts1/18660
-Sportv 3,http://7go.xyz:8080/8589436032/858943Gsts1/18679
-Sportv 3,http://7go.xyz:8080/8589436032/858943Gsts1/22707
-Sportv 3,http://7go.xyz:8080/8589436032/858943Gsts1/18661
-
-SPORT TV 1,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1483
-SPORT TV 2,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1486
-SPORT TV 3,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1489
-SPORT TV 4,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1492
-SPORT TV 5,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1495
-SPORT TV 6,http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/281487
-
-SPORT TV 1 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36979
-SPORT TV 2 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36980
-SPORT TV 3 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36981
-SPORT TV 4 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36982
-SPORT TV 5 LOCAL,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36983
-SPORT TV 1 4k,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37016
-SPORT TV 2 4K,http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37017
-
-SPORT TV1 HD,http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/430
-SPORT TV2 HD,http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/431
-
-QA: beIN Sports Premium 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/109
-QA: beIN Sports Premium 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280145
-QA: beIN Sports Premium 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280249
-QA: beIN Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/100
-QA: beIN Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/101
-QA: beIN Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/102
-QA: beIN Sports 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/103
-QA: beIN Sports 5,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/104
-QA: beIN Sports 6,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/105
-QA: beIN Sports 7,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/106
-QA: beIN Sports English 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/110
-QA: beIN Sports English 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/111
-QA: beIN Sports English 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/267769
-QA: beIN Sports Max 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296991
-QA: beIN Sports Max 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/199001
-QA: beIN Sports Max 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/13813
-QA: beIN Sports Max 8,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298192
-QA: beIN Sports Max 9,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/13816
-QA: beIN Sports News,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1266
-QA: beIN Sports Xtra 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/290037
-QA: beIN Sports Xtra 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/283294
-AE: Abu Dhabi Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1296
-AE: Abu Dhabi Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1295
-AE: Abu Dhabi Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11023
-AE: Abu Dhabi Sports Premium 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296836
-AE: Abu Dhabi Sports Premium 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296835
-AE: Dubai Sports,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/22058
-AE: Dubai Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/43778
-AE: Dubai Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/21998
-FR: beIN Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/144
-FR: beIN Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/145
-FR: beIN Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146
-FR: beIN Sports Max 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3599
-FR: beIN Sports Max 5,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6083
-FR: beIN Sports Max 6,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4368
-FR: beIN Sports Max 7,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4369
-FR: beIN Sports Max 8,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4370
-FR: beIN Sports Max 9,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4371
-FR: beIN Sports Max 10,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6088
-TR: beIN Sports 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1735
-TR: beIN Sports 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1737
-TR: beIN Sports 3,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1739
-TR: beIN Sports 4,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7450
-TR: beIN Sports Haber,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7448
-TR: beIN Sports Max 1,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8224
-TR: beIN Sports Max 2,http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16878
 
 🇭🇰香港,#genre#
 鳳凰資訊,mitv://135.148.104.228:19806/f793ad2fdd964b9d9018896a85234600
@@ -5853,4 +5736,3 @@ M2音樂,http://live.m2.tv/hls3/stream.m3u8
 舞蹈10,https://mvvideoshare2.meitudata.com/5e6c8487eaf562ip8evyy22386_H264_4_9b6cb4c3ea353.mp4
 舞蹈11,https://mvvideoshare2.meitudata.com/5e634cf2141a92hpybf7m04115_H264_4_384eeaf91555b.mp4
 舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
-
