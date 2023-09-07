@@ -30,7 +30,23 @@
         },
 {
             "url": "https://qu.ax/xsEE.json",
-            "name": "🌸🔞影视宝盒"
+            "name": "😺 影视宝盒"
+        },
+{
+            "url": "http://cf.weixine.net/ysc.json",
+            "name": "😺 影视运输车加速"
+        },
+{
+            "url": "https://weixine.net/ysc.json",
+            "name": "😺 影视运输车"
+        },
+{
+            "url": "https://gitee.com/lekanbox/ali/raw/master/api.json",
+            "name": "😺 影视阿里巴巴"
+        },
+{
+            "url": "https://gitee.com/lekanbox/ali/raw/master/ali.json",
+            "name": "😺 影视阿里无敌"
         },
 {
             "url": "https://qu.ax/joAo.json",
@@ -39,6 +55,10 @@
 {
             "url": "https://qu.ax/nwXz.json",
             "name": "🌸🔞影视无敌"
+        },
+{
+            "url": "https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json",
+            "name": "🌸🔞影视福利"
         },
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
