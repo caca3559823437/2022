@@ -732,15 +732,27 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 RTHK34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 無綫財經,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131
-無綫財經,http://107.167.12.58:27347/livehttpplay?channel_id=20121
-ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
-ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
 無綫新聞,http://107.167.12.58:27347/livehttpplay?channel_id=20123
 星空衛視,http://107.167.12.58:27347/livehttpplay?channel_id=20126
+無綫新聞,http://107.167.12.58:27347/livehttpplay?channel_id=30024
+無綫新聞,http://107.167.12.58:27347/livehttpplay?channel_id=20123
+無綫財經,http://107.167.12.58:27347/livehttpplay?channel_id=20121
+無綫財經,http://107.167.12.58:27347/livehttpplay?channel_id=30019
+無綫財經,http://107.167.12.58:27347/livehttpplay?channel_id=30022
+
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
+明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
+明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
+
+J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
+J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
+RTHK31,http://107.167.12.58:27347/livehttpplay?channel_id=20203
+RTHK32,http://107.167.12.58:27347/livehttpplay?channel_id=30028
+ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131
+ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
+ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -1600,7 +1612,7 @@ EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetabl
 EBS2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-GugakTV ????,http://mgugaklive.Nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+GugakTV 🔞🔞,http://mgugaklive.Nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -1625,7 +1637,7 @@ Tokyo MX2,https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 Weather News,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-??MBC (MBC Gyeongnam Changwon),https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+🔞MBC (MBC Gyeongnam Changwon),https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 日本職業摔跤(NJPW),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 MBC (MBC Daejeon),https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MBC Mokpo,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -7765,9 +7777,9 @@ Carib 041410-347 沢井真帆 THE 未公開,https://vod3.ttbfp5.com/20230401/jJV
 FC2PPV-1245021,https://vip1.slbfsl.com/20220818/wvmfRxZw/index.m3u8
 FC2PPV-1245021,https://aosikazy12.com/20220929/poMR0VKC/index.m3u8
 FC2PPV-1245021,https://vod3.ttbfp5.com/20230412/Y65pU30c/index.m3u8
-FC2PPV-1229261 【個人撮影】理世（りせ）ちゃん超かわいいヤバい?? ?レビュー特典は海外版！?外資系航空会社のCA??彼氏いるけどようやく口説き落とした。NTR好き必見。,https://vip1.slbfsl.com/20220818/oCka9GDh/index.m3u8
-FC2PPV-1229261 【個人撮影】理世（りせ）ちゃん超かわいいヤバい?? ?レビュー特典は海外版！?外資系航空会社のCA??彼氏いるけどようやく口説き落とした。NTR好き必見。,https://aosikazy12.com/20220929/IelVCuus/index.m3u8
-FC2PPV-1229261 【個人撮影】理世（りせ）ちゃん超かわいいヤバい?? ?レビュー特典は海外版！?外資系航空会社のCA??彼氏いるけどようやく口説き落とした。NTR好き必見。,https://vod3.ttbfp5.com/20230404/AaX2MUkx/index.m3u8
+FC2PPV-1229261 【個人撮影】理世（りせ）ちゃん超かわいいヤバい🔞 ?レビュー特典は海外版！?外資系航空会社のCA🔞彼氏いるけどようやく口説き落とした。NTR好き必見。,https://vip1.slbfsl.com/20220818/oCka9GDh/index.m3u8
+FC2PPV-1229261 【個人撮影】理世（りせ）ちゃん超かわいいヤバい🔞 ?レビュー特典は海外版！?外資系航空会社のCA🔞彼氏いるけどようやく口説き落とした。NTR好き必見。,https://aosikazy12.com/20220929/IelVCuus/index.m3u8
+FC2PPV-1229261 【個人撮影】理世（りせ）ちゃん超かわいいヤバい🔞 ?レビュー特典は海外版！?外資系航空会社のCA🔞彼氏いるけどようやく口説き落とした。NTR好き必見。,https://vod3.ttbfp5.com/20230404/AaX2MUkx/index.m3u8
 FC2PPV-1244347 ガチ制服 生中出し【のあちゃん 1?歳 JD】セフレ ハメ撮り日記 #7【個人撮影】,https://vip1.slbfsl.com/20220818/vTqNs56h/index.m3u8
 FC2PPV-1244347 ガチ制服 生中出し【のあちゃん 1?歳 JD】セフレ ハメ撮り日記 #7【個人撮影】,https://aosikazy12.com/20220929/xOEwwZw9/index.m3u8
 FC2PPV-1244347 ガチ制服 生中出し【のあちゃん 1?歳 JD】セフレ ハメ撮り日記 #7【個人撮影】,https://vod3.ttbfp5.com/20230411/5RhbaZPi/index.m3u8
@@ -7867,9 +7879,9 @@ FC2PPV-1273728,https://vod3.ttbfp5.com/20230418/KyGPfqAx/index.m3u8
 FC2PPV-1271699 大音量マン屁ブヒブヒッ！潮吹きビュービュー！激カワ美巨乳元CAが快感に耐え切れず恥ずかしい音を漏らしながら絶叫生中出しセックス！,https://vip1.slbfsl.com/20220818/3icNeBht/index.m3u8
 FC2PPV-1271699 大音量マン屁ブヒブヒッ！潮吹きビュービュー！激カワ美巨乳元CAが快感に耐え切れず恥ずかしい音を漏らしながら絶叫生中出しセックス！,https://aosikazy12.com/20221002/OIif3CVo/index.m3u8
 FC2PPV-1271699 大音量マン屁ブヒブヒッ！潮吹きビュービュー！激カワ美巨乳元CAが快感に耐え切れず恥ずかしい音を漏らしながら絶叫生中出しセックス！,https://vod3.ttbfp5.com/20230418/6WH9eFL1/index.m3u8
-FC2PPV-1271393 【個人撮影】債権者に堕ちた奥様　結局、返済出来ずに体で払う羽目に???,https://vip1.slbfsl.com/20220818/7sMwmp0G/index.m3u8
-FC2PPV-1271393 【個人撮影】債権者に堕ちた奥様　結局、返済出来ずに体で払う羽目に???,https://aosikazy12.com/20221002/Lsgva5bd/index.m3u8
-FC2PPV-1271393 【個人撮影】債権者に堕ちた奥様　結局、返済出来ずに体で払う羽目に???,https://vod3.ttbfp5.com/20230418/fe0w6dg7/index.m3u8
+FC2PPV-1271393 【個人撮影】債権者に堕ちた奥様　結局、返済出来ずに体で払う羽目に🔞?,https://vip1.slbfsl.com/20220818/7sMwmp0G/index.m3u8
+FC2PPV-1271393 【個人撮影】債権者に堕ちた奥様　結局、返済出来ずに体で払う羽目に🔞?,https://aosikazy12.com/20221002/Lsgva5bd/index.m3u8
+FC2PPV-1271393 【個人撮影】債権者に堕ちた奥様　結局、返済出来ずに体で払う羽目に🔞?,https://vod3.ttbfp5.com/20230418/fe0w6dg7/index.m3u8
 FC2PPV-1270844 【個撮】商業科のギャル③快楽に耐えきれず生の肉棒を入れられ甘い声を響かせる,https://vip1.slbfsl.com/20220818/VNWp8fuL/index.m3u8
 FC2PPV-1270844 【個撮】商業科のギャル③快楽に耐えきれず生の肉棒を入れられ甘い声を響かせる,https://aosikazy12.com/20221002/GgcFwhj3/index.m3u8
 FC2PPV-1270844 【個撮】商業科のギャル③快楽に耐えきれず生の肉棒を入れられ甘い声を響かせる,https://vod3.ttbfp5.com/20230418/lcy8Yzgd/index.m3u8
@@ -7913,7 +7925,7 @@ FC2PPV-1271635 【生ドル?未修正】矢〇亜希子激似が声を我慢し�
 ロリ顔＆ロリ体型の黒髪ＪＤ18歳が,https://vip2.slbfsl.com/20230404/EbL66Yke/index.m3u8
 ワケありマスク美人をとことんヤリまくる,https://vip2.slbfsl.com/20230404/x6BFg9pC/index.m3u8
 本気汁垂れ流してガチイキに初老も感動中出し,https://vip2.slbfsl.com/20230405/0dpqkflL/index.m3u8
-卑猥すぎる美人エステティシャンがプライベートで僕の歪んだ性癖を受け入れ秘密の施術を密室で??,https://vip2.slbfsl.com/20230405/KHBn2IKa/index.m3u8
+卑猥すぎる美人エステティシャンがプライベートで僕の歪んだ性癖を受け入れ秘密の施術を密室で🔞,https://vip2.slbfsl.com/20230405/KHBn2IKa/index.m3u8
 本物リアルＯＬに中出し○○連発！美人ＯＬの非日常…【暴走?癡漢車トーマス】,https://vip2.slbfsl.com/20230405/qCq4lO3t/index.m3u8
 変態セックス,https://vip2.slbfsl.com/20230406/qZGEo73G/index.m3u8
 不満の妻,https://vip2.slbfsl.com/20230406/HEHfqxU1/index.m3u8
@@ -8632,7 +8644,7 @@ JK萝莉白虎,https://0yefiks35y.motorjn.com/20220907/xpSbp7eC/index.m3u8
 测试1,https://bf2.mmzb09.com/20230709/dSRbv68i/2000kb/hls/index.m3u8
 
 
-??彩虹頻道,#genre#
+🔞彩虹頻道,#genre#
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
 Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
@@ -8797,7 +8809,7 @@ Fake Taxi HD2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6202/index.m3u8
 台湾女警,https://0yefiks35y.motorjn.com/20230107/5NapNY2x/index.m3u8
 暗恋的女神,https://0yefiks35y.motorjn.com/20230108/ed71LVjK/index.m3u8
 扬州局长戴璐,https://0yefiks35y.motorjn.com/20230110/lmEQF7Qj/index.m3u8
-????克拉式,https://0yefiks35y.motorjn.com/20230107/TTfU6YDf/index.m3u8
+克拉式,https://0yefiks35y.motorjn.com/20230107/TTfU6YDf/index.m3u8
 高难度,https://0yefiks35y.motorjn.com/20221230/9qf5SMaV/index.m3u8
 假装睡着了让弟弟随便,https://0yefiks35y.motorjn.com/20230105/ltpVBUOp/index.m3u8
 酷似刘亦菲,https://0yefiks35y.motorjn.com/20210805/DBcin9RB/index.m3u8?300
@@ -8807,7 +8819,7 @@ JK萝莉白虎,https://0yefiks35y.motorjn.com/20220907/xpSbp7eC/index.m3u8
 双马尾萝莉,https://fsrkrylchds8.jztyxxjc.com/112-136901.m3u8?300
 汉服萝莉小姐姐,https://0yefiks35y.motorjn.com/20220830/FqeRa5bQ/index.m3u8
 纹身萝莉,https://0yefiks35y.motorjn.com/20220901/TGz6uHTZ/index.m3u8
- 爆??jk美少女,https://0yefiks35y.motorjn.com/20220918/CMQqq22L/index.m3u8
+爆jk美少女,https://0yefiks35y.motorjn.com/20220918/CMQqq22L/index.m3u8
 菊花尾巴萝莉,https://0yefiks35y.motorjn.com/20220818/Wsvvnfr9/index.m3u8
 皮皮娘,https://vmxiwpqqzu1.jztyxxjc.com/20191222/ljbSZkuJ/index.m3u8?300
 你们要的秘? ,https://0yefiks35y.motorjn.com/20221109/aSgcm11j/index.m3u8
@@ -8841,7 +8853,7 @@ mkmp-011桜井友田彩也香,https://t10.cdn2020.com:12335/video/m3u8/2021/08/2
 mkmp-433乱不,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/3ff1dede/index.m3u8
 mkon-014渚,https://t13.cdn2020.com:12338/video/m3u8/2021/12/08/5d2c3c38/index.m3u8
 
-??｜VIP麻豆资源,#genre#
+🔞VIP麻豆资源,#genre#
 MLT-002/连续被上的OL,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/da/bj/1c/et/399a1a6f21a74a6b9a391b1903ce2f3c.m3u8?
 MSD-001/乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
 MSD-002/维修工的心跳艳遇(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8?
@@ -8929,7 +8941,7 @@ MSD-112/惹火上门按摩,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9m/
 MSD-113/爽操少妇喷白浆,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9o/w7/qp/4a/4ec0964678e645ce89eef69903c719e1.m3u8?
 MSD-114/口爆童颜巨乳嫩妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yb/9e/kr/j1/28c0d9c657a74a5c8be6a799eac8b201.m3u8?
 
-??｜VIP直播资源,#genre#
+🔞VIP直播资源,#genre#
 mide-821小野六花,https://t4s.cdn2020.com/video/m3u8/2020/09/25/31eaeb70/index.m3u8
 mide-784小野六花,https://t6s.cdn2020.com/video/m3u8/2021/02/05/ddf896d6/index.m3u8
 mide-797小野六花,https://t4s.cdn2020.com/video/m3u8/2020/07/27/89cfae5b/index.m3u8
@@ -9087,7 +9099,7 @@ abw-178結城,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/ae7feac3/index
 ipx-527岬,https://t4s.cdn2020.com/video/m3u8/2020/08/17/e1844eba/index.m3u8
 ipx-711岬,https://t10.cdn2020.com:12335/video/m3u8/2021/08/15/30400709/index.m3u8
 ipx-539岬,https://t4s.cdn2020.com/video/m3u8/2020/09/19/772e1a46/index.m3u8
-??玩偶姐姐,#genre#
+🔞玩偶姐姐,#genre#
 一日女友的漂亮姐姐 上 她是谁,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/70/fm/e0/kc/f7beb303cedd40b2a3f0255889aa6360.m3u8?
 一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/75/da/ic/nq/654561e53a8f44d4b452ee45db1d5aaa.m3u8?
 一日女友的漂亮姐姐 下 ,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
@@ -9246,7 +9258,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 切諾基唯一的DatAzz拍手,http://12204.vod.adultiptv.net/ph5a5cb7a12e61e/play.m3u8
 假出租車中出彙編＃1 HD,http://218158.vod.adultiptv.net/ph5a0bfc0cbc2ed/play.m3u8
 
-??VIP高清秒播11,#genre#
+🔞高清秒播11,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -9314,7 +9326,7 @@ pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
 pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
-??VIP高清秒播6,#genre#
+🔞高清秒播6,#genre#
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
@@ -9634,7 +9646,7 @@ GVH-089,https://t4s.cdn2020.com/video/m3u8/2020/07/31/1164edab/index.m3u8
 GVH-103,https://t5s.cdn2020.com/video/m3u8/2020/10/31/24b330ac/index.m3u8
 GVH-239,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/71279403/index.m3u8
 
-??VIP高清秒播3,#genre#
+🔞高清秒播3,#genre#
 老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
 合租之偷窺-季曉彤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
 爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
@@ -9663,7 +9675,7 @@ AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60b
 憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
 公公的特別照顧-陳若瑤[1280720][1280*720]],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
-??｜VIP 直播资源3,#genre#
+🔞VIP直播资源3,#genre#
 午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
 午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
 午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
@@ -9723,7 +9735,7 @@ MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
-??｜VIP欧美1,#genre#
+🔞VIP欧美1,#genre#
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
 Blue Hustler,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/1064/index.m3u8
@@ -9806,7 +9818,7 @@ Blowjob Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6180/index.m3u
 Brazzers eXXtra,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6181/index.m3u8
 Brazzers HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6182/index.m3u8
 
-??｜VIP欧美2,#genre#
+🔞VIP欧美2,#genre#
 Brunette Adult TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6183/index.m3u8
 cento x cento,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6184/index.m3u8
 Cherry Pimps,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6185/index.m3u8
@@ -9889,7 +9901,7 @@ Hitzefrei HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6220/index.m3u8
 Holed,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6221/index.m3u8
 Hot and Mean,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6222/index.m3u8
 
-??｜VIP欧美3,#genre#
+🔞VIP欧美3,#genre#
 Hot Guys Fuck,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6223/index.m3u8
 Interracial Red TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6224/index.m3u8
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
@@ -9972,7 +9984,7 @@ True Amateurs,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6260/index.m3u8
 Tushy HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6261/index.m3u8
 TushyRAW,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6262/index.m3u8
 
-??｜VIP欧美4,#genre#
+🔞VIP欧美4,#genre#
 Visit-X TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6263/index.m3u8
 Vivid TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6264/index.m3u8
 Vixen HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6265/index.m3u8
@@ -10066,4 +10078,411 @@ DE Penthouse Passion HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20025
 DE Playboy Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20026/index.m3u8
 CineMan ExExEx,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20089/index.m3u8
 CineMan ExExEx TWO,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20090/index.m3u8
+
+🔞欧美极品,#genre#
+珍的屁眼成癮,https://play1.laoyacdn.com/20230520/jqEXtJ3e/838kb/hls/index.m3u8
+珍貴朱爾絲范圖拉,https://play1.laoyacdn.com/20230520/IWEeUrmc/844kb/hls/index.m3u8
+有這種淫蕩的外國人觀光客您不會勃起吗,https://play1.laoyacdn.com/20230520/wz4qEHM9/1500kb/hls/index.m3u8
+最棒的屁股,https://play1.laoyacdn.com/20230520/5FEmBAu5/836kb/hls/index.m3u8
+一周間 1,https://play1.laoyacdn.com/20230520/kSZ2QU1y/838kb/hls/index.m3u8
+顏射大亂交 15,https://play1.laoyacdn.com/20230520/sIKyPXk6/835kb/hls/index.m3u8
+新人選拔會 8,https://play1.laoyacdn.com/20230520/mxo2OIaA//837kb/hls/index.m3u8
+我第一個幹砲老師 70,https://play1.laoyacdn.com/20230520/T84ts4o9/838kb/hls/index.m3u8
+我朋友的辣媽 81,https://play1.laoyacdn.com/20230520/9H3wr0Zi/838kb/hls/index.m3u8
+她們學習如何搞得更爽,https://play1.laoyacdn.com/20230520/9US51Dc9/840kb/hls/index.m3u8
+天使入侵美國,https://play1.laoyacdn.com/20230520/7vWsOT3v/836kb/hls/index.m3u8
+完美女人,https://play1.laoyacdn.com/20230520/YAE8Gtaw/835kb/hls/index.m3u8
+完美的雙龍抽插 43,https://play1.laoyacdn.com/20230520/yYCXYw5t/834kb/hls/index.m3u8
+雙雕比單鳥好,https://play1.laoyacdn.com/20230520/6ntf4fWc/838kb/hls/index.m3u8
+如何成為寶貝訓練大師,https://play1.laoyacdn.com/20230520/Q449G7eD/841kb/hls/index.m3u8
+室內裝潢師安娜,https://play1.laoyacdn.com/20230520/mzQMg1Kn/833kb/hls/index.m3u8
+三重插入,https://play1.laoyacdn.com/20230520/usdnNtrV/836kb/hls/index.m3u8
+受歡迎的消遣,https://play1.laoyacdn.com/20230520/RY4cFPfe/840kb/hls/index.m3u8
+雙插我,https://play1.laoyacdn.com/20230520/l1PIDY7p/836kb/hls/index.m3u8
+漂亮肉體堆疊 7,https://play1.laoyacdn.com/20230520/jg26UtED/838kb/hls/index.m3u8
+全都粉年輕 2,https://play1.laoyacdn.com/20230520/Nt7eGFWt/837kb/hls/index.m3u8
+女孩的倫敦夜晚,https://play1.laoyacdn.com/20230520/H3xYyzvy/835kb/hls/index.m3u8
+屁眼暴徒,https://play1.laoyacdn.com/20230520/GyrbN8nO/837kb/hls/index.m3u8
+女性猛高潮 2,https://play1.laoyacdn.com/20230520/0iReINBm/836kb/hls/index.m3u8
+咪咪帝國,https://play1.laoyacdn.com/20230520/6N1UjxPq/836kb/hls/index.m3u8
+母親與繼子 3,https://play1.laoyacdn.com/20230520/rKAf8WhX/838kb/hls/index.m3u8
+內射詛咒 12,https://play1.laoyacdn.com/20230520/jHQwHs4m/839kb/hls/index.m3u8
+男人的真實性幻想,https://play1.laoyacdn.com/20230520/xNzQ4gm1/838kb/hls/index.m3u8
+路邊撿妹幹 13,https://play1.laoyacdn.com/20230520/6j7XgB9m/839kb/hls/index.m3u8
+亂交徵選會 35,https://play1.laoyacdn.com/20230520/Jdi5y6Hd/837kb/hls/index.m3u8
+亮眼巨星 1,https://play1.laoyacdn.com/20230520/KIAHijxy/837kb/hls/index.m3u8
+鄰家美眉 2,https://play1.laoyacdn.com/20230520/fRKZBczS/841kb/hls/index.m3u8
+啦啦隊辣妹對黑屌 5,https://play1.laoyacdn.com/20230520/rmadC5Ha/835kb/hls/index.m3u8
+驚奇大波霸 2,https://play1.laoyacdn.com/20230520/26AqdY1D/836kb/hls/index.m3u8
+就幹學生妹 6,https://play1.laoyacdn.com/20230520/IOx8cKMt/839kb/hls/index.m3u8
+繼女內射 6,https://play1.laoyacdn.com/20230520/uVNlgse3/834kb/hls/index.m3u8
+今夜女砲友 86,https://play1.laoyacdn.com/20230520/HND3KP7J/834kb/hls/index.m3u8
+火辣老師的寵物,https://play1.laoyacdn.com/20230520/dAV8LAui/836kb/hls/index.m3u8
+火辣屁眼騷貨 3,https://play1.laoyacdn.com/20230520/K8hOl38W/840kb/hls/index.m3u8
+繼女秘密 2,https://play1.laoyacdn.com/20230520/fhm40WfT/836kb/hls/index.m3u8
+後庭花美女 6,https://play1.laoyacdn.com/20230520/JGh78DMP/837kb/hls/index.m3u8
+關於屁股的二三事 4,https://play1.laoyacdn.com/20230520/cypkdbcr/836kb/hls/index.m3u8
+狗仔隊,https://play1.laoyacdn.com/20230520/TkmpkcRz/838kb/hls/index.m3u8
+好色臭小子,https://play1.laoyacdn.com/20230520/v9mXN5se/835kb/hls/index.m3u8
+過來上我,https://play1.laoyacdn.com/20230520/joaY0pyC/836kb/hls/index.m3u8
+肛交三人行,https://play1.laoyacdn.com/20230520/NhzLqYeE/836kb/hls/index.m3u8
+肛交狂歡 4,https://play1.laoyacdn.com/20230520/vGtmjtCi/840kb/hls/index.m3u8
+肛交天使 9,https://play1.laoyacdn.com/20230520/M1mZNzgX/839kb/hls/index.m3u8
+給我老婆戴綠帽上我老婆,https://play1.laoyacdn.com/20230520/zIdsic2M/838kb/hls/index.m3u8
+多毛聯盟 12,https://play1.laoyacdn.com/20230520/1yELWFJT/835kb/hls/index.m3u8
+彈出拉丁淫穴 13,https://play1.laoyacdn.com/20230520/9Zwb3qjn/837kb/hls/index.m3u8
+大屁股三人行 2,https://play1.laoyacdn.com/20230520/BzJK4bUJ/837kb/hls/index.m3u8
+大奶護理師 2,https://play1.laoyacdn.com/20230520/WxAiVvJf/836kb/hls/index.m3u8
+大家都愛啦啦隊 2,https://play1.laoyacdn.com/20230520/aYU7GqN9/837kb/hls/index.m3u8
+大奶豐臀 61,https://play1.laoyacdn.com/20230520/UvLf8TTu/837kb/hls/index.m3u8
+抽插媽咪 11,https://play1.laoyacdn.com/20230520/xp8nnGRr/837kb/hls/index.m3u8
+潮吹給我 7,https://play1.laoyacdn.com/20230520/5B3WiiGw/838kb/hls/index.m3u8
+影響力,https://play1.laoyacdn.com/20230520/eF0xrQsE/843kb/hls/index.m3u8
+永不停止的渴望,https://play1.laoyacdn.com/20230520/AiGJABuN/836kb/hls/index.m3u8
+泳裝麻豆,https://play1.laoyacdn.com/20230520/1WIOubtr/838kb/hls/index.m3u8
+一日蕩婦終身蕩婦,https://play1.laoyacdn.com/20230520/PspxyfPO/839kb/hls/index.m3u8
+修理來幹砲 6,https://play1.laoyacdn.com/20230520/bQwooEAg/834kb/hls/index.m3u8
+淫亂學生妹 3,https://play1.laoyacdn.com/20230520/ag1O9F5t/839kb/hls/index.m3u8
+新互惠,https://play1.laoyacdn.com/20230520/G6ruMj01/838kb/hls/index.m3u8
+掀起你的短裙來,https://play1.laoyacdn.com/20230520/32IpyEjG/839kb/hls/index.m3u8
+童顏巨乳 22,https://play1.laoyacdn.com/20230520/W4jHrQlR/833kb/hls/index.m3u8
+偷幹專家 25,https://play1.laoyacdn.com/20230520/ARfPi4F3/837kb/hls/index.m3u8
+我的火辣好色叔母 3,https://play1.laoyacdn.com/20230520/h4u7uQny/460kb/hls/index.m3u8
+我愛大自然 54,https://play1.laoyacdn.com/20230520/QrSrtSfW/839kb/hls/index.m3u8
+完美曲線 2,https://play1.laoyacdn.com/20230520/X6n5PJKv/843kb/hls/index.m3u8
+我第一個幹砲老師 78,https://play1.laoyacdn.com/20230520/XFeiEsYb/837kb/hls/index.m3u8
+我第一個幹砲老師 77,https://play1.laoyacdn.com/20230520/UHJIoIhl/837kb/hls/index.m3u8
+我朋友的辣媽 95,https://play1.laoyacdn.com/20230520/v9sGbcGk/index.m3u8
+我朋友的辣媽 96,https://play1.laoyacdn.com/20230520/KF4G53hS/index.m3u8
+性愛你我她 2,https://play1.laoyacdn.com/20230520/xS0aJGsB/838kb/hls/index.m3u8
+在房間看我的女友 4,https://play1.laoyacdn.com/20230518/oXEfpQl5/834kb/hls/index.m3u8
+做愛吃早餐,https://play1.laoyacdn.com/20230518/sHsc3Qbu/837kb/hls/index.m3u8
+淫蕩肛交熟女 2,https://play1.laoyacdn.com/20230518/RKPzn8p0/838kb/hls/index.m3u8
+淫蕩名媛 17,https://play1.laoyacdn.com/20230518/COquHL2E/838kb/hls/index.m3u8
+淫蕩男友分享給你 18,https://play1.laoyacdn.com/20230518/3UBjf4fT/836kb/hls/index.m3u8
+淫穢家庭 5,https://play1.laoyacdn.com/20230518/3ptlv6F9/840kb/hls/index.m3u8
+夏日肛交情,https://play1.laoyacdn.com/20230518/slZ3mdMZ/index.m3u8
+我的性感火辣繼母,https://play1.laoyacdn.com/20230518/XoaOrQru/index.m3u8
+臥底滲透,https://play1.laoyacdn.com/20230518/ju0RgtPN/835kb/hls/index.m3u8
+我的繼妹吞精啦 5,https://play1.laoyacdn.com/20230518/2ky12Wl9/836kb/hls/index.m3u8
+三人行故事 8,https://play1.laoyacdn.com/20230518/rw9liwKv/837kb/hls/index.m3u8
+三人行故事 9,https://play1.laoyacdn.com/20230518/YTgn7ydA//837kb/hls/index.m3u8
+美妙肛交三人行,https://play1.laoyacdn.com/20230518/xhGcKOHN/838kb/hls/index.m3u8
+媽媽主導幹砲 14,https://play1.laoyacdn.com/20230518/Y4bOZK41/841kb/hls/index.m3u8
+亮眼巨星 2,https://play1.laoyacdn.com/20230518/bdyKwL1C/834kb/hls/index.m3u8
+家族秘密,https://play1.laoyacdn.com/20230518/AfF93igh/834kb/hls/index.m3u8
+華麗年輕 3,https://play1.laoyacdn.com/20230518/agJw0AkW/835kb/hls/index.m3u8
+好色辦公室 69,https://play1.laoyacdn.com/20230518/pjhMjblU/838kb/hls/index.m3u8
+肛交美眉全明星,https://play1.laoyacdn.com/20230518/VpYF5AaC/837kb/hls/index.m3u8
+肛交三人行 3,https://play1.laoyacdn.com/20230518/1YLwqg32/837kb/hls/index.m3u8
+肛交三人行 4,https://play1.laoyacdn.com/20230518/5trwxNZs/836kb/hls/index.m3u8
+肛交精選 1,https://play1.laoyacdn.com/20230518/chBDQ3dI/838kb/hls/index.m3u8
+俄羅斯學園 - 女校長的妹妹,https://play1.laoyacdn.com/20230518/2NhB4qNV/833kb/hls/index.m3u8
+最偉大的亂交,https://play1.laoyacdn.com/20230517/K9GRpx5t/838kb/hls/index.m3u8
+泳池亂交趴,https://play1.laoyacdn.com/20230517/MmKSqTKQ/839kb/hls/index.m3u8
+童顏巨乳 19,https://play1.laoyacdn.com/20230517/vwUVuyaN/841kb/hls/index.m3u8
+完美的雙龍抽插 50,https://play1.laoyacdn.com/20230517/hYfUli70/index.m3u8
+內射學生妹 3,https://play1.laoyacdn.com/20230517/BsRkwcjw/index.m3u8
+脈搏,https://play1.laoyacdn.com/20230517/wC7e8Ppx/835kb/hls/index.m3u8
+精液爆射敷臉 8,https://play1.laoyacdn.com/20230517/zE5ONFBr/837kb/hls/index.m3u8
+工作中的女人,https://play1.laoyacdn.com/20230517/6IoJCu61/index.m3u8
+肛交的優雅,https://play1.laoyacdn.com/20230517/VhEg0x7V/837kb/hls/index.m3u8
+肛交蕩婦 5,https://play1.laoyacdn.com/20230517/7LpozUxL/837kb/hls/index.m3u8
+肛交經典 2,https://play1.laoyacdn.com/20230517/cNO3GuLL/836kb/hls/index.m3u8
+蒂芬妮與耐莉伴遊DX,https://play1.laoyacdn.com/20230517/mvTLNAi2/835kb/hls/index.m3u8
+癡女護士與淫亂醫師 3,https://play1.laoyacdn.com/20230517/30mQeBMH/839kb/hls/index.m3u8
+亮眼巨星 3,https://play1.laoyacdn.com/20230516/iedQv4JZ/834kb/hls/index.m3u8
+可愛亮妹 5,https://play1.laoyacdn.com/20230516/UGZaRLEj/841kb/hls/index.m3u8
+健身房妖精 2,https://play1.laoyacdn.com/20230516/vHv1Nuhb/835kb/hls/index.m3u8
+肛交大明星,https://play1.laoyacdn.com/20230516/V5X1NX8U/index.m3u8
+雙插大師 7,https://play1.laoyacdn.com/20230516/0Kj2FR8O/838kb/hls/index.m3u8
+雙插渴望 2,https://play1.laoyacdn.com/20230516/dkww93C8/840kb/hls/index.m3u8
+三人行雙插處理,https://play1.laoyacdn.com/20230516/NrrmvtuJ/840kb/hls/index.m3u8
+殺人代號 87,https://play1.laoyacdn.com/20230516/6xxUO9CB/834kb/hls/index.m3u8
+乳膠家庭秘密,https://play1.laoyacdn.com/20230516/hmhyB5M1/847kb/hls/index.m3u8
+年輕換妻者,https://play1.laoyacdn.com/20230516/hDoOkWPV/840kb/hls/index.m3u8
+茉莉傑的交纏別墅,https://play1.laoyacdn.com/20230516/aMm9DjCe/835kb/hls/index.m3u8
+美臀保母 5,https://play1.laoyacdn.com/20230516/4aMrRQ1v/840kb/hls/index.m3u8
+我老婆的變態情慾,https://play1.laoyacdn.com/20230516/EQMAscfG/835kb/hls/index.m3u8
+完美的雙龍抽插 54,https://play1.laoyacdn.com/20230516/G26oFuzy/839kb/hls/index.m3u8
+讓我來3P 5,https://play1.laoyacdn.com/20230516/AY9rJwDf/837kb/hls/index.m3u8
+雀莉基斯無限,https://play1.laoyacdn.com/20230516/z9AXKZLM/840kb/hls/index.m3u8
+兩個女朋友比一個好,https://play1.laoyacdn.com/20230516/lplnauSh/837kb/hls/index.m3u8
+可莉高緹耶精選,https://play1.laoyacdn.com/20230516/U6LZVCIy/838kb/hls/index.m3u8
+教室雙插女教師 4,https://play1.laoyacdn.com/20230516/0M5xPOTj/837kb/hls/index.m3u8
+好友一起幹 16,https://play1.laoyacdn.com/20230516/vxaYoOWx/839kb/hls/index.m3u8
+搞上健身妹,https://play1.laoyacdn.com/20230516/gl6wjg7o/840kb/hls/index.m3u8
+工作中的女人 - 媒介,https://play1.laoyacdn.com/20230516/2MTJR0gK/841kb/hls/index.m3u8
+衝動 3,https://play1.laoyacdn.com/20230516/QuoaRhAC/838kb/hls/index.m3u8
+有利益的交換學生,https://play3.laoyacdn.com/20230514/RBTlIyio/839kb/hls/index.m3u8
+淫尻塗滿精油 2,https://play3.laoyacdn.com/20230514/afrW6ZnA//845kb/hls/index.m3u8
+性愛你我她,https://play3.laoyacdn.com/20230514/BGSw6T5V/840kb/hls/index.m3u8
+我上了好友爸 3,https://play3.laoyacdn.com/20230514/kOM8I8jI/846kb/hls/index.m3u8
+偷幹專家 22,https://play3.laoyacdn.com/20230514/qgiIoDgr/837kb/hls/index.m3u8
+完美的雙龍抽插 55,https://play3.laoyacdn.com/20230514/MYV8FIyk/837kb/hls/index.m3u8
+完美的雙龍抽插 56,https://play3.laoyacdn.com/20230514/ebgFSO9L/index.m3u8
+她的私人時刻,https://play3.laoyacdn.com/20230514/vJNCeXNu/834kb/hls/index.m3u8
+潤滑液洗屌淫女 12,https://play3.laoyacdn.com/20230514/S9V6ogLz/843kb/hls/index.m3u8
+沙夏與安潔莉卡的伴遊,https://play3.laoyacdn.com/20230514/PL4iY2Fp/836kb/hls/index.m3u8
+熟女訓練家,https://play3.laoyacdn.com/20230514/bbfleOFl/842kb/hls/index.m3u8
+雙倍愉悅,https://play3.laoyacdn.com/20230514/l8ETxV7x/835kb/hls/index.m3u8
+年輕又漂亮可愛,https://play3.laoyacdn.com/20230514/Z9KLZOzM/835kb/hls/index.m3u8
+年輕妹子愛肛交 3,https://play3.laoyacdn.com/20230514/5TYg1qHb/840kb/hls/index.m3u8
+美麗乳房 8,https://play3.laoyacdn.com/20230514/yC5owuu1/index.m3u8
+洛可的雙插麻煩 4,https://play3.laoyacdn.com/20230514/pPPKrMCD/837kb/hls/index.m3u8
+家庭內換妻 2,https://play3.laoyacdn.com/20230514/fBpnykJS/837kb/hls/index.m3u8
+好友一起幹 17,https://play3.laoyacdn.com/20230514/4eamxfOT/839kb/hls/index.m3u8
+幹砲性教育 9,https://play3.laoyacdn.com/20230514/5PLtK1Hj/837kb/hls/index.m3u8
+淫蕩美女 貝拉與吉內布拉,https://play3.laoyacdn.com/20230514/meKf5Oss/836kb/hls/index.m3u8
+偷幹專家 23,https://play3.laoyacdn.com/20230514/XXxKOekg/838kb/hls/index.m3u8
+吞精學生妹 2,https://play3.laoyacdn.com/20230514/CtZxkPTM/841kb/hls/index.m3u8
+玩咖女僕,https://play3.laoyacdn.com/20230514/Fl00kYAy/836kb/hls/index.m3u8
+肉慾三人行 3,https://play3.laoyacdn.com/20230514/CdWI2n7f/840kb/hls/index.m3u8
+皮條客的興奮搖擺 2,https://play3.laoyacdn.com/20230514/tnxUA2zB/840kb/hls/index.m3u8
+內衣麻豆經紀,https://play3.laoyacdn.com/20230513/DwD2iyUR/837kb/hls/index.m3u8
+媽媽主導幹砲 17,https://play3.laoyacdn.com/20230513/P2hfBhKY/837kb/hls/index.m3u8
+亮眼巨星 5,https://play3.laoyacdn.com/20230513/jhSdSFrb/836kb/hls/index.m3u8
+露營車園區妹,https://play3.laoyacdn.com/20230513/0RlWqByy/838kb/hls/index.m3u8
+亂肛三人行 3,https://play3.laoyacdn.com/20230513/Dxyp4B3E/836kb/hls/index.m3u8
+亂交徵選會 36,https://play3.laoyacdn.com/20230513/E8mZaPuc/834kb/hls/index.m3u8
+啦啦隊大亂交,https://play3.laoyacdn.com/20230513/QZVE893c/836kb/hls/index.m3u8
+快來雙插我 12,https://play3.laoyacdn.com/20230513/wTDbMkdJ/833kb/hls/index.m3u8
+角色扮演冒險 2,https://play3.laoyacdn.com/20230513/tOnM5BHn/839kb/hls/index.m3u8
+蕩婦亂交 3,https://play3.laoyacdn.com/20230513/tGQpdX1c/832kb/hls/index.m3u8
+雙妹雙插,https://play3.laoyacdn.com/20230513/scDArr06/837kb/hls/index.m3u8
+他們喜愛火辣的,https://play3.laoyacdn.com/20230513/XurEKQmp/838kb/hls/index.m3u8
+三人行精選,https://play3.laoyacdn.com/20230513/BnQz1zYn/837kb/hls/index.m3u8
+年輕人愛毒龍鑽,https://play3.laoyacdn.com/20230513/9S5Lm0Zz/841kb/hls/index.m3u8
+美國明星精選輯,https://play3.laoyacdn.com/20230513/3I2Q3NgY/833kb/hls/index.m3u8
+咪咪帝國 4,https://play3.laoyacdn.com/20230513/96Gpickq/index.m3u8
+媽媽主導幹砲 18,https://play3.laoyacdn.com/20230513/h26IC4wT/836kb/hls/index.m3u8
+聯繫人 Anissa Kate異教徒,https://play3.laoyacdn.com/20230513/Zf2E9wwb/843kb/hls/index.m3u8
+亮眼巨星 4,https://play3.laoyacdn.com/20230513/BAW4ottJ/836kb/hls/index.m3u8
+接觸,https://play3.laoyacdn.com/20230513/N4Uc4Ebp/838kb/hls/index.m3u8
+肛門插雕,https://play3.laoyacdn.com/20230513/24ig9lI6/838kb/hls/index.m3u8
+俄羅斯學園 - 紀律,https://play3.laoyacdn.com/20230513/otO3nMLG/836kb/hls/index.m3u8
+放學後亂交 4,https://play3.laoyacdn.com/20230513/4vvJU9Yc/839kb/hls/index.m3u8
+幹砲性教育 8,https://play3.laoyacdn.com/20230513/z4WoymQw/841kb/hls/index.m3u8
+當雪莉遇見艾莉西斯,https://play3.laoyacdn.com/20230513/0dH76JuG/index.m3u8
+肛肛好不會太年輕 2,https://play3.laoyacdn.com/20230512/DqYFDbQl/841kb/hls/index.m3u8
+泳池亂交趴 3,https://play3.laoyacdn.com/20230512/odkS7D7Y/838kb/hls/index.m3u8
+下流學生妹行動中,https://play3.laoyacdn.com/20230512/pONSyCBa/index.m3u8
+雙插惡魔,https://play3.laoyacdn.com/20230512/j74JnXB6/843kb/hls/index.m3u8
+靠近我,https://play3.laoyacdn.com/20230512/DLh6UcRH/851kb/hls/index.m3u8
+兩穴性愛幻想,https://play3.laoyacdn.com/20230512/B7MjNQnW/841kb/hls/index.m3u8
+駭人肛交 2,https://play3.laoyacdn.com/20230512/KxyjRdLW/844kb/hls/index.m3u8
+達到最高潮 2,https://play3.laoyacdn.com/20230512/UIg8JHDa/index.m3u8
+取悅用女僕,https://play3.laoyacdn.com/20230510/kNU4C8GX/844kb/hls/index.m3u8
+情侶性事,https://play3.laoyacdn.com/20230510/YKRSkvba/842kb/hls/index.m3u8
+年輕人愛毒龍鑽 2,https://play3.laoyacdn.com/20230510/eLv1F3mS/index.m3u8
+亮眼巨星 6,https://play3.laoyacdn.com/20230510/LVj4dcjx/843kb/hls/index.m3u8
+浸漬雙插,https://play3.laoyacdn.com/20230510/dW1dVGkE/840kb/hls/index.m3u8
+肛嬌對決 2,https://play3.laoyacdn.com/20230510/7OjBIFpO/842kb/hls/index.m3u8
+偷幹專家 28,https://play3.laoyacdn.com/20230509/8rn0mVUa/index.m3u8
+日夜潮吹 3,https://play3.laoyacdn.com/20230509/b5qCLWmF/457kb/hls/index.m3u8
+雙重交易,https://play3.laoyacdn.com/20230509/E8xWtcaH/456kb/hls/index.m3u8
+亮眼巨星 7,https://play3.laoyacdn.com/20230509/3Mr6mCGt/458kb/hls/index.m3u8
+
+🔞三级,#genre#
+青楼名妓之李香君,https://v6.jindangao.com/hj/hj2/hj21/10/hls/index.m3u8
+人细鬼大,https://v6.jindangao.com/hj/hj2/hj22/10/hls/index.m3u8
+兽性诱惑之赤裸性游戏2000,https://v6.jindangao.com/hj/hj2/hj23/25/hls/index.m3u8
+屠夫,https://v6.jindangao.com/hj/hj2/hj24/38/hls/index.m3u8
+贴身保镖,https://v6.jindangao.com/hj/hj2/hj24/31/hls/index.m3u8
+舒淇早期激情合集,https://v6.jindangao.com/hj/hj2/hj25/36/hls/index.m3u8
+杨贵妃,https://v6.jindangao.com/hj/hj2/hj27/37/hls/index.m3u8
+艳鬼冤魂,https://v6.jindangao.com/hj/hj2/hj27/34/hls/index.m3u8
+夜半思乳時,https://v6.jindangao.com/hj/hj2/hj28/1/hls/index.m3u8
+越轨之狼完整版,https://v6.jindangao.com/hj/hj2/hj29/12/hls/index.m3u8
+荡女淫春,https://v5.jindangao.com/ak1/ak2/ak29/24/hls/index.m3u8
+处女初夜情,https://v6.jindangao.com/hj/hj1/hj3/22/hls/index.m3u8
+换妻换上瘾,https://v5.jindangao.com/ff/f1/38/hls/index.m3u8
+西游记之八戒招亲,https://v5.jindangao.com/jj/j10/22/hls/index.m3u8
+西游记之性感白骨精,https://v5.jindangao.com/jj/j10/21/hls/index.m3u8
+西游记之盘丝洞,https://v5.jindangao.com/jj/j10/19/hls/index.m3u8
+西游记之反转死亡宝塔,https://v5.jindangao.com/jj/j10/17/hls/index.m3u8
+西游记之铁扇公主,https://v5.jindangao.com/jj/j10/18/hls/index.m3u8
+西游记之情迷女儿国,https://v5.jindangao.com/jj/j10/20/hls/index.m3u8
+新金瓶梅一,https://v6.jindangao.com/bb/b13/25/500kb/hls/index.m3u8
+新金瓶梅二,https://v6.jindangao.com/bb/b13/26/500kb/hls/index.m3u8
+新金瓶梅三,https://v6.jindangao.com/bb/b13/27/500kb/hls/index.m3u8
+新金瓶梅四,https://v6.jindangao.com/bb/b13/28/500kb/hls/index.m3u8
+新金瓶梅五,https://v6.jindangao.com/bb/b13/29/500kb/hls/index.m3u8
+艇妹,https://v6.jindangao.com/dd/d1/34/500kb/hls/index.m3u8
+我为卿狂,https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
+水浒传之英雄好色,https://v5.jindangao.com/gg/g9/23/hls/index.m3u8
+欲火狂蜜,https://v6.jindangao.com/hj/hj2/hj28/44/hls/index.m3u8
+新金瓶梅,2008https://v5.jindangao.com/zz/z8/10/hls/index.m3u8
+玉蒲团II之玉女心经,https://v5.jindangao.com/yy/y10/18/hls/index.m3u8
+竹夫人,https://v5.jindangao.com/eee/ee2/20/hls/index.m3u8
+激情艳女,https://v6.jindangao.com/v20/13/600kb/hls/index.m3u8
+满清十大酷刑,https://v5.jindangao.com/jj/j1/46/hls/index.m3u8
+剑奴,https://v5.jindangao.com/ff/f4/4/hls/index.m3u8
+婚前试爱,https://v5.jindangao.com/ff/f2/7/hls/index.m3u8
+爱的精灵,https://v5.jindangao.com/pp/p11/8/hls/index.m3u8
+卿本佳人,https://v5.jindangao.com/yy/y2/48/hls/index.m3u8
+蜜桃成熟时33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
+我来自北京,https://v5.jindangao.com/fff/ff7/8/hls/index.m3u8
+肉蒲团之夜销魂,https://v6.jindangao.com/aa/a30/28/500kb/hls/index.m3u8
+梁祝艳谭1集,https://v6.jindangao.com/dd/d16/2/1/700kb/hls/index.m3u8
+梁祝艳谭2集,https://v6.jindangao.com/dd/d16/2/2/700kb/hls/index.m3u8
+梁祝艳谭3集,https://v6.jindangao.com/dd/d16/2/3/700kb/hls/index.m3u8
+梁祝艳谭4集,https://v6.jindangao.com/dd/d16/2/4/700kb/hls/index.m3u8
+梁祝艳谭5集,https://v6.jindangao.com/dd/d16/2/4/700kb/hls/index.m3u8
+梁祝艳谭6集,https://v6.jindangao.com/dd/d16/2/6/700kb/hls/index.m3u8
+梁祝艳谭7集,https://v6.jindangao.com/dd/d16/2/7/700kb/hls/index.m3u8
+梁祝艳谭8集,https://v6.jindangao.com/dd/d16/2/8/700kb/hls/index.m3u8
+梁祝艳谭9集,https://v6.jindangao.com/dd/d16/2/9/700kb/hls/index.m3u8
+梁祝艳谭10集,https://v6.jindangao.com/dd/d16/2/10/700kb/hls/index.m3u8
+梁祝艳谭11集,https://v6.jindangao.com/dd/d16/2/11/700kb/hls/index.m3u8
+梁祝艳谭12集,https://v6.jindangao.com/dd/d16/2/12/700kb/hls/index.m3u8
+梁祝艳谭13集,https://v6.jindangao.com/dd/d16/2/13/700kb/hls/index.m3u8
+梁祝艳谭14集,https://v6.jindangao.com/dd/d16/2/14/700kb/hls/index.m3u8
+梁祝艳谭15集,https://v6.jindangao.com/dd/d16/2/15/700kb/hls/index.m3u8
+梁祝艳谭16集,https://v6.jindangao.com/dd/d16/2/16/700kb/hls/index.m3u8
+梁祝艳谭17集,https://v6.jindangao.com/dd/d16/2/17/700kb/hls/index.m3u8
+梁祝艳谭18集,https://v6.jindangao.com/dd/d16/2/18/700kb/hls/index.m3u8
+梁祝艳谭19集,https://v6.jindangao.com/dd/d16/2/19/700kb/hls/index.m3u8
+梁祝艳谭20集,https://v6.jindangao.com/dd/d16/2/20/700kb/hls/index.m3u8
+银家大院第一集之比武招精,https://player.hgcdn666.com/20230308/L1rUkKQP/index.m3u8
+银家大院第二集之夫人的吸哈教室,https://player.hgcdn666.com/20230308/7AaX784e/index.m3u8
+银家大院第三集之你是谁啊,https://player.hgcdn666.com/20230308/PCYK7V0o/index.m3u8
+银家大院第四集之性福来的太突然,https://player.hgcdn666.com/20230308/DxWS5Qjh/index.m3u8
+银家大院第五集之爸爸再爱我一次,https://player.hgcdn666.com/20230308/j5qVItY6/index.m3u8
+新应召女郎,https://163.grr4d46c.com/changpian/m3u8/jingdiansanji/202301/%E6%96%B0%E5%BA%94%E5%8F%AC%E5%A5%B3%E9%83%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%EF%BC%88%E5%9B%BD%E4%BA%A7%EF%BC%89/%E6%96%B0%E5%BA%94%E5%8F%AC%E5%A5%B3%E9%83%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%EF%BC%88%E5%9B%BD%E4%BA%A7%EF%BC%89.m3u8
+金瓶双艳,https://v5.jindangao.com/zz/z8/12/hls/index.m3u8
+勾魂降头,https://v5.jindangao.com/ll/l7/13/hls/index.m3u8
+风流才子俏佳人,https://v5.jindangao.com/pp/p11/11/hls/index.m3u8
+1992新女性宝鉴,https://v5.jindangao.com/ee/e1/48/hls/index.m3u8
+足本玉蒲团,https://v5.jindangao.com/fff/ff0/38/hls/index.m3u8
+96金瓶梅续集杨思雯版1,https://v5.jindangao.com/xx/x1/14/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版2,https://v5.jindangao.com/xx/x1/15/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版3,https://v5.jindangao.com/xx/x1/16/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版4,https://v5.jindangao.com/xx/x1/17/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版5,https://v5.jindangao.com/xx/x1/18/1000kb/hls/index.m3u8
+金瓶风月,https://v5.jindangao.com/ee/e1/6/hls/index.m3u8
+风月宝鉴之家花自有香,https://v5.jindangao.com/ll/l5/30/hls/index.m3u8
+半妖乳娘,https://v5.jindangao.com/zz/z3/2/hls/index.m3u8
+八仙饭店之人肉叉烧包,https://v5.jindangao.com/zz/z2/37/hls/index.m3u8
+人皮高跟鞋,https://v5.jindangao.com/pp/p11/28/hls/index.m3u8
+聊斋志异之孽欲孤鬼,https://v5.jindangao.com/ff/f8/28/hls/index.m3u8
+性气功之探秘,https://v5.jindangao.com/hh/h2/17/hls/index.m3u8
+青楼十二房国粤双语,https://v5.jindangao.com/nn/n9/51/hls/index.m3u8
+与蛇共舞,https://v5.jindangao.com/hh/h6/27/hls/index.m3u8
+聊斋艳谭1之艳魔大战,https://v5.jindangao.com/zz/z9/49/hls/index.m3u8
+齐天大性之大闹女儿国,https://v5.jindangao.com/gg/g1/13/hls/index.m3u8
+齐天大性之大破盘丝洞,https://v5.jindangao.com/gg/g1/14/hls/index.m3u8
+艳妇转世1,https://v5.jindangao.com/fff/ff9/23/hls/index.m3u8
+艳妇转世2,https://v5.jindangao.com/fff/ff9/24/hls/index.m3u8
+西厢艳谭,https://v5.jindangao.com/zz/z1/36/800kb/hls/index.m3u8
+双姝艳A,https://v5.jindangao.com/gg/g9/9/hls/index.m3u8
+双姝艳B,https://v5.jindangao.com/gg/g9/10/hls/index.m3u8
+聊斋系列之山中艳谭,https://v5.jindangao.com/yy/y4/16/hls/index.m3u8
+聊斋花弄月,https://v5.jindangao.com/eee/ee10/14/hls/index.m3u8
+猛鬼佳人,https://v5.jindangao.com/jj/j3/9/hls/index.m3u8
+金蚕降,https://v5.jindangao.com/ff/f5/15/hls/index.m3u8
+唐朝禁宫秘史,https://v5.jindangao.com/kk/k1/22/hls/index.m3u8
+羔羊医生,https://v5.jindangao.com/ll/l6/22/hls/index.m3u8
+风月奇谭,https://v5.jindangao.com/ll/l5/38/hls/index.m3u8
+娇妻四艳鬼,https://v5.jindangao.com/pp/p11/18/hls/index.m3u8
+四大美人之西施,https://v5.jindangao.com/gg/g9/45/hls/index.m3u8
+山狗1999,https://v5.jindangao.com/gg/g6/42/hls/index.m3u8
+唐朝禁宫风月,https://v5.jindangao.com/gg/g10/26/hls/index.m3u8
+四大名妓之苏小小,https://v5.jindangao.com/gg/g9/49/hls/index.m3u8
+四大名妓之李香君,https://v5.jindangao.com/gg/g9/48/hls/index.m3u8
+四大名妓之李师师,https://v5.jindangao.com/gg/g9/47/hls/index.m3u8
+四大名妓之陈圆圆,https://v5.jindangao.com/gg/g9/46/hls/index.m3u8
+色中饿鬼,https://v5.jindangao.com/gg/g5/14/hls/index.m3u8
+色欲怪谈之魔奸淫者,https://v5.jindangao.com/gg/g5/21/hls/index.m3u8
+我爱狐狸精,https://v5.jindangao.com/yy/y7/25/hls/index.m3u8
+香帅传奇之胡铁花与小淫猴,https://v5.jindangao.com/kk/k8/31/hls/index.m3u8
+新人肉叉烧包,https://v5.jindangao.com/kk/k10/46/hls/index.m3u8
+应召女郎1988,https://v5.jindangao.com/hh/h7/50/hls/index.m3u8
+淫魔暴行,https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
+樱花劫,https://v5.jindangao.com/hh/h7/24/hls/index.m3u8
+诱僧,https://v5.jindangao.com/yy/y10/14/hls/index.m3u8
+玉蒲团之偷情宝鉴,https://v5.jindangao.com/yy/y10/19/hls/index.m3u8
+阳光地狱之人肉市场,https://v5.jindangao.com/hh/h4/1/hls/index.m3u8
+大内密探之零零性性,https://v5.jindangao.com/ll/l2/6/hls/index.m3u8
+射鸡英雄传,https://v5.jindangao.com/gg/g8/3/hls/index.m3u8
+聊斋金瓶梅,https://v5.jindangao.com/zz/z9/46/hls/index.m3u8
+唐朝禁宫酷刑,https://v5.jindangao.com/kk/k1/23/hls/index.m3u8
+素女经之挑情宝鉴,https://v5.jindangao.com/gg/g10/6/hls/index.m3u8
+金瓶梅之鸳鸯戏床,https://v5.jindangao.com/ff/f5/14/hls/index.m3u8
+人肉玩具,https://v5.jindangao.com/gg/g3/36/hls/index.m3u8
+勾魂恶梦,https://v5.jindangao.com/ll/l7/15/hls/index.m3u8
+鬼娘子,https://v5.jindangao.com/ll/l7/44/hls/index.m3u8
+人肉腊肠,https://v5.jindangao.com/gg/g3/49/hls/index.m3u8
+茅山斗降头,https://v5.jindangao.com/ff/f10/31/hls/index.m3u8
+生人勿近之邪花,https://v5.jindangao.com/gg/g7/26/hls/index.m3u8
+玉蒲团3D,https://v5.jindangao.com/yy/y10/17/hls/index.m3u8
+性的厉鬼,https://v5.jindangao.com/eee/ee1/23/hls/index.m3u8
+女机械人高清版,https://v5.jindangao.com/yy/y2/15/hls/index.m3u8
+唐皇宫外情之唐朝奸妃,https://v5.jindangao.com/kk/k1/21/hls/index.m3u8
+降头2007,https://v5.jindangao.com/ff/f4/8/hls/index.m3u8
+聊斋惊艳,https://v5.jindangao.com/zz/z9/47/hls/index.m3u8
+新红楼梦艳情版1,https://v5.jindangao.com/kk/k10/28/hls/index.m3u8
+新红楼梦艳情版2,https://v5.jindangao.com/kk/k10/29/hls/index.m3u8
+新红楼梦艳情版3,https://v5.jindangao.com/kk/k10/30/hls/index.m3u8
+人蛇鼠,https://v5.jindangao.com/gg/g4/1/hls/index.m3u8
+素女真经TheStoryofLadySue,https://v5.jindangao.com/yy/y5/39/hls/index.m3u8
+五行鬼尸,https://v5.jindangao.com/oo/o8/19/hls/index.m3u8
+慈禧的秘密生活,https://v5.jindangao.com/zz/z4/23/hls/index.m3u8
+满清十大酷刑之赤裸凌迟,https://v5.jindangao.com/jj/j1/48/hls/index.m3u8
+青楼十二房,https://v5.jindangao.com/yy/y2/47/hls/index.m3u8
+灭门惨案II借种,https://v5.jindangao.com/zz/z1/19/hls/index.m3u8
+香帅传奇之天一神油,https://v5.jindangao.com/kk/k1/28/hls/index.m3u8
+新素女艳谭,https://v5.jindangao.com/kk/k10/18/hls/index.m3u8
+猛鬼咒,https://v5.jindangao.com/zz/z10/49/hls/index.m3u8
+偷情宝鉴性爱三十六房,https://v5.jindangao.com/fff/ff0/32/hls/index.m3u8
+四大美人之王昭君,https://v5.jindangao.com/yy/y5/31/hls/index.m3u8
+鳄降-色鳄淫魔,https://v5.jindangao.com/zz/z4/49/hls/index.m3u8
+尸蛊艳谭完整版,https://v5.jindangao.com/yy/y4/51/hls/index.m3u8
+满清禁宫奇案,https://v5.jindangao.com/zz/z10/34/hls/index.m3u8
+色降,https://v5.jindangao.com/yy/y4/9/hls/index.m3u8
+玉蒲团5之阳物性教,https://v5.jindangao.com/hh/h6/36/hls/index.m3u8
+聊斋艳谭3之灯草和尚,https://v5.jindangao.com/zz/z10/1/hls/index.m3u8
+玉蒲团6之淫行天下,https://v5.jindangao.com/hh/h6/35/hls/index.m3u8
+聊斋艳奇之陆判性经,https://v5.jindangao.com/zz/z1/6/hls/index.m3u8
+玉蒲团之新官人我要,https://v5.jindangao.com/yy/y8/39/hls/index.m3u8
+蜜桃成熟时3之蜜桃仙子,https://v5.jindangao.com/jj/j4/13/hls/index.m3u8
+风月宝鉴之初入桃源洞,https://v5.jindangao.com/eee/ee6/20/hls/index.m3u8
+风月宝鉴之冥府春色,https://v5.jindangao.com/ll/l5/31/hls/index.m3u8
+鬼骨场,https://v5.jindangao.com/zz/z6/5/hls/index.m3u8
+浮世风情绘,https://v5.jindangao.com/xx/x2/22/hls/index.m3u8
+聊斋志异之鬼叫春,https://v5.jindangao.com/zz/z6/7/hls/index.m3u8
+聊斋之艳蛇,https://v5.jindangao.com/ff/f8/26/hls/index.m3u8
+四大美人之杨贵妃,https://v5.jindangao.com/gg/g9/50/hls/index.m3u8
+武松1982,https://v5.jindangao.com/ee/e1/12/hls/index.m3u8
+聊斋志异12之孽欲孤魂,https://v5.jindangao.com/zz/z1/24/hls/index.m3u8
+色降2之血玫瑰,https://v5.jindangao.com/yy/y4/8/hls/index.m3u8
+聊斋艳谭9之画皮,https://v5.jindangao.com/ff/f9/24/hls/index.m3u8
+种鬼,https://v5.jindangao.com/hh/h10/40/hls/index.m3u8
+邪斗邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
+催花神龙教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
+聊斋艳谭5婴宁,https://v5.jindangao.com/ff/f9/23/hls/index.m3u8
+聊斋艳谭2之五通神,https://v5.jindangao.com/zz/z9/50/hls/index.m3u8
+色咒邪灵艳降勾魂,https://v5.jindangao.com/oo/o7/1/hls/index.m3u8
+南洋十大邪术,https://v6.jindangao.com/v9/5/600kb/hls/index.m3u8
+极乐酷刑,https://v6.jindangao.com/v11/18/600kb/hls/index.m3u8
+聊斋艳谭1艳魔大战,https://v6.jindangao.com/v22/18/600kb/hls/index.m3u8
+猛鬼出笼II艳鬼发狂,https://v6.jindangao.com/dd/d7/55/500kb/hls/index.m3u8
+唐伯虎点秋香成人版,https://v6.jindangao.com/bb/b3/32/500kb/hls/index.m3u8
+肉蒲团之夜销魂,https://v6.jindangao.com/aa/a30/28/500kb/hls/index.m3u8
+艳鬼凶灵,https://v6.jindangao.com/dd/d6/16/500kb/hls/index.m3u8
+艳鬼情未了,https://v6.jindangao.com/dd/d6/14/500kb/hls/index.m3u8
+香帅传奇之淫教煞星,https://v6.jindangao.com/dd/d3/35/500kb/hls/index.m3u8
+玉蒲团之西厢艳谈,https://v6.jindangao.com/v24/23/600kb/hls/index.m3u8
+聊斋艳谭之幽构,https://v6.jindangao.com/aa/a8/12/600kb/hls/index.m3u8
+渔夫荒淫艳史,https://v6.jindangao.com/dd/d11/35/500kb/hls/index.m3u8
+武松/潘金莲,https://v6.jindangao.com/v36/9/600kb/hls/index.m3u8
+勾魂倩女_鬼叫春,https://v6.jindangao.com/dd/d21/18/700kb/hls/index.m3u8
+蜈蚣咒,https://v6.jindangao.com/bb/b16/30/500kb/hls/index.m3u8
+青楼名妓小桃花,https://v6.jindangao.com/bb/b25/10/500kb/hls/index.m3u8
+古裝四仔之秦淮才女,https://v6.jindangao.com/dd/d20/8/700kb/hls/index.m3u8
+纸盒藏尸之公审,https://v6.jindangao.com/dd/d9/40/500kb/hls/index.m3u8
+风月宝鉴-淫乱英雄传,https://v6.jindangao.com/v21/4/600kb/hls/index.m3u8
+
+
+
 
