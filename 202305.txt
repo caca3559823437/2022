@@ -49,18 +49,6 @@
             "name": "😺 影视阿里无敌"
         },
 {
-            "url": "https://qu.ax/joAo.json",
-            "name": "🌸🔞影视搜索"
-        },
-{
-            "url": "https://qu.ax/nwXz.json",
-            "name": "🌸🔞影视无敌"
-        },
-{
-            "url": "https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json",
-            "name": "🌸🔞影视福利"
-        },
-{
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
             "name": "🌸🔞影视01"
         },
@@ -93,8 +81,24 @@
             "name": "🌸🔞影视08"
         },
 {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
+            "url": "https://qu.ax/joAo.json",
             "name": "🌸🔞影视09"
+        },
+{
+            "url": "https://qu.ax/nwXz.json",
+            "name": "🌸🔞影视10"
+        },
+{
+            "url": "https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json",
+            "name": "🌸🔞影视11"
+        },
+{
+            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
+            "name": "🌸🔞影视12"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
+            "name": "🌸🔞影视13"
         }
     ]
 }
