@@ -33,8 +33,16 @@
             "name": "😺 影视宝盒"
         },
 {
-            "url": "http://cf.weixine.net/ysc.json",
-            "name": "😺 影视运输车加速"
+            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json ",
+            "name": "😺 影视阿凯"
+        },
+{
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
+            "name": "😺 影视T4"
+        },
+{
+            "url": "https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt ",
+            "name": "😺 影视影迷"
         },
 {
             "url": "https://weixine.net/ysc.json",
