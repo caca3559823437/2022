@@ -619,6 +619,9 @@ ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 五星體育,https://dispatchnew.ulivetv.net/v/live/cgxamfznu56o.m3u8?stream_id=cgxamfznu56o&token=c0vzuc7wqkzk
 
 🇭🇰香港,#genre#
+鳳凰資訊臺,http://ainm.cc/c/tv/gatv/fhx2.php?id=fhzx&fmt=flv
+鳳凰衛視臺,http://ainm.cc/c/tv/gatv/fhx2.php?id=fhzw&fmt=flv
+鳳凰香港臺,http://ainm.cc/c/tv/gatv/fhx2.php?id=fhhk&fmt=flv
 港臺電視31,mitv://generationnexxxt.com:19806/12b5eea072e34abbaf7adfd950404b67
 港臺電視32,mitv://generationnexxxt.com:19806/8ab3331324eb460789c1dfb4ccd904eb
 HOYTV,mitv://generationnexxxt.com:19806/fa4b14cab6fc46babb93f8a07499f9fa
@@ -629,9 +632,9 @@ J2,mitv://generationnexxxt.com:19806/fd81ce98b0c042d3a02e02915f067009
 無綫財經體育資訊臺,mitv://generationnexxxt.com:19806/a2a378dcf0c14f3c9640b58f1c237ecb
 ViuTVsix,mitv://generationnexxxt.com:19806/d03a7bc7192b438d819cccb87e57c241
 ViuTV,mitv://generationnexxxt.com:19806/de010e8c970248058b86f475476cf6cd
-鳳凰衛視臺,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰資訊臺,mitv://generationnexxxt.com:19806/09e4cacca57e465e8bdd47481f842b83
-鳳凰香港臺,mitv://generationnexxxt.com:19806/1229628cd9d1442ca81ee8e3148dbbf6
+鳳凰衛視臺臺,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+鳳凰資訊臺臺,mitv://generationnexxxt.com:19806/09e4cacca57e465e8bdd47481f842b83
+鳳凰香港臺臺,mitv://generationnexxxt.com:19806/1229628cd9d1442ca81ee8e3148dbbf6
 TVB星河(粤),mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
 澳门-MACAU,mitv://generationnexxxt.com:19806/499492b27bc2498a866bdf625c54a84b
 澳门莲花,mitv://generationnexxxt.com:19806/d2fd5d20e9574d008a6d863deeb82c25
@@ -664,9 +667,9 @@ J2,mitv://135.148.104.228:19806/fd81ce98b0c042d3a02e02915f067009
 無綫財經體育資訊臺,mitv://135.148.104.228:19806/a2a378dcf0c14f3c9640b58f1c237ecb
 ViuTVsix,mitv://135.148.104.228:19806/d03a7bc7192b438d819cccb87e57c241
 ViuTV,mitv://135.148.104.228:19806/de010e8c970248058b86f475476cf6cd
-鳳凰衛視臺,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰資訊臺,mitv://135.148.104.228:19806/09e4cacca57e465e8bdd47481f842b83
-鳳凰香港臺,mitv://135.148.104.228:19806/1229628cd9d1442ca81ee8e3148dbbf6
+鳳凰衛視臺臺,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
+鳳凰資訊臺臺,mitv://135.148.104.228:19806/09e4cacca57e465e8bdd47481f842b83
+鳳凰香港臺臺,mitv://135.148.104.228:19806/1229628cd9d1442ca81ee8e3148dbbf6
 TVB星河(粤),mitv://135.148.104.228:19806/8c81917b79d247f3a60857411973d9a5
 澳门-MACAU,mitv://135.148.104.228:19806/499492b27bc2498a866bdf625c54a84b
 澳门莲花,mitv://135.148.104.228:19806/d2fd5d20e9574d008a6d863deeb82c25
@@ -689,27 +692,24 @@ Hands Up,mitv://135.148.104.228:19806/e78b4e2900154414a93f2ccd57a18d04
 HOY資訊臺,mitv://135.148.104.228:19806/175efe3d1ab64b21ad55a51bc57a2078
 黄金翡翠臺,mitv://135.148.104.228:19806/deb48b262c694a84b63cd3aa96d95347
 
-鳳凰資訊,http://113.64.147.60:8081/hls/36/index.m3u8
-鳳凰資訊,http://113.117.74.28:8081/hls/36/index.m3u8
-鳳凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
-鳳凰資訊,http://qspyx.7766.org:9999/tsfile/live/1105_1.m3u8
-鳳凰資訊,http://www.pr666.site:4040/udp/239.255.30.70:8231
-鳳凰資訊,http://e2.woc.iiiya.cn:8888/udp/239.61.5.213:1025
-鳳凰資訊,http://120.8.135.86:10010/hls/100/index.m3u8
+鳳凰資訊臺,http://113.117.74.28:8081/hls/36/index.m3u8
+鳳凰資訊臺,http://107.151.203.111:2209/135/hk.php?id=fhzx
+鳳凰資訊臺,http://qspyx.7766.org:9999/tsfile/live/1105_1.m3u8
+鳳凰資訊臺,http://www.pr666.site:4040/udp/239.255.30.70:8231
+鳳凰資訊臺,http://e2.woc.iiiya.cn:8888/udp/239.61.5.213:1025
+鳳凰資訊臺,http://120.8.135.86:10010/hls/100/index.m3u8
 
-鳳凰衛視,http://113.117.74.12:8081/hls/37/index.m3u8
-鳳凰衛視,http://113.64.147.60:8081/hls/37/index.m3u8
-鳳凰衛視,http://107.151.203.111:2209/135/hk.php?id=fhzw
-鳳凰衛視,http://qspyx.7766.org:9999/tsfile/live/1106_1.m3u8
-鳳凰衛視,http://www.pr666.site:4040/udp/239.255.30.50:8231
-鳳凰衛視,http://175.13.226.6:8888/udp/239.76.253.135:9000
+鳳凰衛視臺,http://113.117.74.12:8081/hls/37/index.m3u8
+鳳凰衛視臺,http://107.151.203.111:2209/135/hk.php?id=fhzw
+鳳凰衛視臺,http://qspyx.7766.org:9999/tsfile/live/1106_1.m3u8
+鳳凰衛視臺,http://www.pr666.site:4040/udp/239.255.30.50:8231
+鳳凰衛視臺,http://175.13.226.6:8888/udp/239.76.253.135:9000
 
-鳳凰衛視,http://175.13.226.6:8888/udp/239.76.253.134:9000
+鳳凰衛視臺,http://175.13.226.6:8888/udp/239.76.253.134:9000
 
 
-鳳凰香港,http://113.64.147.60:8081/hls/38/index.m3u8
-鳳凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
-鳳凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+鳳凰香港臺,http://113.117.74.20:8081/hls/38/index.m3u8
+鳳凰香港臺,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 鳳凰電影,http://epg.112114.xyz/huya/11602058
 香港衛視,http://107.151.203.111:2209/135/hk.php?id=hkws
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -755,15 +755,15 @@ ViuTV,https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0
 ViuTV6,https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&token=c0vzuc7wqkzk
 ViuTV,https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&token=c0vzuc7wqkzk
 ViuTV,https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&token=c0vzuc7wqkzk
-RTHK31,https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
-RTHK32,https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
+港臺電視31,https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
+港臺電視32,https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
 HOYTV,https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
 HOY資訊台,https://dispatchnew.ulivetv.net/v/live/ccns0cgwuf9c.m3u8?stream_id=ccns0cgwuf9c&token=c0vzuc7wqkzk
 國際財經,https://dispatchnew.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&token=c0vzuc7wqkzk
 無綫財經,https://dispatchnew.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&token=c0vzuc7wqkzk
 
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-RTHK34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+港臺電視32,https://港臺電視tv32-live.akamaized.net/hls/live/2036819/港臺電視TV32/stream2/streamPlaylist.m3u8
+港臺電視34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 無綫財經,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 無綫新聞,http://107.167.12.58:27347/livehttpplay?channel_id=20123
@@ -782,12 +782,15 @@ RTHK34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-RTHK31,http://107.167.12.58:27347/livehttpplay?channel_id=20203
-RTHK32,http://107.167.12.58:27347/livehttpplay?channel_id=30028
+港臺電視31,http://107.167.12.58:27347/livehttpplay?channel_id=20203
+港臺電視32,http://107.167.12.58:27347/livehttpplay?channel_id=30028
 ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
-
+無綫財經,http://fhv8.yj011.net/sat/hk031.flv
+無綫財經,http://fhv8.yj011.net/sat/hk011.flv
+18臺,http://fhv8.yj011.net/sat/hk021.flv
+18臺,http://fsv4.yj011.net/sat/hk021.flv
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -1274,9 +1277,9 @@ J2,mitv://generationnexxxt.com:19806/fd81ce98b0c042d3a02e02915f067009
 無綫財經體育資訊臺,mitv://generationnexxxt.com:19806/a2a378dcf0c14f3c9640b58f1c237ecb
 ViuTVsix,mitv://generationnexxxt.com:19806/d03a7bc7192b438d819cccb87e57c241
 ViuTV,mitv://generationnexxxt.com:19806/de010e8c970248058b86f475476cf6cd
-鳳凰衛視臺,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰資訊臺,mitv://generationnexxxt.com:19806/09e4cacca57e465e8bdd47481f842b83
-鳳凰香港臺,mitv://generationnexxxt.com:19806/1229628cd9d1442ca81ee8e3148dbbf6
+鳳凰衛視臺臺,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+鳳凰資訊臺臺,mitv://generationnexxxt.com:19806/09e4cacca57e465e8bdd47481f842b83
+鳳凰香港臺臺,mitv://generationnexxxt.com:19806/1229628cd9d1442ca81ee8e3148dbbf6
 TVB星河(粤),mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
 澳门-MACAU,mitv://generationnexxxt.com:19806/499492b27bc2498a866bdf625c54a84b
 澳门莲花,mitv://generationnexxxt.com:19806/d2fd5d20e9574d008a6d863deeb82c25
@@ -1899,9 +1902,9 @@ J2,mitv://135.148.104.228:19806/fd81ce98b0c042d3a02e02915f067009
 無綫財經體育資訊臺,mitv://135.148.104.228:19806/a2a378dcf0c14f3c9640b58f1c237ecb
 ViuTVsix,mitv://135.148.104.228:19806/d03a7bc7192b438d819cccb87e57c241
 ViuTV,mitv://135.148.104.228:19806/de010e8c970248058b86f475476cf6cd
-鳳凰衛視臺,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰資訊臺,mitv://135.148.104.228:19806/09e4cacca57e465e8bdd47481f842b83
-鳳凰香港臺,mitv://135.148.104.228:19806/1229628cd9d1442ca81ee8e3148dbbf6
+鳳凰衛視臺臺,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
+鳳凰資訊臺臺,mitv://135.148.104.228:19806/09e4cacca57e465e8bdd47481f842b83
+鳳凰香港臺臺,mitv://135.148.104.228:19806/1229628cd9d1442ca81ee8e3148dbbf6
 TVB星河(粤),mitv://135.148.104.228:19806/8c81917b79d247f3a60857411973d9a5
 澳门-MACAU,mitv://135.148.104.228:19806/499492b27bc2498a866bdf625c54a84b
 澳门莲花,mitv://135.148.104.228:19806/d2fd5d20e9574d008a6d863deeb82c25
@@ -2515,9 +2518,9 @@ NBA,mitv://135.148.104.228:19806/6fcac440f84e4d6b8a6ebeed5d393dba
 城市電視,mitv://135.148.104.228:19806/a18fbea7eddd4079b3e2e684d19df5c4
 
 🇺🇸全球加速,#genre#
-鳳凰資訊,https://sc2022.stream-link.org/tv2306.php?id=h18
-鳳凰衛視,https://sc2022.stream-link.org/tv2306.php?id=h19
-鳳凰香港,https://sc2022.stream-link.org/tv2306.php?id=h20
+鳳凰資訊臺,https://sc2022.stream-link.org/tv2306.php?id=h18
+鳳凰衛視臺,https://sc2022.stream-link.org/tv2306.php?id=h19
+鳳凰香港臺,https://sc2022.stream-link.org/tv2306.php?id=h20
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
 J2台,https://sc2022.stream-link.org/tv2306.php?id=h03
@@ -2548,9 +2551,9 @@ TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
 明珠台,http://223.17.115.122:9981/stream/channelid/9?ticket=D0F1A769034B8A11FFA6A3B5A766BF68941EBA87
 J2,http://223.17.122.142:9981/stream/channelid/2082072924?ticket=988f0393442a8969bc55321243b839de6e792003&profile=pass
 J2,http://223.17.115.122:9981/stream/channelid/11?ticket=A9A7A05D3F617370646DB263FEB0F6DE42F9512D
-RTHK,http://223.17.115.122:9981/stream/channelid/15?ticket=0AC91AD17D717BB024E2CBD7D32EC45CE27EA772
-RTHK31,http://223.17.115.122:9981/stream/channelid/4?ticket=E6581FB07D93D5715F12BF6FD2A2CBAE5BE805AB
-RTHK32,http://223.17.115.122:9981/stream/channelid/7?ticket=8C3B357F44B1CA231326585FC22979FDC2F8A352
+港臺電視,http://223.17.115.122:9981/stream/channelid/15?ticket=0AC91AD17D717BB024E2CBD7D32EC45CE27EA772
+港臺電視31,http://223.17.115.122:9981/stream/channelid/4?ticket=E6581FB07D93D5715F12BF6FD2A2CBAE5BE805AB
+港臺電視32,http://223.17.115.122:9981/stream/channelid/7?ticket=8C3B357F44B1CA231326585FC22979FDC2F8A352
 無綫新聞,http://223.17.122.142:9981/stream/channelid/2051586642?ticket=573bd53607b7974a21b0abcf67330c1652227aec&profile=pass
 無綫新聞,http://223.17.115.122:9981/stream/channelid/8?ticket=4D8112FCECE3587CDD278F2E2B06CC6351869BE2
 無綫財經,http://223.17.122.142:9981/stream/channelid/1781676223?ticket=1951f24669548878a3a4af728097b23f5bf140da&profile=pass
@@ -2777,7 +2780,7 @@ NBS 農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?WithCaption
+港臺電視32,https://港臺電視tv32-live.akamaized.net/hls/live/2036819/港臺電視TV32/master.m3u8?WithCaption
 Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
