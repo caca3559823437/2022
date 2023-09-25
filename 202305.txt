@@ -149,8 +149,24 @@
             "name": "🌸🔞影视23"
         },
 {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/ziyong.json",
             "name": "🌸🔞影视24"
+        },
+{
+            "url": "https://pan.shangui.cc/f/54KbSA/%E7%A6%8F%E5%88%A91.txt",
+            "name": "🌸🔞影视25"
+        },
+{
+            "url": "https://pan.shangui.cc/f/LVLKS3/%E7%A6%8F%E5%88%A99.txt",
+            "name": "🌸🔞影视26"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ACaringPeople/tvinterface/main/xhr.json",
+            "name": "🌸🔞影视27"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
+            "name": "🌸🔞影视28"
         }
     ]
 }
