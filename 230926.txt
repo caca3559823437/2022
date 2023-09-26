@@ -115,13 +115,4 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }
-      ],
-      "parses":[
-      {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    }],
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"
-}
+      ]
