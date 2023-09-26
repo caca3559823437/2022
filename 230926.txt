@@ -1,5 +1,5 @@
 ﻿直播-线上
-https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/23092601.json
+https://raw.githubusercontent.com/caca3559823437/2022/main/23092601.json
 {
   "lives": [
         {
