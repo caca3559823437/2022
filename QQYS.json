@@ -7,7 +7,13 @@
 {"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8",
 "name": "😺 影视云星"},
 {"url":"http://rihou.vip:88/荷城茶秀",
-"name": "😺 影视荷城"},
+"name":"😺 荷城茶秀88"},
+{"url":"http://rihou.vip:99/荷城茶秀",
+"name":"😺 荷城茶秀99"},
+{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json",
+"name":"😺 荷城茶秀88备"},
+{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json",
+"name":"😺 荷城茶秀99备"}
 {"url":"https://agit.ai/gk0746/pxy/raw/branch/master/ouge.json",
 "name": "😺影视欧歌"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
@@ -81,14 +87,6 @@
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/ACaringPeople/tvinterface/main/xhr.json",
 "name": "🌸🔞影视27"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
-"name": "🌸🔞影视28"},
-{"url":"http://rihou.vip:88/荷城茶秀",
-"name":"荷城茶秀⑧⑧接口㊣"},
-{"url":"http://rihou.vip:99/荷城茶秀",
-"name":"荷城茶秀⑨⑨接口㊣"},
-{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json",
-"name":"荷城茶秀⑧⑧备用㊣"},
-{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json",
-"name":"荷城茶秀⑨⑨备用㊣"}
+"name": "🌸🔞影视28"}
 ]
 }
