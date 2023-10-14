@@ -71,7 +71,7 @@
     {
       "name": "IPTV",
       "type": 0,
-      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
+      "url": "http://www.stream-link.org/stream-link.m3u",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
