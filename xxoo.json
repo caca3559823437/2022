@@ -7,7 +7,7 @@
     {
       "name": "自己建—01",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/live_1.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -15,7 +15,7 @@
     {
       "name": "自己建—02",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/live_2.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/live_1.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -23,7 +23,15 @@
     {
       "name": "自己建—03",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/espn.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/live_2.txt",
+      "playerType": 1,
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "自己建—04",
+      "type": 0,
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/espn.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -31,7 +39,7 @@
     {
       "name": "mengzehe",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/mengzehe/TVBox/main/live.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/mengzehe/TVBox/main/live.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -39,7 +47,7 @@
     {
       "name": "mengzehe-18",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18live.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18live.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -47,7 +55,7 @@
     {
       "name": "mengzehe-18m3u",
       "type": 0,
-      "url": "https://raw.fgit.cf/mengzehe/TVBox/main/18/18live-1.m3u",
+      "url": "https://p.ntnas.top/https://raw.fgit.cf/mengzehe/TVBox/main/18/18live-1.m3u",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
