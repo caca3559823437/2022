@@ -61,6 +61,66 @@
             "name": "🌸🔞影视01"
         },
 {
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/wq18.json",
+            "name": "🌸🔞新影视001"
+        },
+{
+            "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
+            "name": "🌸🔞新影视002"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/hh",
+            "name": "🌸🔞新影视003"
+        },
+{
+            "url": "https://agit.ai/study520x/x/raw/branch/master/AV.json",
+            "name": "🌸🔞新影视004"
+        },
+{
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/1.json",
+            "name": "🌸🔞新影视005"
+        },
+{
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/vip.json",
+            "name": "🌸🔞新影视006"
+        },
+{
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/6.json",
+            "name": "🌸🔞新影视007"
+        },
+{
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/2.json",
+            "name": "🌸🔞新影视008"
+        },
+{
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/maodu.txt",
+            "name": "🌸🔞新影视009"
+        },
+{
+            "url": "https://guot55.github.io/gg1/qh.json",
+            "name": "🌸🔞新影视010"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2",
+            "name": "🌸🔞新影视011"
+        },
+{
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json",
+            "name": "🌸🔞新影视012"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
+            "name": "🌸🔞新影视013"
+        },
+{
+            "url": "https://jsd.cdn.zzko.cn/gh/2hacc/TVBox@main/h/h.json",
+            "name": "🌸🔞新影视014"
+        },
+{
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/dxwoai18+.json",
+            "name": "🌸🔞新影视015"
+        },
+{
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "🌸🔞影视02"
         },
