@@ -15,7 +15,7 @@
     {
       "name": "自己建—02",
       "type": 0,
-      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/live_1.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/Muyi3571/IP/main/tv.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -23,7 +23,7 @@
     {
       "name": "自己建—03",
       "type": 0,
-      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/live_2.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -31,7 +31,7 @@
     {
       "name": "自己建—04",
       "type": 0,
-      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/live/espn.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/GhTGc/GhTGc.github.io/main/zbdhj.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
