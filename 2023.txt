@@ -3689,7 +3689,7 @@ TVB官方,http://live.aptvapp.com/live/huya/23735126
 埋堆堆61,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23728674
 埋堆堆62,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23863818
 
-🐆🐅虎牙,#genre#
+🐆虎牙,#genre#
 JJ斗地主,http://mygo.terryd3.repl.co/huya/14079954
 郭德纲(无唱),http://mygo.terryd3.repl.co/huya/10132155
 郭德纲(有唱),http://mygo.terryd3.repl.co/huya/22809600
@@ -4024,7 +4024,7 @@ STARZ ENCORE CLASSIC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93202
 STARZ IN BLACK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 STARZ KIDS & FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3807
 
-♨️抖音听歌,#genre#
+♨抖音听歌,#genre#
 01,http://mygo.terryd3.repl.co/douyin/154588479738
 02,http://mygo.terryd3.repl.co/douyin/16227368958
 03,http://mygo.terryd3.repl.co/douyin/380034390763
@@ -6833,7 +6833,7 @@ M2音樂,http://live.m2.tv/hls3/stream.m3u8
 巨星金曲迎新春第4集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233303FWTFGBb9wYV7boH.m3u8
 巨星金曲迎新春第5集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
 
-💎👧韓国女团,#genre#
+👧韓国女团,#genre#
 韩国歌团★001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团★028,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
 韩国歌团★038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
@@ -7043,18 +7043,18 @@ M2音樂,http://live.m2.tv/hls3/stream.m3u8
 舞蹈11,https://mvvideoshare2.meitudata.com/5e634cf2141a92hpybf7m04115_H264_4_384eeaf91555b.mp4
 舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
 
-松視加速,#genre#
-松視1，http://125.227.210.55:20845/VideoInput/play.ts
-松視2，http://125.227.210.55:55643/VideoInput/play.ts
-松視3，http://125.227.210.55:62697/VideoInput/play.ts
+🔞松視加速,#genre#
+松視1,http://125.227.210.55:20845/VideoInput/play.ts
+松視2,http://125.227.210.55:55643/VideoInput/play.ts
+松視3,http://125.227.210.55:62697/VideoInput/play.ts
 惊艳台,http://125.227.210.55:57286/VideoInput/play.ts
-香蕉台，http://125.227.210.55:22522/VideoInput/play.ts
-94、http://220.135.124.158:8088/live/94_h265.ts
-95、http://220.135.124.158:8088/live/95_h265.ts
-96、http://220.135.124.158:8088/live/96_h265.ts
-97、http://220.135.124.158:8088/live/97_h265.ts
-98、http://220.135.124.158:8088/live/98_h265.ts
-99、http://220.135.124.158:8088/live/99_h265.ts
+香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
+94,http://220.135.124.158:8088/live/94_h265.ts
+95,http://220.135.124.158:8088/live/95_h265.ts
+96,http://220.135.124.158:8088/live/96_h265.ts
+97,http://220.135.124.158:8088/live/97_h265.ts
+98,http://220.135.124.158:8088/live/98_h265.ts
+99,http://220.135.124.158:8088/live/99_h265.ts
 
 🔞欧美版松視,#genre#
 松視1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
