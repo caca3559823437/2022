@@ -662,17 +662,17 @@ ULTRANATURETV4K,http://185.236.229.31:9981/play/a01d
 求索.动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=QSDWHD_7000
 求索.生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1612
 
-第一財經,http://103.45.68.47/gy/gy779/xsj.php?id=yicai
-北京財經,http://103.45.68.47/gy/gy779/xsj.php?id=bjcj
-上海都市,http://103.45.68.47/gy/gy779/xsj.php?id=shds
-上海新聞,http://103.45.68.47/gy/gy779/xsj.php?id=shxw
-广東珠江,http://103.45.68.47/gy/gy779/xsj.php?id=gdzj
-湖南經視,http://103.45.68.47/gy/gy779/xsj.php?id=hnjs
-北京體育,http://103.45.68.47/gy/gy779/xsj.php?id=bjtyxx
-五星體育,http://103.45.68.47/gy/gy779/xsj.php?id=wxty
-天津體育,http://103.45.68.47/gy/gy779/xsj.php?id=tjty
-辽宁體育,http://103.45.68.47/gy/gy779/xsj.php?id=lnty
-广東體育,http://103.45.68.47/gy/gy779/xsj.php?id=gdty
+第一財經,http://103.45.68.47/gy/gy638/xsj.php?id=yicai
+北京財經,http://103.45.68.47/gy/gy638/xsj.php?id=bjcj
+上海都市,http://103.45.68.47/gy/gy638/xsj.php?id=shds
+上海新聞,http://103.45.68.47/gy/gy638/xsj.php?id=shxw
+广東珠江,http://103.45.68.47/gy/gy638/xsj.php?id=gdzj
+湖南經視,http://103.45.68.47/gy/gy638/xsj.php?id=hnjs
+北京體育,http://103.45.68.47/gy/gy638/xsj.php?id=bjtyxx
+五星體育,http://103.45.68.47/gy/gy638/xsj.php?id=wxty
+天津體育,http://103.45.68.47/gy/gy638/xsj.php?id=tjty
+辽宁體育,http://103.45.68.47/gy/gy638/xsj.php?id=lnty
+广東體育,http://103.45.68.47/gy/gy638/xsj.php?id=gdty
 纬来體育,http://cloud.yumixiu768.com/tmp/123.m3u8
 劲爆體育,https://angtv.cn/test/bestv.php?id=jbtyhd8m/8000000
 劲爆體育,https://cntv.sbs/tv?auth=230830&id=jbty
@@ -1522,179 +1522,179 @@ NBCNews,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=Redboxdesk
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 DWNews,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-鳳凰衛視,http://103.45.68.47/gy/gy779/xsj.php?id=phtv-cn
-鳳凰資訊,http://103.45.68.47/gy/gy779/xsj.php?id=phtv-info
-鳳凰香港,http://103.45.68.47/gy/gy779/xsj.php?id=phtv-hk
-J2台,http://103.45.68.47/gy/gy779/xsj.php?id=j2
-明珠台,http://103.45.68.47/gy/gy779/xsj.php?id=pearl
-ViuTV,http://103.45.68.47/gy/gy779/xsj.php?id=viutv
-翡翠台,http://103.45.68.47/gy/gy779/xsj.php?id=feicui
-Now財經台,http://103.45.68.47/gy/gy779/xsj.php?id=now-finance
-鳳凰衛視,http://103.45.68.47/gy/gy779/xsj.php?id=phtv
-澳門蓮花,http://103.45.68.47/gy/gy779/xsj.php?id=lotustv
-無綫新聞,http://103.45.68.47/gy/gy779/xsj.php?id=tvb-news
-無綫財經,http://103.45.68.47/gy/gy779/xsj.php?id=tvb-finance
-ViuTV6,http://103.45.68.47/gy/gy779/xsj.php?id=viutv6
-港台電視31,http://103.45.68.47/gy/gy779/xsj.php?id=rthk31
-港台電視32,http://103.45.68.47/gy/gy779/xsj.php?id=rthk32
-HOYTV,http://103.45.68.47/gy/gy779/xsj.php?id=hoytv
-國際財經,http://103.45.68.47/gy/gy779/xsj.php?id=hkibc
-HOY資訊台,http://103.45.68.47/gy/gy779/xsj.php?id=hoy-info
-澳門資訊,http://103.45.68.47/gy/gy779/xsj.php?id=amzx
-澳視澳門,http://103.45.68.47/gy/gy779/xsj.php?id=asam
-Now新聞台,http://103.45.68.47/gy/gy779/xsj.php?id=now-news
-TVB经典台,http://103.45.68.47/gy/gy779/xsj.php?id=tvb-classic
-天映经典,http://103.45.68.47/gy/gy779/xsj.php?id=cccm
-天映频道,http://103.45.68.47/gy/gy779/xsj.php?id=celestial
-Now華劇台,http://103.45.68.47/gy/gy779/xsj.php?id=now-hairun
-TVB華劇台,http://103.45.68.47/gy/gy779/xsj.php?id=tvb-drama
-TVB星河台,http://103.45.68.47/gy/gy779/xsj.php?id=tvb-xinghe
-Now爆谷台,http://103.45.68.47/gy/gy779/xsj.php?id=baogu-movies
+鳳凰衛視,http://103.45.68.47/gy/gy638/xsj.php?id=phtv-cn
+鳳凰資訊,http://103.45.68.47/gy/gy638/xsj.php?id=phtv-info
+鳳凰香港,http://103.45.68.47/gy/gy638/xsj.php?id=phtv-hk
+J2台,http://103.45.68.47/gy/gy638/xsj.php?id=j2
+明珠台,http://103.45.68.47/gy/gy638/xsj.php?id=pearl
+ViuTV,http://103.45.68.47/gy/gy638/xsj.php?id=viutv
+翡翠台,http://103.45.68.47/gy/gy638/xsj.php?id=feicui
+Now財經台,http://103.45.68.47/gy/gy638/xsj.php?id=now-finance
+鳳凰衛視,http://103.45.68.47/gy/gy638/xsj.php?id=phtv
+澳門蓮花,http://103.45.68.47/gy/gy638/xsj.php?id=lotustv
+無綫新聞,http://103.45.68.47/gy/gy638/xsj.php?id=tvb-news
+無綫財經,http://103.45.68.47/gy/gy638/xsj.php?id=tvb-finance
+ViuTV6,http://103.45.68.47/gy/gy638/xsj.php?id=viutv6
+港台電視31,http://103.45.68.47/gy/gy638/xsj.php?id=rthk31
+港台電視32,http://103.45.68.47/gy/gy638/xsj.php?id=rthk32
+HOYTV,http://103.45.68.47/gy/gy638/xsj.php?id=hoytv
+國際財經,http://103.45.68.47/gy/gy638/xsj.php?id=hkibc
+HOY資訊台,http://103.45.68.47/gy/gy638/xsj.php?id=hoy-info
+澳門資訊,http://103.45.68.47/gy/gy638/xsj.php?id=amzx
+澳視澳門,http://103.45.68.47/gy/gy638/xsj.php?id=asam
+Now新聞台,http://103.45.68.47/gy/gy638/xsj.php?id=now-news
+TVB经典台,http://103.45.68.47/gy/gy638/xsj.php?id=tvb-classic
+天映经典,http://103.45.68.47/gy/gy638/xsj.php?id=cccm
+天映频道,http://103.45.68.47/gy/gy638/xsj.php?id=celestial
+Now華劇台,http://103.45.68.47/gy/gy638/xsj.php?id=now-hairun
+TVB華劇台,http://103.45.68.47/gy/gy638/xsj.php?id=tvb-drama
+TVB星河台,http://103.45.68.47/gy/gy638/xsj.php?id=tvb-xinghe
+Now爆谷台,http://103.45.68.47/gy/gy638/xsj.php?id=baogu-movies
 
-TVBS新聞,http://103.45.68.47/gy/gy779/xsj.php?id=tvbs-news
-寰宇新聞,http://103.45.68.47/gy/gy779/xsj.php?id=global-news
-華視新聞,http://103.45.68.47/gy/gy779/xsj.php?id=cts-news
-中天新聞,http://103.45.68.47/gy/gy779/xsj.php?id=cti-news
-镜新聞台,http://103.45.68.47/gy/gy779/xsj.php?id=mnews
-壹新聞台,http://103.45.68.47/gy/gy779/xsj.php?id=nexttv
-靖天資訊,http://103.45.68.47/gy/gy779/xsj.php?id=jtzx
-中視新聞,http://103.45.68.47/gy/gy779/xsj.php?id=ctv-news
-台視新聞,http://103.45.68.47/gy/gy779/xsj.php?id=ttv-news
-TVBS HD,http://103.45.68.47/gy/gy779/xsj.php?id=tvbs-hd
-東森財經,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-finance
-年代新聞,http://103.45.68.47/gy/gy779/xsj.php?id=era-news
-非凡新聞,http://103.45.68.47/gy/gy779/xsj.php?id=ustv-news
-東森新聞,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-news
+TVBS新聞,http://103.45.68.47/gy/gy638/xsj.php?id=tvbs-news
+寰宇新聞,http://103.45.68.47/gy/gy638/xsj.php?id=global-news
+華視新聞,http://103.45.68.47/gy/gy638/xsj.php?id=cts-news
+中天新聞,http://103.45.68.47/gy/gy638/xsj.php?id=cti-news
+镜新聞台,http://103.45.68.47/gy/gy638/xsj.php?id=mnews
+壹新聞台,http://103.45.68.47/gy/gy638/xsj.php?id=nexttv
+靖天資訊,http://103.45.68.47/gy/gy638/xsj.php?id=jtzx
+中視新聞,http://103.45.68.47/gy/gy638/xsj.php?id=ctv-news
+台視新聞,http://103.45.68.47/gy/gy638/xsj.php?id=ttv-news
+TVBS HD,http://103.45.68.47/gy/gy638/xsj.php?id=tvbs-hd
+東森財經,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-finance
+年代新聞,http://103.45.68.47/gy/gy638/xsj.php?id=era-news
+非凡新聞,http://103.45.68.47/gy/gy638/xsj.php?id=ustv-news
+東森新聞,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-news
 
-TVBS歡樂,http://103.45.68.47/gy/gy779/xsj.php?id=tvbs-huanle
-中天娛樂,http://103.45.68.47/gy/gy779/xsj.php?id=ctitv39
-八大娛樂,http://103.45.68.47/gy/gy779/xsj.php?id=gtv86
-東森電影,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-movie
-東森戲劇,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-drama
-東森洋片,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-emovie
-衛視中文,http://103.45.68.47/gy/gy779/xsj.php?id=star-chinese-channel
-衛視電影,http://103.45.68.47/gy/gy779/xsj.php?id=star-chinese-movies
-龍祥電影,http://103.45.68.47/gy/gy779/xsj.php?id=lstime
-好莱坞電影,http://103.45.68.47/gy/gy779/xsj.php?id=hollywood-tw
-八大戲劇,http://103.45.68.47/gy/gy779/xsj.php?id=gtv41
-緯來戲劇,http://103.45.68.47/gy/gy779/xsj.php?id=videoland-drama
-緯來電影,http://103.45.68.47/gy/gy779/xsj.php?id=videoland-movie
-龍華電影,http://103.45.68.47/gy/gy779/xsj.php?id=ltv-movies
-龍華洋片,http://103.45.68.47/gy/gy779/xsj.php?id=ltv-yangpian
-靖天電影,http://103.45.68.47/gy/gy779/xsj.php?id=jtdy
-美亞電影,http://103.45.68.47/gy/gy779/xsj.php?id=meiah-movies
-ELTA影劇,http://103.45.68.47/gy/gy779/xsj.php?id=elta-drama
-EYE戲劇,http://103.45.68.47/gy/gy779/xsj.php?id=eye-drama
-星衛電影,http://103.45.68.47/gy/gy779/xsj.php?id=star-movies
-星衛娛樂,http://103.45.68.47/gy/gy779/xsj.php?id=star-entetainment
-MTV Live频道,http://103.45.68.47/gy/gy779/xsj.php?id=mtv
-國兴衛視,http://103.45.68.47/gy/gy779/xsj.php?id=gold-sun-tv
+TVBS歡樂,http://103.45.68.47/gy/gy638/xsj.php?id=tvbs-huanle
+中天娛樂,http://103.45.68.47/gy/gy638/xsj.php?id=ctitv39
+八大娛樂,http://103.45.68.47/gy/gy638/xsj.php?id=gtv86
+東森電影,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-movie
+東森戲劇,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-drama
+東森洋片,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-emovie
+衛視中文,http://103.45.68.47/gy/gy638/xsj.php?id=star-chinese-channel
+衛視電影,http://103.45.68.47/gy/gy638/xsj.php?id=star-chinese-movies
+龍祥電影,http://103.45.68.47/gy/gy638/xsj.php?id=lstime
+好莱坞電影,http://103.45.68.47/gy/gy638/xsj.php?id=hollywood-tw
+八大戲劇,http://103.45.68.47/gy/gy638/xsj.php?id=gtv41
+緯來戲劇,http://103.45.68.47/gy/gy638/xsj.php?id=videoland-drama
+緯來電影,http://103.45.68.47/gy/gy638/xsj.php?id=videoland-movie
+龍華電影,http://103.45.68.47/gy/gy638/xsj.php?id=ltv-movies
+龍華洋片,http://103.45.68.47/gy/gy638/xsj.php?id=ltv-yangpian
+靖天電影,http://103.45.68.47/gy/gy638/xsj.php?id=jtdy
+美亞電影,http://103.45.68.47/gy/gy638/xsj.php?id=meiah-movies
+ELTA影劇,http://103.45.68.47/gy/gy638/xsj.php?id=elta-drama
+EYE戲劇,http://103.45.68.47/gy/gy638/xsj.php?id=eye-drama
+星衛電影,http://103.45.68.47/gy/gy638/xsj.php?id=star-movies
+星衛娛樂,http://103.45.68.47/gy/gy638/xsj.php?id=star-entetainment
+MTV Live频道,http://103.45.68.47/gy/gy638/xsj.php?id=mtv
+國兴衛視,http://103.45.68.47/gy/gy638/xsj.php?id=gold-sun-tv
 
-大爱二台,http://103.45.68.47/gy/gy779/xsj.php?id=daai2
-大爱一台,http://103.45.68.47/gy/gy779/xsj.php?id=daai1
-中視,http://103.45.68.47/gy/gy779/xsj.php?id=ctv-hd
-公視,http://103.45.68.47/gy/gy779/xsj.php?id=pts
-公視3台,http://103.45.68.47/gy/gy779/xsj.php?id=pts3
-中天综合,http://103.45.68.47/gy/gy779/xsj.php?id=ctitv36
-中天亞洲,http://103.45.68.47/gy/gy779/xsj.php?id=cti-asia
-東森超視,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-supertv
-靖天國際,http://103.45.68.47/gy/gy779/xsj.php?id=jtgj
-TVBS Asia,http://103.45.68.47/gy/gy779/xsj.php?id=tvbs-asia
-八大综合,http://103.45.68.47/gy/gy779/xsj.php?id=gtv28
-客家電視,http://103.45.68.47/gy/gy779/xsj.php?id=hakkatv
-東森综合,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-ettv
-中視,http://103.45.68.47/gy/gy779/xsj.php?id=ctv
-華視,http://103.45.68.47/gy/gy779/xsj.php?id=cts
-台視,http://103.45.68.47/gy/gy779/xsj.php?id=ttv
-緯來日本,http://103.45.68.47/gy/gy779/xsj.php?id=videoland-japan
-緯來综合,http://103.45.68.47/gy/gy779/xsj.php?id=videoland
-八大第一,http://103.45.68.47/gy/gy779/xsj.php?id=gtv27
-ELTA综合,http://103.45.68.47/gy/gy779/xsj.php?id=elta-tv
+大爱二台,http://103.45.68.47/gy/gy638/xsj.php?id=daai2
+大爱一台,http://103.45.68.47/gy/gy638/xsj.php?id=daai1
+中視,http://103.45.68.47/gy/gy638/xsj.php?id=ctv-hd
+公視,http://103.45.68.47/gy/gy638/xsj.php?id=pts
+公視3台,http://103.45.68.47/gy/gy638/xsj.php?id=pts3
+中天综合,http://103.45.68.47/gy/gy638/xsj.php?id=ctitv36
+中天亞洲,http://103.45.68.47/gy/gy638/xsj.php?id=cti-asia
+東森超視,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-supertv
+靖天國際,http://103.45.68.47/gy/gy638/xsj.php?id=jtgj
+TVBS Asia,http://103.45.68.47/gy/gy638/xsj.php?id=tvbs-asia
+八大综合,http://103.45.68.47/gy/gy638/xsj.php?id=gtv28
+客家電視,http://103.45.68.47/gy/gy638/xsj.php?id=hakkatv
+東森综合,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-ettv
+中視,http://103.45.68.47/gy/gy638/xsj.php?id=ctv
+華視,http://103.45.68.47/gy/gy638/xsj.php?id=cts
+台視,http://103.45.68.47/gy/gy638/xsj.php?id=ttv
+緯來日本,http://103.45.68.47/gy/gy638/xsj.php?id=videoland-japan
+緯來综合,http://103.45.68.47/gy/gy638/xsj.php?id=videoland
+八大第一,http://103.45.68.47/gy/gy638/xsj.php?id=gtv27
+ELTA综合,http://103.45.68.47/gy/gy638/xsj.php?id=elta-tv
 
-Awani,http://103.45.68.47/gy/gy779/xsj.php?id=astro-awani
-Ceria,http://103.45.68.47/gy/gy779/xsj.php?id=astro-ceria
-ONE,http://103.45.68.47/gy/gy779/xsj.php?id=astro-one
-Prima,http://103.45.68.47/gy/gy779/xsj.php?id=astro-prima
-Oasis,http://103.45.68.47/gy/gy779/xsj.php?id=astro-oasis
-Warna,http://103.45.68.47/gy/gy779/xsj.php?id=astro-warna
-Rania,http://103.45.68.47/gy/gy779/xsj.php?id=astro-rania
-Aura,http://103.45.68.47/gy/gy779/xsj.php?id=astro-aura
-8TV,http://103.45.68.47/gy/gy779/xsj.php?id=8tv
-TV9,http://103.45.68.47/gy/gy779/xsj.php?id=tv9
-Citra,http://103.45.68.47/gy/gy779/xsj.php?id=astro-citra
-AEC,http://103.45.68.47/gy/gy779/xsj.php?id=astro-aec
-双星台,http://103.45.68.47/gy/gy779/xsj.php?id=astro-shuangxing
-AOD HD,http://103.45.68.47/gy/gy779/xsj.php?id=astro-aod-hd
-欢喜台,http://103.45.68.47/gy/gy779/xsj.php?id=astro-huaheedai
-AOD,http://103.45.68.47/gy/gy779/xsj.php?id=astro-aod
-Arena,http://103.45.68.47/gy/gy779/xsj.php?id=astro-arena-hd
-Arena2,http://103.45.68.47/gy/gy779/xsj.php?id=astro-arena2
-爱奇艺,http://103.45.68.47/gy/gy779/xsj.php?id=astro-iqiyi
-Channel5,http://103.45.68.47/gy/gy779/xsj.php?id=channel-5
-ChannelU,http://103.45.68.47/gy/gy779/xsj.php?id=channel-u
-OKEY,http://103.45.68.47/gy/gy779/xsj.php?id=okey
-華丽台,http://103.45.68.47/gy/gy779/xsj.php?id=astro-wahlaitoi
-Channel8,http://103.45.68.47/gy/gy779/xsj.php?id=channel8
+Awani,http://103.45.68.47/gy/gy638/xsj.php?id=astro-awani
+Ceria,http://103.45.68.47/gy/gy638/xsj.php?id=astro-ceria
+ONE,http://103.45.68.47/gy/gy638/xsj.php?id=astro-one
+Prima,http://103.45.68.47/gy/gy638/xsj.php?id=astro-prima
+Oasis,http://103.45.68.47/gy/gy638/xsj.php?id=astro-oasis
+Warna,http://103.45.68.47/gy/gy638/xsj.php?id=astro-warna
+Rania,http://103.45.68.47/gy/gy638/xsj.php?id=astro-rania
+Aura,http://103.45.68.47/gy/gy638/xsj.php?id=astro-aura
+8TV,http://103.45.68.47/gy/gy638/xsj.php?id=8tv
+TV9,http://103.45.68.47/gy/gy638/xsj.php?id=tv9
+Citra,http://103.45.68.47/gy/gy638/xsj.php?id=astro-citra
+AEC,http://103.45.68.47/gy/gy638/xsj.php?id=astro-aec
+双星台,http://103.45.68.47/gy/gy638/xsj.php?id=astro-shuangxing
+AOD HD,http://103.45.68.47/gy/gy638/xsj.php?id=astro-aod-hd
+欢喜台,http://103.45.68.47/gy/gy638/xsj.php?id=astro-huaheedai
+AOD,http://103.45.68.47/gy/gy638/xsj.php?id=astro-aod
+Arena,http://103.45.68.47/gy/gy638/xsj.php?id=astro-arena-hd
+Arena2,http://103.45.68.47/gy/gy638/xsj.php?id=astro-arena2
+爱奇艺,http://103.45.68.47/gy/gy638/xsj.php?id=astro-iqiyi
+Channel5,http://103.45.68.47/gy/gy638/xsj.php?id=channel-5
+ChannelU,http://103.45.68.47/gy/gy638/xsj.php?id=channel-u
+OKEY,http://103.45.68.47/gy/gy638/xsj.php?id=okey
+華丽台,http://103.45.68.47/gy/gy638/xsj.php?id=astro-wahlaitoi
+Channel8,http://103.45.68.47/gy/gy638/xsj.php?id=channel8
 
-緯來體育,http://103.45.68.47/gy/gy779/xsj.php?id=videoland-sport
-ELEVEN體育-1,http://103.45.68.47/gy/gy779/xsj.php?id=eleven-sport1
-ELEVEN體育-2,http://103.45.68.47/gy/gy779/xsj.php?id=eleven-sport2
-博斯运动-1,http://103.45.68.47/gy/gy779/xsj.php?id=sportcast1
-博斯运动-2,http://103.45.68.47/gy/gy779/xsj.php?id=sportcast2
-博斯高球-1,http://103.45.68.47/gy/gy779/xsj.php?id=sportcast-golf1
-博斯高球-2,http://103.45.68.47/gy/gy779/xsj.php?id=sportcast-golf2
-博斯网球,http://103.45.68.47/gy/gy779/xsj.php?id=sportcast-tennis
-Sony Sports 1 HD,http://103.45.68.47/gy/gy779/xsj.php?id=super-sports1
-Sony Sports 2 HD,http://103.45.68.47/gy/gy779/xsj.php?id=super-sports2
-Sony Sports 3 HD,http://103.45.68.47/gy/gy779/xsj.php?id=super-sports3
-Sony Sports 4 HD,http://103.45.68.47/gy/gy779/xsj.php?id=super-sports4
-Eurosports-2,http://103.45.68.47/gy/gy779/xsj.php?id=super-sports5
-beIN Sports MAX,http://103.45.68.47/gy/gy779/xsj.php?id=bein-max
-SPOTV-2,http://103.45.68.47/gy/gy779/xsj.php?id=spotv2
-SPOTV,http://103.45.68.47/gy/gy779/xsj.php?id=spotv
-beIN Sports 2,http://103.45.68.47/gy/gy779/xsj.php?id=bein-sports2
-beIN Sports 1,http://103.45.68.47/gy/gy779/xsj.php?id=bein-sports1
-beIN Sports 3,http://103.45.68.47/gy/gy779/xsj.php?id=bein-sports3
-EurosportHD,http://103.45.68.47/gy/gy779/xsj.php?id=eurosport-hd
-Eurosports-1,http://103.45.68.47/gy/gy779/xsj.php?id=eurosports-1
-博斯无限,http://103.45.68.47/gy/gy779/xsj.php?id=sportcast-wx
-ELTA體育-1,http://103.45.68.47/gy/gy779/xsj.php?id=elta-sport1
-ELTA體育-2,http://103.45.68.47/gy/gy779/xsj.php?id=elta-sport2
-ELTA體育-3,http://103.45.68.47/gy/gy779/xsj.php?id=elta-sport3
+緯來體育,http://103.45.68.47/gy/gy638/xsj.php?id=videoland-sport
+ELEVEN體育-1,http://103.45.68.47/gy/gy638/xsj.php?id=eleven-sport1
+ELEVEN體育-2,http://103.45.68.47/gy/gy638/xsj.php?id=eleven-sport2
+博斯运动-1,http://103.45.68.47/gy/gy638/xsj.php?id=sportcast1
+博斯运动-2,http://103.45.68.47/gy/gy638/xsj.php?id=sportcast2
+博斯高球-1,http://103.45.68.47/gy/gy638/xsj.php?id=sportcast-golf1
+博斯高球-2,http://103.45.68.47/gy/gy638/xsj.php?id=sportcast-golf2
+博斯网球,http://103.45.68.47/gy/gy638/xsj.php?id=sportcast-tennis
+Sony Sports 1 HD,http://103.45.68.47/gy/gy638/xsj.php?id=super-sports1
+Sony Sports 2 HD,http://103.45.68.47/gy/gy638/xsj.php?id=super-sports2
+Sony Sports 3 HD,http://103.45.68.47/gy/gy638/xsj.php?id=super-sports3
+Sony Sports 4 HD,http://103.45.68.47/gy/gy638/xsj.php?id=super-sports4
+Eurosports-2,http://103.45.68.47/gy/gy638/xsj.php?id=super-sports5
+beIN Sports MAX,http://103.45.68.47/gy/gy638/xsj.php?id=bein-max
+SPOTV-2,http://103.45.68.47/gy/gy638/xsj.php?id=spotv2
+SPOTV,http://103.45.68.47/gy/gy638/xsj.php?id=spotv
+beIN Sports 2,http://103.45.68.47/gy/gy638/xsj.php?id=bein-sports2
+beIN Sports 1,http://103.45.68.47/gy/gy638/xsj.php?id=bein-sports1
+beIN Sports 3,http://103.45.68.47/gy/gy638/xsj.php?id=bein-sports3
+EurosportHD,http://103.45.68.47/gy/gy638/xsj.php?id=eurosport-hd
+Eurosports-1,http://103.45.68.47/gy/gy638/xsj.php?id=eurosports-1
+博斯无限,http://103.45.68.47/gy/gy638/xsj.php?id=sportcast-wx
+ELTA體育-1,http://103.45.68.47/gy/gy638/xsj.php?id=elta-sport1
+ELTA體育-2,http://103.45.68.47/gy/gy638/xsj.php?id=elta-sport2
+ELTA體育-3,http://103.45.68.47/gy/gy638/xsj.php?id=elta-sport3
 
-靖天卡通,http://103.45.68.47/gy/gy779/xsj.php?id=jtkt
-小太阳,http://103.45.68.47/gy/gy779/xsj.php?id=astro-xty
-東森幼幼,http://103.45.68.47/gy/gy779/xsj.php?id=ebc-yoyo
-MOMOTV,http://103.45.68.47/gy/gy779/xsj.php?id=momotv
-小尼克频道,http://103.45.68.47/gy/gy779/xsj.php?id=nick-jr
-MOMO亲子,http://103.45.68.47/gy/gy779/xsj.php?id=momo-kids
-CN卡通,http://103.45.68.47/gy/gy779/xsj.php?id=cn-cartoon
-BoomerangHD,http://103.45.68.47/gy/gy779/xsj.php?id=boomerang-hd
-Animax卡通,http://103.45.68.47/gy/gy779/xsj.php?id=animax-cartoon
-尼克儿童,http://103.45.68.47/gy/gy779/xsj.php?id=nickelodeon
+靖天卡通,http://103.45.68.47/gy/gy638/xsj.php?id=jtkt
+小太阳,http://103.45.68.47/gy/gy638/xsj.php?id=astro-xty
+東森幼幼,http://103.45.68.47/gy/gy638/xsj.php?id=ebc-yoyo
+MOMOTV,http://103.45.68.47/gy/gy638/xsj.php?id=momotv
+小尼克频道,http://103.45.68.47/gy/gy638/xsj.php?id=nick-jr
+MOMO亲子,http://103.45.68.47/gy/gy638/xsj.php?id=momo-kids
+CN卡通,http://103.45.68.47/gy/gy638/xsj.php?id=cn-cartoon
+BoomerangHD,http://103.45.68.47/gy/gy638/xsj.php?id=boomerang-hd
+Animax卡通,http://103.45.68.47/gy/gy638/xsj.php?id=animax-cartoon
+尼克儿童,http://103.45.68.47/gy/gy638/xsj.php?id=nickelodeon
 
-國家地理,http://103.45.68.47/gy/gy779/xsj.php?id=natgeo
-國家地理野生,http://103.45.68.47/gy/gy779/xsj.php?id=natgeo-wild
-动物星球,http://103.45.68.47/gy/gy779/xsj.php?id=animal-planet
-探索频道,http://103.45.68.47/gy/gy779/xsj.php?id=discovery
-DMAX,http://103.45.68.47/gy/gy779/xsj.php?id=dmax
-探索科学,http://103.45.68.47/gy/gy779/xsj.php?id=discovery-sci
-探索亞洲,http://103.45.68.47/gy/gy779/xsj.php?id=discovery-asia
-History,http://103.45.68.47/gy/gy779/xsj.php?id=history
-History-2,http://103.45.68.47/gy/gy779/xsj.php?id=history-2
-TLC旅游生活,http://103.45.68.47/gy/gy779/xsj.php?id=tlc
-CI罪案侦查,http://103.45.68.47/gy/gy779/xsj.php?id=ci
-亞洲旅游,http://103.45.68.47/gy/gy779/xsj.php?id=asia-travel
-美食星球,http://103.45.68.47/gy/gy779/xsj.php?id=food-planet
-EYE旅游台,http://103.45.68.47/gy/gy779/xsj.php?id=eye-travel
+國家地理,http://103.45.68.47/gy/gy638/xsj.php?id=natgeo
+國家地理野生,http://103.45.68.47/gy/gy638/xsj.php?id=natgeo-wild
+动物星球,http://103.45.68.47/gy/gy638/xsj.php?id=animal-planet
+探索频道,http://103.45.68.47/gy/gy638/xsj.php?id=discovery
+DMAX,http://103.45.68.47/gy/gy638/xsj.php?id=dmax
+探索科学,http://103.45.68.47/gy/gy638/xsj.php?id=discovery-sci
+探索亞洲,http://103.45.68.47/gy/gy638/xsj.php?id=discovery-asia
+History,http://103.45.68.47/gy/gy638/xsj.php?id=history
+History-2,http://103.45.68.47/gy/gy638/xsj.php?id=history-2
+TLC旅游生活,http://103.45.68.47/gy/gy638/xsj.php?id=tlc
+CI罪案侦查,http://103.45.68.47/gy/gy638/xsj.php?id=ci
+亞洲旅游,http://103.45.68.47/gy/gy638/xsj.php?id=asia-travel
+美食星球,http://103.45.68.47/gy/gy638/xsj.php?id=food-planet
+EYE旅游台,http://103.45.68.47/gy/gy638/xsj.php?id=eye-travel
 
-ABC News,http://103.45.68.47/gy/gy779/xsj.php?id=abc-news
-Bloomberg,http://103.45.68.47/gy/gy779/xsj.php?id=bloomberg
-Fox News,http://103.45.68.47/gy/gy779/xsj.php?id=fox-news
-BBC World News,http://103.45.68.47/gy/gy779/xsj.php?id=bbc-world-news
-CNN,http://103.45.68.47/gy/gy779/xsj.php?id=cnn
-CBS News,http://103.45.68.47/gy/gy779/xsj.php?id=cbsn
-CNBC,http://103.45.68.47/gy/gy779/xsj.php?id=cnbc
+ABC News,http://103.45.68.47/gy/gy638/xsj.php?id=abc-news
+Bloomberg,http://103.45.68.47/gy/gy638/xsj.php?id=bloomberg
+Fox News,http://103.45.68.47/gy/gy638/xsj.php?id=fox-news
+BBC World News,http://103.45.68.47/gy/gy638/xsj.php?id=bbc-world-news
+CNN,http://103.45.68.47/gy/gy638/xsj.php?id=cnn
+CBS News,http://103.45.68.47/gy/gy638/xsj.php?id=cbsn
+CNBC,http://103.45.68.47/gy/gy638/xsj.php?id=cnbc
 
 日本,#genre#
 NHK-G综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
@@ -2256,8 +2256,8 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ZooMoo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 
 旋风加速,#genre#
-測試01(DAZN F1),https://sc2022.stream-link.org/tv2306.php?id=c01
-測試02(DAZN 西甲),https://sc2022.stream-link.org/tv2306.php?id=c02
+鳳凰資訊,https://sc2022.stream-link.org/tv2306.php?id=h18
+鳳凰衛視,https://sc2022.stream-link.org/tv2306.php?id=h19
 華麗(翡翠台),https://sc2022.stream-link.org/tv2306.php?id=h00
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
@@ -2268,42 +2268,18 @@ J2台,https://sc2022.stream-link.org/tv2306.php?id=h03
 無綫財經,https://sc2022.stream-link.org/tv2306.php?id=h07
 Now新聞台,https://sc2022.stream-link.org/tv2306.php?id=h08
 ViuTV99,https://sc2022.stream-link.org/tv2306.php?id=h09
-澳視澳門,https://sc2022.stream-link.org/tv2306.php?id=h10
+TVB娛樂台,https://sc2022.stream-link.org/tv2306.php?id=h10
 港台電視31,https://sc2022.stream-link.org/tv2306.php?id=h11
 港台電視32,https://sc2022.stream-link.org/tv2306.php?id=h12
 港台電視33,https://sc2022.stream-link.org/tv2306.php?id=h13
 中央新聞台,https://sc2022.stream-link.org/tv2306.php?id=h14
 國際財經,https://sc2022.stream-link.org/tv2306.php?id=h15
 香港開電視,https://sc2022.stream-link.org/tv2306.php?id=h16
-香港開電視,https://sc2022.stream-link.org/tv2306.php?id=h17
-鳳凰資訊,https://sc2022.stream-link.org/tv2306.php?id=h18
-鳳凰衛視,https://sc2022.stream-link.org/tv2306.php?id=h19
+開電視資訊,https://sc2022.stream-link.org/tv2306.php?id=h17
 澳門蓮花,https://sc2022.stream-link.org/tv2306.php?id=h20
 TVB華劇台,https://sc2022.stream-link.org/tv2306.php?id=h21
 TVB星河台,https://sc2022.stream-link.org/tv2306.php?id=h22
 TVB千禧台,https://sc2022.stream-link.org/tv2306.php?id=h23
-8TV,https://sc2022.stream-link.org/tv2306.php?id=h24
-Astro AEC,https://sc2022.stream-link.org/tv2306.php?id=h25
-Astro QJ,https://sc2022.stream-link.org/tv2306.php?id=h26
-Now精選體育,https://sc2022.stream-link.org/tv2306.php?id=s01
-五星體育,https://sc2022.stream-link.org/tv2306.php?id=s02
-緯來體育,https://sc2022.stream-link.org/tv2306.php?id=s03
-
-TVBS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-非凡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-华視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-三立inews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
 東森新聞,https://sc2022.stream-link.org/tv2306.php?id=t01
 東森財經,https://sc2022.stream-link.org/tv2306.php?id=t02
@@ -2322,9 +2298,9 @@ TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 公視新聞,https://sc2022.stream-link.org/tv2306.php?id=t29
 TVBS新聞,https://sc2022.stream-link.org/tv2306.php?id=t14
 TVBS財經,https://sc2022.stream-link.org/tv2306.php?id=t15
-TVBS歡樂,https://sc2022.stream-link.org/tv2306.php?id=t16
-中天亞洲,https://sc2022.stream-link.org/tv2306.php?id=t17
-TVBS亞洲,https://sc2022.stream-link.org/tv2306.php?id=t18
+TVBS歡樂台,https://sc2022.stream-link.org/tv2306.php?id=t16
+中天亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t17
+TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 民視HD,https://sc2022.stream-link.org/tv2306.php?id=t19
 民視第一,https://sc2022.stream-link.org/tv2306.php?id=t20
 民視台灣,https://sc2022.stream-link.org/tv2306.php?id=t21
@@ -2334,8 +2310,114 @@ TVBS亞洲,https://sc2022.stream-link.org/tv2306.php?id=t18
 三立台灣,https://sc2022.stream-link.org/tv2306.php?id=t25
 三立都會,https://sc2022.stream-link.org/tv2306.php?id=t26
 天才衝衝衝,https://sc2022.stream-link.org/tv2306.php?id=t27
-東森yoyo,https://sc2022.stream-link.org/tv2306.php?id=t28
 
+8TV,https://sc2022.stream-link.org/tv2306.php?id=h24
+Astro AEC,https://sc2022.stream-link.org/tv2306.php?id=h25
+Now精選體育,https://sc2022.stream-link.org/tv2306.php?id=s01
+五星體育,https://sc2022.stream-link.org/tv2306.php?id=s02
+緯來體育,https://sc2022.stream-link.org/tv2306.php?id=s03
+Abu Dhabi Sports 1,https://sc2022.stream-link.org/tv2306.php?id=s05
+Abu Dhabi Sports 2,https://sc2022.stream-link.org/tv2306.php?id=s06
+DAZN F1,https://sc2022.stream-link.org/tv2306.php?id=s07
+DAZN 西甲,https://sc2022.stream-link.org/tv2306.php?id=s08
+MLB,https://sc2022.stream-link.org/tv2306.php?id=s09
+TNT NBA,https://sc2022.stream-link.org/tv2306.php?id=s10
+Unbeaten,https://sc2022.stream-link.org/tv2306.php?id=s11
+FIFA+,https://sc2022.stream-link.org/tv2306.php?id=s12
+Tennis Channel,https://sc2022.stream-link.org/tv2306.php?id=s13
+beIN SPORTS XTRA,https://sc2022.stream-link.org/tv2306.php?id=s14
+beIN SPORTS,https://sc2022.stream-link.org/tv2306.php?id=s15
+beIN SPORTS 2,https://sc2022.stream-link.org/tv2306.php?id=s16
+beIN SPORTS 3,https://sc2022.stream-link.org/tv2306.php?id=s17
+beIN SPORTS 4,https://sc2022.stream-link.org/tv2306.php?id=s18
+Astro SUPERSPORT,https://sc2022.stream-link.org/tv2306.php?id=s19
+Astro SUPERSPORT 2,https://sc2022.stream-link.org/tv2306.php?id=s20
+Astro SUPERSPORT 3,https://sc2022.stream-link.org/tv2306.php?id=s21
+Astro SUPERSPORT 4,https://sc2022.stream-link.org/tv2306.php?id=s22
+Astro CH795,https://sc2022.stream-link.org/tv2306.php?id=s23
+Astro CH796,https://sc2022.stream-link.org/tv2306.php?id=s24
+Astro CH797,https://sc2022.stream-link.org/tv2306.php?id=s25
+ABC News Australia,https://sc2022.stream-link.org/tv2306.php?id=e01
+ABC News Live,https://sc2022.stream-link.org/tv2306.php?id=e02
+ANN News,https://sc2022.stream-link.org/tv2306.php?id=e03
+Asianet News,https://sc2022.stream-link.org/tv2306.php?id=e04
+BBC News,https://sc2022.stream-link.org/tv2306.php?id=e05
+Bloomberg,https://sc2022.stream-link.org/tv2306.php?id=e06
+CBN News,https://sc2022.stream-link.org/tv2306.php?id=e07
+CBS News,https://sc2022.stream-link.org/tv2306.php?id=e08
+CNA News,https://sc2022.stream-link.org/tv2306.php?id=e09
+CNBC Marathon,https://sc2022.stream-link.org/tv2306.php?id=e10
+CNN Live,https://sc2022.stream-link.org/tv2306.php?id=e11
+DW News,https://sc2022.stream-link.org/tv2306.php?id=e12
+EURO News,https://sc2022.stream-link.org/tv2306.php?id=e13
+Fox Live,https://sc2022.stream-link.org/tv2306.php?id=e14
+France 24 English,https://sc2022.stream-link.org/tv2306.php?id=e15
+GB News,https://sc2022.stream-link.org/tv2306.php?id=e16
+Haber Turk,https://sc2022.stream-link.org/tv2306.php?id=e17
+NBC News,https://sc2022.stream-link.org/tv2306.php?id=e18
+NHK World Japan,https://sc2022.stream-link.org/tv2306.php?id=e19
+SKY News,https://sc2022.stream-link.org/tv2306.php?id=e20
+Trace Urban,https://sc2022.stream-link.org/tv2306.php?id=e21
+KBS World,https://sc2022.stream-link.org/tv2306.php?id=e22
+Japan weather news,https://sc2022.stream-link.org/tv2306.php?id=e23
+GEM,https://sc2022.stream-link.org/tv2306.php?id=e24
+NTV News,https://sc2022.stream-link.org/tv2306.php?id=e25
+RKB News,https://sc2022.stream-link.org/tv2306.php?id=e26
+JCN,https://sc2022.stream-link.org/tv2306.php?id=e27
+KBC,https://sc2022.stream-link.org/tv2306.php?id=e28
+연합뉴스TV_로고(韓聯社新聞),https://sc2022.stream-link.org/tv2306.php?id=e29
+PLAYY 韓國電影,https://sc2022.stream-link.org/tv2306.php?id=e30
+
+TVBS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+非凡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+华視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+三立inews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+原住民族台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+幸福空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三立台灣,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
+三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+三立都會,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
 鳳凰資訊,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh8j_GmtUJ5BN3xDXu7C_X54/m3u8
 翡翠台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1-JaZ8OwyTRmtfkvBKgd7A/m3u8
 翡翠台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzKGbsu0OGdyYxLnjEL7oRc/m3u8
@@ -2374,61 +2456,6 @@ aljazeera,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 ArirangTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 東京浅草,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 新唐人亚太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-
-Abu Dhabi Sports 1,https://sc2022.stream-link.org/tv2306.php?id=s05
-Abu Dhabi Sports 2,https://sc2022.stream-link.org/tv2306.php?id=s06
-Dubai Sports 3,https://sc2022.stream-link.org/tv2306.php?id=s07
-Arena sport 2,https://sc2022.stream-link.org/tv2306.php?id=s08
-Arena sport 3,https://sc2022.stream-link.org/tv2306.php?id=s09
-Arena sport 4,https://sc2022.stream-link.org/tv2306.php?id=s10
-Unbeaten,https://sc2022.stream-link.org/tv2306.php?id=s11
-FIFA+,https://sc2022.stream-link.org/tv2306.php?id=s12
-Tennis Channel,https://sc2022.stream-link.org/tv2306.php?id=s13
-beIN SPORTS XTRA,https://sc2022.stream-link.org/tv2306.php?id=s14
-beIN SPORTS,https://sc2022.stream-link.org/tv2306.php?id=s15
-beIN SPORTS 2,https://sc2022.stream-link.org/tv2306.php?id=s16
-beIN SPORTS 3,https://sc2022.stream-link.org/tv2306.php?id=s17
-beIN SPORTS 4,https://sc2022.stream-link.org/tv2306.php?id=s18
-Astro SUPERSPORT,https://sc2022.stream-link.org/tv2306.php?id=s19
-Astro SUPERSPORT 2,https://sc2022.stream-link.org/tv2306.php?id=s20
-Astro SUPERSPORT 3,https://sc2022.stream-link.org/tv2306.php?id=s21
-Astro SUPERSPORT 4,https://sc2022.stream-link.org/tv2306.php?id=s22
-Astro CH795,https://sc2022.stream-link.org/tv2306.php?id=s23
-Astro CH796,https://sc2022.stream-link.org/tv2306.php?id=s24
-Astro CH797,https://sc2022.stream-link.org/tv2306.php?id=s25
-ABC News Australia,https://sc2022.stream-link.org/tv2306.php?id=e01
-ABC News Live,https://sc2022.stream-link.org/tv2306.php?id=e02
-ANN News,https://sc2022.stream-link.org/tv2306.php?id=e03
-Asianet News,https://sc2022.stream-link.org/tv2306.php?id=e04
-BBC News,https://sc2022.stream-link.org/tv2306.php?id=e05
-Bloomberg,https://sc2022.stream-link.org/tv2306.php?id=e06
-CBN News,https://sc2022.stream-link.org/tv2306.php?id=e07
-CBS News,https://sc2022.stream-link.org/tv2306.php?id=e08
-CNA News,https://sc2022.stream-link.org/tv2306.php?id=e09
-CNBC Marathon,https://sc2022.stream-link.org/tv2306.php?id=e10
-CNN Live,https://sc2022.stream-link.org/tv2306.php?id=e11
-DW News,https://sc2022.stream-link.org/tv2306.php?id=e12
-EURO News,https://sc2022.stream-link.org/tv2306.php?id=e13
-Fox Live,https://sc2022.stream-link.org/tv2306.php?id=e14
-France 24 English,https://sc2022.stream-link.org/tv2306.php?id=e15
-GB News,https://sc2022.stream-link.org/tv2306.php?id=e16
-Haber Turk,https://sc2022.stream-link.org/tv2306.php?id=e17
-NBC News,https://sc2022.stream-link.org/tv2306.php?id=e18
-NHK World Japan,https://sc2022.stream-link.org/tv2306.php?id=e19
-SKY News,https://sc2022.stream-link.org/tv2306.php?id=e20
-Radio Ticino,https://sc2022.stream-link.org/tv2306.php?id=e21
-Smithsonian Channel,https://sc2022.stream-link.org/tv2306.php?id=e22
-Love Nature,https://sc2022.stream-link.org/tv2306.php?id=e23
-Trace Urban,https://sc2022.stream-link.org/tv2306.php?id=e24
-KBS World,https://sc2022.stream-link.org/tv2306.php?id=e25
-Japan weather news,https://sc2022.stream-link.org/tv2306.php?id=e26
-GEM,https://sc2022.stream-link.org/tv2306.php?id=e27
-NTV News,https://sc2022.stream-link.org/tv2306.php?id=e28
-RKB News,https://sc2022.stream-link.org/tv2306.php?id=e29
-JCN,https://sc2022.stream-link.org/tv2306.php?id=e30
-KBC,https://sc2022.stream-link.org/tv2306.php?id=e31
-연합뉴스TV_로고(韓聯社新聞),https://sc2022.stream-link.org/tv2306.php?id=e32
-PLAYY 韓國電影台,https://sc2022.stream-link.org/tv2306.php?id=e33
 
 Bloomberg TV Asia Live Event,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzY2ELSofnxx1DiQbe-ftms/m3u8
 Bloomberg TV Asia,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhyFg7IxnvDxFVPVKhcvqFMM/m3u8
