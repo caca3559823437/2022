@@ -493,56 +493,13 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 兵团衛視,http://222.175.159.226:808/hls/76/index.m3u8
 
 上海,#genre#
-東方衛視,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 東方衛視,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
 東方衛視,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
-東方衛視,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-東方影視,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 東方影視,http://222.71.90.218:8888/newlive/live/hls/53/live.m3u8
-
-新聞综合,https://cntv.sbs/tv?auth=231013&id=shxwzh
 新聞综合,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
-新聞综合,http://live.cooltv.top/tv/bestv.php?id=20
-新聞综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 新聞综合,http://8.210.12.190:666/moss/1/sh.php?id=shxwzh
-新聞综合,https://dispatchnew.ulivetv.net/v/live/cgxalg4ysx4w.m3u8?stream_id=cgxalg4ysx4w&token=c0vzuc7wqkzk
-新聞综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 新聞综合,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
-新聞综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
-五星體育,https://cntv.sbs/tv?auth=230927&id=wxty
-東方財經,https://cntv.sbs/tv?auth=230927&id=dfcj
-第一財經,https://cntv.sbs/tv?auth=230927&id=dycj
-哈哈炫动,https://cntv.sbs/tv?auth=230927&id=hhxd
-外汇天地,https://cntv.sbs/tv?auth=230927&id=fztd
-欢笑剧场,https://cntv.sbs/tv?auth=230927&id=hxjc
-都市剧场,https://cntv.sbs/tv?auth=230927&id=dsjc
-新聞综合,https://cntv.sbs/tv?auth=230927&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=230927&id=shds
-外语频道,https://cntv.sbs/tv?auth=230927&id=shics
-纪实人文,https://cntv.sbs/tv?auth=230927&id=shjsrw
-七彩戏剧,https://cntv.sbs/tv?auth=230927&id=qcxj
-动漫秀场,https://cntv.sbs/tv?auth=230927&id=dmxc
-劲爆体育,https://cntv.sbs/tv?auth=230927&id=jbty
-新視觉,https://cntv.sbs/tv?auth=230927&id=xsj
-游戏风云,https://cntv.sbs/tv?auth=230927&id=yxfy
-生活时尚,https://cntv.sbs/tv?auth=230927&id=shss
-金色学堂,https://cntv.sbs/tv?auth=230927&id=jspd
-乐游,https://cntv.sbs/tv?auth=230927&id=qjs
-魅力足球,https://cntv.sbs/tv?auth=230927&id=mlzq
-华语影院,https://cntv.sbs/tv?auth=230927&id=hyyy
-電竞天堂,https://cntv.sbs/tv?auth=230927&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=230927&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=230927&id=xgyy
-電視剧,https://cntv.sbs/tv?auth=230927&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=230927&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=230927&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=230927&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=230927&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=230927&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=230927&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=230927&id=bbdh
-劲爆體育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 新聞综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 五星體育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 東方影視,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
@@ -662,16 +619,9 @@ CETV4，http://angtv.cn/test/bestv.php?id=zgjy4hd8m/8000000
 都市剧场,http://cfss.cc/ds/bst.php?id=Cf-83
 动漫秀场,http://cfss.cc/ds/bst.php?id=Cf-84
 魅力足球,http://cfss.cc/ds/bst.php?id=Cf-86
-
 第一財經,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
-第一財經,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-紀實人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 紀實人文,http://222.71.90.218:8888/newlive/live/hls/54/live.m3u8
-上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-新視觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 五星體育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-五星體育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 RedBullTV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 TVSClassicSports,http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
@@ -701,7 +651,6 @@ ULTRANATURETV4K,http://185.236.229.31:9981/play/a01d
 求索.生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1612
 
 港台,#genre#
-
 鳳凰資訊,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 鳳凰資訊,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8
 鳳凰資訊,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
@@ -744,7 +693,18 @@ ULTRANATURETV4K,http://185.236.229.31:9981/play/a01d
 鳳凰電影,http://epg.112114.xyz/huya/11602058
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 ViuTV,http://r.jdshipin.com/vSJvl
-
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+ViuTV6,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+HOYtv資訊,http://bziyunshao.synology.me:8891/bysid/77
+HOYTV資訊,http://bziyunshao.synology.me:8891/bysid/78
+港台電視31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視32,http://bziyunshao.synology.me:8892/bysid/32
+國際財經,http://bziyunshao.synology.me:8891/bysid/76
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0&hq
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無綫新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
@@ -767,7 +727,7 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh_ddnpfOEkvYpVdhZ_69NYM/m3u8
 J2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-161f54f3-5284-48f3-af43-039448fb76a9/index.m3u8?by=yeslivetv.com
 ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8?by=yeslivetv.com
-ViUTV6,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
+ViuTV6,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
 
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 港台電視32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
@@ -966,7 +926,6 @@ HBO3,http://208.115.225.174:14165
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
 港台電視31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 港台電視31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MEFE5444496454444964&ct=19234&tsum=d47d918a346b323bcbbbce0dac0192c5
@@ -978,9 +937,9 @@ HBO3,http://208.115.225.174:14165
 港台電視32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 
 TVBDrama,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153400&extension=ts&play_token=l1PpLPHRTQ
-J2台,http://r.jdshipin.com/Nr5jq
-J2台,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-J2台,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
+J2,http://r.jdshipin.com/Nr5jq
+J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
+J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/thuYX
@@ -1419,7 +1378,7 @@ ELEVEN1,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF279806802
 博斯高球1,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 博斯高球1,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球2,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
-國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
 愛爾達影劇,http://198.16.100.90:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
