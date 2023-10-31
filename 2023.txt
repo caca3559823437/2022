@@ -898,7 +898,7 @@ J2,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh_ddnpfOEkvYpVdhZ_69NY
 J2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-161f54f3-5284-48f3-af43-039448fb76a9/index.m3u8?by=yeslivetv.com
 ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8?by=yeslivetv.com
 ViuTV6,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
-
+HOYtv資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 港台電視32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 港台電視32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
@@ -950,6 +950,31 @@ TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=5711
 澳亞衛視,https://pi.0472.org/tv/aoya.php?auth=230927
 澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳視澳門,https://pi.0472.org/tv/asam.php?auth=230927
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+ViuTV6,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+HOYtv資訊,http://bziyunshao.synology.me:8891/bysid/77
+HOYTV資訊,http://bziyunshao.synology.me:8891/bysid/78
+港台電視31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視32,http://bziyunshao.synology.me:8892/bysid/32
+國際財經,http://bziyunshao.synology.me:8891/bysid/76
+J1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+TVB星河台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+TVB CHINESE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+TVB CLASSIC,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+TVB娛樂台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+TVB DRAMA,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
+翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+FAIRCHILD WEST,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90351
+FAIRCHILD 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
+翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+TVB經典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+TVB娛樂台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
 
 凤凰資訊,http://ceshi.huanqiuzhibo.cn/accv.php?id=phoenixinfo_hd
 凤凰衛視,http://ceshi.huanqiuzhibo.cn/accv.php?id=phoenixtv_hd
@@ -984,6 +1009,87 @@ TVBS新聞,http://ceshi.huanqiuzhibo.cn/accv.php?id=tvbs_n
 台視,http://ceshi.huanqiuzhibo.cn/accv.php?id=ttv_taiwan
 中視,http://ceshi.huanqiuzhibo.cn/accv.php?id=zhongshihd_twn
 民視,http://ceshi.huanqiuzhibo.cn/accv.php?id=ftvhd_taiwan
+
+台視,http://49.235.110.121:9090/898/peda/jdtw.php?id=1
+中視,http://49.235.110.121:9090/898/peda/jdtw.php?id=2
+華視,http://49.235.110.121:9090/898/peda/jdtw.php?id=3
+民視,http://49.235.110.121:9090/898/peda/jdtw.php?id=4
+公視,http://49.235.110.121:9090/898/peda/jdtw.php?id=5
+國家地理,http://49.235.110.121:9090/898/peda/jdtw.php?id=9
+DISCOVERY,http://49.235.110.121:9090/898/peda/jdtw.php?id=10
+旅遊生活,http://49.235.110.121:9090/898/peda/jdtw.php?id=11
+動物星球,http://49.235.110.121:9090/898/peda/jdtw.php?id=12
+亞洲旅遊,http://49.235.110.121:9090/898/peda/jdtw.php?id=13
+緯來綜合,http://49.235.110.121:9090/898/peda/jdtw.php?id=17
+八大第一,http://49.235.110.121:9090/898/peda/jdtw.php?id=18
+八大綜合,http://49.235.110.121:9090/898/peda/jdtw.php?id=19
+三立台灣,http://49.235.110.121:9090/898/peda/jdtw.php?id=20
+三立都會,http://49.235.110.121:9090/898/peda/jdtw.php?id=21
+衛視中文,http://49.235.110.121:9090/898/peda/jdtw.php?id=22
+東森綜合,http://49.235.110.121:9090/898/peda/jdtw.php?id=23
+超視,http://49.235.110.121:9090/898/peda/jdtw.php?id=24
+中天綜合,http://49.235.110.121:9090/898/peda/jdtw.php?id=25
+中天娛樂,http://49.235.110.121:9090/898/peda/jdtw.php?id=26
+東風衛視,http://49.235.110.121:9090/898/peda/jdtw.php?id=27
+MUCH TV,http://49.235.110.121:9090/898/peda/jdtw.php?id=28
+東森戲劇,http://49.235.110.121:9090/898/peda/jdtw.php?id=29
+八大戲劇,http://49.235.110.121:9090/898/peda/jdtw.php?id=30
+TVBS歡樂,http://49.235.110.121:9090/898/peda/jdtw.php?id=31
+緯來戲劇,http://49.235.110.121:9090/898/peda/jdtw.php?id=32
+龍華戲劇台,http://49.235.110.121:9090/898/peda/jdtw.php?id=33
+龍華日韓劇,http://49.235.110.121:9090/898/peda/jdtw.php?id=34
+龍華偶像劇,http://49.235.110.121:9090/898/peda/jdtw.php?id=35
+緯來日本,http://49.235.110.121:9090/898/peda/jdtw.php?id=36
+Taiwan Plus,http://49.235.110.121:9090/898/peda/jdtw.php?id=37
+年代新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=38
+東森新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=39
+中天新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=40
+民視新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=41
+三立新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=42
+TVBS新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=43
+TVBS ,http://49.235.110.121:9090/898/peda/jdtw.php?id=44
+非凡新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=45
+非凡商業,http://49.235.110.121:9090/898/peda/jdtw.php?id=46
+東森財經,http://49.235.110.121:9090/898/peda/jdtw.php?id=47
+寰宇新聞,http://49.235.110.121:9090/898/peda/jdtw.php?id=48
+壹新聞台,http://49.235.110.121:9090/898/peda/jdtw.php?id=49
+Bloomberg News,http://49.235.110.121:9090/898/peda/jdtw.php?id=50
+NHK世界,http://49.235.110.121:9090/898/peda/jdtw.php?id=51
+衛視電影,http://49.235.110.121:9090/898/peda/jdtw.php?id=52
+好萊塢電影,http://49.235.110.121:9090/898/peda/jdtw.php?id=53
+緯來電影,http://49.235.110.121:9090/898/peda/jdtw.php?id=54
+龍華電影,http://49.235.110.121:9090/898/peda/jdtw.php?id=55
+HBO,http://49.235.110.121:9090/898/peda/jdtw.php?id=56
+AXN,http://49.235.110.121:9090/898/peda/jdtw.php?id=57
+CINEMAX ,http://49.235.110.121:9090/898/peda/jdtw.php?id=58
+STAR MOVIES GOLD,http://49.235.110.121:9090/898/peda/jdtw.php?id=59
+Star World,http://49.235.110.121:9090/898/peda/jdtw.php?id=60
+緯來育樂,http://49.235.110.121:9090/898/peda/jdtw.php?id=61
+緯來體育,http://49.235.110.121:9090/898/peda/jdtw.php?id=62
+博斯運動一,http://49.235.110.121:9090/898/peda/jdtw.php?id=63
+momo綜合台,http://49.235.110.121:9090/898/peda/jdtw.php?id=64
+ELEVEN SPORTS 1 ,http://49.235.110.121:9090/898/peda/jdtw.php?id=65
+ELEVEN SPORTS 2 ,http://49.235.110.121:9090/898/peda/jdtw.php?id=66
+凤凰資訊,http://49.235.110.121:9090/898/peda/jdtw.php?id=67
+凤凰衛視,http://49.235.110.121:9090/898/peda/jdtw.php?id=68
+
+天映電影,http://171.108.239.89:8020/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+東森電影,http://171.108.239.89:8020/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+龍祥電影,http://171.108.239.89:8020/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+星空衛視,http://171.108.239.89:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+中国電影,http://171.108.239.89:8020/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.89:8020/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+東森洋片,http://171.108.239.89:8020/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+天映電影,http://171.108.239.89:8020/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+東森電影,http://171.108.239.89:8020/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+龍祥電影,http://171.108.239.89:8020/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+星空衛視,http://171.108.239.89:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+中国電影,http://171.108.239.89:8020/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.89:8020/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+東森洋片,http://171.108.239.89:8020/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清電影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作電影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 
 HBO家庭,http://ceshi.huanqiuzhibo.cn/accv.php?id=fyi_twn
 HBO,http://ceshi.huanqiuzhibo.cn/accv.php?id=hbohd_twn
@@ -6486,6 +6592,16 @@ Superone,http://185.96.176.139:8080/superone/index.m3u8
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 欧美版01,http://line.premiumpowers.net:80/Manuel/1234567/777837
 欧美版02,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
+蜜桃成熟时,https://1080p.huyall.com/play/negJPprd/index.m3u8
+蜜桃成熟时2同居关系,https://1080p.huyall.com/play/neg5KJrb/index.m3u8
+蜜桃成熟时3之蜜桃仙子,https://1080p.huyall.com/play/vbm39AeY/index.m3u8
+香港奇案之强奸,https://1080p.huyall.com/play/vbmQyJOb/index.m3u8
+香港奇案之强奸,https://1080p.huyall.com/play/vbmQyJOb
+强奸2之制服诱惑,https://1080p.huyall.com/play/zbqjXw2d/index.m3u8
+强奸2：原始兽性,https://1080p.huyall.com/play/PdRPQPqa/index.m3u8
+强奸3：OL诱惑,https://1080p.huyall.com/play/7axGNO9e/index.m3u8
+公海强奸风暴,https://1080p.huyall.com/play/zbqjnNpd/index.m3u8
+警花肉搏强奸党,https://1080p.huyall.com/play/xe76mNAd/index.m3u8
 
 🔞contentgftp,#genre#
 24H-XXX ADULTO 01,http://cdn.contentgftp.xyz:80/play/vHlDvO8oWrh_IZWOVsZg667UXD05xAXEHTACsc2L9_Q
@@ -11103,3 +11219,72 @@ Diary 淫乱实录,https://vodvip888.com/20220727/xqqhmrvI/1000kb/hls/index.m3u8
 被小导演潜规则,https://vodvip888.com/20230307/Bma8xguh/2119kb/hls/index.m3u8
 妈妈做红烧肉,https://vodvip888.com/20230308/XZqN9Kb9/1501kb/hls/index.m3u8
 
+🔞semaobf1,#genre#
+社长秘书,https://bf1.semaobf1.com/20230420/93CF1321BECEFA58/hls/1500k/index.m3u8
+女教師,https://bf1.semaobf1.com/20230425/8810A2EEF55F6C4D/hls/2000k/index.m3u8
+緊身裙女教師,https://bf1.semaobf1.com/20230508/158E57093A6DF526/hls/2000k/index.m3u8
+護士愛口爆,https://bf1.semaobf1.com/20230506/2920956AD74678FE/hls/2000k/index.m3u8
+對不起到高潮,https://bf1.semaobf1.com/20230507/21F6C393E9274E8C/hls/2000k/index.m3u8
+卧底调查员,https://bf1.semaobf1.com/20220902/D3ABEFDF1EFB3905/hls/1000k/index.m3u8
+泳衣模特儿,https://bf1.semaobf1.com/20220729/A101911F19F7C12E/hls/1500k/index.m3u8
+射精治疗改善,https://bf1.semaobf1.com/20220508/13D5B987A2EF04F2/hls/1000k/index.m3u8
+萝莉少女,https://bf1.semaobf1.com/20220509/CED6A7CCB620B364/hls/1000k/index.m3u8
+寝取女上司,https://bf1.semaobf1.com/20220727/B170CDB505E01718/hls/1000k/index.m3u8
+巴士时间停止,https://bf1.semaobf1.com/20230413/CE8B418092E7F49F/hls/1500k/index.m3u8
+安娜的恶作剧,https://bf1.semaobf1.com/20220905/EBBE3BE9B541AC87/hls/1000k/index.m3u8
+教室内群P大战,https://bf1.semaobf1.com/20210924/7CF8177CA287AFDC/hls/2000k/index.m3u8
+863蕾时间停止,https://bf1.semaobf1.com/20220426/3C93F5AA61D1C01F/hls/1000k/index.m3u8
+例行身体检查,https://bf1.semaobf1.com/20220317/CE3FDF4BB430073A/hls/2000k/index.m3u8
+小姐姐中出体检,https://bf1.semaobf1.com/20220801/2E68724EBE96C352/hls/2000k/index.m3u8
+牙科诊所,https://bf1.semaobf1.com/20230502/7D3DCE3845550F6F/hls/1000k/index.m3u8
+内射泄欲诊所,https://bf1.semaobf1.com/20220127/6FE82C23E1AADF22/hls/1000k/index.m3u8
+香港奇案强奸,https://bf1.semaobf1.com/20220429/D632667C0D09F8FF/hls/1500k/index.m3u8
+强奸2制服诱惑,https://bf1.semaobf1.com/20220429/784C9B1FA3935F14/hls/2000k/index.m3u8
+
+网约校花,https://0yefiks35y.motorjn.com/20230122/mTBqEmJZ/index.m3u8
+老婆帮帮忙,https://0yefiks35y.motorjn.com/20230122/ivvwjXL8/index.m3u8
+高颜值萝莉,https://0yefiks35y.motorjn.com/20230122/Hlr1NECE/index.m3u8
+校花萝莉,https://0yefiks35y.motorjn.com/20230113/32YXQdfb/index.m3u8
+棒球队和教练,https://0yefiks35y.motorjn.com/20230119/VHcp5YQH/index.m3u8
+盲盒,https://0yefiks35y.motorjn.com/20230121/BWNNzdFE/index.m3u8
+女领导好色,https://0yefiks35y.motorjn.com/20230116/cptFN2Nl/index.m3u8
+体验貂蝉,https://0yefiks35y.motorjn.com/20230112/AuVZP5ex/index.m3u8
+妮可口,https://0yefiks35y.motorjn.com/20230116/J3ycCpX8/index.m3u8
+非常绝,https://vmxiwpqqzu1.jztyxxjc.com/20180216/eIAaoDg1/index.m3u8?300
+双胞胎,https://vmxiwpqqzu1.jztyxxjc.com/20180216/oxasYn36/index.m3u8?300
+白领姐姐来我家吃,https://0yefiks35y.motorjn.com/20230108/5eiPu3yw/index.m3u8
+妮可 被室友,https://0yefiks35y.motorjn.com/20230116/m8RDXtlG/index.m3u8
+极品大美女和公司老板,https://0yefiks35y.motorjn.com/20230118/huY8jv7d/index.m3u8
+黑丝jk美少女,https://0yefiks35y.motorjn.com/20230111/uK4UlPW5/index.m3u8
+一根已经满足不了,https://0yefiks35y.motorjn.com/20230115/9zezvLbi/index.m3u8
+小樱桃,https://0yefiks35y.motorjn.com/20230115/9JAaSycj/index.m3u8
+稀有 流出,https://0yefiks35y.motorjn.com/20230113/SVxMmS5e/index.m3u8
+教练来我家,https://0yefiks35y.motorjn.com/20230113/yf4sneDT/index.m3u8
+白虎美少女,https://0yefiks35y.motorjn.com/20230113/6vtPfz8g/index.m3u8
+谈恋爱,https://0yefiks35y.motorjn.com/20230113/w84Ljuns/index.m3u8
+把自己当礼物,https://0yefiks35y.motorjn.com/20230107/31W1DMnW/index.m3u8
+旅游遇见的,https://0yefiks35y.motorjn.com/20230105/hhyidRvm/index.m3u8
+玉姐,https://0yefiks35y.motorjn.com/20230107/678yt2eb/index.m3u8
+台湾女警,https://0yefiks35y.motorjn.com/20230107/5NapNY2x/index.m3u8
+暗恋的女神,https://0yefiks35y.motorjn.com/20230108/ed71LVjK/index.m3u8
+扬州局长戴璐,https://0yefiks35y.motorjn.com/20230110/lmEQF7Qj/index.m3u8
+高难度,https://0yefiks35y.motorjn.com/20221230/9qf5SMaV/index.m3u8
+假装睡着了让弟弟随便,https://0yefiks35y.motorjn.com/20230105/ltpVBUOp/index.m3u8
+酷似刘亦菲,https://0yefiks35y.motorjn.com/20210805/DBcin9RB/index.m3u8?300
+JK萝莉白虎,https://0yefiks35y.motorjn.com/20220907/xpSbp7eC/index.m3u8
+萝莉好纯,https://0yefiks35y.motorjn.com/20220716/TgHsZDwq/index.m3u8
+游戏陪玩美少女,https://0yefiks35y.motorjn.com/20220905/FoJDUrkk/index.m3u8
+双马尾萝莉,https://fsrkrylchds8.jztyxxjc.com/112-136901.m3u8?300
+汉服萝莉小姐姐,https://0yefiks35y.motorjn.com/20220830/FqeRa5bQ/index.m3u8
+纹身萝莉,https://0yefiks35y.motorjn.com/20220901/TGz6uHTZ/index.m3u8
+ 爆,https://0yefiks35y.motorjn.com/20220918/CMQqq22L/index.m3u8
+菊花尾巴萝莉,https://0yefiks35y.motorjn.com/20220818/Wsvvnfr9/index.m3u8
+皮皮娘,https://vmxiwpqqzu1.jztyxxjc.com/20191222/ljbSZkuJ/index.m3u8?300
+你们要的㊙️,https://0yefiks35y.motorjn.com/20221109/aSgcm11j/index.m3u8
+双马尾,https://0yefiks35y.motorjn.com/20221029/4Zvv12Vg/index.m3u8
+你的女友,https://0yefiks35y.motorjn.com/20220907/QAOQE5Sh/index.m3u8?300
+姐姐给弟弟爱,https://0yefiks35y.motorjn.com/20221213/7i5PbIqz/index.m3u8
+和秘书,https://vmxiwpqqzu1.jztyxxjc.com/20200530/IT40vHsT/index.m3u8?300
+大长腿姐姐,https://0yefiks35y.motorjn.com/20220607/IxMyPZov/index.m3u8?300
+打工地方和人气,https://0yefiks35y.motorjn.com/20210908/niMxlGrg/index.m3u8?300
+我的女友被爸爸,https://0yefiks35y.motorjn.com/20210911/wLwa2lwq/index.m3u8?300
