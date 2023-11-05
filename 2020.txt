@@ -362,6 +362,9 @@ CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 延边衛視,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边衛視,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 三沙衛視,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+第一剧场,http://115.150.63.77:9901/tsfile/live/0001_47.m3u8?key=txiptv&playlive=1&authid=0
+风云剧场,http://115.150.63.77:9901/tsfile/live/0001_48.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://115.150.63.77:9901/tsfile/live/0001_49.m3u8?key=txiptv&playlive=1&authid=0
 
 上海,#genre#
 東方衛視,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
@@ -521,8 +524,6 @@ TVSClassicSports,http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 高一[720x576],http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
 高二[720x576],http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三[720x576],http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-4K测试源[3840x2160],http://159.75.85.63:5678/zb.php?id=douyin
-loupe4K[3840x2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 港台,#genre#
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
@@ -536,7 +537,7 @@ loupe4K[3840x2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 凤凰衛視,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰衛視,http://r.jdshipin.com/cCCzW
 凤凰衛視,http://113.117.74.26:8081/hls/37/index.m3u8
-
+凤凰衛視,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港HD,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 凤凰香港HD,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港HD,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -585,6 +586,8 @@ Mytv super5,http://108.181.20.193:27347/livehttpplay?channel_id=13024
 Mytv super6,http://108.181.20.193:27347/livehttpplay?channel_id=13026
 Mytv super7,http://108.181.20.193:27347/livehttpplay?channel_id=13027
 
+港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
 無綫财经,http://bziyunshao.synology.me:8890/bysid/85
 HOYtv資訊,http://bziyunshao.synology.me:8891/bysid/77
@@ -678,7 +681,6 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 
-中天新聞,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
@@ -739,8 +741,8 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 好莱坞電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 好莱坞電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 好莱坞電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+好萊坞電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+好萊坞電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 好莱坞電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 好莱坞電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 好莱坞電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
@@ -828,8 +830,8 @@ Cinemax,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MFEF825693988256
 
 龍華電影,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 
-龍翔时代,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8
-龍翔时代,http://gxdl-lhs.8866.org:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+龍祥時代,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8
+龍祥時代,http://gxdl-lhs.8866.org:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 
 龍祥電影,http://171.108.239.89:8020/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -871,10 +873,11 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 東森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
 亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-寰球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+
 東森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 探索亞洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
 中天亞洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
@@ -1737,6 +1740,33 @@ NHK_world,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CGTN,http://live.cgtn.com/500/prog_index.m3u8
 
+Nick Jr[854x480],http://154.12.80.233:34400/stream/3cebc4b6f6d7fc21520c28ad4a77eae6
+CNA[854x480],http://154.12.80.233:34400/stream/523541fa7d255737424a7d52ec9cf13a
+Celestial Classic[1920x1080],http://154.12.80.233:34400/stream/3dd67c35f5ed9150ef16c9ab64769369
+TLC[1280x720],http://154.12.80.233:34400/stream/2c39c3005ecf9fa0fd83a692db77261a
+珍珠台[1280x720],http://154.12.80.233:34400/stream/1733b803c2f1b6a816a1a192ee57cdcf
+中天娱乐,http://154.12.80.233:34400/stream/166465e46e5a82bbfb06505b3af27a64
+阿里郎 Arirang[1280x720],http://154.12.80.233:34400/stream/1d7fb97c76d6ebe651455816925abafa
+爱尔达体育2台[1920x1080],http://154.12.80.233:34400/stream/750259ed88f513d13fb212b6a69b6ea5
+Supersports 3 backup[1920x1080],http://154.12.80.233:34400/stream/14537b25b72e7dee95d9d0bdaa7e257b
+Beinsports HD[1280x720],http://154.12.80.233:34400/stream/c58749b419379a5212c4969d726d3353
+UFC Network[1920x1080],http://154.12.80.233:34400/stream/93d02a8d4e5a7bd94a09f3518de1c17e
+Sony Ten 2[1920x1080],http://154.12.80.233:34400/stream/b1683c57c98d47842f2a8ddd3c965671
+Sony Ten 3[1920x1080],http://154.12.80.233:34400/stream/2809eeeace43f4b943960b73b91442c1
+Beins 1 English[1920x1080],http://154.12.80.233:34400/stream/cddd67448ca8bd43037908f346e1139c
+Bein 4 Sports[1920x1080],http://154.12.80.233:34400/stream/402f8eb38155fb5784855084a33980bf
+Bein 1 Premium[1280x720],http://154.12.80.233:34400/stream/3221d73e37e15e03fe970b4f2f5a1141
+Bein 3 Premium[1920x1080],http://154.12.80.233:34400/stream/7782bffb9cc28cf0de722aba8c4efa69
+Bein 1 Xtra[1024x576],http://154.12.80.233:34400/stream/b15c2d31233cc25a33a813bb59e9d2f3
+Colors Tamil[1280x720],http://154.12.80.233:34400/stream/fa7d5b6ab3b7a0dda22971ee1c2b66ee
+Discovery Kids Tamil[768x576],http://154.12.80.233:34400/stream/f5d603388c105d3212fc078378dcb490
+Sony Yay Tamil[1024x576],http://154.12.80.233:34400/stream/f852c0f7f56b8a6fd7d4f825b692d25f
+Bollyone[1280x720],http://154.12.80.233:34400/stream/b035949c0b17bbb07813e0d6959bda1a
+Natgeo_HD[1920x1080],http://154.12.80.233:34400/stream/d12382008dc986260852c469a3545cca
+History[854x480],http://154.12.80.233:34400/stream/b33278220fc7a05533dfd6679ea70b6a
+CBS HD[1280x720],http://154.12.80.233:34400/stream/de8f7f2b8dff6c99755008f3797c4e80
+DW (Deutsch)[1280x720],http://154.12.80.233:34400/stream/bbe13066ac62c5e650348f46ed1dd4be
+
 晴天,#genre#
 港台電視31,mitv://generationnexxxt.com:19806/e9494a57255b4724b3766473178f0447
 港台电视32,mitv://generationnexxxt.com:19806/a39af5d5837f4efdbab031be35671c0f
@@ -2153,194 +2183,194 @@ EYETV戏剧台,mitv://generationnexxxt.com:19806/2b2531f648114090aaca890fabbf902
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 
 测试,#genre#
-凤凰資訊,http://103.45.68.47/gy/gy385/xsj.php?id=phtv-info
-凤凰衛視,http://103.45.68.47/gy/gy385/xsj.php?id=phtv-cn
-凤凰香港,http://103.45.68.47/gy/gy385/xsj.php?id=phtv-hk
-翡翠台,http://103.45.68.47/gy/gy385/xsj.php?id=feicui
-明珠台,http://103.45.68.47/gy/gy385/xsj.php?id=pearl
-無綫新聞,http://103.45.68.47/gy/gy385/xsj.php?id=tvb-news
-TVB星河台,http://103.45.68.47/gy/gy385/xsj.php?id=tvb-xinghe
-TVB娱乐台,http://103.45.68.47/gy/gy385/xsj.php?id=TVB ylxw
-TVB千禧台,http://103.45.68.47/gy/gy385/xsj.php?id=tvb-classic
-無綫财经,http://103.45.68.47/gy/gy385/xsj.php?id=tvb-finance
-TVB粤语台,http://103.45.68.47/gy/gy385/xsj.php?id=tvb-yueyu
-TVB亞剧台,http://103.45.68.47/gy/gy385/xsj.php?id=tvb-asia-drama
-TVB華语台,http://103.45.68.47/gy/gy385/xsj.php?id=tvb-drama
-Now華剧台,http://103.45.68.47/gy/gy385/xsj.php?id=nowhjt
-Now剧集台,http://103.45.68.47/gy/gy385/xsj.php?id=nowjjt
-Now新聞台,http://103.45.68.47/gy/gy385/xsj.php?id=now-news
-Now财经台,http://103.45.68.47/gy/gy385/xsj.php?id=now-finance
-Now直播台,http://103.45.68.47/gy/gy385/xsj.php?id=now-direct
-天映频道,http://103.45.68.47/gy/gy385/xsj.php?id=celestial
-天映经典,http://103.45.68.47/gy/gy385/xsj.php?id=cccm
-J2,http://103.45.68.47/gy/gy385/xsj.php?id=j2
-ViuTV,http://103.45.68.47/gy/gy385/xsj.php?id=viutv
-ViuTV6,http://103.45.68.47/gy/gy385/xsj.php?id=viutv6
-HOYTV,http://103.45.68.47/gy/gy385/xsj.php?id=hoytv
-HOY資訊台,http://103.45.68.47/gy/gy385/xsj.php?id=hoy-info
-澳门莲花,http://103.45.68.47/gy/gy385/xsj.php?id=lotustv
-港台電視31,http://103.45.68.47/gy/gy385/xsj.php?id=rthk31
-港台電視32,http://103.45.68.47/gy/gy385/xsj.php?id=rthk32
-澳门資訊,http://103.45.68.47/gy/gy385/xsj.php?id=amzx
-澳視澳门,http://103.45.68.47/gy/gy385/xsj.php?id=asam
+凤凰資訊,http://103.45.68.47/gy/gy818/xsj.php?id=phtv-info
+凤凰衛視,http://103.45.68.47/gy/gy818/xsj.php?id=phtv-cn
+凤凰香港,http://103.45.68.47/gy/gy818/xsj.php?id=phtv-hk
+翡翠台,http://103.45.68.47/gy/gy818/xsj.php?id=feicui
+明珠台,http://103.45.68.47/gy/gy818/xsj.php?id=pearl
+無綫新聞,http://103.45.68.47/gy/gy818/xsj.php?id=tvb-news
+TVB星河台,http://103.45.68.47/gy/gy818/xsj.php?id=tvb-xinghe
+TVB娱乐台,http://103.45.68.47/gy/gy818/xsj.php?id=TVB ylxw
+TVB千禧台,http://103.45.68.47/gy/gy818/xsj.php?id=tvb-classic
+無綫财经,http://103.45.68.47/gy/gy818/xsj.php?id=tvb-finance
+TVB粤语台,http://103.45.68.47/gy/gy818/xsj.php?id=tvb-yueyu
+TVB亞剧台,http://103.45.68.47/gy/gy818/xsj.php?id=tvb-asia-drama
+TVB華语台,http://103.45.68.47/gy/gy818/xsj.php?id=tvb-drama
+Now華剧台,http://103.45.68.47/gy/gy818/xsj.php?id=nowhjt
+Now剧集台,http://103.45.68.47/gy/gy818/xsj.php?id=nowjjt
+Now新聞台,http://103.45.68.47/gy/gy818/xsj.php?id=now-news
+Now财经台,http://103.45.68.47/gy/gy818/xsj.php?id=now-finance
+Now直播台,http://103.45.68.47/gy/gy818/xsj.php?id=now-direct
+天映频道,http://103.45.68.47/gy/gy818/xsj.php?id=celestial
+天映经典,http://103.45.68.47/gy/gy818/xsj.php?id=cccm
+J2,http://103.45.68.47/gy/gy818/xsj.php?id=j2
+ViuTV,http://103.45.68.47/gy/gy818/xsj.php?id=viutv
+ViuTV6,http://103.45.68.47/gy/gy818/xsj.php?id=viutv6
+HOYTV,http://103.45.68.47/gy/gy818/xsj.php?id=hoytv
+HOY資訊台,http://103.45.68.47/gy/gy818/xsj.php?id=hoy-info
+澳门莲花,http://103.45.68.47/gy/gy818/xsj.php?id=lotustv
+港台電視31,http://103.45.68.47/gy/gy818/xsj.php?id=rthk31
+港台電視32,http://103.45.68.47/gy/gy818/xsj.php?id=rthk32
+澳门資訊,http://103.45.68.47/gy/gy818/xsj.php?id=amzx
+澳視澳门,http://103.45.68.47/gy/gy818/xsj.php?id=asam
 
-TVBS HD,http://103.45.68.47/gy/gy385/xsj.php?id=tvbs-hd
-TVBS新聞,http://103.45.68.47/gy/gy385/xsj.php?id=tvbs-news
-東森新聞,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-news
-中天新聞,http://103.45.68.47/gy/gy385/xsj.php?id=cti-news
-東森财经,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-finance
-壹新聞台,http://103.45.68.47/gy/gy385/xsj.php?id=nexttv
-中視新聞,http://103.45.68.47/gy/gy385/xsj.php?id=ctv-news
-年代新聞,http://103.45.68.47/gy/gy385/xsj.php?id=era-news
-寰宇新聞,http://103.45.68.47/gy/gy385/xsj.php?id=global-news
-台視新聞,http://103.45.68.47/gy/gy385/xsj.php?id=ttv-news
-非凡新聞,http://103.45.68.47/gy/gy385/xsj.php?id=ustv-news
-華視新聞,http://103.45.68.47/gy/gy385/xsj.php?id=cts-news
-镜新聞台,http://103.45.68.47/gy/gy385/xsj.php?id=mnews
-靖天資訊,http://103.45.68.47/gy/gy385/xsj.php?id=jtzx
+TVBS HD,http://103.45.68.47/gy/gy818/xsj.php?id=tvbs-hd
+TVBS新聞,http://103.45.68.47/gy/gy818/xsj.php?id=tvbs-news
+東森新聞,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-news
+中天新聞,http://103.45.68.47/gy/gy818/xsj.php?id=cti-news
+東森财经,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-finance
+壹新聞台,http://103.45.68.47/gy/gy818/xsj.php?id=nexttv
+中視新聞,http://103.45.68.47/gy/gy818/xsj.php?id=ctv-news
+年代新聞,http://103.45.68.47/gy/gy818/xsj.php?id=era-news
+寰宇新聞,http://103.45.68.47/gy/gy818/xsj.php?id=global-news
+台視新聞,http://103.45.68.47/gy/gy818/xsj.php?id=ttv-news
+非凡新聞,http://103.45.68.47/gy/gy818/xsj.php?id=ustv-news
+華視新聞,http://103.45.68.47/gy/gy818/xsj.php?id=cts-news
+镜新聞台,http://103.45.68.47/gy/gy818/xsj.php?id=mnews
+靖天資訊,http://103.45.68.47/gy/gy818/xsj.php?id=jtzx
 
-星衛電影,http://103.45.68.47/gy/gy385/xsj.php?id=star-movies
-緯來電影,http://103.45.68.47/gy/gy385/xsj.php?id=videoland-movie
-緯來戏剧,http://103.45.68.47/gy/gy385/xsj.php?id=videoland-drama
-東森電影,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-movie
-東森洋片,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-emovie
-東森戏剧,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-drama
-衛視電影,http://103.45.68.47/gy/gy385/xsj.php?id=star-chinese-movies
-星衛娱乐,http://103.45.68.47/gy/gy385/xsj.php?id=star-entetainment
-衛視中文,http://103.45.68.47/gy/gy385/xsj.php?id=star-chinese-channel
-龍華電影,http://103.45.68.47/gy/gy385/xsj.php?id=ltv-movies
-龍華洋片,http://103.45.68.47/gy/gy385/xsj.php?id=ltv-yangpian
-好莱坞電影,http://103.45.68.47/gy/gy385/xsj.php?id=hollywood-tw
-TVBS欢樂,http://103.45.68.47/gy/gy385/xsj.php?id=tvbs-huanle
-ELTA影剧,http://103.45.68.47/gy/gy385/xsj.php?id=elta-drama
-龍祥電影,http://103.45.68.47/gy/gy385/xsj.php?id=lstime
-EYE戏剧,http://103.45.68.47/gy/gy385/xsj.php?id=eye-drama
-八大戏剧,http://103.45.68.47/gy/gy385/xsj.php?id=gtv41
-八大娱乐,http://103.45.68.47/gy/gy385/xsj.php?id=gtv86
-MTV Live HD,http://103.45.68.47/gy/gy385/xsj.php?id=mtv
-靖天電影,http://103.45.68.47/gy/gy385/xsj.php?id=jtdy
-中天娱乐,http://103.45.68.47/gy/gy385/xsj.php?id=ctitv39
-靖洋戏剧,http://103.45.68.47/gy/gy385/xsj.php?id=jyxj
-美亞電影,http://103.45.68.47/gy/gy385/xsj.php?id=meiah-movies
-中天综合,http://103.45.68.47/gy/gy385/xsj.php?id=ctitv36
-中天亞洲,http://103.45.68.47/gy/gy385/xsj.php?id=cti-asia
-緯來日本,http://103.45.68.47/gy/gy385/xsj.php?id=videoland-japan
-緯來综合,http://103.45.68.47/gy/gy385/xsj.php?id=videoland
-TVBS Asia,http://103.45.68.47/gy/gy385/xsj.php?id=tvbs-asia
-東森综合,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-ettv
-東森超視,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-supertv
-台視,http://103.45.68.47/gy/gy385/xsj.php?id=ttv
-八大综合,http://103.45.68.47/gy/gy385/xsj.php?id=gtv28
-八大第一,http://103.45.68.47/gy/gy385/xsj.php?id=gtv27
-中視,http://103.45.68.47/gy/gy385/xsj.php?id=ctv-hd
-中視,http://103.45.68.47/gy/gy385/xsj.php?id=ctv
-華視,http://103.45.68.47/gy/gy385/xsj.php?id=cts
-ELTA综合,http://103.45.68.47/gy/gy385/xsj.php?id=elta-tv
-客家電視,http://103.45.68.47/gy/gy385/xsj.php?id=hakkatv
-公視,http://103.45.68.47/gy/gy385/xsj.php?id=pts
-靖天国际,http://103.45.68.47/gy/gy385/xsj.php?id=jtgj
-大爱一台,http://103.45.68.47/gy/gy385/xsj.php?id=daai1
-大爱二台,http://103.45.68.47/gy/gy385/xsj.php?id=daai2
+星衛電影,http://103.45.68.47/gy/gy818/xsj.php?id=star-movies
+緯來電影,http://103.45.68.47/gy/gy818/xsj.php?id=videoland-movie
+緯來戏剧,http://103.45.68.47/gy/gy818/xsj.php?id=videoland-drama
+東森電影,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-movie
+東森洋片,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-emovie
+東森戏剧,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-drama
+衛視電影,http://103.45.68.47/gy/gy818/xsj.php?id=star-chinese-movies
+星衛娱乐,http://103.45.68.47/gy/gy818/xsj.php?id=star-entetainment
+衛視中文,http://103.45.68.47/gy/gy818/xsj.php?id=star-chinese-channel
+龍華電影,http://103.45.68.47/gy/gy818/xsj.php?id=ltv-movies
+龍華洋片,http://103.45.68.47/gy/gy818/xsj.php?id=ltv-yangpian
+好莱坞電影,http://103.45.68.47/gy/gy818/xsj.php?id=hollywood-tw
+TVBS欢樂,http://103.45.68.47/gy/gy818/xsj.php?id=tvbs-huanle
+ELTA影剧,http://103.45.68.47/gy/gy818/xsj.php?id=elta-drama
+龍祥電影,http://103.45.68.47/gy/gy818/xsj.php?id=lstime
+EYE戏剧,http://103.45.68.47/gy/gy818/xsj.php?id=eye-drama
+八大戏剧,http://103.45.68.47/gy/gy818/xsj.php?id=gtv41
+八大娱乐,http://103.45.68.47/gy/gy818/xsj.php?id=gtv86
+MTV Live HD,http://103.45.68.47/gy/gy818/xsj.php?id=mtv
+靖天電影,http://103.45.68.47/gy/gy818/xsj.php?id=jtdy
+中天娱乐,http://103.45.68.47/gy/gy818/xsj.php?id=ctitv39
+靖洋戏剧,http://103.45.68.47/gy/gy818/xsj.php?id=jyxj
+美亞電影,http://103.45.68.47/gy/gy818/xsj.php?id=meiah-movies
+中天综合,http://103.45.68.47/gy/gy818/xsj.php?id=ctitv36
+中天亞洲,http://103.45.68.47/gy/gy818/xsj.php?id=cti-asia
+緯來日本,http://103.45.68.47/gy/gy818/xsj.php?id=videoland-japan
+緯來综合,http://103.45.68.47/gy/gy818/xsj.php?id=videoland
+TVBS Asia,http://103.45.68.47/gy/gy818/xsj.php?id=tvbs-asia
+東森综合,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-ettv
+東森超視,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-supertv
+台視,http://103.45.68.47/gy/gy818/xsj.php?id=ttv
+八大综合,http://103.45.68.47/gy/gy818/xsj.php?id=gtv28
+八大第一,http://103.45.68.47/gy/gy818/xsj.php?id=gtv27
+中視,http://103.45.68.47/gy/gy818/xsj.php?id=ctv-hd
+中視,http://103.45.68.47/gy/gy818/xsj.php?id=ctv
+華視,http://103.45.68.47/gy/gy818/xsj.php?id=cts
+ELTA综合,http://103.45.68.47/gy/gy818/xsj.php?id=elta-tv
+客家電視,http://103.45.68.47/gy/gy818/xsj.php?id=hakkatv
+公視,http://103.45.68.47/gy/gy818/xsj.php?id=pts
+靖天国际,http://103.45.68.47/gy/gy818/xsj.php?id=jtgj
+大爱一台,http://103.45.68.47/gy/gy818/xsj.php?id=daai1
+大爱二台,http://103.45.68.47/gy/gy818/xsj.php?id=daai2
 
-8TV,http://103.45.68.47/gy/gy385/xsj.php?id=8tv
-AstroAEC,http://103.45.68.47/gy/gy385/xsj.php?id=astro-aec
-Astro華丽台,http://103.45.68.47/gy/gy385/xsj.php?id=astro-wahlaitoi
-Astro欢喜台,http://103.45.68.47/gy/gy385/xsj.php?id=astro-huaheedai
-Channel U,http://103.45.68.47/gy/gy385/xsj.php?id=channel-u
-Channel 5,http://103.45.68.47/gy/gy385/xsj.php?id=channel-5
-Channel 8,http://103.45.68.47/gy/gy385/xsj.php?id=channel8
-Astro爱奇艺,http://103.45.68.47/gy/gy385/xsj.php?id=astro-iqiyi
-Astro全佳台,http://103.45.68.47/gy/gy385/xsj.php?id=astro-quanjia
-AstroArena,http://103.45.68.47/gy/gy385/xsj.php?id=astro-arena-hd
-AstroArena 2,http://103.45.68.47/gy/gy385/xsj.php?id=astro-arena2
-AstroONE,http://103.45.68.47/gy/gy385/xsj.php?id=astro-one
-AstroAwani,http://103.45.68.47/gy/gy385/xsj.php?id=astro-awani
-OKEY,http://103.45.68.47/gy/gy385/xsj.php?id=okey
-TV9,http://103.45.68.47/gy/gy385/xsj.php?id=tv9
-Astro Prima,http://103.45.68.47/gy/gy385/xsj.php?id=astro-prima
-Astro Warna,http://103.45.68.47/gy/gy385/xsj.php?id=astro-warna
-Astro Aura,http://103.45.68.47/gy/gy385/xsj.php?id=astro-aura
-Astro Oasis,http://103.45.68.47/gy/gy385/xsj.php?id=astro-oasis
-Astro Rania,http://103.45.68.47/gy/gy385/xsj.php?id=astro-rania
-Astro Citra,http://103.45.68.47/gy/gy385/xsj.php?id=astro-citra
+8TV,http://103.45.68.47/gy/gy818/xsj.php?id=8tv
+AstroAEC,http://103.45.68.47/gy/gy818/xsj.php?id=astro-aec
+Astro華丽台,http://103.45.68.47/gy/gy818/xsj.php?id=astro-wahlaitoi
+Astro欢喜台,http://103.45.68.47/gy/gy818/xsj.php?id=astro-huaheedai
+Channel U,http://103.45.68.47/gy/gy818/xsj.php?id=channel-u
+Channel 5,http://103.45.68.47/gy/gy818/xsj.php?id=channel-5
+Channel 8,http://103.45.68.47/gy/gy818/xsj.php?id=channel8
+Astro爱奇艺,http://103.45.68.47/gy/gy818/xsj.php?id=astro-iqiyi
+Astro全佳台,http://103.45.68.47/gy/gy818/xsj.php?id=astro-quanjia
+AstroArena,http://103.45.68.47/gy/gy818/xsj.php?id=astro-arena-hd
+AstroArena 2,http://103.45.68.47/gy/gy818/xsj.php?id=astro-arena2
+AstroONE,http://103.45.68.47/gy/gy818/xsj.php?id=astro-one
+AstroAwani,http://103.45.68.47/gy/gy818/xsj.php?id=astro-awani
+OKEY,http://103.45.68.47/gy/gy818/xsj.php?id=okey
+TV9,http://103.45.68.47/gy/gy818/xsj.php?id=tv9
+Astro Prima,http://103.45.68.47/gy/gy818/xsj.php?id=astro-prima
+Astro Warna,http://103.45.68.47/gy/gy818/xsj.php?id=astro-warna
+Astro Aura,http://103.45.68.47/gy/gy818/xsj.php?id=astro-aura
+Astro Oasis,http://103.45.68.47/gy/gy818/xsj.php?id=astro-oasis
+Astro Rania,http://103.45.68.47/gy/gy818/xsj.php?id=astro-rania
+Astro Citra,http://103.45.68.47/gy/gy818/xsj.php?id=astro-citra
 
-HBO HD,http://103.45.68.47/gy/gy385/xsj.php?id=hbo-hd
-HBO Hits HD,http://103.45.68.47/gy/gy385/xsj.php?id=hbo-hits-hd
-CNN,http://103.45.68.47/gy/gy385/xsj.php?id=cnn
-CNN International,http://103.45.68.47/gy/gy385/xsj.php?id=cnn-international
-HLN,http://103.45.68.47/gy/gy385/xsj.php?id=cnn-hln
-BBC World News,http://103.45.68.47/gy/gy385/xsj.php?id=bbc-world-news
-CNBC,http://103.45.68.47/gy/gy385/xsj.php?id=cnbc
-Fox News,http://103.45.68.47/gy/gy385/xsj.php?id=fox-news
-CBS News,http://103.45.68.47/gy/gy385/xsj.php?id=cbsn
-Euronews,http://103.45.68.47/gy/gy385/xsj.php?id=euronews
-ABC News,http://103.45.68.47/gy/gy385/xsj.php?id=abc-news
-Bloomberg,http://103.45.68.47/gy/gy385/xsj.php?id=bloomberg
+HBO HD,http://103.45.68.47/gy/gy818/xsj.php?id=hbo-hd
+HBO Hits HD,http://103.45.68.47/gy/gy818/xsj.php?id=hbo-hits-hd
+CNN,http://103.45.68.47/gy/gy818/xsj.php?id=cnn
+CNN International,http://103.45.68.47/gy/gy818/xsj.php?id=cnn-international
+HLN,http://103.45.68.47/gy/gy818/xsj.php?id=cnn-hln
+BBC World News,http://103.45.68.47/gy/gy818/xsj.php?id=bbc-world-news
+CNBC,http://103.45.68.47/gy/gy818/xsj.php?id=cnbc
+Fox News,http://103.45.68.47/gy/gy818/xsj.php?id=fox-news
+CBS News,http://103.45.68.47/gy/gy818/xsj.php?id=cbsn
+Euronews,http://103.45.68.47/gy/gy818/xsj.php?id=euronews
+ABC News,http://103.45.68.47/gy/gy818/xsj.php?id=abc-news
+Bloomberg,http://103.45.68.47/gy/gy818/xsj.php?id=bloomberg
 
-国家地理,http://103.45.68.47/gy/gy385/xsj.php?id=natgeo
-国家地理野生,http://103.45.68.47/gy/gy385/xsj.php?id=natgeo-wild
-探索频道,http://103.45.68.47/gy/gy385/xsj.php?id=discovery
-DMAX,http://103.45.68.47/gy/gy385/xsj.php?id=dmax
-探索科学,http://103.45.68.47/gy/gy385/xsj.php?id=discovery-sci
-探索亞洲,http://103.45.68.47/gy/gy385/xsj.php?id=discovery-asia
-History,http://103.45.68.47/gy/gy385/xsj.php?id=history
-History-2,http://103.45.68.47/gy/gy385/xsj.php?id=history-2
-美食星球,http://103.45.68.47/gy/gy385/xsj.php?id=food-planet
-亞洲旅游,http://103.45.68.47/gy/gy385/xsj.php?id=asia-travel
-旅游生活,http://103.45.68.47/gy/gy385/xsj.php?id=tlc
-EYE旅游,http://103.45.68.47/gy/gy385/xsj.php?id=eye-travel
-动物星球,http://103.45.68.47/gy/gy385/xsj.php?id=animal-planet
-CI罪案侦查,http://103.45.68.47/gy/gy385/xsj.php?id=ci
+国家地理,http://103.45.68.47/gy/gy818/xsj.php?id=natgeo
+国家地理野生,http://103.45.68.47/gy/gy818/xsj.php?id=natgeo-wild
+探索频道,http://103.45.68.47/gy/gy818/xsj.php?id=discovery
+DMAX,http://103.45.68.47/gy/gy818/xsj.php?id=dmax
+探索科学,http://103.45.68.47/gy/gy818/xsj.php?id=discovery-sci
+探索亞洲,http://103.45.68.47/gy/gy818/xsj.php?id=discovery-asia
+History,http://103.45.68.47/gy/gy818/xsj.php?id=history
+History-2,http://103.45.68.47/gy/gy818/xsj.php?id=history-2
+美食星球,http://103.45.68.47/gy/gy818/xsj.php?id=food-planet
+亞洲旅游,http://103.45.68.47/gy/gy818/xsj.php?id=asia-travel
+旅游生活,http://103.45.68.47/gy/gy818/xsj.php?id=tlc
+EYE旅游,http://103.45.68.47/gy/gy818/xsj.php?id=eye-travel
+动物星球,http://103.45.68.47/gy/gy818/xsj.php?id=animal-planet
+CI罪案侦查,http://103.45.68.47/gy/gy818/xsj.php?id=ci
 
-广東珠江,http://103.45.68.47/gy/gy385/xsj.php?id=gdzj
-广東体育,http://103.45.68.47/gy/gy385/xsj.php?id=gdty
-上海都市,http://103.45.68.47/gy/gy385/xsj.php?id=shds
-五星体育,http://103.45.68.47/gy/gy385/xsj.php?id=wxty
-第一财经,http://103.45.68.47/gy/gy385/xsj.php?id=yicai
-上海新聞,http://103.45.68.47/gy/gy385/xsj.php?id=shxw
-北京体育,http://103.45.68.47/gy/gy385/xsj.php?id=bjtyxx
-湖南经視,http://103.45.68.47/gy/gy385/xsj.php?id=hnjs
-北京财经,http://103.45.68.47/gy/gy385/xsj.php?id=bjcj
-天津体育,http://103.45.68.47/gy/gy385/xsj.php?id=tjty
-河南梨园,http://103.45.68.47/gy/gy385/xsj.php?id=hnly
-辽宁体育,http://103.45.68.47/gy/gy385/xsj.php?id=lnty
+广東珠江,http://103.45.68.47/gy/gy818/xsj.php?id=gdzj
+广東体育,http://103.45.68.47/gy/gy818/xsj.php?id=gdty
+上海都市,http://103.45.68.47/gy/gy818/xsj.php?id=shds
+五星体育,http://103.45.68.47/gy/gy818/xsj.php?id=wxty
+第一财经,http://103.45.68.47/gy/gy818/xsj.php?id=yicai
+上海新聞,http://103.45.68.47/gy/gy818/xsj.php?id=shxw
+北京体育,http://103.45.68.47/gy/gy818/xsj.php?id=bjtyxx
+湖南经視,http://103.45.68.47/gy/gy818/xsj.php?id=hnjs
+北京财经,http://103.45.68.47/gy/gy818/xsj.php?id=bjcj
+天津体育,http://103.45.68.47/gy/gy818/xsj.php?id=tjty
+河南梨园,http://103.45.68.47/gy/gy818/xsj.php?id=hnly
+辽宁体育,http://103.45.68.47/gy/gy818/xsj.php?id=lnty
 
-NBA,http://103.45.68.47/gy/gy385/xsj.php?id=nba
-緯來体育,http://103.45.68.47/gy/gy385/xsj.php?id=videoland-sport
-ELTA体育-1,http://103.45.68.47/gy/gy385/xsj.php?id=elta-sport1
-ELTA体育-2,http://103.45.68.47/gy/gy385/xsj.php?id=elta-sport2
-ELTA体育-3,http://103.45.68.47/gy/gy385/xsj.php?id=elta-sport3
-ELEVEN体育-1,http://103.45.68.47/gy/gy385/xsj.php?id=eleven-sport1
-ELEVEN体育-2,http://103.45.68.47/gy/gy385/xsj.php?id=eleven-sport2
-beIN Sports 1,http://103.45.68.47/gy/gy385/xsj.php?id=bein-sports1
-beIN Sports 2,http://103.45.68.47/gy/gy385/xsj.php?id=bein-sports2
-beIN Sports 3,http://103.45.68.47/gy/gy385/xsj.php?id=bein-sports3
-Eurosport HD,http://103.45.68.47/gy/gy385/xsj.php?id=eurosport-hd
-Eurosports-1,http://103.45.68.47/gy/gy385/xsj.php?id=eurosports-1
-Eurosports-2,http://103.45.68.47/gy/gy385/xsj.php?id=super-sports5
-Astro SuperSport,http://103.45.68.47/gy/gy385/xsj.php?id=super-sports1
-Astro SuperSport 2,http://103.45.68.47/gy/gy385/xsj.php?id=super-sports2
-Astro SuperSport 3,http://103.45.68.47/gy/gy385/xsj.php?id=super-sports3
-Astro SuperSport 4,http://103.45.68.47/gy/gy385/xsj.php?id=super-sports4
-博斯无限,http://103.45.68.47/gy/gy385/xsj.php?id=sportcast-wx
-博斯网球,http://103.45.68.47/gy/gy385/xsj.php?id=sportcast-tennis
-博斯运动-1,http://103.45.68.47/gy/gy385/xsj.php?id=sportcast1
-博斯运动-2,http://103.45.68.47/gy/gy385/xsj.php?id=sportcast2
-博斯高球-1,http://103.45.68.47/gy/gy385/xsj.php?id=sportcast-golf1
-博斯高球-2,http://103.45.68.47/gy/gy385/xsj.php?id=sportcast-golf2
-SPOTV,http://103.45.68.47/gy/gy385/xsj.php?id=spotv
-SPOTV-2,http://103.45.68.47/gy/gy385/xsj.php?id=spotv2
+NBA,http://103.45.68.47/gy/gy818/xsj.php?id=nba
+緯來体育,http://103.45.68.47/gy/gy818/xsj.php?id=videoland-sport
+ELTA体育-1,http://103.45.68.47/gy/gy818/xsj.php?id=elta-sport1
+ELTA体育-2,http://103.45.68.47/gy/gy818/xsj.php?id=elta-sport2
+ELTA体育-3,http://103.45.68.47/gy/gy818/xsj.php?id=elta-sport3
+ELEVEN体育-1,http://103.45.68.47/gy/gy818/xsj.php?id=eleven-sport1
+ELEVEN体育-2,http://103.45.68.47/gy/gy818/xsj.php?id=eleven-sport2
+beIN Sports 1,http://103.45.68.47/gy/gy818/xsj.php?id=bein-sports1
+beIN Sports 2,http://103.45.68.47/gy/gy818/xsj.php?id=bein-sports2
+beIN Sports 3,http://103.45.68.47/gy/gy818/xsj.php?id=bein-sports3
+Eurosport HD,http://103.45.68.47/gy/gy818/xsj.php?id=eurosport-hd
+Eurosports-1,http://103.45.68.47/gy/gy818/xsj.php?id=eurosports-1
+Eurosports-2,http://103.45.68.47/gy/gy818/xsj.php?id=super-sports5
+Astro SuperSport,http://103.45.68.47/gy/gy818/xsj.php?id=super-sports1
+Astro SuperSport 2,http://103.45.68.47/gy/gy818/xsj.php?id=super-sports2
+Astro SuperSport 3,http://103.45.68.47/gy/gy818/xsj.php?id=super-sports3
+Astro SuperSport 4,http://103.45.68.47/gy/gy818/xsj.php?id=super-sports4
+博斯无限,http://103.45.68.47/gy/gy818/xsj.php?id=sportcast-wx
+博斯网球,http://103.45.68.47/gy/gy818/xsj.php?id=sportcast-tennis
+博斯运动-1,http://103.45.68.47/gy/gy818/xsj.php?id=sportcast1
+博斯运动-2,http://103.45.68.47/gy/gy818/xsj.php?id=sportcast2
+博斯高球-1,http://103.45.68.47/gy/gy818/xsj.php?id=sportcast-golf1
+博斯高球-2,http://103.45.68.47/gy/gy818/xsj.php?id=sportcast-golf2
+SPOTV,http://103.45.68.47/gy/gy818/xsj.php?id=spotv
+SPOTV-2,http://103.45.68.47/gy/gy818/xsj.php?id=spotv2
 
-迪士尼频道,http://103.45.68.47/gy/gy385/xsj.php?id=disney
-東森幼幼台,http://103.45.68.47/gy/gy385/xsj.php?id=ebc-yoyo
-CN卡通,http://103.45.68.47/gy/gy385/xsj.php?id=cn-cartoon
-MOMO亲子台,http://103.45.68.47/gy/gy385/xsj.php?id=momo-kids
-MOMOTV,http://103.45.68.47/gy/gy385/xsj.php?id=momotv
-尼克儿童频道,http://103.45.68.47/gy/gy385/xsj.php?id=nickelodeon
-小尼克频道,http://103.45.68.47/gy/gy385/xsj.php?id=nick-jr
-Animax卡通,http://103.45.68.47/gy/gy385/xsj.php?id=animax-cartoon
-Boomerang HD,http://103.45.68.47/gy/gy385/xsj.php?id=boomerang-hd
-靖天卡通台,http://103.45.68.47/gy/gy385/xsj.php?id=jtkt
+迪士尼频道,http://103.45.68.47/gy/gy818/xsj.php?id=disney
+東森幼幼台,http://103.45.68.47/gy/gy818/xsj.php?id=ebc-yoyo
+CN卡通,http://103.45.68.47/gy/gy818/xsj.php?id=cn-cartoon
+MOMO亲子台,http://103.45.68.47/gy/gy818/xsj.php?id=momo-kids
+MOMOTV,http://103.45.68.47/gy/gy818/xsj.php?id=momotv
+尼克儿童频道,http://103.45.68.47/gy/gy818/xsj.php?id=nickelodeon
+小尼克频道,http://103.45.68.47/gy/gy818/xsj.php?id=nick-jr
+Animax卡通,http://103.45.68.47/gy/gy818/xsj.php?id=animax-cartoon
+Boomerang HD,http://103.45.68.47/gy/gy818/xsj.php?id=boomerang-hd
+靖天卡通台,http://103.45.68.47/gy/gy818/xsj.php?id=jtkt
 
 加速,#genre#
 凤凰資訊,https://sc2022.stream-link.org/tv2306.php?id=h18
@@ -2658,7 +2688,8 @@ CHC高清,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/
 精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 亞洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-
+绝版电影,http://mmitv.top/pltv/yy.php?id=1454587259&uid=67381238
+數位影迷,http://64.31.55.194/shuwei/video.m3u8
 黑莓電影,http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8
 黑莓電影,http://111.40.196.29:443/PLTV/88888888/224/3221225610/1.m3u8
 黑莓动画,http://111.40.196.29:443/PLTV/88888888/224/3221225628/1.m3u8
