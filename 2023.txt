@@ -539,9 +539,13 @@ TVSClassicSports,http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 凤凰衛视,http://113.117.74.26:8081/hls/37/index.m3u8
 凤凰衛视,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://r.jdshipin.com/NfC0f
-凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰衛视,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰资讯,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1210
+凤凰衛视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1213
+凤凰衛视,http://113.117.74.28:8081/hls/37/index.m3u8
+凤凰衛视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
 
 凤凰香港HD,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 凤凰香港HD,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -644,7 +648,15 @@ TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=5711
 澳门衛视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 澳亞衛视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
-凤凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/914285507-529566539/index.m3u8?by=yeslivetv.com
+华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+无线财经,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+TVB新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB娱乐台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+
+凤凰衛视,https://pull-f5-spe.ixigua.com/yeslivetv.com/914285507-529566539/index.m3u8?by=yeslivetv.com
 凤凰资讯,https://pull-f5-spe.ixigua.com/yeslivetv.com/844227634-868790463/index.m3u8?by=yeslivetv.com
 J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/821572238-387406036/index.m3u8?by=yeslivetv.com
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/324658828-346112874/index.m3u8?by=yeslivetv.com
@@ -655,6 +667,84 @@ HOYTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/769520674-593501266/index.m3u
 ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/119373976-970846198/index.m3u8?by=yeslivetv.com
 ViuTV6,https://pull-f5-spe.ixigua.com/yeslivetv.com/479393555-351016213/index.m3u8?by=yeslivetv.com
 国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
+
+TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
+TVBS新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1051
+年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192
+東森新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1014
+中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
+民视新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1204
+三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
+三立台湾,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1061
+年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1077
+三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079
+
+非凡新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1013
+非凡商業,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1012
+東森财经,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1017
+寰宇新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1222
+壹新闻台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
+Taiwan Plus,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1238
+台视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1047
+中视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048
+华视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1049
+民视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
+公视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1201
+
+NHK世界,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1027
+衛视电影,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1031
+好萊塢电影,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1025
+纬来电影,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1183
+龍华电影,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1245
+HBO,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1029
+AXN,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1054
+FOX MOVIES,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live2023
+HBO,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1029
+衛视电影,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live2022
+CINEMAXHD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1030
+STAR MOVIES ,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1032
+Star World,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1040
+Star World,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1040
+国家地理,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1003
+DISCOVERY,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1002
+旅遊生活,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1005
+动物星球,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1004
+亞洲旅遊,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1219
+纬来综合,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1044
+八大第一,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1043
+八大综合,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1019
+三立台湾,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1021
+三立都會,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1020
+衛视中文,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1024
+東森综合,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1041
+超视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1180
+中天综合,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1022
+中天娱乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1023
+東風衛视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1195
+MUCH TV,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1189
+東森戏剧,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1042
+八大戏剧,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1057
+TVBS欢乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1018
+纬来戏剧,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1186
+龍华戏剧,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1009
+龍华日韓,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1010
+龍华偶像,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1235
+纬来日本,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1026
+纬来育乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1045
+纬来体育,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1011
+博斯运动1,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1225
+ELEVEN 1,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1069
+ELEVEN 2,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1072
+MTV Live音乐,http://81.69.20.196/mqlive.m3u8?ip=60.250.121.217:888&id=live2799
+達文西頻道,http://81.69.20.196/mqlive.m3u8?ip=60.250.121.217:888&id=live2787
+八大第一,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1043
+CNBC,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1063
+国家地理,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live2025
+ELEVEN 1,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1069
+ELEVEN 2,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1072
+Bloomberg News,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1066
+CNBC,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1063
+
 好莱坞电影,http://211.72.65.236:8554/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://211.72.65.236:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 寰宇新闻,http://211.72.65.236:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
@@ -4737,6 +4827,31 @@ IT音樂,https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8
 韓国太妍62,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
 
 🔞松视加速,#genre#
+经典三级,http://7707bo.trustdeveloppment.com/live/cx_13093.flv
+
+电车痴汉,http://7707bo.trustdeveloppment.com/live/cx_13666.flv
+
+日本明星,http://7707bo.trustdeveloppment.com/live/cx_12786.flv
+
+极品探花,http://7707bo.pjxinaoshuijing.com/live/cx_12840.flv
+
+猎奇精品,http://7707bo.pjxinaoshuijing.com/live/cx_14232.flv
+
+精品无码,http://7707bo.trustdeveloppment.com/live/cx_14431.flv
+
+欧美大片,http://7707bo.trustdeveloppment.com/live/cx_14429.flv
+
+SM系列,http://7707bo.pjxinaoshuijing.com/live/cx_14432.flv
+
+制服系列,http://7707bo.pjxinaoshuijing.com/live/cx_14430.flv
+
+美女被干,http://7707bo.pjxinaoshuijing.com/live/cx_13623.flv
+
+丑逼挨肏,http://add.shiqing01.top/live/cx_366978.flv
+
+小霸王,http://7707bo.pjxinaoshuijing.com/live/cx_13316.flv
+
+
 奥视1,http://125.227.210.55:20845/VideoInput/play.ts
 奥视2,http://125.227.210.55:55643/VideoInput/play.ts
 奥视3,http://125.227.210.55:62697/VideoInput/play.ts
@@ -4767,6 +4882,17 @@ Adult-7,http://125.227.210.55:18685/VideoInput/play.ts
 松视3,http://195.201.107.189:9080/hls/bc16ae014cc1e2829b8c7422a12f79e6.m3u8
 香蕉,http://195.201.107.189:9080/hls/4832039adfd85d11df9e126e3645266b.m3u8
 彩虹K,https://195.201.107.189:9080/hls/dc614f23daf796704ddd5c62164e79a0.m3u8
+
+松一,http://z3.ubtvfans.com/live/rx3/402/39cd9e52d157a4a11fe18823b1c2a3da/index.m3u8
+香蕉台,http://z3.ubtvfans.com/live/rx3/408/1d24aceb2f68650e6c3e5cf0802c31e2/index.m3u8
+彩虹k,http://z3.ubtvfans.com/live/rx3/415/e59f5e3ae0b7961349fe259b21b4a9fb/index.m3u8
+彩虹电影,http://z3.ubtvfans.com/live/rx3/413/dac0d1d0e5c4c4febb34fd55d060723d/index.m3u8
+松视2,http://z3.ubtvfans.com/live/rx3/403/32a197acb4b79f0cdf2a0845921b5167/index.m3u8
+松视3,http://z3.ubtvfans.com/live/rx3/404/617643fef33ced7281eb86ccb7aa95b9/index.m3u8
+花花公子,http://z3.ubtvfans.com/live/rx3/411/144204c74345cbb0b32872950b46766d/index.m3u8
+彩虹E,http://z3.ubtvfans.com/live/rx3/406/51ea72993b31fb34a98de364f48d6c76/index.m3u8
+happy,http://z3.ubtvfans.com/live/rx3/412/1dd799be95f8877e5f6f974c2db20763/index.m3u8
+惊艳台,http://z4.ubtvfans.com/live/rx4/26/0bb68afaa2010b3b0dc639873b9695b8/index.m3u8
 
 🔞欧美版松视,#genre#
 欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
