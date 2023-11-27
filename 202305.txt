@@ -7,6 +7,10 @@
             "name": "😺影视肥猫"
         },
 {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "😺影视肥猫"
+        },
+{
             "url": "https://agit.ai/gk0746/pxy/raw/branch/master/fty.json",
             "name": "😺影视饭太硬"
         },
@@ -18,7 +22,11 @@
             "url": "http://rihou.vip:88/荷城茶秀",
             "name": "😺 影视荷城"
         },
- 
+
+{
+            "url": "https://tvbox.cainisi.cf",
+            "name": "😺 影视菜妮丝"
+        },  
 {
             "url": "https://agit.ai/gk0746/pxy/raw/branch/master/ouge.json",
             "name": "😺影视欧歌"
@@ -27,14 +35,6 @@
 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "😺 影视蜂蜜"
-        },
-{
-            "url": "https://qu.ax/xsEE.json",
-            "name": "😺 影视宝盒"
-        },
-{
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json ",
-            "name": "😺 影视阿凯"
         },
 {
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
@@ -47,14 +47,6 @@
 {
             "url": "https://weixine.net/ysc.json",
             "name": "😺 影视运输车"
-        },
-{
-            "url": "https://gitee.com/lekanbox/ali/raw/master/api.json",
-            "name": "😺 影视阿里巴巴"
-        },
-{
-            "url": "https://gitee.com/lekanbox/ali/raw/master/ali.json",
-            "name": "😺 影视阿里无敌"
         },
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
