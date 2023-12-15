@@ -29,10 +29,6 @@
         },
        
 {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "😺 影视蜂蜜"
-        },
-{
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
             "name": "😺 影视T4"
         },
@@ -41,19 +37,11 @@
             "name": "😺 影视影迷"
         },
 {
-            "url": "https://weixine.net/ysc.json",
-            "name": "😺 影视运输车"
-        },
-{
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
-            "name": "🌸🔞影视01"
-        },
-{
-            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/wq18.json",
             "name": "🌸🔞新影视001"
         },
 {
-            "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/wq18.json",
             "name": "🌸🔞新影视002"
         },
 {
@@ -69,152 +57,33 @@
             "name": "🌸🔞新影视005"
         },
 {
-            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/vip.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/6.json",
             "name": "🌸🔞新影视006"
         },
 {
-            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/6.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/2.json",
             "name": "🌸🔞新影视007"
         },
 {
-            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/2.json",
+            "url": "https://guot55.github.io/gg1/qh.json",
             "name": "🌸🔞新影视008"
         },
 {
-            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/maodu.txt",
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json",
             "name": "🌸🔞新影视009"
         },
 {
-            "url": "https://guot55.github.io/gg1/qh.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
             "name": "🌸🔞新影视010"
         },
 {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2",
+            "url": "https://jsd.cdn.zzko.cn/gh/2hacc/TVBox@main/h/h.json",
             "name": "🌸🔞新影视011"
         },
 {
-            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json",
-            "name": "🌸🔞新影视012"
-        },
-{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
-            "name": "🌸🔞新影视013"
-        },
-{
-            "url": "https://jsd.cdn.zzko.cn/gh/2hacc/TVBox@main/h/h.json",
-            "name": "🌸🔞新影视014"
-        },
-{
             "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/dxwoai18+.json",
-            "name": "🌸🔞新影视015"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "🌸🔞影视02"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/loikeo/loikeo.github.io/master/tvbox.json",
-            "name": "🌸🔞影视03"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/sdxinm/tvb/master/tvbox.json",
-            "name": "🌸🔞影视04"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/sdxinm/tvb/master/tvbox",
-            "name": "🌸🔞影视05"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/li5bo5/tvbox/main/Others/WuAi.json",
-            "name": "🌸🔞影视06"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhouhaoshasha1989/api/master/test/tvbox.json",
-            "name": "🌸🔞影视07"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhouhaoshasha1989/api/master/dxwoai18+.txt",
-            "name": "🌸🔞影视08"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhouhaoshasha1989/api/master/1667621493.txt",
-            "name": "🌸🔞影视09"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/txxwc/tvbox/main/18.json",
-            "name": "🌸🔞影视10"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/fkaf1/TVBox/master/XC2.json",
-            "name": "🌸🔞影视11"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/fkaf1/fk/master/XC2.json",
-            "name": "🌸🔞影视12"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/fkaf1/fk/master/h.json",
-            "name": "🌸🔞影视13"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
-            "name": "🌸🔞影视14"
-        },
-{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
-            "name": "🌸🔞影视15"
-        },
-{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-            "name": "🌸🔞影视16"
-        },
-{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
-            "name": "🌸🔞影视17"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/tiantuhao/tvinterface/main/xhr.json",
-            "name": "🌸🔞影视18"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/w2594190605/tvbox/main/1.txt",
-            "name": "🌸🔞影视19"
-        },
-{
-            "url": "https://qu.ax/joAo.json",
-            "name": "🌸🔞影视20"
-        },
-{
-            "url": "https://qu.ax/nwXz.json",
-            "name": "🌸🔞影视21"
-        },
-{
-            "url": "https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json",
-            "name": "🌸🔞影视22"
-        },
-{
-            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
-            "name": "🌸🔞影视23"
-        },
-{
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/ziyong.json",
-            "name": "🌸🔞影视24"
-        },
-{
-            "url": "https://pan.shangui.cc/f/54KbSA/%E7%A6%8F%E5%88%A91.txt",
-            "name": "🌸🔞影视25"
-        },
-{
-            "url": "https://pan.shangui.cc/f/LVLKS3/%E7%A6%8F%E5%88%A99.txt",
-            "name": "🌸🔞影视26"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ACaringPeople/tvinterface/main/xhr.json",
-            "name": "🌸🔞影视27"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
-            "name": "🌸🔞影视28"
+            "name": "🌸🔞新影视012"
         }
     ]
 }
+
