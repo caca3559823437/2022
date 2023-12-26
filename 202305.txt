@@ -7,7 +7,7 @@
             "name": "😺影视肥猫"
         },
 {
-            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/fty.json",
+            "url": "http://饭太硬.top/tv",
             "name": "😺影视饭太硬"
         },
 {
@@ -39,10 +39,6 @@
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
             "name": "🌸🔞新影视001"
-        },
-{
-            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/wq18.json",
-            "name": "🌸🔞新影视002"
         },
 {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/hh",
