@@ -4,11 +4,19 @@
  
 {
             "url": "https://agit.ai/gk0746/pxy/raw/branch/master/接口禁止贩卖.json",
-            "name": "😺影视肥猫"
+            "name": "😺肥猫1"
+        },
+{
+            "url": "http://肥猫.live",
+            "name": "😺肥猫2"
         },
 {
             "url": "http://饭太硬.top/tv",
             "name": "😺影视饭太硬"
+        },
+{
+            "url": "http://xhdwc.tk/0",
+            "name": "😺影视骚零"
         },
 {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
