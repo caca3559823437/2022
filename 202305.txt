@@ -49,14 +49,6 @@
             "name": "😺 影视专业"
         },
 {
-            "url": "https://la.kstore.space/download/3376/xpg.txt",
-            "name": "😺 影视小苹果"
-        },
-{
-            "url": "https://s2.pub/xpg",
-            "name": "😺 影视青苹果"
-        },
-{
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "😺 影视小米"
         }, 
