@@ -88,6 +88,172 @@
       "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json"
     },
     {
+      "key": "豆豆",
+      "name": "豆瓣搜索",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "Bili",
+      "name": "哔哩合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/bilibili.json"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "4K站-B",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/d3bf1ef8-625a-4ac1-a4a1-c588c620fcc9/token.txt"
+    },
+    {
+      "key": "优酷",
+      "name": "优酷官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/youku.js"
+    },
+    {
+      "key": "芒果",
+      "name": "芒果官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/mangguo.js"
+    },
+    {
+      "key": "爱奇异",
+      "name": "爱奇异官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aiqiyi.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "腾讯官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/tengxun.js"
+    },
+    {
+      "key": "Czsapp",
+      "name": "秒播-A",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy88.com/"
+    },
+    {
+      "key": "南瓜",
+      "name": "南瓜秒播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "秒播-C",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/nmys.json"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "秒播-D",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Biliych",
+      "name": "热门歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/biliych.json"
+    },
+    {
+      "key": "csp_qiumi",
+      "name": "Jrs球直播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/JRKAN直播.js",
+      "style": {
+      "type": "rect",
+      "ratio": 1
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "88js",
+      "name": "看球球迷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/88看球.js",
+      "style": {
+       "type": "rect",
+       "ratio": 1
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "drpy_js_短剧网",
+      "name": "短剧大全",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/短剧网.js"
+    },
+    {
+      "key": "戏曲杂苑",
+      "name": "戏曲大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩戏曲.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "相声小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩相声.json"
+    },
+    {
       "key": "卧龙资源",
       "name": "卧龙",
       "type": 1,
