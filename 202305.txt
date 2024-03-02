@@ -12,65 +12,65 @@
         },
 {
             "url": "http://饭太硬.top/tv",
-            "name": "😺影视饭太硬"
+            "name": "😺饭太硬"
         },
 {
             "url": "https://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "😺影视云星日记"
+            "name": "😺云星日记"
         },
 {
             "url": "http://xhdwc.tk/0",
-            "name": "😺影视骚零"
+            "name": "😺骚零"
         },
 {
             "url": "http://rihou.vip:88/荷城茶秀",
-            "name": "😺 影视荷城"
+            "name": "😺 荷城"
         },
 
 {
             "url": "https://tvbox.cainisi.cf",
-            "name": "😺 影视菜妮丝"
+            "name": "😺 菜妮丝"
         },  
 {
             "url": "https://agit.ai/gk0746/pxy/raw/branch/master/ouge.json",
-            "name": "😺影视欧歌"
+            "name": "😺欧歌"
         },
        
 {
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
-            "name": "😺 影视T4"
+            "name": "😺 T4"
         },
 {
             "url": "https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt ",
-            "name": "😺 影视影迷"
+            "name": "😺 影迷"
         },
 {
             "url": "http://u6v.cn/6vX55k",
-            "name": "😺 影视专业"
+            "name": "😺 55K"
         },
 {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "😺 影视小米"
+            "name": "😺 小米"
         }, 
 {
             "url": "https://download.kstore.space/download/3313/mao/ymz",
-            "name": "😺 影视夜魔"
+            "name": "😺 夜魔"
         }, 
 {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "😺 影视蚂蚁"
+            "name": "😺 蚂蚁"
         }, 
 {
             "url": "https://gh.​​t4tv.hz.cz/newtang.bmp",
-            "name": "😺 影视唐三"
+            "name": "😺 唐三"
         }, 
 {
             "url": "https://yydsys.top/duo",
-            "name": "😺 影视多多"
+            "name": "😺 多多"
         }, 
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
-            "name": "🌸🔞新影视001"
+            "name": "🌸🔞激情"
         }
     ]
 }
