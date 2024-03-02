@@ -116,7 +116,7 @@
       ]
     },
     {
-      "key": "量子",
+      "key": "🔞量子",
       "name": "🔞量子",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "key": "非凡",
+      "key": "🔞非凡",
       "name": "🔞非凡",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "key": "环亚资源1",
+      "key": "🔞环亚1",
       "name": "🔞环亚1",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
@@ -147,7 +147,7 @@
       "filterable": 0
     },
     {
-      "key": "环亚资源2",
+      "key": "🔞环亚2",
       "name": "🔞环亚2",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
@@ -155,7 +155,7 @@
       "quickSearch": 0
     },
     {
-      "key": "ms4nii",
+      "key": "🔞美少女",
       "name": "🔞美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
@@ -164,7 +164,7 @@
       "filterable": 1
     },
     {
-      "key": "KxrbspE",
+      "key": "🔞淫水机",
       "name": "🔞淫水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
@@ -173,7 +173,7 @@
       "filterable": 1
     },
     {
-      "key": "gdlsE",
+      "key": "🔞香奶儿",
       "name": "🔞香奶儿",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
@@ -182,7 +182,7 @@
       "filterable": 1
     },
     {
-      "key": "kxgav",
+      "key": "🔞白嫖",
       "name": "🔞白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
@@ -191,7 +191,7 @@
       "filterable": 1
     },
     {
-      "key": "KpgxdyE",
+      "key": "🔞黄AV",
       "name": "🔞黄AV",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
@@ -200,7 +200,7 @@
       "filterable": 1
     },
     {
-      "key": "ap4i156dlyE",
+      "key": "🔞奶茶",
       "name": "🔞奶茶",
       "type": 0,
       "api": "https://caiji.naichaapi.com/inc/api.php",
@@ -209,7 +209,7 @@
       "filterable": 1
     },
     {
-      "key": "yinlong",
+      "key": "🔞银龙",
       "name": "🔞银龙",
       "type": 0,
       "api": "https://yinlong.tv/api.php/provide/vod/at/xml/",
@@ -218,7 +218,7 @@
       "filterable": 0
     },
     {
-      "key": "博天堂1",
+      "key": "🔞博天堂1",
       "name": "🔞博天堂1",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
@@ -227,7 +227,7 @@
       "filterable": 0
     },
     {
-      "key": "博天堂2",
+      "key": "🔞博天堂2",
       "name": "🔞博天堂2",
       "type": 0,
       "api": "https://bttcj.com/inc/sapi.php",
@@ -236,8 +236,17 @@
       "filterable": 0
     },
     {
-      "key": "探探资源",
-      "name": "🔞探探",
+      "key": "🔞博天堂3",
+      "name": "🔞博天堂3",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🔞探探1",
+      "name": "🔞探探1",
       "type": 0,
       "api": "https://apittzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
@@ -246,7 +255,15 @@
       "filterable": 0
     },
     {
-      "key": "秀色资源",
+      "key": "🔞探探2",
+      "name": "🔞探探2",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "🔞秀色",
       "name": "🔞秀色",
       "type": 0,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
@@ -256,7 +273,7 @@
       "filterable": 0
     },
     {
-      "key": "大地资源",
+      "key": "🔞大地",
       "name": "🔞大地",
       "type": 0,
       "api": "https://dadiapi.com/api.php/",
@@ -265,7 +282,7 @@
       "filterable": 0
     },
     {
-      "key": "乐播",
+      "key": "🔞乐播",
       "name": "🔞乐播",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
@@ -274,8 +291,8 @@
       "filterable": 0
     },
     {
-      "key": "番号资源",
-      "name": "🔞番号1",
+      "key": "🔞番号",
+      "name": "🔞番号",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -283,7 +300,7 @@
       "filterable": 0
     },
     {
-      "key": "S猫资源",
+      "key": "🔞S猫",
       "name": "🔞S猫",
       "type": 0,
       "api": "https://api.maozyapi.com/inc/api.php",
@@ -292,15 +309,7 @@
       "filterable": 0
     },
     {
-      "key": "探探资源",
-      "name": "🔞探探",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "小湿妹资源",
+      "key": "🔞小湿妹",
       "name": "🔞小湿妹",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
@@ -308,7 +317,7 @@
       "quickSearch": 0
     },
     {
-      "key": "老鸭资源",
+      "key": "🔞老鸭1",
       "name": "🔞老鸭1",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
@@ -316,7 +325,7 @@
       "quickSearch": 0
     },
     {
-      "key": "老鸭福利",
+      "key": "🔞老鸭2",
       "name": "🔞老鸭2",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
@@ -325,7 +334,7 @@
       "filterable": 1
     },
     {
-      "key": "老鸭2",
+      "key": "🔞老鸭3",
       "name": "🔞老鸭3",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -335,7 +344,7 @@
       "filterable": 0
     },
     {
-      "key": "辣椒资源",
+      "key": "🔞辣椒",
       "name": "🔞辣椒",
       "type": 1,
       "api": "https://apilj.com/api.php/provide/vod/at/json/",
@@ -343,7 +352,7 @@
       "quickSearch": 0
     },
     {
-      "key": "鲨鱼资源",
+      "key": "🔞鲨鱼",
       "name": "🔞鲨鱼",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
@@ -351,16 +360,7 @@
       "quickSearch": 0
     },
     {
-      "key": "bttcj",
-      "name": "🔞博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*玖玖资源",
+      "key": "🔞玖玖",
       "name": "🔞玖玖",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
@@ -369,7 +369,7 @@
       "filterable": 1
     },
     {
-      "key": "色色资源",
+      "key": "🔞色色",
       "name": "🔞色色",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
@@ -377,7 +377,7 @@
       "quickSearch": 0
     },
     {
-      "key": "速度资源",
+      "key": "🔞速度",
       "name": "🔞速度",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
@@ -386,7 +386,7 @@
       "filterable": 1
     },
     {
-      "key": "字幕网",
+      "key": "🔞字幕网",
       "name": "🔞字幕网",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
@@ -395,7 +395,7 @@
       "filterable": 1
     },
     {
-      "key": "富二代资源",
+      "key": "🔞富二代",
       "name": "🔞富二代",
       "type": 0,
       "api": "http://f2dcj6.com/sapi/?ac=videolist",
@@ -446,8 +446,8 @@
       "searchable": 1
     },
     {
-      "key": "timizy",
-      "name": "🔞甜蜜 ",
+      "key": "🔞甜蜜",
+      "name": "🔞甜蜜",
       "type": 1,
       "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -456,7 +456,7 @@
       "filterable": 1
     },
     {
-      "key": "91麻豆",
+      "key": "🔞91麻豆翻1",
       "name": "🔞91麻豆翻1",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
@@ -464,7 +464,7 @@
       "quickSearch": 0
     },
     {
-      "key": "91麻豆",
+      "key": "🔞91麻豆",
       "name": "🔞91麻豆翻2",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
