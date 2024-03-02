@@ -15,97 +15,6 @@
   ],
   "sites": [
     {
-      "key": "玩偶哥哥",
-      "name": "4K站-B",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/d3bf1ef8-625a-4ac1-a4a1-c588c620fcc9/token.txt"
-    },
-    {
-      "key": "优酷",
-      "name": "优酷官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/youku.js"
-    },
-    {
-      "key": "芒果",
-      "name": "芒果官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mangguo.js"
-    },
-    {
-      "key": "爱奇异",
-      "name": "爱奇异官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aiqiyi.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tengxun.js"
-    },
-    {
-      "key": "Czsapp",
-      "name": "秒播-A",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy88.com/"
-    },
-    {
-      "key": "南瓜",
-      "name": "南瓜秒播",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "秒播-C",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/nmys.json"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "秒播-D",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Biliych",
-      "name": "热门歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/biliych.json"
-    },
-    {
       "key": "卧龙资源",
       "name": "卧龙",
       "type": 1,
@@ -551,6 +460,51 @@
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1
+    },
+    {
+      "key": "drpy_js_猫了个咪", 
+      "name": "猫了个咪", 
+      "type": 3, 
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/猫了个咪.js"
+    },
+    {
+      "key": "drpy_js_跑TV",
+      "name": "跑TV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/跑TV.js"
+    },
+    {
+      "key": "drpy_js_banan",
+      "name": "banan",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/banan.js"
+    },
+    {
+      "key": "drpy_js_Missav",
+      "name": "Missav",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/Missav.js"
+    },
+    {
+      "key": "drpy_js_朱古力",
+      "name": "朱古力",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/朱古力.js"
+    },
+    {
+      "key": "timizy",
+      "name": "甜蜜资源 ",
+      "type": 1,
+      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "api.sexnguon.com",
