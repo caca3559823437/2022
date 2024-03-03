@@ -117,7 +117,7 @@
     },
     {
         "key": "非凡",
-        "name": "非凡云播 | 太阳视听",
+        "name": "非凡云播",
         "type": 1,
         "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
         "playUrl": "https://ffzyplayer.com/?url=",
@@ -147,7 +147,7 @@
     },
     {
       "key": "1080zyku",
-      "name": "1080资源库 | 太阳视听",
+      "name": "1080资源库",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
       "playUrl": "https://vip.zykbf.com/?url=",
@@ -184,7 +184,7 @@
     },
     {
       "key": "天空",
-      "name": "天空资源 | 太阳视听",
+      "name": "天空",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "playUrl": "https://yun.ckmov.com/?url=",
@@ -211,7 +211,7 @@
     },
     {
       "key": "suoni",
-      "name": "索尼 | 太阳视听",
+      "name": "索尼",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "playUrl": "https://yun.ckmov.com/?url=",
@@ -240,7 +240,7 @@
     },
     {
       "key": "量子云播",
-      "name": "量子云播 | 太阳视听",
+      "name": "量子云播",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
       "playUrl": "https://lziplayer.com/?url=",
