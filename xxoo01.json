@@ -1,5 +1,7 @@
 ﻿{
   "spider": ".https://agit.ai/tjyu110/tvbox/src/commit/c941dc5307e76b55078f2eb7976a5ad903a2c4cd/tjyu/jar/custom_spider.jar",
+  "spider": "https://szyyds.cn/tv/cc.jar;md5;410df6c3274dab8d5bdfb44d04c40882",
+  "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aa645ef076aff7c6b3b3239ee85a87c1",
   "wallpaper":"https://liu.chuqiuyu.tk",
   "lives": [
     {
