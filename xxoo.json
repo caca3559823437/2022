@@ -277,6 +277,103 @@
       ]
     },
     {
+      "key": "贱贱",
+      "name": "😺荐片",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
+    },
+    {
+      "key": "101影院11",
+      "name": "😺101影院",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_hlly.jar",
+      "ext": {
+      "简介": "col-pd\">&&</p >",
+      "跳转播放链接": "varurlDecode(var player_*url\":\"&&\")",
+      "分类url": "http://101jy.cn/sx/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+      "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影天堂$44#伦理片$29#经典电影$30"
+      }
+    },
+    {
+      "key": "997",
+      "name": "😺997",
+      "type": 3,
+      "api": "csp_Web608",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_spider.jar",
+            "ext": "https://www.6080yy4.com"
+    },
+    {
+      "key": "久久高清",
+      "name": "😺久久高清",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ml.jj99.icu:81/api.php/app/",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/jz.jar"
+    },
+    {
+      "key": "泰泰",
+      "name": "😺酷影TV",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },
+    {
+      "key": "Fang niu4k",
+      "name": "放牛4k",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "http://47.108.190.141/wx/yydf/txt/fangniu.jar;md5;9b51b7c5b02146265d742bdb6a362bdd"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "😺厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzy55.com/"
+    },
+    {
+      "key": "csp_XBPQ_6V",
+      "name": "😺6V",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://notabug.org/lw0704/66/raw/master/h/6v.json"
+    },
+    {
+      "key": "蜜果视界",
+      "name": "😺蜜果",
+      "api": "csp_AppYs",
+      "type": 3,
+      "ext": "https://miguo.pro/api.php/v1.vod"
+    },
+    {
       "key": "🔞量子",
       "name": "🔞量子",
       "type": 0,
@@ -312,6 +409,15 @@
       "name": "🔞环亚2",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "155",
+      "name": "🔞155",
+      "type": 0,
+      "playerType": 2,
+      "api": "https://155api.com/api.php/provide/vod/at/xml",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -361,24 +467,6 @@
       "filterable": 1
     },
     {
-      "key": "🔞奶茶",
-      "name": "🔞奶茶",
-      "type": 0,
-      "api": "https://caiji.naichaapi.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🔞银龙",
-      "name": "🔞银龙",
-      "type": 0,
-      "api": "https://yinlong.tv/api.php/provide/vod/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "🔞博天堂1",
       "name": "🔞博天堂1",
       "type": 0,
@@ -404,34 +492,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "🔞探探1",
-      "name": "🔞探探1",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🔞探探2",
-      "name": "🔞探探2",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "🔞秀色",
-      "name": "🔞秀色",
-      "type": 0,
-      "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://player.leyuzy.net/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "🔞大地",
@@ -470,14 +530,6 @@
       "filterable": 0
     },
     {
-      "key": "🔞小湿妹",
-      "name": "🔞小湿妹",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "🔞老鸭1",
       "name": "🔞老鸭1",
       "type": 1,
@@ -503,14 +555,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "🔞辣椒",
-      "name": "🔞辣椒",
-      "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/at/json/",
-      "searchable": 0,
-      "quickSearch": 0
     },
     {
       "key": "🔞鲨鱼",
@@ -615,6 +659,68 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "🔞奶茶翻",
+      "name": "🔞奶茶翻",
+      "type": 0,
+      "api": "https://caiji.naichaapi.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🔞银龙翻",
+      "name": "🔞银龙翻",
+      "type": 0,
+      "api": "https://yinlong.tv/api.php/provide/vod/at/xml/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "🔞探探1",
+      "name": "🔞探探1翻",
+      "type": 0,
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🔞探探2",
+      "name": "🔞探探2翻",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "🔞秀色翻",
+      "name": "🔞秀色翻",
+      "type": 0,
+      "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.leyuzy.net/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🔞小湿妹翻",
+      "name": "🔞小湿妹翻",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "🔞辣椒翻",
+      "name": "🔞辣椒翻",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "🔞91麻豆翻1",
