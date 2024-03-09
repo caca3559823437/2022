@@ -2,8 +2,6 @@
 
 "spider":"./hccx/HeChengChaXiu.jar",
 
-//"spider":"./hccx/HeChengChaXiu.jar",
-
 "wallpaper":"http://rihou.cc:88/壁纸",
 
 "lives":[
@@ -30,7 +28,7 @@
 {"key":"csp_厂长","name":"🅱️厂长影视","type":3,"api":"csp_AppHccxCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@荷城茶秀"},
 {"key":"csp_南瓜","name":"🅱️南瓜影视","type":3,"api":"csp_AppHccxNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
 
-//{"key":"csp_皮虾","name":"🅱️皮虾影视","type":3,"api":"csp_CsPpx","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://aikun.tv/@@荷城茶秀"},
+{"key":"csp_皮虾","name":"🅱️皮虾影视","type":3,"api":"csp_CsPpx","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://aikun.tv/@@荷城茶秀"},
 {"key":"csp_xBPQ_玖八","name":"🅱️玖八影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/98影视.json"},
 {"key":"csp_七新","name":"🅱️七新影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七新影视.json"},
 {"key":"csp_星辰","name":"🅱️星辰影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/星辰影视.json"},
@@ -578,8 +576,6 @@
 {"name":"解析7","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
 {"name":"解析8","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"解析9","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
-],
-
 
 "rules": [
     {
