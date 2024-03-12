@@ -1684,6 +1684,13 @@ TVB星河台,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzzty
 J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 J2,https://s2.pub/cctv-5
 无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+ViuTV6,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+RTHK31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+RTHK32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+HOY资讯台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+澳门莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 无线新闻,https://s2.pub/cctv-12
 无线资讯,https://s2.pub/cctv-6
 ViuTV,https://s2.pub/cctv-7
@@ -4787,29 +4794,7 @@ STARZ IN BLACK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 STARZ KIDS & FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3807
 
 加速,#genre#
-翡翠台,https://fake-stream.livedNow.com/hkdvb/J?token=2c1b6c98b6f13d087566456133783b91
-翡翠台广東版,https://fake-stream.livedNow.com/hkdvb/85?token=6d2b26729a84a4e111a67655b05c23e2
-明珠台,https://fake-stream.livedNow.com/hkdvb/84?token=761bbc9932c7391e82ea144d899826b1
-Viu,https://fake-stream.livedNow.com/hkdvb/102?token=8c0ec4331d8adf2250a30a4ca5f6717b
-ViuTV,https://fake-stream.livedNow.com/hkdvb/99?token=4f9da9e646f208b31487b63dd61944b2
-ViuTV6,https://fake-stream.livedNow.com/hkdvb/96?token=c2ef93f8cedc0e38fe4de109850e3e6f
-J2,https://fake-stream.livedNow.com/hkdvb/82?token=a85230d36b3c6684dc27cac41e48c307
-无线新闻,https://fake-stream.livedNow.com/hkdvb/83?token=f15f03d7f5caebe3a50ba2c708e9af5c
-无线财经,https://fake-stream.livedNow.com/hkdvb/85?token=6d2b26729a84a4e111a67655b05c23e2
-RTHK31,https://fake-stream.livedNow.com/hkdvb/31?token=2cdfa52b7b285b4e6356b16c6186bc70
-RTHK32,https://fake-stream.livedNow.com/hkdvb/32?token=47c867d5a38df782e29884ff0b9119a4
-HOYTV,https://fake-stream.livedNow.com/hkdvb/77?token=87b9ff6603434073752179c5e6d53c48
-HOYTV资讯,https://fake-stream.livedNow.com/hkdvb/78?token=fa5f45d1253d0251b2cae4018f9cfef2
-国际财经,https://fake-stream.livedNow.com/hkdvb/76?token=663712ecdccfce985aa611a9a1cef5ef
-NowJelli,https://fake-stream.livedNow.com/hkdvb/108?token=038554b8dae1331632d0349e0294c600
-Now爆谷台,https://fake-stream.livedNow.com/hkdvb/133?token=c464ac0e65f688f830f0ab40ae8b17dc
-Now直播台,https://fake-stream.livedNow.com/hkdvb/331?token=3541b6fa6f4b607a4ac466a2185083fa
-Now新闻台,https://fake-stream.livedNow.com/hkdvb/332?token=e1efe528ebf1470b2fa643e4a6661fd8
-Now财经台,https://fake-stream.livedNow.com/hkdvb/333?token=98d88511215660a5746fb47d8fed175c
-NowSports Prime,https://fake-stream.livedNow.com/hkdvb/630?token=b054a6f5bc426607e654353f3eb26c27
-NowSports 1,https://fake-stream.livedNow.com/hkdvb/631?token=cb6c6c1e5d459f3e0ac83dfcd70ef365
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-非凡新闻,http://125.227.210.55:28993/VideoInput/play.ts
 東森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森财经,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森新闻,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
@@ -4819,83 +4804,12 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 台視新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新闻,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 民視新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-三立新闻,http://125.227.210.55:35238/VideoInput/play.ts
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
 LIVE三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 鏡新闻台,https://ytm2.yuanhsing.cf/mnews.m3u8
-
-民視,https://fake-stream.livednow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-民視第一,https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-民視新闻,https://fake-stream.livednow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-民視台湾,https://fake-stream.livednow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-民視综艺,https://fake-stream.livednow.com/4gtv/4gtv-4gtv004?token=e6a6be636d58709b08a491a720f9fcfb&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-民視影剧,https://fake-stream.livednow.com/4gtv/24?token=9a939f8a3ac2c92bed38c36236361fc0&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-民視旅遊,https://fake-stream.livednow.com/4gtv/litv-ftv07?token=2b2480ad38bb491616814d2d605a41ba&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-東森电影,https://fake-stream.livednow.com/laotv/DongsenMovie?token=d4ad937288691d13efd01ab155bc9413&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-東森洋片,https://fake-stream.livednow.com/laotv/DongsenForeignMovie?token=056590c13ea374b1e2acd1f9e3ccd723&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-中視,https://fake-stream.livednow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-中視新闻,https://fake-stream.livednow.com/4gtv/4gtv-4gtv074?token=dfede1a3669810ff4c61282a92adfb2f&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-中視经典,https://fake-stream.livednow.com/4gtv/124?token=80b3f9e7b74f066c3e523586b8d557d7&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-中視菁采,https://fake-stream.livednow.com/4gtv/123?token=8a4c28b173681716b734325fdbd93ce7&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-华視,https://fake-stream.livednow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-华視新闻,https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-公視戏剧,https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-RTHK31,https://fake-stream.livednow.com/rthk/31?token=2cdfa52b7b285b4e6356b16c6186bc70&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-RTHK32,https://fake-stream.livednow.com/rthk/32?token=47c867d5a38df782e29884ff0b9119a4&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-鏡新闻台,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-寰宇新闻,https://fake-stream.livednow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-寰宇台湾,https://fake-stream.livednow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-寰宇財经,https://fake-stream.livednow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-半島新闻,https://fake-stream.livednow.com/4gtv/litv-ftv10?token=f741fe4e707fcb88fedb830089c3b4a0&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-美國之音,https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天綜合,https://fake-stream.livednow.com/4gtv/21?token=53e8ae9735c8eaddc3840946913d4859&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天资讯,https://fake-stream.livednow.com/4gtv/88?token=cc6d395a61717bdaa74be623c03e1293&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天日本,https://fake-stream.livednow.com/4gtv/4gtv-4gtv047?token=d6169004ece38bbcc7f0ef06135fbd52&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天卡通,https://fake-stream.livednow.com/4gtv/15?token=154fcede334ef91894ac12b2ca7093e7&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天育乐,https://fake-stream.livednow.com/4gtv/83?token=f15f03d7f5caebe3a50ba2c708e9af5c&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天国际,https://fake-stream.livednow.com/4gtv/84?token=761bbc9932c7391e82ea144d899826b1&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天欢乐,https://fake-stream.livednow.com/4gtv/119?token=a12d9c7597bf7eea07ddd5c6adde3ab2&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天电影,https://fake-stream.livednow.com/4gtv/4gtv-4gtv061?token=5b639205e26ded7a637e0257013e0744&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天戏剧,https://fake-stream.livednow.com/4gtv/116?token=e06e34ddf1ea7376844aa5f4f9f875c9&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖天映畫,https://fake-stream.livednow.com/4gtv/42?token=b229f94b5c14dcf42eabd48b63c1be92&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-TVBS,https://fake-stream.livednow.com/4gtv/183?token=65f2416f8cecc2c5f60df5e66d5744fb&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-TVBS精采,https://fake-stream.livednow.com/4gtv/227?token=18069f92a33d9fe1a3319376e7fda4f4&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-TVBS欢乐,https://fake-stream.livednow.com/4gtv/184?token=914438a4c8a7fdcc9eb2471aa9681962&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖洋卡通,https://fake-stream.livednow.com/4gtv/59?token=8d7dac6ff1e42d49b1c88868a9806d1a&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-靖洋戏剧,https://fake-stream.livednow.com/4gtv/118?token=9d65ed6164d628b37d484bc983cda228&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-博斯高球,https://fake-stream.livednow.com/4gtv/48?token=c03cb1aae92473fa868c80a79dec628a&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-博斯运动1,https://fake-stream.livednow.com/4gtv/50?token=611c08985e6eb335bc0132ec502d70e8&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-博斯无限,https://fake-stream.livednow.com/4gtv/51?token=dce56672320592e4b6672528b6bb3553&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-博斯网球,https://fake-stream.livednow.com/4gtv/52?token=2050183257f4761aa2761591d2823008&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-TraceSports,https://fake-stream.livednow.com/4gtv/57?token=b3f41f4e89cfcabb62311ea3b7851e8c&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-智林体育,https://fake-stream.livednow.com/4gtv/58?token=c5af6b02132becaec5862e0275233729&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-時尚运动X,https://fake-stream.livednow.com/4gtv/69?token=569a6b1d00af29752ca6d53f90db8e39&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-GINX Esports TV,https://fake-stream.livednow.com/4gtv/179?token=462b277b46841662804c016372cb7d67&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-客家电視,https://fake-stream.livednow.com/4gtv/107?token=687876a0addb2cb119e8f094cb9d5a09&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-八大综艺,https://fake-stream.livednow.com/4gtv/114?token=d310b1c6b30326a8013de7b8ec1b9613&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-八大精彩,https://fake-stream.livednow.com/4gtv/172?token=7d013a38d60f158b1b1265f688e8172b&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-愛爾達娛乐,https://fake-stream.livednow.com/4gtv/4gtv-4gtv070?token=db069a3611acce8397d3d2aa3254120e&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-Arirang TV,https://fake-stream.livednow.com/4gtv/189?token=e1bc34c1b6389eebc5d5f5d388c36c7c&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-達文西頻道,https://fake-stream.livednow.com/4gtv/11?token=5d6187154f4face288d87356ae6632ff&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-生活英語,https://fake-stream.livednow.com/4gtv/litv-longturn20?token=866832e24d6deeb7e5599e7e8c000b8e&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-i-Fun動漫,https://fake-stream.livednow.com/4gtv/litv-ftv15?token=68bb9c2ce1eb384cb9122020e57b769d&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-韓國娛乐,https://fake-stream.livednow.com/4gtv/76?token=663712ecdccfce985aa611a9a1cef5ef&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-Trace Urban,https://fake-stream.livednow.com/4gtv/78?token=fa5f45d1253d0251b2cae4018f9cfef2&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-亞洲旅遊,https://fake-stream.livednow.com/4gtv/250?token=1e7cfaf1f1673342f91b6807ebdc696d&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-龍华电影,https://fake-stream.livednow.com/4gtv/litv-longturn03?token=5fc1547ad0885b7487465cfc93c408ac&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-龍华戏剧,https://fake-stream.livednow.com/4gtv/23?token=f42cb2ceb9fbd50038ad7fa38dcc2225&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-龍华日韓,https://fake-stream.livednow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-龍祥時代,https://fake-stream.livednow.com/laotv/Longxiang?token=7bc9660eadd7ad971ef527e2f1209761&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-視納华仁,https://fake-stream.livednow.com/4gtv/4gtv-4gtv013?token=2ce9910369a57e195d367e8f7abc134c&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-采昌影剧,https://fake-stream.livednow.com/4gtv/25?token=b733f1c181845a96865e6bc5ff00c4f8&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-數位电影,https://fake-stream.livednow.com/4gtv/4gtv-4gtv011?token=dd94c6a8737444388476b53857446a9c&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-最愛电影,https://fake-stream.livednow.com/4gtv/39?token=c8997aef1a692f28d0641fea4f76233e&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-國會頻道1,https://fake-stream.livednow.com/4gtv/170?token=a5844edec415c58731d6cc04f3dff3b8&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-國會頻道2,https://fake-stream.livednow.com/4gtv/171?token=05865b7d67807cf0ac292e13bf8e78ef&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
-
 TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 华視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
@@ -4917,206 +4831,6 @@ DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-NHKWorld,http://125.227.210.37:8931/VideoInput/play.ts
-NHKWorld,http://125.227.210.55:8931/VideoInput/play.ts
-YTN,http://125.227.210.37:8932/VideoInput/play.ts
-YTN,http://125.227.210.55:8932/VideoInput/play.ts
-ArirangTV,http://125.227.210.37:8933/VideoInput/play.ts
-ArirangTV,http://125.227.210.55:8933/VideoInput/play.ts
-DW,http://125.227.210.37:8934/VideoInput/play.ts
-DW,http://125.227.210.55:8934/VideoInput/play.ts
-凤凰中文,http://125.227.210.37:8935/VideoInput/play.ts
-凤凰中文,http://125.227.210.55:8935/VideoInput/play.ts
-TRT World,http://125.227.210.37:8936/VideoInput/play.ts
-TRT World,http://125.227.210.55:8936/VideoInput/play.ts
-TV5MONDE ASIE,http://125.227.210.37:8937/VideoInput/play.ts
-TV5MONDE ASIE,http://125.227.210.55:8937/VideoInput/play.ts
-aljazeera,http://125.227.210.37:8938/VideoInput/play.ts
-aljazeera,http://125.227.210.55:8938/VideoInput/play.ts
-NHKBS1,http://125.227.210.37:8939/VideoInput/play.ts
-NHKBS1,http://125.227.210.55:8939/VideoInput/play.ts
-NHKBSP,http://125.227.210.37:8940/VideoInput/play.ts
-NHKBSP,http://125.227.210.55:8940/VideoInput/play.ts
-BBCWorldNews,http://125.227.210.37:10246/VideoInput/play.ts
-BBCWorldNews,http://125.227.210.55:10246/VideoInput/play.ts
-DiscoveryAsia,http://125.227.210.37:10388/VideoInput/play.ts
-DiscoveryAsia,http://125.227.210.55:10388/VideoInput/play.ts
-ELEVEN1,http://125.227.210.37:10677/VideoInput/play.ts
-ELEVEN1,http://125.227.210.55:10677/VideoInput/play.ts
-CNN,http://125.227.210.37:10797/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts
-FOX,http://125.227.210.37:13498/VideoInput/play.ts
-FOX,http://125.227.210.55:13498/VideoInput/play.ts
-FoodNetwork美食台,http://125.227.210.37:14250/VideoInput/play.ts
-FoodNetwork美食台,http://125.227.210.55:14250/VideoInput/play.ts
-CNBCHongKong,http://125.227.210.37:16415/VideoInput/play.ts
-CNBCHongKong,http://125.227.210.55:16415/VideoInput/play.ts
-ChannelNewsAsia,http://125.227.210.37:17524/VideoInput/play.ts
-ChannelNewsAsia,http://125.227.210.55:17524/VideoInput/play.ts
-BloombergTV,http://125.227.210.55:18184/VideoInput/play.ts
-BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
-纬来体育,http://125.227.210.37:18358/VideoInput/play.ts
-纬来体育,http://125.227.210.55:18358/VideoInput/play.ts
-NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
-HBO,http://125.227.210.55:35210/VideoInput/play.ts
-非凡新闻,http://125.227.210.37:15078/VideoInput/play.ts
-非凡新闻,http://125.227.210.55:15078/VideoInput/play.ts
-三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
-三立新闻,http://125.227.210.55:15589/VideoInput/play.ts
-三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
-三立台湾,http://125.227.210.37:15714/VideoInput/play.ts
-中天娱乐,http://125.227.210.37:15796/VideoInput/play.ts
-中天娱乐,http://125.227.210.55:15796/VideoInput/play.ts
-HBO,http://125.227.210.37:16027/VideoInput/play.ts
-HBO,http://125.227.210.55:16027/VideoInput/play.ts
-TVBS新闻,http://125.227.210.37:16329/VideoInput/play.ts
-TVBS新闻,http://125.227.210.55:16329/VideoInput/play.ts
-国家地理频道,http://125.227.210.37:16408/VideoInput/play.ts
-国家地理频道,http://125.227.210.55:16408/VideoInput/play.ts
-壹新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新闻台,http://stream.nexttv.com.tw/n001/playlist.m3u8
-台視新闻,https://git.io/JgkxY
-中視新闻,https://git.io/Jgkxz
-三立新闻,https://git.io/Jgkxp
-三立inews,https://git.io/Jgkxj
-寰宇新闻,https://git.io/JgkpO
-東森新闻,https://git.io/Jgkps
-東森财经,https://git.io/Jgkpc
-東森幼幼,https://git.io/JgYON
-TVBS,https://git.io/JgYl2
-中天新闻,https://git.io/Jgkpy
-幸福居家,https://git.io/JgYYF
-The K-POP,https://git.io/JgYAE
-镜新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-中視新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
-民視新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-台視新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-华視新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
-東森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-東森财经,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-民視第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-民視台湾,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-华視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-公視戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-好消息2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
-民視综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-民視影剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-民視新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-中視新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-华視新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-智林体育,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-民視旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-时尚运动Ｘ,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-半岛新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-美国之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-生活英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-客家电視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-猪哥亮歌厅秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-三立综合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-国会频道1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv084&nid=170
-国会频道2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
-東森购物一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-東森购物二,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
-LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-阿里郎频道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-经典电影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-经典卡通,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-精选动漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-大iHOT爱电視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
-人间衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-東森财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-新唐人亞太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-東森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-金光木偶戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-生活旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-华语戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-华语综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-中天全民最大党,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-滚动力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-亞洲旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-中天美食,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-TVBS,https://fake-stream.livedNow.com/4gtv/183?token=65f2416f8cecc2c5f60df5e66d5744fb
-民視新闻,https://fake-stream.livedNow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc
-中視,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49
-中視新闻,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv074?token=dfede1a3669810ff4c61282a92adfb2f
-華視,https://fake-stream.livedNow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f
-華視新闻,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61
-鏡新闻台,https://fake-stream.livedNow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3
-寰宇新闻,https://fake-stream.livedNow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d
-寰宇台湾,https://fake-stream.livedNow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a
-寰宇财经,https://fake-stream.livedNow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3
-半島新闻,https://fake-stream.livedNow.com/4gtv/litv-ftv10?token=f741fe4e707fcb88fedb830089c3b4a0
-龍華电影,https://fake-stream.livedNow.com/4gtv/litv-longturn03?token=5fc1547ad0885b7487465cfc93c408ac
-美亞电影,https://fake-stream.livedNow.com/hkdvb/201?token=1d1758ebd294647baa3f3922c0ad16b7
-數位电影,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv011?token=dd94c6a8737444388476b53857446a9c
-amc最愛电影,https://fake-stream.livedNow.com/4gtv/39?token=c8997aef1a692f28d0641fea4f76233e
-民視,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c
-民視第一,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8
-民視台湾,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a
-民視综艺,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv004?token=e6a6be636d58709b08a491a720f9fcfb
-民視影剧,https://fake-stream.livedNow.com/4gtv/24?token=9a939f8a3ac2c92bed38c36236361fc0
-民視旅遊,https://fake-stream.livedNow.com/4gtv/litv-ftv07?token=2b2480ad38bb491616814d2d605a41ba
-中視經典,https://fake-stream.livedNow.com/4gtv/124?token=80b3f9e7b74f066c3e523586b8d557d7
-中視菁采,https://fake-stream.livedNow.com/4gtv/123?token=8a4c28b173681716b734325fdbd93ce7
-美國之音,https://fake-stream.livedNow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525
-靖天综合,https://fake-stream.livedNow.com/4gtv/21?token=53e8ae9735c8eaddc3840946913d4859
-靖天资讯,https://fake-stream.livedNow.com/4gtv/88?token=cc6d395a61717bdaa74be623c03e1293
-靖天日本,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv047?token=d6169004ece38bbcc7f0ef06135fbd52
-靖天卡通,https://fake-stream.livedNow.com/4gtv/15?token=154fcede334ef91894ac12b2ca7093e7
-靖天育乐,https://fake-stream.livedNow.com/4gtv/83?token=f15f03d7f5caebe3a50ba2c708e9af5c
-靖天国际,https://fake-stream.livedNow.com/4gtv/84?token=761bbc9932c7391e82ea144d899826b1
-靖天欢乐,https://fake-stream.livedNow.com/4gtv/119?token=a12d9c7597bf7eea07ddd5c6adde3ab2
-靖天电影,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv061?token=5b639205e26ded7a637e0257013e0744
-靖天戏剧,https://fake-stream.livedNow.com/4gtv/116?token=e06e34ddf1ea7376844aa5f4f9f875c9
-靖天映畫,https://fake-stream.livedNow.com/4gtv/42?token=b229f94b5c14dcf42eabd48b63c1be92
-TVBS精采,https://fake-stream.livedNow.com/4gtv/227?token=18069f92a33d9fe1a3319376e7fda4f4
-TVBS欢乐,https://fake-stream.livedNow.com/4gtv/184?token=914438a4c8a7fdcc9eb2471aa9681962
-靖洋卡通,https://fake-stream.livedNow.com/4gtv/59?token=8d7dac6ff1e42d49b1c88868a9806d1a
-靖洋戏剧,https://fake-stream.livedNow.com/4gtv/118?token=9d65ed6164d628b37d484bc983cda228
-客家电視,https://fake-stream.livedNow.com/4gtv/107?token=687876a0addb2cb119e8f094cb9d5a09
-八大综艺,https://fake-stream.livedNow.com/4gtv/114?token=d310b1c6b30326a8013de7b8ec1b9613
-愛爾達娛乐,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv070?token=db069a3611acce8397d3d2aa3254120e
-阿里郎頻道,https://fake-stream.livedNow.com/4gtv/189?token=e1bc34c1b6389eebc5d5f5d388c36c7c
-好消息,https://fake-stream.livedNow.com/4gtv/9?token=bc60af688e9a893d5a162eca2ad22014
-好消息2,https://fake-stream.livedNow.com/4gtv/8?token=fbde28c59fda1fc9b4143c120b50ddbf
-Super Kids,https://fake-stream.livedNow.com/hkdvb/KID?token=7da217a078b9e80a6fa2beca294e397d
-ANIMAX,https://fake-stream.livedNow.com/hkdvb/Animax?token=6dec0a577cc6f1ecd67376779822965e
-達文西頻道,https://fake-stream.livedNow.com/4gtv/11?token=5d6187154f4face288d87356ae6632ff
-生活英語,https://fake-stream.livedNow.com/4gtv/litv-longturn20?token=866832e24d6deeb7e5599e7e8c000b8e
-i-Fun動漫,https://fake-stream.livedNow.com/4gtv/litv-ftv15?token=68bb9c2ce1eb384cb9122020e57b769d
-韓國娛乐,https://fake-stream.livedNow.com/4gtv/76?token=663712ecdccfce985aa611a9a1cef5ef
-TRACEURBAN,https://fake-stream.livedNow.com/4gtv/78?token=fa5f45d1253d0251b2cae4018f9cfef2
-博斯高球,https://fake-stream.livedNow.com/4gtv/48?token=c03cb1aae92473fa868c80a79dec628a
-博斯运动1,https://fake-stream.livedNow.com/4gtv/50?token=611c08985e6eb335bc0132ec502d70e8
-博斯无限,https://fake-stream.livedNow.com/4gtv/51?token=dce56672320592e4b6672528b6bb3553
-博斯网球,https://fake-stream.livedNow.com/4gtv/52?token=2050183257f4761aa2761591d2823008
-TRACE Sport Stars,https://fake-stream.livedNow.com/4gtv/57?token=b3f41f4e89cfcabb62311ea3b7851e8c
-智林体育,https://fake-stream.livedNow.com/4gtv/58?token=c5af6b02132becaec5862e0275233729
-時尚运动X,https://fake-stream.livedNow.com/4gtv/69?token=569a6b1d00af29752ca6d53f90db8e39
-GINX Esports TV,https://fake-stream.livedNow.com/4gtv/179?token=462b277b46841662804c016372cb7d67
-亞洲旅遊,https://fake-stream.livedNow.com/4gtv/250?token=1e7cfaf1f1673342f91b6807ebdc696d
-公視戏剧,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71
-龍華戏剧,https://fake-stream.livedNow.com/4gtv/23?token=f42cb2ceb9fbd50038ad7fa38dcc2225
-龍華日韓,https://fake-stream.livedNow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864
-八大精彩,https://fake-stream.livedNow.com/4gtv/172?token=7d013a38d60f158b1b1265f688e8172b
-華仁紀實,https://fake-stream.livedNow.com/4gtv/4gtv-4gtv013?token=2ce9910369a57e195d367e8f7abc134c
-采昌影剧,https://fake-stream.livedNow.com/4gtv/25?token=b733f1c181845a96865e6bc5ff00c4f8
-國會頻道1,https://fake-stream.livedNow.com/4gtv/170?token=a5844edec415c58731d6cc04f3dff3b8
-國會頻道2,https://fake-stream.livedNow.com/4gtv/171?token=05865b7d67807cf0ac292e13bf8e78ef
 
 剧场,#genre#
 动作影院,http://60.213.92.38:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -6921,7 +6635,7 @@ iHOT爱错绝情的你,https://vd4.bdstatic.com/mda-nc37edj3rtfxe0dw/720p/h264_d
 巨星金曲迎新春第3集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330DP3dRrYfqtq6VyPBNl.m3u8
 巨星金曲迎新春第5集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
 
-🔞日本松視_666,#genre#
+🔞日本松視,#genre#
 松視1台,https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
 松視1台,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松視2台,http://18.svi-studio.com:8880/live/091271435055/841916267544/6.m3u8
@@ -6933,7 +6647,7 @@ iHOT爱错绝情的你,https://vd4.bdstatic.com/mda-nc37edj3rtfxe0dw/720p/h264_d
 二本,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 三本,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 
-🔞欧美激情_666,#genre#
+🔞欧美激情,#genre#
 欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
 欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8
 欧美版K频道,http://cdn.adultiptv.net/threesome.m3u8
@@ -7102,7 +6816,7 @@ SL HOT-9,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&st
 菊花10,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/527/index.m3u8
 菊花11,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6168/index.m3u8
 
-🔞日本无码1_666,#genre#
+🔞日本无码1,#genre#
 heyzo0735 我拍了一个业馀女孩的照片，她想知道她的 av 外观！,https://m3u8.34cdn.com/newhd/202209/631447923e24e41eafb352e0/hls/index.m3u8
 heyzo0444 超厚黑炮 vs 绝美美女——糸野奈美喜欢黑色——,https://m3u8.34cdn.com/newhd/202209/631447923e24e41eafb352eb/hls/index.m3u8
 heyzo0686 我试著为一个神仙女郎穿上泳衣和灯笼裤,https://m3u8.38cdn.com/videos/201912/mGYrBE/hls/mGYrBE.m3u8
@@ -7649,7 +7363,7 @@ RBK-059 DARK WEB Active Investigator Public Les Show Hinano Okada,https://surrit
 DASS-088 我被在Papa Katsu遇到的一个小胸母狗打了一巴掌，所以我沉浸在催情剂中。樋泉舞香,https://surrit.com/a4758421-106b-4de2-ad9e-4796078b71da/1280x720/video.m3u8
 DASS-089 【人设崩塌】她给讨厌的前男友催情药摇身子，口水里满是精子。 Kimeseku 精致的虾 Warp Climax Himari Kinoshita,https://surrit.com/34ab6f0d-7c87-4715-80bb-5e8560786844/1280x720/video.m3u8
 LULU-180 东京都北区赤羽的邻居被粗俗的舔吸鱿鱼与邻居的肉感大屁股姐姐做爱多次射精。水木弥生,https://surrit.com/1139f949-5f18-4460-b76b-14d7d130c86e/1280x720/video.m3u8
-🔞日本无码2_666,#genre#
+🔞日本无码2,#genre#
 ATID-543 强烈的春药女同性恋疯狂,https://surrit.com/6e8d1978-dfb7-4381-ab5b-ec4a26653cbb/1280x720/video.m3u8
 SSIS-588 愚弄我的家伙是Yurusanai……告白被拒绝，所以今天我要用春药报复那个女老师。,https://surrit.com/66c39729-9ffc-4a6b-949f-224d5eb00399/1280x720/video.m3u8
 MEYD-792 “不敢相信麻酱结婚了！”亲戚的外遇父亲20年单恋爆发，化身色魔！春药坐月子追求中出 NTR Mai Hangari,https://surrit.com/a69efc62-442d-450c-88d8-929f09608727/1280x720/video.m3u8
@@ -8480,7 +8194,7 @@ JUL-836 美丽的皮肤像丝绸一样美丽 Momoka Tsubaki 36 岁 AV DEBUT,http
 172364-无修正Iカップ女子大生を突く度に揺れまくる、ゆれるマシュマロ爆,https://m3u8.34cdn.com/newhd/202305/646ba6b8f0cdbf322d4da231/hls/index.m3u8
 撮影无修正高岭の花才色兼备な美,https://m3u8.34cdn.com/newhd/202305/646ba6b8f0cdbf322d4da230/hls/index.m3u8
 
-🔞日本无码3_666,#genre#
+🔞日本无码3,#genre#
 脫下婚紗的女優本性神聖心情與淫蕩濕濡小穴碧惠美caribbeancom080921001,https://m3u8.38cdn.com/videos/201912/hB5sLh/hls/hB5sLh.m3u8
 Debut 15 喜欢AV的18歳 朝仓花恋 caribbeancom_110114 725,https://m3u8.38cdn.com/videos/201912/tACqJS/hls/tACqJS.m3u8
 Debut 14 让人受不了的美丽混血儿 玉名美罗 caribbeancom_080914 661,https://m3u8.34cdn.com/newhd/202212/63a08b6bd287231edf82c1b9/hls/index.m3u8
@@ -8710,7 +8424,7 @@ g罩杯地下帳號女子。在房間聊天後做愛。s929386,https://m3u8.34cd
 【個人攝影3pw特典付】2根肉棒玩弄沉溺快樂、有認真老公與女兒的29歳人妻　②s900335,https://m3u8.34cdn.com/newhd/202212/63a08b6bd287231edf82c0f9/hls/index.m3u8
 【無】美國人美女教導淫語欲情！歐美流激烈性愛榨取精液2115784,https://m3u8.34cdn.com/newhd/202212/63a08b6bd287231edf82c0ff/hls/index.m3u8
 
-🔞麻豆2021_666,#genre#
+🔞麻豆2021,#genre#
 麻豆传媒03,https://video2.51daao.com/btt1/2021/03/20210315/VTm3ZPZ6/index.m3u8
 麻豆传媒04,https://video2.51daao.com/btt1/2021/03/20210315/P5m5440P/index.m3u8
 麻豆传媒05,https://video2.51daao.com/btt1/2021/03/20210315/QLJViitJ/index.m3u8
@@ -8892,7 +8606,7 @@ g罩杯地下帳號女子。在房間聊天後做愛。s929386,https://m3u8.34cd
 麻豆传媒268,https://video2.51daao.com/btt1/2021/01/20210101/4hvg1Ujk/index.m3u8
 麻豆传媒269,https://video2.51daao.com/btt1/2021/01/20210101/ZtagNnv5/index.m3u8
 
-🔞麻豆2023_666,#genre#
+🔞麻豆2023,#genre#
 04年极品白丝嫩足,https://t21.cdn2020.com/video/m3u8/2023/02/01/18ac5bce/index.m3u8
 18岁小嫩妹辍学做外围-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/d7cb73d8/index.m3u8
 3000约操18岁大一新生-八戒,https://t21.cdn2020.com/video/m3u8/2023/03/22/8b0e62d5/index.m3u8
@@ -9293,7 +9007,7 @@ ADN-462 意外看到公公自慰-三宫椿,https://t21.cdn2020.com/video/m3u8/20
 天美传媒TMBC032强上不爱穿内裤的远房表姐,https://t21.cdn2020.com/video/m3u8/2023/04/25/4658efff/index.m3u8
 ADN-459 为了最爱的丈夫守住身体-加藤结衣,https://t21.cdn2020.com/video/m3u8/2023/04/25/299391d5/index.m3u8
 
-🔞精东01_666,#genre#
+🔞精东01,#genre#
 01,https://d862cp.cdnedge.live/file/avple-images/hls/62aed121c556631aff1378f2/playlist.m3u8
 02,https://8bb88.cdnedge.live/file/avple-images/hls/62aed1d5c556631aff1378f4/playlist.m3u8
 03,https://zo392.cdnedge.live/file/avple-images/hls/62aed19cc556631aff1378f3/playlist.m3u8
@@ -9333,7 +9047,7 @@ ADN-459 为了最爱的丈夫守住身体-加藤结衣,https://t21.cdn2020.com/v
 37,https://1xp60.cdnedge.live/file/avple-images/hls/62aacb0c21a7da2e6584bc80/playlist.m3u8
 38,https://q2cyl7.cdnedge.live/file/avple-images/hls/62a9bc9d21a7da2e6584bc7e/playlist.m3u8
 
-🔞精东02_666,#genre#
+🔞精东02,#genre#
 00,https://1xp60.cdnedge.live/file/avple-images/hls/61846369fddb3b0ce1f32686/playlist.m3u8
 01,https://1xp60.cdnedge.live/file/avple-images/hls/618626d126bdd144b598cbd8/playlist.m3u8
 02,https://1xp60.cdnedge.live/file/avple-images/hls/618b9a8552fe307992e91593/playlist.m3u8
@@ -9376,7 +9090,7 @@ ADN-459 为了最爱的丈夫守住身体-加藤结衣,https://t21.cdn2020.com/v
 39,https://1xp60.cdnedge.live/file/avple-images/hls/62104eb79d14d648884aa81a/playlist.m3u8
 40,https://1xp60.cdnedge.live/file/avple-images/hls/6215ab72cef8321ac4bf999d/playlist.m3u8
 
-🔞240126_666,#genre#
+🔞240126,#genre#
 第二部真网红刚出狱就开始了沈樵12月入驻直播平台全裸首秀聊八卦,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/728039F8B49F0B98/play.m3u8?
 _KS=9275683799dac947f5274385d3eb3763&_KE=1705717832
 山西某校园一对情侣在长椅上激情对线,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/D2786CCF341469DF/play.m3u8?_KS=8bcb9b7c2685af8962e9e567dbf820cc&_KE=1705712703
@@ -9476,7 +9190,7 @@ AI明星换脸迪丽热-巴佟丽娅双人一起为老板服务随便中出,http
 小文爱恋初体验软萌少女羞色回应,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/4u/i1/0k/r5/be13b323bef141a7b188f70d20f91f99.m3u8
 无套内射解禁 淫荡尤物口技封神[1280x720],https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/k3/gj/33/mk/56495ca3a195450a86936ad1bb13d879.m3u8
 
-🔞rhsbjv7k_666,#genre#
+🔞rhsbjv7k,#genre#
 俄罗斯之夜,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/147/index.m3u8
 BCU Charm HD,http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
 BCU Charm HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
@@ -9603,7 +9317,7 @@ Clarity4K Angel XXX Clarity4K Angel XXX,http://ca.ukrainske.tv/4607/3530225EDBD6
 24h GORDAS +18,http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/83245
 24h HENTAI +18,http://blacktv.syscdn.xyz:80/491175347448pw/906956704666/82167
 
-🔞7go_666,#genre#
+🔞7go,#genre#
 Gerado por Testador IPTV(PlayStore),https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 PLAYBOY TV FHD¹,http://7go.xyz:8080/assista6677449/qwrrs677449/42928
 PLAYBOY TV FHD²,http://7go.xyz:8080/assista6677449/qwrrs677449/22765
@@ -9667,7 +9381,7 @@ BRASILEIRINHAS - FAZENDO SACANAGEM HD²,http://7go.xyz:8080/assista6677449/qwrrs
 
 
 
-🔞8bb88_666,#genre#
+🔞8bb88,#genre#
 0,https://8bb88.cdnedge.live/file/avple-images/hls/617c5075f0db60036839e94c/playlist.m3u8
 1,https://8bb88.cdnedge.live/file/avple-images/hls/618070514d383b66797a697c/playlist.m3u8
 2,https://8bb88.cdnedge.live/file/avple-images/hls/618074134d383b66797a6982/playlist.m3u8
@@ -9700,7 +9414,7 @@ BRASILEIRINHAS - FAZENDO SACANAGEM HD²,http://7go.xyz:8080/assista6677449/qwrrs
 139,https://d862cp.cdnedge.live/file/avple-images/hls/6249250addaa1830ff7bacb9/playlist.m3u8
 140,https://d862cp.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
 
-🔞e2fa6_666,#genre#
+🔞e2fa6,#genre#
 0,https://e2fa6.cdnedge.live/file/avple-images/hls/6202e4a6152c48301ba2ac78/playlist.m3u8
 1,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd44779a324ef83699bb/playlist.m3u8
 2,https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playlist.m3u8
@@ -9763,7 +9477,7 @@ BRASILEIRINHAS - FAZENDO SACANAGEM HD²,http://7go.xyz:8080/assista6677449/qwrrs
 132,https://je40u.cdnedge.live/file/avple-images/hls/624eec006d742407ed435446/playlist.m3u8
 133,https://je40u.cdnedge.live/file/avple-images/hls/628cd91fde01360ccb2f8e9f/playlist.m3u8
 
-🔞q2cyl7_666,#genre#
+🔞q2cyl7,#genre#
 0,https://q2cyl7.cdnedge.live/file/avple-images/hls/61846201fddb3b0ce1f32683/playlist.m3u8
 1,https://q2cyl7.cdnedge.live/file/avple-images/hls/618624b526bdd144b598cbd3/playlist.m3u8
 2,https://q2cyl7.cdnedge.live/file/avple-images/hls/61869c018928100853d28991/playlist.m3u8
@@ -9832,7 +9546,7 @@ BRASILEIRINHAS - FAZENDO SACANAGEM HD²,http://7go.xyz:8080/assista6677449/qwrrs
 126,https://u89ey.cdnedge.live/file/avple-images/hls/628f6925531f007e5ba30af3/playlist.m3u8
 127,https://u89ey.cdnedge.live/file/avple-images/hls/628f8453531f007e5ba30afe/playlist.m3u8
 
-🔞人兽_666,#genre#
+🔞人兽,#genre#
 人兽18,https://siwazywcdn2.com:5278/zhongkouwei/tf2GPe59/index.m3u8
 人兽19,https://siwazywcdn2.com:5278/zhongkouwei/54IsxCPY/index.m3u8
 人兽20,https://siwazywcdn2.com:5278/zhongkouwei/6dOVCbgT/index.m3u8
@@ -9866,7 +9580,7 @@ BRASILEIRINHAS - FAZENDO SACANAGEM HD²,http://7go.xyz:8080/assista6677449/qwrrs
 人兽49,https://siwazywcdn2.com:5278/zhongkouwei/4MAOmrQD/index.m3u8
 人兽50,https://siwazywcdn2.com:5278/zhongkouwei/vR2kEn6i/index.m3u8
 
-🔞大放尿_666,#genre#
+🔞大放尿,#genre#
 大放尿GW特大号,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-188/2000kb/hls/index.m3u8
 大放尿特集魁,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-072/2000kb/hls/index.m3u8
 大放尿特集1,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-077/2000kb/hls/index.m3u8
@@ -9902,7 +9616,7 @@ BRASILEIRINHAS - FAZENDO SACANAGEM HD²,http://7go.xyz:8080/assista6677449/qwrrs
 大放尿28,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-358/2000kb/hls/index.m3u8
 大放尿29,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-365/2000kb/hls/index.m3u8
 
-🔞日本激情_666,#genre#
+🔞日本激情,#genre#
 FOCS-016工藤拉拉,https://siwazywcdn2.com:5278/zhongwenzimu/6akEMW0r/index.m3u8
 FSDSS-039美乃,https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
 FSDSS-179三浦乃爱,https://siwazywcdn2.com:5278/zhongwenzimu/uS0fPCmg/index.m3u8
@@ -10011,7 +9725,7 @@ FC2PPV-1273728,https://aosikazy12.com/20221002/Iicmd4ok/index.m3u8
 奥さん、今はいてる下着を買い取らせて下さい,https://vip2.slbfsl.com/20230404/jbgF0EZ8/index.m3u8
 ロリ顔＆ロリ体型の黒髪ＪＤ18歳が,https://vip2.slbfsl.com/20230404/EbL66Yke/index.m3u8
 
-🔞premiumpowers_666,#genre#
+🔞premiumpowers,#genre#
 花花公子,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774045&extension=ts&play_token=VFnUEDgvPl
 菊花,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
 EROXXX,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B9:87&stream=773973&extension=ts&play_token=VFnUEDgvPl
