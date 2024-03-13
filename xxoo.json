@@ -16,18 +16,19 @@
     }
   ],
   "sites": [
-    {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-    {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-    {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
-    {"key":"厂长","name":"📔厂长┃无广","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
-    {"key":"Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
-    {"key":"Biliych","name":"🅱明星┃演唱会","type": 3,"api": "csp_Bili","style":  {"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
+    {"key":"豆豆","name":"👽老吴看片","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key":"玩偶","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+    {"key":"YGP","name":"👽叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+    {"key":"短剧","name":"👽上头短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"酷看","name":"👽酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"原创","name":"👽原创","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"Xinsj","name":"👽视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+    {"key":"厂长","name":"👽厂长","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
+    {"key":"Bili","name":"👽哔哔","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
+    {"key":"Biliych","name":"👽演唱会","type": 3,"api": "csp_Bili","style":  {"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
     {
       "key": "AList",
-      "name": "AList",
+      "name": "👽AList",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -36,7 +37,7 @@
     },
     { 
       "key": "直播转点播", 
-      "name": "🐼电视直播", 
+      "name": "👽电视直播", 
       "type": 3, 
       "api": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E5%88%86%E7%BA%BF%E7%82%B9%E6%92%AD2.js", 
       "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD.js" 
