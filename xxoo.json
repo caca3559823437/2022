@@ -1,8 +1,9 @@
 ﻿{
+  "spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
+  "spider":"./lib/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
   "spider": ".https://agit.ai/tjyu110/tvbox/src/commit/c941dc5307e76b55078f2eb7976a5ad903a2c4cd/tjyu/jar/custom_spider.jar",
   "spider": "https://szyyds.cn/tv/cc.jar;md5;410df6c3274dab8d5bdfb44d04c40882",
   "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aa645ef076aff7c6b3b3239ee85a87c1",
-  "spider":"./lib/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
   "wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -15,6 +16,16 @@
     }
   ],
   "sites": [
+{"key":"豆豆","name":"🌕公众号【神秘的哥哥们】","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+{"key":"厂长","name":"📔厂长┃无广","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
+{"key":"Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
+{"key":"Biliych","name":"🅱明星┃演唱会","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
     {
       "key": "AList",
       "name": "AList",
@@ -23,30 +34,6 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/alist.json"
-    },
-{"key":"豆豆","name":"🌕公众号【神秘的哥哥们】","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-    {
-      "key": "Pandalivetv",
-      "name": "💯韩国┃美女┃直播",
-      "type": 3,
-      "api": "csp_Pandalivetv",
-      "searchable": 0,
-      "changeable": 0,
-      "jar":" ./lib/厂长.jar"
-      
-    },
-    {
-      "key": "csp_dushe",
-      "name": "91毒舌",
-      "type": 3,
-      "api": "csp_dushe",
-      "playUrl": "https://www.duse1.com:51111/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.duse1.com:51111/",
-     "jar":" ./lib/摸鱼.jar"
     },
     { 
       "key": "直播转点播", 
@@ -404,42 +391,6 @@
       "api": "csp_AppYs",
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
-    },
-    {
-      "key":"Bili",
-      "name":"🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style":{"type":"rect",
-      "ratio":1.597},
-      "searchable":1,
-      "quickSearch":0,
-      "changeable":0,
-      "ext":"./lib/bilibili.json"
-    },
-    {
-      "key":"Biliych",
-      "name":"🅱明星┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style":{"type":"rect",     
-      "ratio":1.597},
-      "searchable":1,
-     "quickSearch":0,
-      "changeable":0,
-     "ext":"./lib/biliych.json"
-    },
-    {
-      "key":"MTV",
-      "name":"🎧明星┃MV",
-      "type":3,
-      "api":"csp_Bili",
-      "style":{"type":"rect",
-      "ratio":1.597},
-     "searchable":0,
-     "quickSearch":0,
-     "changeable":0,
-     "ext":"./lib/MTV.json"
     },
     {
       "key": "T4-yinyuetai",
@@ -1094,6 +1045,10 @@
     }
   ],
   "parses": [
+{"name":"聚合","type":3,"url":"Demo"},
+{"name":"神秘的哥哥们","type":1,"url":"http://api.888484.xyz/神秘哥哥/super.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS"]}},
+{"name":"免费分享","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+],
     {
       "name": "Json轮询",
       "type": 2,
@@ -2365,6 +2320,8 @@
       "url": "https://www.8090g.cn/?url="
     }
   ],
+"doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+"rules":[{"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},{"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},{"name":"sn","hosts":["suonizy"],"regex":["#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","15.1666","15.2666","16.3333","15.266667"]},{"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"lz","hosts":["lz"],"regex":["18.5333","19.52"]},{"name":"ff","hosts":["vip.ffzy","hd.ffzy","ffzy"],"regex":["25.0666","25.08","20.52","25.1","25.1999"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}],
   "flags": [
     "youku",
     "qq",
