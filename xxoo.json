@@ -2,7 +2,8 @@
   "spider": ".https://agit.ai/tjyu110/tvbox/src/commit/c941dc5307e76b55078f2eb7976a5ad903a2c4cd/tjyu/jar/custom_spider.jar",
   "spider": "https://szyyds.cn/tv/cc.jar;md5;410df6c3274dab8d5bdfb44d04c40882",
   "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aa645ef076aff7c6b3b3239ee85a87c1",
-  "wallpaper":"https://liu.chuqiuyu.tk",
+  "spider":"./lib/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
+  "wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
       "name": "自己建—01",
@@ -23,12 +24,36 @@
       "changeable": 0,
       "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/alist.json"
     },
+{"key":"豆豆","name":"🌕公众号【神秘的哥哥们】","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+    {
+      "key": "Pandalivetv",
+      "name": "💯韩国┃美女┃直播",
+      "type": 3,
+      "api": "csp_Pandalivetv",
+      "searchable": 0,
+      "changeable": 0,
+      "jar":" ./lib/厂长.jar"
+      
+    },
+    {
+      "key": "csp_dushe",
+      "name": "91毒舌",
+      "type": 3,
+      "api": "csp_dushe",
+      "playUrl": "https://www.duse1.com:51111/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.duse1.com:51111/",
+     "jar":" ./lib/摸鱼.jar"
+    },
     { 
       "key": "直播转点播", 
       "name": "🐼电视直播", 
       "type": 3, 
-      "api": "https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E5%88%86%E7%BA%BF%E7%82%B9%E6%92%AD2.js", 
-      "ext": "https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD.js" 
+      "api": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E5%88%86%E7%BA%BF%E7%82%B9%E6%92%AD2.js", 
+      "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD.js" 
    },
    {
       "key": "卧龙资源",
@@ -379,6 +404,42 @@
       "api": "csp_AppYs",
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
+    },
+    {
+      "key":"Bili",
+      "name":"🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style":{"type":"rect",
+      "ratio":1.597},
+      "searchable":1,
+      "quickSearch":0,
+      "changeable":0,
+      "ext":"./lib/bilibili.json"
+    },
+    {
+      "key":"Biliych",
+      "name":"🅱明星┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style":{"type":"rect",     
+      "ratio":1.597},
+      "searchable":1,
+     "quickSearch":0,
+      "changeable":0,
+     "ext":"./lib/biliych.json"
+    },
+    {
+      "key":"MTV",
+      "name":"🎧明星┃MV",
+      "type":3,
+      "api":"csp_Bili",
+      "style":{"type":"rect",
+      "ratio":1.597},
+     "searchable":0,
+     "quickSearch":0,
+     "changeable":0,
+     "ext":"./lib/MTV.json"
     },
     {
       "key": "T4-yinyuetai",
