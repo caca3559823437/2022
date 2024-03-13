@@ -16,7 +16,6 @@
     }
   ],
   "sites": [
-    {"key":"豆豆","name":"👽老吴看片","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"玩偶","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
     {"key":"YGP","name":"👽叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
     {"key":"短剧","name":"👽上头短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
@@ -28,7 +27,7 @@
     {"key":"Biliych","name":"👽演唱会","type": 3,"api": "csp_Bili","style":  {"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
     {
       "key": "AList",
-      "name": "👽AList",
+      "name": "AList",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
