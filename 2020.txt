@@ -1513,6 +1513,15 @@ IPV6上海,#genre#
 北京衛視,http://112.235.202.250:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港,#genre#
+凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+凤凰资讯,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
+凤凰衛視,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+凤凰衛視,http://[2409:8087:7000:20::16]/wh7f454c46tw3934030395_900687363/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰衛視,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰衛視,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=1
 凤凰资讯,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=2
 翡翠台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=3
