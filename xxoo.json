@@ -26,6 +26,17 @@
       "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/alist.json"
     },
     {"key":"世界","name":"👽分享世界","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/"},
+    {"key":"csp_Duanju","name":"🎭短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://aiduanju.vip/"},
+    {
+      "key": "横版影院",
+      "name": "👽短剧横版影院",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [ "短剧" ] 
+    },
     {"key":"Xinsj","name":"👽视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
     {"key":"厂长","name":"👽厂长","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
     {"key":"Bili","name":"👽哔哔","type": 3,"api": "csp_Bili","style":    {"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
@@ -586,16 +597,6 @@
         "港台综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "横版影院",
-      "name": "👽短剧横版影院",
-      "type": 1,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [ "短剧" ] 
     },
     {
       "key": "Fang niu4k",
