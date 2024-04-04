@@ -1513,32 +1513,37 @@ IPV6上海,#genre#
 北京衛視,http://112.235.202.250:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港,#genre#
-凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
-凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
-凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
+凤凰资讯,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰衛視,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰衛視,http://[2409:8087:7000:20::16]/wh7f454c46tw3934030395_900687363/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰衛視,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-凤凰资讯,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰衛視,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰衛視,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰衛視,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰衛視,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰衛視,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰衛視,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰衛視,http://[2409:8087:7000:20::16]/wh7f454c46tw3934030395_900687363/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰资讯,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 邵氏影院,http://diyp.112114.xyz/douyu/4246519
+华丽翡翠台,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
+J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
+
+J2,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68a673f0c11bc3443bc52b1663d94f0&profile=pass
+
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
+
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+TVB亚洲台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 天映频道,https://epg.pw/stream/aba79d944981524dee068aa183b5b6c0821af4acfe2bb49a35ed5b1810ce37d6.ctv
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -1614,7 +1619,36 @@ RTHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006
 RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
 RTHK32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 
+Astro 8TVhttp://gmlive.ddns.net:5000/kun5g/kun5g2024/49
+Astro欢乐台,http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
+Astro AEC,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+Astro ASSP1,http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+Astro ASSP2,http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+Astro ASSP3,http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+Astro ASSP4,http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+Astro WWE-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/63
+iQIYI HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/141
+W SPORTS,http://gmlive.ddns.net:5000/kun5g/kun5g2024/142
+STAR WORLD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/143
+STAR MOVIES HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/144
+Astro Oasis HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/145
+
 台湾,#genre#
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://us1.qqvr.online:9000/live.m3u8?c=1
+東森新闻,http://165.1.79.200:9000/live.m3u8?c=177
+寰宇新闻,http://165.1.79.200:9000/live.m3u8?c=68
+寰宇新闻,http://165.1.79.200:9000/live.m3u8?c=69
+寰宇新闻,http://us1.qqvr.online:9000/live.m3u8?c=6
+中天新闻,http://us1.qqvr.online:9000/live.m3u8?c=3
+中天新闻2,http://165.1.79.200:9000/live.m3u8?c=64
+民視新闻,http://165.1.79.200:9000/live.m3u8?c=66
+東森财经,http://165.1.79.200:9000/live.m3u8?c=70
+中視新闻,http://165.1.79.200:9000/live.m3u8?c=74
+鏡新闻台,http://165.1.79.200:9000/live.m3u8?c=76
+三立新闻,http://165.1.79.200:9000/live.m3u8?c=95
+三立新闻+,http://165.1.79.200:9000/live.m3u8?c=96
+三立新闻+,http://us1.qqvr.online:9000/live.m3u8?c=5
 東森新闻,http://165.1.79.200:9000/live.m3u8?c=177
 中天新闻,http://165.1.79.200:9000/live.m3u8?c=64
 镜新闻台,http://165.1.79.200:9000/live.m3u8?c=76
@@ -1657,7 +1691,29 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
-
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+Fashion TV HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/153
+HBO,http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
+AXN,http://gmlive.ddns.net:5000/kun5g/kun5g2024/19
+HBO Signature,http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
+CINEMAX,http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
+BBC,http://gmlive.ddns.net:5000/kun5g/kun5g2024/23
+Nat Geo Graphic,http://gmlive.ddns.net:5000/kun5g/kun5g2024/41
+Animal,http://gmlive.ddns.net:5000/kun5g/kun5g2024/45
+Discovery,http://gmlive.ddns.net:5000/kun5g/kun5g2024/46
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
+TRT WORLD,http://61.221.215.25:8800/hls/0/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+动画片,http://61.221.215.25:8800/hls/40/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+kamikochi,http://61.221.215.25:8800/hls/51/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+风光片,http://61.221.215.25:8800/hls/58/index.m3u8
+公視,http://165.1.79.200:9000/live.m3u8?c=83
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
@@ -5900,6 +5956,9 @@ Private TV,http://146.59.54.163/356/index.m3u8
 RedLight HD,http://146.59.54.163/358/index.m3u8 
 VividRed,http://146.59.54.163/361/index.m3u8 
 XXL TV,http://146.59.54.163/363/index.m3u8 
+Rock Action HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/61
+Rock Entertainment HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/62
+True Explorer Wild-True,http://gmlive.ddns.net:5000/kun5g/kun5g2024/117
 花花公子,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774045&extension=ts&play_token=VFnUEDgvPl
 菊花,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
 EROXXX,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B9:87&stream=773973&extension=ts&play_token=VFnUEDgvPl
