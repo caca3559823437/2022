@@ -7,16 +7,8 @@
             "name": "😺肥猫1"
         },
 {
-            "url": "http://肥猫.live",
-            "name": "😺肥猫2"
-        },
-{
             "url": "http://饭太硬.top/tv",
             "name": "😺饭太硬"
-        },
-{
-            "url": "https://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "😺云星日记"
         },
 {
             "url": "http://xhdwc.tk/0",
@@ -28,10 +20,6 @@
         },
 
 {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "😺 菜妮丝"
-        },  
-{
             "url": "https://agit.ai/gk0746/pxy/raw/branch/master/ouge.json",
             "name": "😺欧歌"
         },
@@ -39,10 +27,6 @@
 {
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
             "name": "😺 T4"
-        },
-{
-            "url": "https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt ",
-            "name": "😺 影迷"
         },
 {
             "url": "http://u6v.cn/6vX55k",
@@ -75,6 +59,10 @@
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo01.json",
             "name": "🔞激情贰线"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo02.json",
+            "name": "🔞激情叁线"
         }
     ]
 }
