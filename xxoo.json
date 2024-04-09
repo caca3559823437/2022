@@ -25,8 +25,27 @@
       "changeable": 0,
       "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/alist.json"
     },
-    {"key":"世界","name":"👽分享世界","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/"},
-    {"key":"csp_Duanju","name":"🎭短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://aiduanju.vip/"},
+    {
+      "key":"世界",
+      "name":"👽分享世界",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://106.52.241.21:83/api.php/app/"
+    },
+    {
+      "key":"csp_Duanju",
+      "name":"🎭短剧",
+      "type":3,
+      "api":"csp_Duanju",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "ext":"http://aiduanju.vip/"
+    },
     {
       "key": "横版影院",
       "name": "👽短剧横版影院",
@@ -37,10 +56,54 @@
       "filterable": 1,
       "categories": [ "短剧" ] 
     },
-    {"key":"Xinsj","name":"👽视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
-    {"key":"厂长","name":"👽厂长","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
-    {"key":"Bili","name":"👽哔哔","type": 3,"api": "csp_Bili","style":    {"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
-    {"key":"Biliych","name":"👽演唱会","type": 3,"api": "csp_Bili","style":      {"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
+    {
+      "key":"Xinsj",
+      "name":"👽视觉",
+      "type":3,
+      "api":"csp_Xinsj",
+      "timeout":15,
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "ext":"https://www.80yy3.com/"
+    },
+    {
+      "key":"厂长",
+      "name":"👽厂长",
+      "type":3,
+      "api":"csp_Czsapp",
+      "timeout":15,
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "ext": "https://www.czzy77.com/"
+    },
+    {
+      "key":"Bili",
+      "name":"👽哔哔",
+      "type": 3,
+      "api": "csp_Bili","style":    {
+      "type":
+      "rect",
+      "ratio":1.597},
+      "searchable":1,
+      "quickSearch":0,
+      "changeable":0,
+      "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+    },
+    {
+      "key":"Biliych",
+      "name":"👽演唱会",
+      "type": 3,
+      "api": "csp_Bili","style":      {
+      "type":"rect",
+      "ratio":1.597},
+      "searchable":1,
+      "quickSearch":0,
+      "changeable":0,
+      "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
+    },
     {
       "key": "卧龙资源",
       "name": "👽卧龙",
@@ -1206,7 +1269,7 @@
       "searchable": 1
     },
     {
-      "key": "apilj.com",
+      "key":"apilj.com",
       "name": "🔞成人03",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
@@ -1220,18 +1283,117 @@
       "searchable": 1
     },
     {
-      "key": "api.maozyapi.com",
+      "key":"api.maozyapi.com",
       "name": "🔞成人05",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1
     },
     {
-      "key": "api.sexnguon.com",
+      "key":"api.sexnguon.com",
       "name": "🔞成人06",
       "type": 1,
       "api": "https://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1
+    },
+    {
+      "key":"xxdate",
+      "name":"成人07",
+      "type":3,
+      "api":"csp_NiNi",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0
+    },
+    {
+      "key":"11f2dcj6.com",
+      "name":"🔞f2dcj6成人08",
+      "type":0,
+      "api":"http://f2dcj6.com/sapi?ac=videolist",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11llzxcj.com",
+      "name":"🔞llzxcj成人09",
+      "type":0,
+      "api":"http://llzxcj.com/inc/sck.php?ac=videolist",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11apilj.com",
+      "name":"🔞apilj成人10",
+      "type":1,
+      "api":"http://apilj.com/api.php/provide/vod/at/json/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"1191md.me",
+      "name":"🔞91md成人11",
+      "type":1,
+      "api":"http://91md.me/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11feifei67.com",
+      "name":"🔞feifei67成人12",
+      "type":1,
+      "api":"http://www.feifei67.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11api.maozyapi.com",
+      "name":"🔞maozyapi成人13",
+      "type":1,
+      "api":"https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11888dav.com",
+      "name":"🔞888dav成人14",
+      "type":1,
+      "api":"https://www.888dav.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11apittzy.com",
+      "name":"🔞apittzy成人15",
+      "type":1,
+      "api":"https://apittzy.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11kkzy.me",
+      "name":"🔞kkzy成人16",
+      "type":1,
+      "api":"https://kkzy.me/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"11shayuapi.com",
+      "name":"🔞shayuapi成人17",
+      "type":1,
+      "api":"https://shayuapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
       "key": "🔞甜蜜",
