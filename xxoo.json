@@ -1,9 +1,5 @@
 ﻿{
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
-  "spider": "./lib/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
-  "spider": ".https://agit.ai/tjyu110/tvbox/src/commit/c941dc5307e76b55078f2eb7976a5ad903a2c4cd/tjyu/jar/custom_spider.jar",
-  "spider": "https://szyyds.cn/tv/cc.jar;md5;410df6c3274dab8d5bdfb44d04c40882",
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aa645ef076aff7c6b3b3239ee85a87c1",
+  "spider": "https://s3.tebi.io/mhq/tv/pg.jar",
   "wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
