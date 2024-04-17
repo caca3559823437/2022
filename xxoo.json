@@ -1005,7 +1005,7 @@
       "quickSearch":1,
       "filterable":1,
       "jar":"https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/TVbox/App/666/新香蕉中文字幕.json"
+      "ext":"https://raw.githubusercontent.com/franksun1211/TXT/main/TVbox/App/666/新香蕉中文字幕.json"
     },
     {
       "key": "天美AV",
@@ -1032,7 +1032,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/mhqtv/xBPQ/黄仓库.json",
+      "ext":"https://raw.githubusercontent.com/franksun1211/TXT/main/mhqtv/xBPQ/黄仓库.json",
       "jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
@@ -1075,7 +1075,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/香蕉资源.json"
+      "ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/香蕉资源.json"
     },
     {
       "key": "csp_xBPQ_香蕉超清",
@@ -1086,7 +1086,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉超清资源.json"
+      "ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉超清资源.json"
     },
     {
       "key": "csp_xBPQ_香蕉国产",
@@ -1097,7 +1097,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉国产传媒.json"
+      "ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉国产传媒.json"
     },
     {
       "key": "csp_xBPQ_香蕉久久热",
@@ -1108,7 +1108,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉久久热.json"
+      "ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉久久热.json"
     },
     {
       "key": "csp_xBPQ_香蕉废柴",
@@ -1118,8 +1118,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "/https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉废柴网.json"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
+      "ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉废柴网.json"
     },
     {
       "key": "csp_xBPQ_麻豆映画",
@@ -1130,7 +1130,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/麻豆映画.json"
+      "ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/麻豆映画.json"
     },
     {
       "key": "csp_xBPQ_香蕉直播",
@@ -1141,7 +1141,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://github.com/franksun1211/TXT/raw/main/LS-main/xBPQ/Yoursmile2.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉实时直播.json"
+      "ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/xBPQ/新香蕉实时直播.json"
     },
     {
       "key": "bttcj.com",
