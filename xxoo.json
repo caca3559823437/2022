@@ -1,5 +1,16 @@
 ﻿{
   "spider": "https://s3.tebi.io/mhq/tv/pg.jar",
+  //"spider": "http://nctv.top/tv/jar/xbxy.jar;md5;FD3CEFC7302F3A39A442682F802B11E5",  
+  //"spider": "http://nctv.top/tv/jar/int.jar;md5;2A88192B6A0A8F95C9F9F99CD501F90A",                        
+  //"spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f", 
+  //"spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/fan.jar;md5;5AEE1FF968A3DC5CBBF225399E9441E9", 
+  //"spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51", 
+  //"spider":"https://jihulab.com/0004/0/-/raw/main/0.txt?ref_type=heads","wallpaper":"https://tool.weetai.cn/api", "warningText":"??一个分享者接口，永久完全免费，切勿付费购买??",
+  //"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705477777977/fan.txt;md5;eea132982ffc884d7a39295f06a5141c",
+  //"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+  //"spider": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/fan.jar;md5;eea132982ffc884d7a39295f06a5141c",
+  //"spider":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar;md5;bace77c91270566ca6a959b935efbd0d", 
+  //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2648825eee03cb548b2c411002a7aad9", 
   "wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -12,6 +23,76 @@
     }
   ],
   "sites": [
+    {
+      "key":"csp_DouDou",
+      "name":"🍥┃豆瓣┃",
+      "type":3,
+      "api":"csp_DouDou",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1
+    },
+    {
+      "key": "js豆瓣",
+      "name": "🍀┃豆瓣┃",
+      "type": 3,
+      "api": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1, 
+      "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/douban.js" 
+    },
+    {
+      "key":"zxzj",
+      "name":"🍊在线┃外剧",
+      "type":3,
+      "api":"csp_Zxzj",
+      "timeout":15,
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "ext":"https://www.zxzja.com/"
+    },
+    {
+      "key":"农民",
+      "name":"🍀农民",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://nctv.top/tv/sub/农民影视.json"
+    },
+    {
+      "key":"csp_XBPQ_鸭奈飞",
+      "name":"鸭奈飞（xBPQ）",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://nctv.top/tv/sub/鸭奈飞.json"
+    },
+    {
+      "key": "电影先生",
+      "name": "️电影先生",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://nctv.top/tv/sub/电影先生.json"
+    },
+    {
+      "key":"胖虎影视",
+      "name":"胖虎影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://nctv.top/tv/sub/胖虎影视.json"
+    },
     {
       "key": "AList",
       "name": "👽AList",
@@ -86,7 +167,7 @@
       "searchable":1,
       "quickSearch":0,
       "changeable":0,
-      "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+      "ext":"http://nctv.top/tv/sub/bilibili_2.json"
     },
     {
       "key":"Biliych",
@@ -98,7 +179,7 @@
       "searchable":1,
       "quickSearch":0,
       "changeable":0,
-      "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
+      "ext":"http://nctv.top/tv/sub/bili.json"
     },
     {
       "key": "卧龙资源",
