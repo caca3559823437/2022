@@ -4,7 +4,7 @@
 "lives":[
     {
       "name": "live",
-      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/123linyao123/TV/main/MiTV0.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/2024.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -25,29 +25,6 @@
       "changeable": 0,
       "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/alist.json"
     },
-    { 
-      "key": "豆瓣推荐", 
-      "name": "老吴请你看大片", 
-      "type": 3, 
-      "api": "csp_DouDou", 
-      "searchable": 0, 
-      "quickSearch": 0, 
-      "filterable": 0 
-    },
-    { 
-      "key": "直播转点播", 
-      "name": "🐼电视直播", 
-      "type": 3, 
-      "api": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E5%88%86%E7%BA%BF%E7%82%B9%E6%92%AD2.js", 
-      "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/%E7%9B%B4%E6%92%AD.js" 
-   },
-   {
-     "key":"好趣网",
-     "name":"📺电视直播",
-     "type":3,
-     "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-     "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"
-    }, 
     {
       "key":"drpy_js_Voflix",
       "name":"🧲Voflix",
