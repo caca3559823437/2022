@@ -351,51 +351,51 @@ CGTN[785x576],http://61.141.202.118:9901/tsfile/live/0019_2.m3u8?key=txiptv&play
 纪实人文,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?fmmv6
 東方衛視,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 東方衛視,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225942/index.m3u8
-上海新闻,http://live.nctv.top/666/bestv.php?id=shxwzh
-上海都市,http://live.nctv.top/666/bestv.php?id=shds
-東方影視,http://live.nctv.top/666/bestv.php?id=dfys
-五星体育,http://live.nctv.top/666/bestv.php?id=wxty
-都市剧场,http://live.nctv.top/666/bestv.php?id=dsjc
-欢笑剧场,http://live.nctv.top/666/bestv.php?id=hxjc
-魅力足球,http://live.nctv.top/666/bestv.php?id=mlzq
-劲爆体育,http://live.nctv.top/666/bestv.php?id=jbty
-上海教育,http://live.nctv.top/666/bestv.php?id=shjy
-全纪实,http://live.nctv.top/666/bestv.php?id=qjs
-生活时尚,http://live.nctv.top/666/bestv.php?id=shss
-新視觉,http://live.nctv.top/666/bestv.php?id=xsj
-游戏风云,http://live.nctv.top/666/bestv.php?id=yxfy
-法治天地,http://live.nctv.top/666/bestv.php?id=fztd
-第一财经,http://live.nctv.top/666/bestv.php?id=dycj
-动漫秀场,http://live.nctv.top/666/bestv.php?id=dmxc
-上海外语,http://live.nctv.top/666/bestv.php?id=shics
-七彩戏剧,http://live.nctv.top/666/bestv.php?id=qcxj
-上海都市,http://live.nctv.top/666/bst.php?id=dshd8m/8000000
-東方影視,http://live.nctv.top/666/bst.php?id=dfyshd8m/8000000
-都市剧场,http://live.nctv.top/666/bst.php?id=dsjc8m/8000000
-欢笑剧场,http://live.nctv.top/666/bst.php?id=hxjc8m/8000000
-全纪实,http://live.nctv.top/666/bst.php?id=qjshd8m/8000000
-生活时尚,http://live.nctv.top/666/bst.php?id=shss8m/8000000
-新視觉,http://live.nctv.top/666/bst.php?id=xsjhd8m/8000000
-游戏风云,http://live.nctv.top/666/bst.php?id=yxfy8m/8000000
-第一财经,http://live.nctv.top/666/bst.php?id=dycjhd8m/8000000
-上海外语,http://live.nctv.top/666/bst.php?id=icshd8m/8000000
-七彩戏剧,http://live.nctv.top/666/bst.php?id=qcxjhd8m/8000000
-上海新闻,http://live.nctv.top/666/bst1.php?id=xwzhhd8m/8000000
-上海都市,http://live.nctv.top/666/bst1.php?id=dshd8m/8000000
-東方影視,http://live.nctv.top/666/bst1.php?id=dfyshd8m/8000000
-五星体育,http://live.nctv.top/666/bst1.php?id=wxtyhd8m/8000000
-都市剧场,http://live.nctv.top/666/bst1.php?id=dsjc8m/8000000
-欢笑剧场,http://live.nctv.top/666/bst1.php?id=hxjc8m/8000000
-魅力足球,http://live.nctv.top/666/bst1.php?id=mlyyhd8m/8000000
-上海教育,http://live.nctv.top/666/bst1.php?id=setvhd/8000000
-全纪实,http://live.nctv.top/666/bst1.php?id=qjshd8m/8000000
-生活时尚,http://live.nctv.top/666/bst1.php?id=shss8m/8000000
-新視觉,http://live.nctv.top/666/bst1.php?id=xsjhd8m/8000000
-游戏风云,http://live.nctv.top/666/bst1.php?id=yxfy8m/8000000
-法治天地,http://live.nctv.top/666/bst1.php?id=fztd8m/8000000
-第一财经,http://live.nctv.top/666/bst1.php?id=dycjhd8m/8000000
-上海外语,http://live.nctv.top/666/bst1.php?id=icshd8m/8000000
-七彩戏剧,http://live.nctv.top/666/bst1.php?id=qcxjhd8m/8000000
+上海新闻,http://live.nctv.top/8/bestv.php?id=shxwzh
+上海都市,http://live.nctv.top/8/bestv.php?id=shds
+東方影視,http://live.nctv.top/8/bestv.php?id=dfys
+五星体育,http://live.nctv.top/8/bestv.php?id=wxty
+都市剧场,http://live.nctv.top/8/bestv.php?id=dsjc
+欢笑剧场,http://live.nctv.top/8/bestv.php?id=hxjc
+魅力足球,http://live.nctv.top/8/bestv.php?id=mlzq
+劲爆体育,http://live.nctv.top/8/bestv.php?id=jbty
+上海教育,http://live.nctv.top/8/bestv.php?id=shjy
+全纪实,http://live.nctv.top/8/bestv.php?id=qjs
+生活时尚,http://live.nctv.top/8/bestv.php?id=shss
+新視觉,http://live.nctv.top/8/bestv.php?id=xsj
+游戏风云,http://live.nctv.top/8/bestv.php?id=yxfy
+法治天地,http://live.nctv.top/8/bestv.php?id=fztd
+第一财经,http://live.nctv.top/8/bestv.php?id=dycj
+动漫秀场,http://live.nctv.top/8/bestv.php?id=dmxc
+上海外语,http://live.nctv.top/8/bestv.php?id=shics
+七彩戏剧,http://live.nctv.top/8/bestv.php?id=qcxj
+上海都市,http://live.nctv.top/8/bst.php?id=dshd8m/8000000
+東方影視,http://live.nctv.top/8/bst.php?id=dfyshd8m/8000000
+都市剧场,http://live.nctv.top/8/bst.php?id=dsjc8m/8000000
+欢笑剧场,http://live.nctv.top/8/bst.php?id=hxjc8m/8000000
+全纪实,http://live.nctv.top/8/bst.php?id=qjshd8m/8000000
+生活时尚,http://live.nctv.top/8/bst.php?id=shss8m/8000000
+新視觉,http://live.nctv.top/8/bst.php?id=xsjhd8m/8000000
+游戏风云,http://live.nctv.top/8/bst.php?id=yxfy8m/8000000
+第一财经,http://live.nctv.top/8/bst.php?id=dycjhd8m/8000000
+上海外语,http://live.nctv.top/8/bst.php?id=icshd8m/8000000
+七彩戏剧,http://live.nctv.top/8/bst.php?id=qcxjhd8m/8000000
+上海新闻,http://live.nctv.top/8/bst1.php?id=xwzhhd8m/8000000
+上海都市,http://live.nctv.top/8/bst1.php?id=dshd8m/8000000
+東方影視,http://live.nctv.top/8/bst1.php?id=dfyshd8m/8000000
+五星体育,http://live.nctv.top/8/bst1.php?id=wxtyhd8m/8000000
+都市剧场,http://live.nctv.top/8/bst1.php?id=dsjc8m/8000000
+欢笑剧场,http://live.nctv.top/8/bst1.php?id=hxjc8m/8000000
+魅力足球,http://live.nctv.top/8/bst1.php?id=mlyyhd8m/8000000
+上海教育,http://live.nctv.top/8/bst1.php?id=setvhd/8000000
+全纪实,http://live.nctv.top/8/bst1.php?id=qjshd8m/8000000
+生活时尚,http://live.nctv.top/8/bst1.php?id=shss8m/8000000
+新視觉,http://live.nctv.top/8/bst1.php?id=xsjhd8m/8000000
+游戏风云,http://live.nctv.top/8/bst1.php?id=yxfy8m/8000000
+法治天地,http://live.nctv.top/8/bst1.php?id=fztd8m/8000000
+第一财经,http://live.nctv.top/8/bst1.php?id=dycjhd8m/8000000
+上海外语,http://live.nctv.top/8/bst1.php?id=icshd8m/8000000
+七彩戏剧,http://live.nctv.top/8/bst1.php?id=qcxjhd8m/8000000
 
 東方衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 東方衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -464,47 +464,47 @@ CGTN[785x576],http://61.141.202.118:9901/tsfile/live/0019_2.m3u8?key=txiptv&play
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰香港,http://146.56.153.245:20121/bysid/259
 
-凤凰资讯,http://live.nctv.top/666/gt.php?id=1
-凤凰衛視,http://live.nctv.top/666/gt.php?id=2
-凤凰香港,http://live.nctv.top/666/gt.php?id=3
-翡翠台,http://live.nctv.top/666/gt.php?id=4
-明珠台,http://live.nctv.top/666/gt.php?id=5
-无线新闻,http://live.nctv.top/666/gt.php?id=7
-无线财经,http://live.nctv.top/666/gt.php?id=8
-TVB星河台,http://live.nctv.top/666/gt.php?id=11
+凤凰资讯,http://live.nctv.top/8/gt.php?id=1
+凤凰衛視,http://live.nctv.top/8/gt.php?id=2
+凤凰香港,http://live.nctv.top/8/gt.php?id=3
+翡翠台,http://live.nctv.top/8/gt.php?id=4
+明珠台,http://live.nctv.top/8/gt.php?id=5
+无线新闻,http://live.nctv.top/8/tw.php?id=1
+无线财经,http://live.nctv.top/8/gt.php?id=8
+TVB星河台,http://live.nctv.top/8/gt.php?id=11
 
-TVB娱乐台,http://live.nctv.top/666/gt.php?id=12
-TVB功夫台,http://live.nctv.top/666/gt.php?id=13
-J2,http://live.nctv.top/666/gt.php?id=6
-ViuTV,http://live.nctv.top/666/gt.php?id=9
-ViuTV6,http://live.nctv.top/666/gt.php?id=10
-RTHK31,http://live.nctv.top/666/gt.php?id=14
-RTHK32,http://live.nctv.top/666/gt.php?id=15
-HOYTV76,http://live.nctv.top/666/gt.php?id=16
+TVB娱乐台,http://live.nctv.top/8/gt.php?id=12
+TVB功夫台,http://live.nctv.top/8/gt.php?id=13
+J2,http://live.nctv.top/8/gt.php?id=6
+ViuTV,http://live.nctv.top/8/gt.php?id=9
+ViuTV6,http://live.nctv.top/8/gt.php?id=10
+RTHK31,http://live.nctv.top/8/gt.php?id=14
+RTHK32,http://live.nctv.top/8/gt.php?id=15
+HOYTV76,http://live.nctv.top/8/gt.php?id=16
 
-HOYTV77,http://live.nctv.top/666/gt.php?id=17
+HOYTV77,http://live.nctv.top/8/gt.php?id=17
 
-HOYTV78,http://live.nctv.top/666/gt.php?id=18
-莲花衛視,http://live.nctv.top/666/gt.php?id=19
-澳視澳门,http://live.nctv.top/666/gt.php?id=20
-星空衛視,http://live.nctv.top/666/gt.php?id=21
+HOYTV78,http://live.nctv.top/8/gt.php?id=18
+莲花衛視,http://live.nctv.top/8/gt.php?id=19
+澳視澳门,http://live.nctv.top/8/gt.php?id=20
+星空衛視,http://live.nctv.top/8/gt.php?id=21
 
-翡翠台,http://live.nctv.top/666/smt.php?id=4
-華丽台,http://live.nctv.top/666/smt.php?id=5
-明珠台,http://live.nctv.top/666/smt.php?id=6
-无线新闻,http://live.nctv.top/666/smt.php?id=7
-TVB娱乐台,http://live.nctv.top/666/smt.php?id=8
-Plus,http://live.nctv.top/666/smt.php?id=9
-18台,http://live.nctv.top/666/smt.php?id=111
-TVB经典台,http://live.nctv.top/666/smt.php?id=112
-NOW新闻,http://live.nctv.top/666/smt.php?id=113
-ViuTV,http://live.nctv.top/666/smt.php?id=10
-ViuTV6,http://live.nctv.top/666/smt.php?id=11
-RTHK31,http://live.nctv.top/666/smt.php?id=12
-RTHK32,http://live.nctv.top/666/smt.php?id=13
-Hoy77,http://live.nctv.top/666/smt.php?id=14
-Hoy78,http://live.nctv.top/666/smt.php?id=15
-TVB星河台,http://live.nctv.top/666/smt.php?id=16
+翡翠台,http://live.nctv.top/8/smt.php?id=4
+華丽台,http://live.nctv.top/8/smt.php?id=5
+明珠台,http://live.nctv.top/8/smt.php?id=6
+无线新闻,http://live.nctv.top/8/smt.php?id=7
+TVB娱乐台,http://live.nctv.top/8/smt.php?id=8
+Plus,http://live.nctv.top/8/smt.php?id=9
+18台,http://live.nctv.top/8/smt.php?id=111
+TVB经典台,http://live.nctv.top/8/smt.php?id=112
+NOW新闻,http://live.nctv.top/8/smt.php?id=113
+ViuTV,http://live.nctv.top/8/smt.php?id=10
+ViuTV6,http://live.nctv.top/8/smt.php?id=11
+RTHK31,http://live.nctv.top/8/smt.php?id=12
+RTHK32,http://live.nctv.top/8/smt.php?id=13
+Hoy77,http://live.nctv.top/8/smt.php?id=14
+Hoy78,http://live.nctv.top/8/smt.php?id=15
+TVB星河台,http://live.nctv.top/8/smt.php?id=16
 
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 邵氏影院,http://diyp.112114.xyz/douyu/4246519
@@ -623,39 +623,39 @@ HOYTV77,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 
 台湾频道,#genre#
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-中天新闻,http://live.nctv.top/666/tw.php?id=11
+中天新闻,http://live.nctv.top/8/tw.php?id=11
 
-TVBS新闻,http://live.nctv.top/666/tw.php?id=12
+TVBS新闻,http://live.nctv.top/8/tw.php?id=12
 
-台視新闻,http://live.nctv.top/666/tw.php?id=2
+台視新闻,http://live.nctv.top/8/tw.php?id=2
 
-民視新闻,http://live.nctv.top/666/tw.php?id=5
+民視新闻,http://live.nctv.top/8/tw.php?id=5
 
 镜新闻台,http://livetv.skycf.eu.org:80/live.m3u8?c=10
 
-三立News,http://live.nctv.top/666/tw.php?id=3
+三立News,http://live.nctv.top/8/tw.php?id=3
 
-三立新闻,http://live.nctv.top/666/tw.php?id=4
+三立新闻,http://live.nctv.top/8/tw.php?id=4
 
-華視,http://live.nctv.top/666/tw.php?id=6
+華視,http://live.nctv.top/8/tw.php?id=6
 
-華視新闻,http://live.nctv.top/666/tw.php?id=7
+華視新闻,http://live.nctv.top/8/tw.php?id=7
 
-TVBS亞洲,http://live.nctv.top/666/tw.php?id=8
+TVBS亞洲,http://live.nctv.top/8/tw.php?id=8
 
-中視,http://live.nctv.top/666/tw.php?id=9
+中視,http://live.nctv.top/8/tw.php?id=9
 
-八大戏剧,http://live.nctv.top/666/tw.php?id=13
+八大戏剧,http://live.nctv.top/8/tw.php?id=13
 
-三立戏剧,http://live.nctv.top/666/tw.php?id=15
+三立戏剧,http://live.nctv.top/8/tw.php?id=15
 
-Amc电影,http://live.nctv.top/666/tw.php?id=16
+Amc电影,http://live.nctv.top/8/tw.php?id=16
 
-纬来精彩,http://live.nctv.top/666/tw.php?id=17
+纬来精彩,http://live.nctv.top/8/tw.php?id=17
 
-八大第一,http://live.nctv.top/666/tw.php?id=18
+八大第一,http://live.nctv.top/8/tw.php?id=18
 
-八大综合,http://live.nctv.top/666/tw.php?id=19
+八大综合,http://live.nctv.top/8/tw.php?id=19
 
 中天新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=7
 
@@ -694,84 +694,84 @@ tvbs新闻,http://154.yfvodcdn.com:8080/live/tytvbs1/hls.m3u8
 台视频道,http://154.yfvodcdn.com:8080/live/ztylt05/hls.m3u8
 中视频道,http://154.yfvodcdn.com:8080/live/ztylt06/hls.m3u8
 华视频道,http://154.yfvodcdn.com:8080/live/ztylt13/hls.m3u8
-美亞电影,http://live.nctv.top/666/smt.php?id=17
-天映频道1,http://live.nctv.top/666/smt.php?id=18
-天映频道2,http://live.nctv.top/666/smt.php?id=19
-天映经典,http://live.nctv.top/666/smt.php?id=20
-龍華电影,http://live.nctv.top/666/smt.php?id=21
-東森电影,http://live.nctv.top/666/smt.php?id=22
-纬来电影,http://live.nctv.top/666/smt.php?id=23
-龍祥电影,http://live.nctv.top/666/smt.php?id=24
-好莱坞电影,http://live.nctv.top/666/smt.php?id=25
-中天新闻,http://live.nctv.top/666/smt.php?id=26
-東森新闻,http://live.nctv.top/666/smt.php?id=27
-台視新闻,http://live.nctv.top/666/smt.php?id=28
-中視新闻,http://live.nctv.top/666/smt.php?id=29
-民視新闻,http://live.nctv.top/666/smt.php?id=30
-TVBS新闻,http://live.nctv.top/666/smt.php?id=31
-非凡新闻,http://live.nctv.top/666/smt.php?id=32
-年代新闻,http://live.nctv.top/666/smt.php?id=33
-寰宇新闻,http://live.nctv.top/666/smt.php?id=34
-民視,http://live.nctv.top/666/smt.php?id=35
-台視,http://live.nctv.top/666/smt.php?id=36
-華視,http://live.nctv.top/666/smt.php?id=37
-中視,http://live.nctv.top/666/smt.php?id=38
-公視,http://live.nctv.top/666/smt.php?id=39
-TVBS,http://live.nctv.top/666/smt.php?id=40
-中視经典,http://live.nctv.top/666/smt.php?id=41
-台視综合,http://live.nctv.top/666/smt.php?id=42
-民視台湾,http://live.nctv.top/666/smt.php?id=43
-民視第一,http://live.nctv.top/666/smt.php?id=44
-三立台湾,http://live.nctv.top/666/smt.php?id=45
-三立综合,http://live.nctv.top/666/smt.php?id=46
-三立戏剧,http://live.nctv.top/666/smt.php?id=47
-中天综合,http://live.nctv.top/666/smt.php?id=48
-中天娱乐,http://live.nctv.top/666/smt.php?id=49
-中天亞洲,http://live.nctv.top/666/smt.php?id=50
-TVBS欢乐,http://live.nctv.top/666/smt.php?id=51
-八大第一,http://live.nctv.top/666/smt.php?id=52
-八大综合,http://live.nctv.top/666/smt.php?id=53
-八大戏剧,http://live.nctv.top/666/smt.php?id=54
-纬来日本,http://live.nctv.top/666/smt.php?id=55
-纬来体育,http://live.nctv.top/666/smt.php?id=56
-龍華戏剧,http://live.nctv.top/666/smt.php?id=57
-龍華偶像,http://live.nctv.top/666/smt.php?id=58
-龍華洋片,http://live.nctv.top/666/smt.php?id=59
-東森戏剧,http://live.nctv.top/666/smt.php?id=60
-東森财经,http://live.nctv.top/666/smt.php?id=61
-東森幼幼,http://live.nctv.top/666/smt.php?id=62
-東森洋片,http://live.nctv.top/666/smt.php?id=63
-東森超視,http://live.nctv.top/666/smt.php?id=64
-東森综合,http://live.nctv.top/666/smt.php?id=65
-寰宇财经,http://live.nctv.top/666/smt.php?id=66
-靖天卡通,http://live.nctv.top/666/smt.php?id=67
-靖天国际,http://live.nctv.top/666/smt.php?id=68
-Thrill,http://live.nctv.top/666/smt.php?id=69
-Boo,http://live.nctv.top/666/smt.php?id=70
-Hits,http://live.nctv.top/666/smt.php?id=71
-Hits Movie,http://live.nctv.top/666/smt.php?id=72
-星空电影,http://live.nctv.top/666/smt.php?id=73
-華纳TV,http://live.nctv.top/666/smt.php?id=74
-AXN,http://live.nctv.top/666/smt.php?id=75
-AXNTW,http://live.nctv.top/666/smt.php?id=76
-CINEMAX,http://live.nctv.top/666/smt.php?id=77
-长城精品,http://live.nctv.top/666/smt.php?id=78
-華艺综合,http://live.nctv.top/666/smt.php?id=79
-探索科学,http://live.nctv.top/666/smt.php?id=80
-HGTV,http://live.nctv.top/666/smt.php?id=81
-探索频道,http://live.nctv.top/666/smt.php?id=82
-探索,http://live.nctv.top/666/smt.php?id=83
-探索亞洲,http://live.nctv.top/666/smt.php?id=84
-国家地理野生,http://live.nctv.top/666/smt.php?id=85
-国家地理,http://live.nctv.top/666/smt.php?id=86
-新加坡CNA,http://live.nctv.top/666/smt.php?id=87
-动物星球,http://live.nctv.top/666/smt.php?id=88
-爱尔达体育1,http://live.nctv.top/666/smt.php?id=89
-爱尔达体育2,http://live.nctv.top/666/smt.php?id=90
-博斯运动1,http://live.nctv.top/666/smt.php?id=91
-博斯运动2,http://live.nctv.top/666/smt.php?id=92
-EYETV戏剧,http://live.nctv.top/666/smt.php?id=93
-EYETV旅游,http://live.nctv.top/666/smt.php?id=94
+美亞电影,http://live.nctv.top/8/smt.php?id=17
+天映频道1,http://live.nctv.top/8/smt.php?id=18
+天映频道2,http://live.nctv.top/8/smt.php?id=19
+天映经典,http://live.nctv.top/8/smt.php?id=20
+龍華电影,http://live.nctv.top/8/smt.php?id=21
+東森电影,http://live.nctv.top/8/smt.php?id=22
+纬来电影,http://live.nctv.top/8/smt.php?id=23
+龍祥电影,http://live.nctv.top/8/smt.php?id=24
+好莱坞电影,http://live.nctv.top/8/smt.php?id=25
+中天新闻,http://live.nctv.top/8/smt.php?id=26
+東森新闻,http://live.nctv.top/8/smt.php?id=27
+台視新闻,http://live.nctv.top/8/smt.php?id=28
+中視新闻,http://live.nctv.top/8/smt.php?id=29
+民視新闻,http://live.nctv.top/8/smt.php?id=30
+TVBS新闻,http://live.nctv.top/8/smt.php?id=31
+非凡新闻,http://live.nctv.top/8/smt.php?id=32
+年代新闻,http://live.nctv.top/8/smt.php?id=33
+寰宇新闻,http://live.nctv.top/8/smt.php?id=34
+民視,http://live.nctv.top/8/smt.php?id=35
+台視,http://live.nctv.top/8/smt.php?id=36
+華視,http://live.nctv.top/8/smt.php?id=37
+中視,http://live.nctv.top/8/smt.php?id=38
+公視,http://live.nctv.top/8/smt.php?id=39
+TVBS,http://live.nctv.top/8/smt.php?id=40
+中視经典,http://live.nctv.top/8/smt.php?id=41
+台視综合,http://live.nctv.top/8/smt.php?id=42
+民視台湾,http://live.nctv.top/8/smt.php?id=43
+民視第一,http://live.nctv.top/8/smt.php?id=44
+三立台湾,http://live.nctv.top/8/smt.php?id=45
+三立综合,http://live.nctv.top/8/smt.php?id=46
+三立戏剧,http://live.nctv.top/8/smt.php?id=47
+中天综合,http://live.nctv.top/8/smt.php?id=48
+中天娱乐,http://live.nctv.top/8/smt.php?id=49
+中天亞洲,http://live.nctv.top/8/smt.php?id=50
+TVBS欢乐,http://live.nctv.top/8/smt.php?id=51
+八大第一,http://live.nctv.top/8/smt.php?id=52
+八大综合,http://live.nctv.top/8/smt.php?id=53
+八大戏剧,http://live.nctv.top/8/smt.php?id=54
+纬来日本,http://live.nctv.top/8/smt.php?id=55
+纬来体育,http://live.nctv.top/8/smt.php?id=56
+龍華戏剧,http://live.nctv.top/8/smt.php?id=57
+龍華偶像,http://live.nctv.top/8/smt.php?id=58
+龍華洋片,http://live.nctv.top/8/smt.php?id=59
+東森戏剧,http://live.nctv.top/8/smt.php?id=60
+東森财经,http://live.nctv.top/8/smt.php?id=61
+東森幼幼,http://live.nctv.top/8/smt.php?id=62
+東森洋片,http://live.nctv.top/8/smt.php?id=63
+東森超視,http://live.nctv.top/8/smt.php?id=64
+東森综合,http://live.nctv.top/8/smt.php?id=65
+寰宇财经,http://live.nctv.top/8/smt.php?id=66
+靖天卡通,http://live.nctv.top/8/smt.php?id=67
+靖天国际,http://live.nctv.top/8/smt.php?id=68
+Thrill,http://live.nctv.top/8/smt.php?id=69
+Boo,http://live.nctv.top/8/smt.php?id=70
+Hits,http://live.nctv.top/8/smt.php?id=71
+Hits Movie,http://live.nctv.top/8/smt.php?id=72
+星空电影,http://live.nctv.top/8/smt.php?id=73
+華纳TV,http://live.nctv.top/8/smt.php?id=74
+AXN,http://live.nctv.top/8/smt.php?id=75
+AXNTW,http://live.nctv.top/8/smt.php?id=76
+CINEMAX,http://live.nctv.top/8/smt.php?id=77
+长城精品,http://live.nctv.top/8/smt.php?id=78
+華艺综合,http://live.nctv.top/8/smt.php?id=79
+探索科学,http://live.nctv.top/8/smt.php?id=80
+HGTV,http://live.nctv.top/8/smt.php?id=81
+探索频道,http://live.nctv.top/8/smt.php?id=82
+探索,http://live.nctv.top/8/smt.php?id=83
+探索亞洲,http://live.nctv.top/8/smt.php?id=84
+国家地理野生,http://live.nctv.top/8/smt.php?id=85
+国家地理,http://live.nctv.top/8/smt.php?id=86
+新加坡CNA,http://live.nctv.top/8/smt.php?id=87
+动物星球,http://live.nctv.top/8/smt.php?id=88
+爱尔达体育1,http://live.nctv.top/8/smt.php?id=89
+爱尔达体育2,http://live.nctv.top/8/smt.php?id=90
+博斯运动1,http://live.nctv.top/8/smt.php?id=91
+博斯运动2,http://live.nctv.top/8/smt.php?id=92
+EYETV戏剧,http://live.nctv.top/8/smt.php?id=93
+EYETV旅游,http://live.nctv.top/8/smt.php?id=94
 
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=2
 TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -3205,22 +3205,22 @@ OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 DubaiRacing2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-TV1,http://live.nctv.top/666/smt.php?id=95
-TV2,http://live.nctv.top/666/smt.php?id=96
-TV3,http://live.nctv.top/666/smt.php?id=97
-TV8,http://live.nctv.top/666/smt.php?id=98
-TV9,http://live.nctv.top/666/smt.php?id=99
-TLC,http://live.nctv.top/666/smt.php?id=100
-astro Sport2,http://live.nctv.top/666/smt.php?id=101
-astro Sport3,http://live.nctv.top/666/smt.php?id=102
-astro Sport4,http://live.nctv.top/666/smt.php?id=103
-One Movie,http://live.nctv.top/666/smt.php?id=104
-One,http://live.nctv.top/666/smt.php?id=105
-PPTV,http://live.nctv.top/666/smt.php?id=106
-WWE,http://live.nctv.top/666/smt.php?id=107
-BTESPN,http://live.nctv.top/666/smt.php?id=108
-BTSports1,http://live.nctv.top/666/smt.php?id=109
-BTSports3,http://live.nctv.top/666/smt.php?id=110
+TV1,http://live.nctv.top/8/smt.php?id=95
+TV2,http://live.nctv.top/8/smt.php?id=96
+TV3,http://live.nctv.top/8/smt.php?id=97
+TV8,http://live.nctv.top/8/smt.php?id=98
+TV9,http://live.nctv.top/8/smt.php?id=99
+TLC,http://live.nctv.top/8/smt.php?id=100
+astro Sport2,http://live.nctv.top/8/smt.php?id=101
+astro Sport3,http://live.nctv.top/8/smt.php?id=102
+astro Sport4,http://live.nctv.top/8/smt.php?id=103
+One Movie,http://live.nctv.top/8/smt.php?id=104
+One,http://live.nctv.top/8/smt.php?id=105
+PPTV,http://live.nctv.top/8/smt.php?id=106
+WWE,http://live.nctv.top/8/smt.php?id=107
+BTESPN,http://live.nctv.top/8/smt.php?id=108
+BTSports1,http://live.nctv.top/8/smt.php?id=109
+BTSports3,http://live.nctv.top/8/smt.php?id=110
 
 ABC News,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
@@ -3941,8 +3941,8 @@ NewTv精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 战争电影,http://43.138.170.29:35455/yy/1354930204
 国内战争,http://43.138.170.29:35455/yy/1382749950
 苏联战争,http://43.138.170.29:35455/yy/1354936249
-1905国外电影,http://live.nctv.top/666/1905.php?id=1905a
-1905国内电影,http://live.nctv.top/666/1905.php?id=1905b
+1905国外电影,http://live.nctv.top/8/1905.php?id=1905a
+1905国内电影,http://live.nctv.top/8/1905.php?id=1905b
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv?_t=0.03302458679376152
 
 酷奇MV,#genre#
