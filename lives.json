@@ -1,39 +1,75 @@
 ﻿{
-  
-  "vodPic": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/VOL_93.jpg",
-  
-  "drives": [
-    
-    {"name":"⓪电视","url":"http://8.210.232.168/xclive.txt"},
-"lives": [{"name": "Live","type": 0,"url": "http://live.nctv.top/x.png","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name": "焦点","type": 0,"url": "https://ykq001.serv00.net/live/complete2.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"欧华","type":"0","url": "https://ykq001.serv00.net/live/complete.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name": "安博","type": 0,"url": "http://live.nctv.top/anbo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name": "斯玛特","type": 0,"url": "http://live.nctv.top/Smartv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name": "港澳台","type": 0,"url": "http://live.nctv.top/zby/qt.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"组播","type":"0","url": "http://live.nctv.top/zby/zb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"范明明•综合","type":0,"url":"https://already.free.hr/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"月光","type":"0","url": "https://gitcode.net/ygbh66/test/raw/master/tw.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"运输车线路","type":"0","url": "https://weixine.net/tv/ysclive.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"范明明•ipv6","type":0,"url":"https://already.free.hr/fanmingming/live/main/tv/m3u/Invalid/ipv6.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"直播4","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"酒店","type":"0","url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt ","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name": "广东电视直播","type": 0,"url": "https://agit.ai/alanchaotang/if/raw/branch/main/LIVE/gzlive.txt","epg": "http://diyp.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","playerType": 1},
-{"name":"央.卫.港.澳.台","type":0,"url":"https://agit.ai/alanchaotang/if/raw/branch/main/LIVE/Gather.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name": "IPTV6直播","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "http://diyp.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","playerType": 1},
-{"name": "全国直播","type": 0,"url": "https://agit.ai/alanchaotang/if/raw/branch/main/LIVE/全国直播源.m3u","epg": "http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YanG•综合","type":0,"url":"https://already.free.hr/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-//{"name":"YueChan•综合","type":0,"url":"https://already.free.hr/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Yoursmile•综合","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"饭太硬•综合","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"范明明•电台","type":0,"url":"https://already.free.hr/fanmingming/live/main/radio/m3u/index.m3u","playerType":1},
-{"name":"肥羊•斗鱼","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType":1},
-{"name":"肥羊•虎牙","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType":1},
-{"name":"肥羊•YY","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/yylunbo.m3u","playerType":1},
-//{"name":"初秋语•哔哩","type":0,"url":"./bili.m3u","playerType":1}
- 
-   ]
-
- }
+  "spider": "https://ghproxy.org/https://github.com/aa1555/Repository/raw/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/jar/feimao.jar;md5;364c0f012e73a8801a69900fc25ae9c1",
+  "lives": [
+    {
+      "name": "myhomebox",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/myhomebox/tv/0adc729e67446150afc7c6dd50fcc22bf1a3ca10/live.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Smart",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/koashe/zby/main/SmartTV.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "zby",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/koashe/zby/main/%E6%AC%A71.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
+      "name": "ubtv",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/wolfcode9/OpenChannel/main/live2.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "4gtv",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/winterxg/tvb/main/live/4g0418.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "jfd2020",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/jfd2020/jfd2020.github.io/e76b52d34a5791df371aa208880194d9fbcdfec6/%E5%AE%89%E5%8D%9A.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "om",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/cairong/iptv-yuan/main/oumei.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "STAR-MARRANO",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "xx",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/aabadfer/iptv/main/iptv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/Lucasle234/iptv/main/nsfw.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
