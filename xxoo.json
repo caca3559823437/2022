@@ -22,6 +22,15 @@
       "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/alist.json"
     },
     {
+      "key": "电视直播",
+      "name": "👽电视直播",
+      "type": 3,
+      "api": "csp_lives",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/lives.json"
+    },
+    {
       "key":"世界",
       "name":"👽分享世界",
       "type":3,
