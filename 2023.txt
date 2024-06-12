@@ -691,6 +691,37 @@ TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 三立新闻,http://194.87.101.118/live.m3u8?c=12
 华視新闻,http://194.87.101.118/live.m3u8?c=13
 東森财经,http://194.87.101.118/live.m3u8?c=14
+
+中天新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv009
+非凡新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv010
+台視新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv051
+華視新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv052
+TVBS新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv072
+TVBS,http://wanjiatv.net/litv.php?id=4gtv-4gtv073
+中視新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv074
+鏡新闻台,http://wanjiatv.net/litv.php?id=4gtv-4gtv075
+東森新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv152
+東森财经,http://wanjiatv.net/litv.php?id=4gtv-4gtv153
+民視,http://wanjiatv.net/litv.php?id=4gtv-4gtv155
+民視台湾,http://wanjiatv.net/litv.php?id=4gtv-4gtv156
+寰宇新闻,http://wanjiatv.net/litv.php?id=litv-longturn14
+寰宇台湾,http://wanjiatv.net/litv.php?id=litv-longturn15
+半島新闻,http://wanjiatv.net/litv.php?id=litv-ftv10
+民視新闻,http://wanjiatv.net/litv.php?id=litv-ftv13
+台視,http://wanjiatv.net/litv.php?id=4gtv-4gtv066
+中視,http://wanjiatv.net/litv.php?id=4gtv-4gtv040
+華視,http://wanjiatv.net/litv.php?id=4gtv-4gtv041
+民視台湾,http://wanjiatv.net/litv.php?id=4gtv-4gtv001
+民視,http://wanjiatv.net/litv.php?id=4gtv-4gtv002
+GLOBETROTTER,http://wanjiatv.net/litv.php?id=4gtv-4gtv016
+amc电影台,http://wanjiatv.net/litv.php?id=4gtv-4gtv017
+靖天映畫,http://wanjiatv.net/litv.php?id=4gtv-4gtv055
+靖天电影,http://wanjiatv.net/litv.php?id=4gtv-4gtv061
+CATCHPLAY电影,http://wanjiatv.net/litv.php?id=4gtv-4gtv076
+TRACE SPORTS STARS,http://wanjiatv.net/litv.php?id=4gtv-4gtv077
+影迷數位电影,http://wanjiatv.net/litv.php?id=4gtv-4gtv011
+視納華仁紀實頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv013
+
 TVBS新闻,http://live.nctv.top/8/tw.php?id=12
 镜新闻台,http://livetv.skycf.eu.org:80/live.m3u8?c=10
 民視新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=11
@@ -782,16 +813,25 @@ STARmovies,http://117.114.153.25:8180/TV00000000000000000075@HHZT
 axn电影,http://117.114.153.25:8180/TV00000000000000000076@HHZT
 CINEMAX电影,http://117.114.153.25:8180/TV00000000000000000109@HHZT
 HBO,http://117.114.153.25:8180/TV00000000000000000074@HHZT
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
 台視,rtmp://220.130.201.73/sat/tv071
 民視,rtmp://220.130.201.73/sat/tv051
 纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来育樂,rtmp://220.130.201.73/sat/tv701
 纬来日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+音乐49台,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 台視新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 中視,rtmp://220.130.201.73/sat/tv091
 華視,rtmp://220.130.201.73/sat/tv111
@@ -949,6 +989,65 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 亚洲经典,http://goldfm.cn:8000/goldfm
 Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+時尚運動,http://wanjiatv.net/litv.php?id=4gtv-4gtv014
+達文西頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv018
+八大精彩,http://wanjiatv.net/litv.php?id=4gtv-4gtv034
+八大综艺,http://wanjiatv.net/litv.php?id=4gtv-4gtv039
+公視戏剧,http://wanjiatv.net/litv.php?id=4gtv-4gtv042
+客家电視,http://wanjiatv.net/litv.php?id=4gtv-4gtv043
+靖天卡通,http://wanjiatv.net/litv.php?id=4gtv-4gtv044
+靖天戏剧,http://wanjiatv.net/litv.php?id=4gtv-4gtv045
+靖天綜合,http://wanjiatv.net/litv.php?id=4gtv-4gtv046
+靖天日本,http://wanjiatv.net/litv.php?id=4gtv-4gtv047
+非凡商業,http://wanjiatv.net/litv.php?id=4gtv-4gtv048
+采昌戏剧,http://wanjiatv.net/litv.php?id=4gtv-4gtv049
+GinxTV,http://wanjiatv.net/litv.php?id=4gtv-4gtv053
+靖天歡樂,http://wanjiatv.net/litv.php?id=4gtv-4gtv054
+台視财经,http://wanjiatv.net/litv.php?id=4gtv-4gtv056
+靖洋卡通,http://wanjiatv.net/litv.php?id=4gtv-4gtv057
+靖天戏剧,http://wanjiatv.net/litv.php?id=4gtv-4gtv058
+民視第一,http://wanjiatv.net/litv.php?id=4gtv-4gtv003
+民視综艺,http://wanjiatv.net/litv.php?id=4gtv-4gtv004
+豬哥亮歌廳秀,http://wanjiatv.net/litv.php?id=4gtv-4gtv006
+古典音樂,http://wanjiatv.net/litv.php?id=4gtv-4gtv059
+靖天育樂,http://wanjiatv.net/litv.php?id=4gtv-4gtv062
+靖天國際,http://wanjiatv.net/litv.php?id=4gtv-4gtv063
+中視菁采,http://wanjiatv.net/litv.php?id=4gtv-4gtv064
+靖天資訊,http://wanjiatv.net/litv.php?id=4gtv-4gtv065
+TVBS精采,http://wanjiatv.net/litv.php?id=4gtv-4gtv067
+TVBS歡樂,http://wanjiatv.net/litv.php?id=4gtv-4gtv068
+愛爾達娛樂,http://wanjiatv.net/litv.php?id=4gtv-4gtv070
+阿里郎,http://wanjiatv.net/litv.php?id=4gtv-4gtv079
+中視經典,http://wanjiatv.net/litv.php?id=4gtv-4gtv080
+TRACE URBAN,http://wanjiatv.net/litv.php?id=4gtv-4gtv082
+MEZZO LIVE,http://wanjiatv.net/litv.php?id=4gtv-4gtv083
+國會頻道1,http://wanjiatv.net/litv.php?id=4gtv-4gtv084
+國會頻道2,http://wanjiatv.net/litv.php?id=4gtv-4gtv085
+智林體育,http://wanjiatv.net/litv.php?id=4gtv-4gtv101
+國際财经,http://wanjiatv.net/litv.php?id=4gtv-4gtv104
+第1商業台,http://wanjiatv.net/litv.php?id=4gtv-4gtv109
+美國之音,http://wanjiatv.net/litv.php?id=litv-ftv03
+民視旅遊,http://wanjiatv.net/litv.php?id=litv-ftv07
+民視影劇,http://wanjiatv.net/litv.php?id=litv-ftv09
+龍華卡通,http://wanjiatv.net/litv.php?id=litv-longturn01
+龍華电影,http://wanjiatv.net/litv.php?id=litv-longturn03
+博斯魅力,http://wanjiatv.net/litv.php?id=litv-longturn04
+博斯高球1,http://wanjiatv.net/litv.php?id=litv-longturn05
+博斯高球2,http://wanjiatv.net/litv.php?id=litv-longturn06
+博斯運動1,http://wanjiatv.net/litv.php?id=litv-longturn07
+博斯運動2,http://wanjiatv.net/litv.php?id=litv-longturn08
+博斯網球,http://wanjiatv.net/litv.php?id=litv-longturn09
+博斯無限,http://wanjiatv.net/litv.php?id=litv-longturn10
+龍華日韓,http://wanjiatv.net/litv.php?id=litv-longturn11
+龍華偶像,http://wanjiatv.net/litv.php?id=litv-longturn12
+博斯無限2,http://wanjiatv.net/litv.php?id=litv-longturn13
+亞洲旅遊,http://wanjiatv.net/litv.php?id=litv-longturn17
+龍華戏剧,http://wanjiatv.net/litv.php?id=litv-longturn18
+Smart知識,http://wanjiatv.net/litv.php?id=litv-longturn19
+生活英語,http://wanjiatv.net/litv.php?id=litv-longturn20
+龍華經典,http://wanjiatv.net/litv.php?id=litv-longturn21
+台湾戏剧,http://wanjiatv.net/litv.php?id=litv-longturn22
 
 全球测试,#genre#
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
@@ -2436,6 +2535,28 @@ TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+Cnbc new,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+纬来体育,http://125.227.210.55:8155/VideoInput/play.ts
+三立台湾,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新闻,http://125.227.210.55:8162/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS欢乐,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TV5台,http://125.227.210.55:15533/VideoInput/play.ts
+YTN台,http://125.227.210.55:17478/VideoInput/play.ts
+NHK JAPAN,http://125.227.210.55:35802/VideoInput/play.ts
+PBS台,http://125.227.210.55:36950/VideoInput/play.ts
+凤凰卫视,http://125.227.210.55:39004/VideoInput/play.ts
+DW台,http://125.227.210.55:42534/VideoInput/play.ts
+BBC台,http://125.227.210.55:44350/VideoInput/play.ts
+KOREA台,http://125.227.210.55:48553/VideoInput/play.ts
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 中視新闻,http://ytb.csscc.cc:2086/live.m3u8?c=2
 三立新闻,http://ytb.csscc.cc:2086/live.m3u8?c=3
 寰宇新闻,http://ytb.csscc.cc:2086/live.m3u8?c=4
@@ -5691,6 +5812,15 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 🔞日本松視,#genre#
 驚豔臺HD,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB
 驚豔臺HD,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB
+MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
+翻🔞SexGirl,http://125.227.210.55:62698/VideoInput/play.ts
+翻🔞麻豆,http://125.227.210.55:51359/VideoInput/play.ts
+翻🔞驚艷台,http://125.227.210.55:8156/VideoInput/play.ts
+翻🔞香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
+翻🔞奧視3,http://125.227.210.55:8917/VideoInput/play.ts
+翻🔞奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+
 一本,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
 二本,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 三本,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
@@ -5803,6 +5933,28 @@ japanhdv,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/6225/index.m3u8
 欧美版Young,http://live.mycamtv.com/young.m3u8
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 欧美�?2,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
+
+Pornbox00,http://cord-cutter.net:8080/YT6bvC/100111/159956
+Pornbox01,http://cord-cutter.net:8080/YT6bvC/100111/159951
+Pornbox02,http://cord-cutter.net:8080/YT6bvC/100111/159955
+Pornbox03,http://cord-cutter.net:8080/YT6bvC/100111/159958
+Pornbox04,http://cord-cutter.net:8080/YT6bvC/100111/159985
+Pornbox05,http://cord-cutter.net:8080/YT6bvC/100111/159962
+Pornbox06,http://cord-cutter.net:8080/YT6bvC/100111/159952
+Pornbox07,http://cord-cutter.net:8080/YT6bvC/100111/159965
+Pornbox08,http://cord-cutter.net:8080/YT6bvC/100111/159957
+Pornbox09,http://cord-cutter.net:8080/YT6bvC/100111/159963
+Pornbox10,http://cord-cutter.net:8080/YT6bvC/100111/159958
+Pornbox11,http://cord-cutter.net:8080/YT6bvC/100111/159959
+Pornbox12,http://cord-cutter.net:8080/YT6bvC/100111/159964
+Pornbox13,http://cord-cutter.net:8080/YT6bvC/100111/159973
+Pornbox14,http://cord-cutter.net:8080/YT6bvC/100111/159979
+Pornbox15,http://cord-cutter.net:8080/YT6bvC/100111/159980
+Pornbox16,http://cord-cutter.net:8080/YT6bvC/100111/160011
+Pornbox17,http://cord-cutter.net:8080/YT6bvC/100111/159975
+Pornbox18,http://cord-cutter.net:8080/YT6bvC/100111/159954
+Pornbox19,http://cord-cutter.net:8080/YT6bvC/100111/159950
+
 Penthouse Gold,http://146.59.54.163/353/index.m3u8 
 O La La,http://31.148.48.15/O-la-la/index.m3u8 
 Hustler HD,http://146.59.54.163/348/index.m3u8
@@ -5884,16 +6036,6 @@ MODEL MEDIA ASIA,http://206.212.244.71:8080/YT6bvC/100111/160011
 TRUEANAL,http://streamsy.online:2999/coachj88/N93DPKS9pJ/276
 цeнтp,http://23.158.200.7/live/ij20mlqm/rv5y4nr5/83241.m3u8
 charm,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/18053/index.m3u8
-MAXJ,http://cord-cutter.net:8080/YT6bvC/100111/159958
-BABES,http://cord-cutter.net:8080/YT6bvC/100111/159959
-BOX OF PORN,http://cord-cutter.net:8080/YT6bvC/100111/159964
-DIGITAL PLAYGROUND,http://cord-cutter.net:8080/YT6bvC/100111/159973
-FAKE HOSTEL,http://cord-cutter.net:8080/YT6bvC/100111/159979
-FAKE TAXI,http://cord-cutter.net:8080/YT6bvC/100111/159980
-MODEL MEDIA ASIA,http://cord-cutter.net:8080/YT6bvC/100111/160011
-DORCEL CLUB,http://cord-cutter.net:8080/YT6bvC/100111/159975
-ADULT TIME,http://cord-cutter.net:8080/YT6bvC/100111/159954
-GENDER X FILMS,http://cord-cutter.net:8080/YT6bvC/100111/159950
 P,http://146.59.54.163/356/playlist.m3u8
 Charm ,http://ca.ukrainske.tv/7141/DF9D16B4057FD00/video.m3u8
 sex art,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
