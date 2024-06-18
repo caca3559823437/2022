@@ -3,7 +3,7 @@
     "urls": [
  
 {
-            "url": "http://肥猫.live",
+            "url": "http://肥猫.com",
             "name": "😺肥猫"
         },
 {
@@ -50,8 +50,8 @@
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
             "name": "🐹吾爱线路"}, 
 {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "😺 小米"
+            "url": "https://tvbox.aoki.fun/M",
+            "name": "😺 青木"
         }, 
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
