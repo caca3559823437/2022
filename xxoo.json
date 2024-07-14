@@ -123,16 +123,6 @@
       ]
     },
     {
-      "key": "鑫鑫影视",
-      "name": "👽鑫鑫┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
       "key": "光速资源",
       "name": "👽光速┃采集",
       "type": 1,
@@ -193,7 +183,7 @@
     },
     {
       "key": "hm",
-      "name": "黑木资源站|无广告",
+      "name": "👽黑木资源站|无广告",
       "type": 1,
       "api": "https://heimuer.tv/api.php/provide/vod",
       "playUrl": "json:https://4tvbox.ggff.net/noad_v2.php?url=",
@@ -236,7 +226,7 @@
     },
     {
       "key": "huawei",
-      "name": "华为资源站",
+      "name": "👽华为资源站",
       "type": 1,
       "api": "https://cjhwba.com/api.php/provide/vod",
       "playUrl": "json:https://4tvbox.ggff.net/noad.php?url=",
@@ -273,7 +263,7 @@
     },
     {
       "key": "360",
-      "name": "360资源站",
+      "name": "👽360资源站",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -312,62 +302,6 @@
       "name": "👽火狐2K┃有广",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "drpy_js_荐片",
-      "name": "👽影视 | 荐片[js]",
-      "type": 3,
-      "api": "./ext/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./ext/荐片.js",
-      "timeout": 30
-    },
-    {
-      "key": "49zy",
-      "name": "👽49资源",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
-      ]
     },
     {
       "key": "卧龙资源",
@@ -442,55 +376,6 @@
       ]
     },
     {
-      "key": "天天",
-      "name": "👽天天",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "playerType": 1,
-      "changeable": 2,
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
-    },
-    {
-      "key":"csp_NewCz",
-      "name":"🏭厂长",
-      "type":3,
-      "api":"csp_NewCz",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://www.czzy.top"
-    },
-    {
-      "key":"csp_Nmys",
-      "name":"🥝农民",
-      "type":3,
-      "api":"csp_Nmys",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://nctv.top/tv/sub/nmys.json"
-    },
-    {
-      "key":"csp_TianTian",
-      "name":"🦉天天",
-      "type":3,
-      "api":"csp_TianTian",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
-      "key":"csp_Ikanbot",
-      "name":"❤️Ikanbot",
-      "type":3,
-      "api":"csp_Ikanbot",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://v.aikanbot.com"
-    },
-    {
       "key": "要啥脸",
       "name": "👽七星",
       "type": 3,
@@ -499,19 +384,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://122.228.84.103:5822/api.php/app/"
-    },
-    {
-      "key": "Panta",
-      "name": "👽胖达2K",
-      "type": 3,
-      "api": "csp_Panta",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "changeable": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
-      "timeout": 60
     },
     {
       "key": "非凡",
@@ -661,45 +533,6 @@
       "quickSearch": 1
     },
     {
-      "key": "贱贱",
-      "name": "👽荐片",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
-    },
-    {
-      "key": "101影院11",
-      "name": "👽101影院",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_hlly.jar",
-      "ext": {
-      "简介": "col-pd\">&&</p >",
-      "跳转播放链接": "varurlDecode(var player_*url\":\"&&\")",
-      "分类url": "http://101jy.cn/sx/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-      "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影天堂$44#伦理片$29#经典电影$30"
-      }
-    },
-    {
-      "key": "997",
-      "name": "👽997",
-      "type": 3,
-      "api": "csp_Web608",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_spider.jar",
-      "ext": "https://www.6080yy4.com"
-    },
-    {
       "key": "泰泰",
       "name": "👽酷影TV",
       "type": 3,
@@ -768,60 +601,6 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"http://106.52.241.21:83/api.php/app/"
-    },
-    {
-      "key":"csp_Duanju",
-      "name":"🎭短剧",
-      "type":3,
-      "api":"csp_Duanju",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "changeable":1,
-      "ext":"http://aiduanju.vip/"
-    },
-    {
-      "key": "csp_短剧网",
-      "name": "短剧网",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "jar": "./lib/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "陌陌",
-      "name": "🧡短剧2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./lib/dj0.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "横版影院",
-      "name": "👽短剧横版影院",
-      "type": 1,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [ "短剧" ] 
-    },
-    {
-      "key":"厂长",
-      "name":"👽厂长",
-      "type":3,
-      "api":"csp_Czsapp",
-      "timeout":15,
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1,
-      "ext": "https://www.czzy77.com/"
     },
     {
       "key": "js豆瓣",
@@ -910,13 +689,13 @@
     },
     {
       "key":"麻豆網",
-      "name":"色色虎資源🔪",
+      "name":"🔞色色虎資源🔪",
       "type":1,
       "api":"https://sesehuzy1.com/api.php/provide/vod/at/xml/"
     },
     {
       "key":"甜蜜资源",
-      "name":"🟣好色資源",
+      "name":"🔞好色資源",
       "type":1,
       "api":"https://haosezyw.com/api.php/provide/vod/at/xml",
       "searchable":1,
@@ -924,7 +703,7 @@
     },
     {
       "key":"夜色资源",
-      "name":"🟣越南資源🔪",
+      "name":"🔞越南資源🔪",
       "type":1,
       "api":"https://www.vnzyz.com/api.php/provide/vod/",
       "searchable":1,
