@@ -623,15 +623,6 @@
       "filterable": 1
     },
     {
-      "key": "zp128",
-      "name": "🔞鲨鱼影视",
-      "type": 0,
-      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*易看资源",
       "name": "🔞易看资源",
       "type": 1,
@@ -641,44 +632,6 @@
       "filterable": 0
     },
     {
-      "key": "🔞量子",
-      "name": "🔞量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "🔞非凡",
-      "name": "🔞非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "草帽资源",
-      "name": "🔞草帽 | 采集",
-      "type": 1,
-      "api": "https://cmzy.top/api.php/provide/vod/?ac=list",
-      
-      "searchable": 1
-    },
-    {
-      "key": "🔞环亚",
-      "name": "🔞环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "155",
       "name": "🔞155",
       "type": 0,
@@ -686,20 +639,6 @@
       "api": "https://155api.com/api.php/provide/vod/at/xml",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key":"麻豆網",
-      "name":"🔞色色虎資源🔪",
-      "type":1,
-      "api":"https://sesehuzy1.com/api.php/provide/vod/at/xml/"
-    },
-    {
-      "key":"甜蜜资源",
-      "name":"🔞好色資源",
-      "type":1,
-      "api":"https://haosezyw.com/api.php/provide/vod/at/xml",
-      "searchable":1,
-      "quickSearch":1
     },
     {
       "key":"夜色资源",
@@ -737,33 +676,6 @@
       "filterable": 1
     },
     {
-      "key": "🔞黄AV",
-      "name": "🔞黄AV",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🔞博天堂1",
-      "name": "🔞博天堂1",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🔞博天堂2",
-      "name": "🔞博天堂2",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "🔞大地",
       "name": "🔞大地",
       "type": 0,
@@ -778,15 +690,6 @@
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🔞乐播",
-      "name": "🔞乐播",
-      "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -825,16 +728,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "🔞老鸭3",
-      "name": "🔞老鸭3",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "色猫",
@@ -915,30 +808,6 @@
       "searchable": 1
     },
     {
-      "key": "森林",
-      "name": "🔞森林资源",
-      "type": 1,
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
-      "searchable": 1
-    },
-    {
-      "key": "奥斯卡",
-      "name": "🔞奥斯卡",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1
-    },
-    {
-      "key": "🔞甜蜜",
-      "name": "🔞甜蜜",
-      "type": 1,
-      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "🔞探探1",
       "name": "🔞探探1",
       "type": 0,
@@ -957,59 +826,51 @@
       "quickSearch": 0
     },
     {
-      "key": "bttcj.com",
-      "name": "🔞成人01",
+      "key": "🔞量子",
+      "name": "🔞量子",
       "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "🔞非凡",
+      "name": "🔞非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
     },
     {
       "key": "dadiapi.com",
-      "name": "🔞成人02",
+      "name": "🔞成人01",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1
     },
     {
-      "key":"apilj.com",
-      "name": "🔞成人03",
-      "type": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "searchable": 1
-    },
-    {
       "key": "lbapiby.com",
-      "name": "🔞成人04",
+      "name": "🔞成人02",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
       "searchable": 1
     },
     {
       "key":"api.maozyapi.com",
-      "name": "🔞成人05",
+      "name": "🔞成人03",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1
     },
     {
-      "key":"api.sexnguon.com",
-      "name": "🔞成人06",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 1
-    },
-    {
-      "key":"1191md.me",
-      "name":"🔞91md成人07",
-      "type":1,
-      "api":"http://91md.me/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
       "key":"11api.maozyapi.com",
-      "name":"🔞maozyapi成人08",
+      "name":"🔞maozyapi",
       "type":1,
       "api":"https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable":1,
@@ -1018,7 +879,7 @@
     },
     {
       "key":"11apittzy.com",
-      "name":"🔞apittzy成人09",
+      "name":"🔞apittzy",
       "type":1,
       "api":"https://apittzy.com/api.php/provide/vod/",
       "searchable":1,
@@ -1027,7 +888,7 @@
     },
     {
       "key":"11kkzy.me",
-      "name":"🔞kkzy成人10",
+      "name":"🔞kkzy",
       "type":1,
       "api":"https://kkzy.me/api.php/provide/vod/",
       "searchable":1,
