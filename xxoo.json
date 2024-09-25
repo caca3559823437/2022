@@ -10,6 +10,41 @@
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "云影直播",
+      "type": 0,
+      "url": "http://www.uuneed.cn/nmnm123/yunxiys/raw/master/%E4%BA%91%E5%BD%B1%E4%B8%96%E7%95%8C.txt",
+      "playerType": 1,
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+    },
+    {
+      "name": "天微直播",
+      "type": 0,
+      "url": "https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt",
+      "playerType": 1,
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+    },
+    {
+      "name": "易发直播",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/123linyao123/xiangjiao/refs/heads/main/yf676767.txt",
+      "playerType": 1,
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+    },
+    {
+      "name": "SSM0415直播",
+      "type": 0,
+      "url": " https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+      "playerType": 1,
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+    },
+    {
+      "name": "2015直播",
+      "type": 0,
+      "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tv/bc.txt",
+      "playerType": 1,
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+    },
    {
         "name": "18+Live",
         "type": 0,
