@@ -7,7 +7,7 @@
             "name": "😺肥猫"
         },
 {
-            "url": "http://饭太硬.com/tv",
+            "url": "http://fty.xxooo.cf/tv",
             "name": "😺饭太硬"
         },
 {
@@ -56,14 +56,6 @@
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
             "name": "🔞激情壹线"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo01.json",
-            "name": "🔞激情贰线"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo02.json",
-            "name": "🔞激情叁线"
         }
     ]
 }
