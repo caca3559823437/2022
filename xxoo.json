@@ -528,6 +528,46 @@
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/jianpian.js"
     },
     {
+      "key":"壹伴",
+      "name":"壹伴┃ 秒播",
+      "type":3,
+      "api":"csp_Xdai",
+      "playerType":2,
+      "ext":"caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg="
+    },
+    {
+      "key":"雨滴",
+      "name":"雨滴┃App",
+      "type":3,
+      "api":"csp_Xdai",
+      "playerType":1,
+      "ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
+    },
+    {
+      "key":"极品",
+      "name":"极品┃App",
+      "type":3,
+      "api":"csp_Jpys",
+      "playerType":1,
+      "ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+    },
+    {
+      "key":"优质",
+      "name":"优质┃App",
+      "type":3,
+      "api":"csp_Xdai",
+      "playerType":1,
+      "ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
+    },
+    {
+      "key":"凯旋",
+      "name":"凯旋┃App",
+      "type":3,
+      "api":"csp_Xdai",
+      "playerType":1,
+      "ext":"caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
+    },
+    {
       "key": "JS哔哩直播",
       "name": "👽哔哩直播[js]",
       "type": 3,
