@@ -1065,76 +1065,52 @@ Y+剧场台,http://kxrj.site:998/123/mg.php?id=yjjc
 诸暨综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 
 香港频道,#genre#
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰衛視,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰衛視,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
-凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰衛視,http://58.250.155.2:8180/TV00000000000000000031@HHZT
-凤凰衛視,http://122.224.232.226:8888/udp/233.50.200.191:5140
-凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 凤凰衛視,http://xeace.cn:8888/udp/239.93.0.162:2192
 凤凰衛視,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰衛視,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 凤凰衛視,http://wouu.net:9977/rtp/239.93.0.162:2192?cf=cfss.cc
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰衛視,http://146.56.153.245:20121/bysid/258$LR?IPV4『线路81』
 凤凰衛視,http://146.56.153.245:20121/bysid/258
 凤凰资讯,http://146.56.153.245:20121/bysid/257$LR?IPV4『线路35』
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,rtmp://27.223.28.254:40085/hls/yifatvgdfc
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 翡翠华丽台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 翡翠华丽台,http://php.jdshipin.com/smt.php?id=Tvbjade
 翡翠华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 翡翠华丽台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 明珠台,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8$LR?IPV4『线路5』
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR?IPV4『线路7』
-翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8$LR?IPV4『线路10』
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8$LR?IPV4『线路11』
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR?IPV4『线路19』
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR?IPV4『线路31』
 明珠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
-明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 TVB功夫台,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-TVB生活台,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
-TVB生活台,http://205.185.123.236:8899/tvb/Finance/stream.m3u8
-TVB星河台,http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB千禧台,http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 TVB千禧台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB千禧台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-Now爆谷台,http://205.185.123.236:8899/1/baogutai/stream.m3u8
-Now星影台,http://205.185.123.236:8899/1/now/stream.m3u8
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
@@ -1150,33 +1126,19 @@ ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 星空衛視,http://wouu.net:9977/udp/239.93.0.156:2193
 HOY资讯,https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
-ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
-ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
-ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
-无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83
-ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
-无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
-ViuTV,http://nz171l122.bb60246.ctm.net:8889/bysid/99.m3u8
-无线新闻,http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
-凤凰香港,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK33[853x480],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 翡翠华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB娱乐台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR?IPV4『线路1』
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB千禧台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 亚洲衛視,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$IPV4
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-星爷电影,http://159.75.85.63:35455/huya/11336587
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空衛視,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 亚洲衛視,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
@@ -1190,8 +1152,8 @@ ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 亚洲衛視,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 星空衛視,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空衛視,http://wouu.net:9977/udp/239.93.1.10:2193
-時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
+時尚FTV[800x453],http://80.94.54.42/fashiontv/stream/playlist.m3u8
+海峡两岸[480x270],http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港衛視,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
@@ -1202,78 +1164,18 @@ ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 亚洲衛視,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
 莲花衛視,http://php.jdshipin.com:8880/amlh.php
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-澳门macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-澳視葡文,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
-澳視衛星,http://61.244.22.5/ch3/ch3.live/playelist.m3u8
-澳視资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
-澳視高清,http://61.244.22.5/ch6/hd_ch6.live/playerlist.m3u8
-澳门莲花,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-澳視衛星,http://61.244.22.5/ch3/ch3.live/index.m3u8
-澳視综艺,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
-澳視葡文,http://61.244.22.5/ch2/ch2.live/index.m3u8
-澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-澳視澳门,http://nz171l122.bb60246.ctm.net:8891/bysid/91.m3u8
-澳視葡语,http://nz171l122.bb60246.ctm.net:8891/bysid/92.m3u8
-澳门资讯,http://nz171l122.bb60246.ctm.net:8891/bysid/94.m3u8
-澳门macau,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8
 
 台湾频道,#genre#
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-中天新聞,http://211.72.65.236:8541/.m3u8
-中天新聞,http://ku9.fr.to/smt.php?id=ctinews
-寰宇新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
+中天新闻,http://ku9.fr.to/smt.php?id=ctinews
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://211.72.65.236:8574/.m3u8
 台視新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-年代新闻,http://211.72.65.236:8539/.m3u8
-寰宇新闻,http://211.72.65.236:8547/.m3u8
-東森新闻,http://211.72.65.236:8540/.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-東森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-壹新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
-寰宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-壹新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-東森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
-民視新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-寰宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
-壹新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
-東森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
-壹新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-民視新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
-中視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
-民視新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
-寰宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
-华視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8
-中視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
-民視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8
-YAIWAN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8538/.m3u8
-公視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
 中視新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 東森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-東森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
@@ -1281,23 +1183,18 @@ TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224
 民視新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 台視新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
-中天新闻,http://211.72.65.236:8541/.m3u8
-中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 台視新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 台視新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 民視新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,http://37.27.111.214:8080/live/6/hls.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
 中視,rtmp://f13h.mine.nu/sat/tv091
 华視,rtmp://f13h.mine.nu/sat/tv111
-壹新闻台,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-年代新闻,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 中視新闻,http://37.27.111.214:8080/live/7/hls.m3u8
 华視新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
@@ -1307,63 +1204,6 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
 台視新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 民視新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
-三立新闻,http://211.72.65.236:8543/.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
-纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
-TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
-中天娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-東森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
-纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
-纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
-衛視电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8
-龍華电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8581/.m3u8
-衛視西片,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
-東森超視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
-三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
-三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
-中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-東森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
-年代MUCH,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-東森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-动物星球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8512/.m3u8
-好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
-AMC电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
-HBO,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8
-HBO,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8580/.m3u8
-好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
-AXN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8582/.m3u
-東森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-衛視中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8523/.m3u8
-海峡衛視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8570/.m3u8
-地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8509/.m3u8
-東森超視,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
-动物星球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8512/.m3u8
-中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
-国家地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
-CINEMAX,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8559/.m3u8
-博斯运动1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8
-三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
-纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
-三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
-東森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8
-非凡商业,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8
-八大综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8520/.m3u8
-八大第一,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8519/.m3u8
-亚洲旅游,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8
-中天娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8527/.m3u8
-龍華卡通,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8517/.m3u8
-龍華偶像,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8536/.m3u8
-龍華日韩,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8535/.m3u8
-龍華戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8534/.m3u8
-纬来育乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8584/.m3u8
-東方37台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8528/.m3u8
-STARWORD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8561/.m3u8
 中視,http://37.27.111.214:8080/live/7/hls.m3u8
 大爱1台,http://50.7.234.10:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
 DiscoveryHD,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
@@ -1386,13 +1226,11 @@ DiscoveryHD,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F956098
 八大综合,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
 三立戏剧,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 EYETV戏剧,http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-MTV,http://37.27.111.214:8080/live/25/hls.m3u8
 東森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 民視台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民視第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
 星衛电影,http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
 SunnahHD,http://50.7.234.10:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19249&tsum=a43fbbc6ed6e843b1711624a239c14d1
 BTSports1,http://50.7.234.10:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
 RTHK31,http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
@@ -1419,7 +1257,6 @@ FoxNews,http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290369362
 龍華偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 TVBSNews,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 爱尔达体育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-电影,http://37.27.111.214:8080/live/11/hls.m3u8
 CRIMEINVESTIGATION[854x480],http://37.27.111.214:8080/live/29/hls.m3u8
 東森财经,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
@@ -1435,7 +1272,6 @@ AxnHD,http://50.7.234.10:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=1925
 BBC1,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
 J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 CNBC,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
-三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
 CBSHD,http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -1447,7 +1283,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-华視,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+华視[720x528],http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 龍华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 東森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 東森中国,http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
@@ -1460,15 +1296,13 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 民視新闻,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 民視新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
 中旺电視,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
-八大第一,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8520/.m3u8
 台視新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-大立电視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+动物星球[3840x2160],https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 天良,http://60.248.91.20:8000/main
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
@@ -1476,7 +1310,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 東森超視,rtmp://f13h.mine.nu/sat/tv331
-東森超視,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8 
+東森超視[720x528],http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8 
 東森衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8 
 华視电視,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华視电視,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
@@ -1484,12 +1318,10 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
-华視,http://211.72.65.236:8503/.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中視,http://37.27.111.214:8080/live/7/hls.m3u8
-互动英语,http://37.27.111.214:8080/live/54/hls.m3u8
 亞洲卫視,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 亞洲卫視,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 亞洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1502,12 +1334,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
 博斯运动1,http://37.27.111.214:8080/live/14/hls.m3u8
 博斯高球1,http://37.27.111.214:8080/live/13/hls.m3u8
-幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
-探案台,http://37.27.111.214:8080/live/11/hls.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-民視,http://37.27.111.214:8080/live/6/hls.m3u8
-民視台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-民視第一,http://37.27.111.214:8080/live/4/hls.m3u8
 猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 环球电視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 镜新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -1515,31 +1342,23 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戏剧,http://211.72.65.236:8531/.m3u8
 八大戏剧,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大综合,http://211.72.65.236:8520/.m3u8
 八大综合,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大综合,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
-東森综合,http://211.72.65.236:8524/.m3u8
-東森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR?IPV4『线路2』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR?IPV4『线路3』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR?IPV4『线路9』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR?IPV4『线路10』
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来综合,http://211.72.65.236:8518/.m3u8
 民視,http://37.27.111.214:8080/live/6/hls.m3u8
-中視,http://37.27.111.214:8080/live/7/hls.m3u8
 華視,http://37.27.111.214:8080/live/8/hls.m3u8
-東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+東森超視[720x528],http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+東森美洲[720x528],http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 ELE体育1,rtmp://f13h.mine.nu/sat/tv731
 Mo综合,rtmp://f13h.mine.nu/sat/tv761
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -1552,57 +1371,29 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-民視第一,http://37.27.111.214:8080/live/4/hls.m3u8
-民視台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 龍華电影,http://37.27.111.214:8080/live/19/hls.m3u8
 猪哥亮歌厅,http://37.27.111.214:8080/live/35/hls.m3u8
-幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
-HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
-TiTV原視,http://37.27.111.214:8080/live/2/hls.m3u8
-Nick动画,http://37.27.111.214:8080/live/12/hls.m3u8
-Nick动画,http://37.27.111.214:8080/live/22/hls.m3u8
-MoMo亲子,http://37.27.111.214:8080/live/3/hls.m3u8
 博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
 博斯运动,http://37.27.111.214:8080/live/14/hls.m3u8
-mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
-探案电影,http://37.27.111.214:8080/live/11/hls.m3u8
 CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
 amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 ASC搜索,http://61.221.215.25:8800/hls/50/index.m3u8
 Diso综合,http://61.221.215.25:8800/hls/1/index.m3u8
 momoTV,rtmp://f13h.mine.nu/sat/tv761
-TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
-BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
-DWnews,http://37.27.111.214:8080/live/46/hls.m3u8
-CNBc_英,http://37.27.111.214:8080/live/102/hls.m3u8
-互动英語,http://37.27.111.214:8080/live/54/hls.m3u8
 CINEMAWORLD,http://37.27.111.214:8080/live/30/hls.m3u8
-CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
-DWNEWS,http://37.27.111.214:8080/live/46/hls.m3u8
 Dbox,http://61.221.215.25:8800/hls/54/index.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 LISTENONSPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
-MTV,http://37.27.111.214:8080/live/25/hls.m3u8
-Nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8
-TV5MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
-hokkotv,http://37.27.111.214:8080/live/1/hls.m3u8
-momo,http://37.27.111.214:8080/live/3/hls.m3u8
 nhkworld,http://61.221.215.25:8800/hls/51/index.m3u8
-nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 TRT WORLD,http://61.221.215.25:8800/hls/0/index.m3u8
 kamikochi,http://61.221.215.25:8800/hls/51/index.m3u8
 TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 亞洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亞洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-亞洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 US|AMCWest,http://doubleclicktv.live:80/70376812/52663544/295775
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
@@ -8466,7 +8257,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 无码35,https://askzycdn.com/20240427/GIClQxds/index.m3u8
 无码36,https://askzycdn.com/20240426/7AgXUGLw/index.m3u8
 无码37,https://askzycdn.com/20240426/auCGWKgf/index.m3u8
-无码38,https://askzycdn.com/20240426/co6M4v79/index.m3u8
+无码没38,https://askzycdn.com/20240426/co6M4v79/index.m3u8
 无码39,https://askzycdn.com/20240426/VCfZTRb0/index.m3u8
 无码40,https://askzycdn.com/20240426/VCfZTRb0/index.m3u8
 无码41,https://askzycdn.com/20240422/2mfwdZ6D/index.m3u8
@@ -8487,3 +8278,152 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 无码57,https://askzycdn.com/20240412/igA95LQ1/index.m3u8
 无码58,https://askzycdn.com/20240412/EH62jOFd/index.m3u8
 无码59,https://askzycdn.com/20240412/IWquHK3l/index.m3u8
+
+🔞241205测试,#genre#
+XXX:HUSTLER HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211075
+XXX:DORCEL HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211078
+XXX:VENUS,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211070
+XXX: Penthouse Passion HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224187
+XXX:VIVID TV EUROPE,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211073
+XXX:BRAZZERS TV EUROPE,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211062
+XXX: Emanuelle,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211060
+XXX:RUSSIAN NIGHT,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211080
+XXX: AlbaXXX1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222951
+XXX: PUBLIC AGENT HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/65494
+XXX:EVIL ANGEL TV HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211045
+XXX: Private,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222956
+XXX:REDLIGHT HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211059
+XXX:EROXXX HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211071
+XXX:PINK EROTIC,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211079
+XXX:PINK EROTIC 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211061
+XXX:PINK EROTIC 3,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211064
+XXX:PINK EROTIC 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211082
+XXX:PINK EROTIC 5,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211077
+XXX:PINK EROTIC 7,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/211058
+XXX: VIP Japanese HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/58175
+XXX: Maiden Van Holland HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/58176
+XXX: Hot Deluxe,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/58179
+XXX: Erotic 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/65486
+XXX: Dorcel,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/11392
+XXX: Venus,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/395
+XXX: Private TV,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/1411
+XXX: Hustler HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/1406
+XXX: Interracial,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/102257
+XXX: Amateur,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/57775
+XXX: Public,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/57730
+XXX: Hardcore,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/57729
+XXX: BBW Fat girls,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/57733
+XXX: Lesbian,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/57720
+XXX: Gay,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/57734
+XXX: Trans With Guy,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/57719
+XXX: SIRINA,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/40999
+XXX: SIRINA 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41002
+XXX: SIRINA 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41001
+XXX: SIRINA 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41246
+XXX: SIRINA 5,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41247
+XXX: SIRINA 6,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41536
+XXX: SIRINA 7,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41537
+XXX: BRAZZERS,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41218
+XXX: BRAZZERS 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41220
+XXX: BRAZZERS 3,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/41248
+XXX: Blacked PornBox,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/18790
+XXX | Penthouse Gold HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223041
+XXX | Penthouse Gold HD 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223050
+XXX | Penthouse Gold HD 3,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223051
+XXX | Penthouse Gold HD 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223048
+XXX | Penthouse Gold HD 5,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223047
+XXX | Penthouse Reality TV HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223062
+XXX | Hustler HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223053
+XXX | HUSTLER HD 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223061
+XXX | HUSTLER HD 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223052
+XXX | HUSTLER HD 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223058
+XXX | Redlight HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223064
+XXX | Redlight HD 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223056
+XXX | Redlight HD 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223054
+XXX | Redlight HD 3,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223040
+XXX | Redlight HD 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223045
+XXX | Dorcel XXX HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223043
+XXX | Dorcel HD 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223060
+XXX | Fantazzy TV,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223001
+XXX | Extasy,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223007
+XXX | Eroxxx HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223032
+XXX | Erox HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222991
+XXX | Brazzers TV Europe,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223031
+XXX | XYPlus,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223020
+XXX | Reality Kings,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223010
+XXX | Barely Legal,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222995
+XXX | VIVID,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222992
+XXX | VIVID RED HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223016
+XXX | VIVID RED HD 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223012
+XXX | VIVID RED HD 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223000
+XXX | VIVID RED HD 3,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223003
+XXX | VIVID RED HD 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223024
+XXX | VIVID RED HD 5,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222994
+XXX | Hustler,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222996
+XXX | Blue Hustler,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223025
+XXX | Private TV HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222987
+XXX | Private TV HD 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222998
+XXX | Private TV HD 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223011
+XXX | Private TV HD 3,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222999
+XXX | Private TV HD 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223009
+XXX | Private TV HD 5,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223037
+XXX | Playboy TV HD 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223029
+XXX | Playboy TV HD 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223017
+XXX | Playboy TV HD 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223002
+XXX | Playboy TV HD 5,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223013
+XXX | PASSIONXXX,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223005
+XXX | PASSIONXXX 2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223035
+XXX | PASSIONXXX 5,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222997
+XXX | PassionXXX2,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223004
+XXX | Evil Angel HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223036
+XXX: TRANS ANGELS,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224193
+XXX | MovieStar Planet * HOT 1,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223014
+XXX | MovieStar Planet * HOT 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223030
+XXX | MovieStar Planet * HOT 6,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223033
+XXX | MovieStar Planet * HOT 8 HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223021
+XXX | MovieStar Planet * HOT 9 HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/223023
+XXX: SL Erotic,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224094
+XXX: SL HOT 4,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224087
+XXX: SL Hot 9,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224098
+XXX: Blue TV Erotica,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224099
+XXX: Blue TV Blacked RAW,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224086
+XXX: BlueTV Asian HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224209
+XXX: BlueTV Amateur HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224210
+XXX: BlueTV Big Ass HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224213
+XXX: PORNBOX Massage Rooms,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224199
+XXX: PORNBOX BUMSBUS,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224200
+XXX: PORNBOX THE WHITE BOXXX,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224203
+XXX: Pornbox A girl Knows,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224204
+XXX: PORNBOX Cherry Grace,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224205
+XXX: PORNBOX Pure Matures,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224206
+XXX: PORNBOX CUM 4K,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224207
+XXX: PORNBOX FAMILY SWAP XXX,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224208
+XXX: Bratty Sis,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224101
+XXX: Bam Visions,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224090
+XXX: DDF Network HD,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224189
+XXX: Alex Legend,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224190
+XXX: Cherry Pimps,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224191
+XXX: Nubiles TV,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224192
+XXX: HOT GUYS FUCK,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224195
+XXX: PHubPremium: MOFOS,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224196
+XXX: Banana Fever,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/224197
+XXX: AdultIPTV.net Anal,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222889
+XXX: AdultIPTV.net Big Dick,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222877
+XXX: AdultIPTV.net Big Tits,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222892
+XXX: AdultIPTV.net Blonde,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222879
+XXX: AdultIPTV.net Blowjob,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222884
+XXX: AdultIPTV.net Brunette,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222874
+XXX: AdultIPTV.net Compilation,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222886
+XXX: AdultIPTV.net Cuckold,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222890
+XXX: AdultIPTV.net Fetish,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222887
+XXX: AdultIPTV.net Gangbang,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222894
+XXX: AdultIPTV.net Gay,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222881
+XXX: AdultIPTV.net Hardcore,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222875
+XXX: AdultIPTV.net Latina,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222891
+XXX: AdultIPTV.net Lesbian,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222888
+XXX: AdultIPTV.net MILF,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222880
+XXX: AdultIPTV.net Pornstar,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222876
+XXX: AdultIPTV.net Rough,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222882
+XXX: AdultIPTV.net Russian,http://antoncarpass.com:999/P3LyCcjJHF/TFcPSkniLx/222878
+
+
