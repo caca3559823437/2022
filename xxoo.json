@@ -530,7 +530,7 @@
     },
     {
       "key":"壹伴",
-      "name":"壹伴┃ 秒播",
+      "name":"👽壹伴┃ 秒播",
       "type":3,
       "api":"csp_Xdai",
       "playerType":2,
@@ -538,7 +538,7 @@
     },
     {
       "key":"雨滴",
-      "name":"雨滴┃App",
+      "name":"👽雨滴┃App",
       "type":3,
       "api":"csp_Xdai",
       "playerType":1,
@@ -546,7 +546,7 @@
     },
     {
       "key":"极品",
-      "name":"极品┃App",
+      "name":"👽极品┃App",
       "type":3,
       "api":"csp_Jpys",
       "playerType":1,
@@ -554,7 +554,7 @@
     },
     {
       "key":"优质",
-      "name":"优质┃App",
+      "name":"👽优质┃App",
       "type":3,
       "api":"csp_Xdai",
       "playerType":1,
@@ -562,11 +562,104 @@
     },
     {
       "key":"凯旋",
-      "name":"凯旋┃App",
+      "name":"👽凯旋┃App",
       "type":3,
       "api":"csp_Xdai",
       "playerType":1,
       "ext":"caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
+    },
+    {
+      "key":"强大",
+      "name":"👽强大┃秒播",
+      "type":3,
+      "api":"csp_Frong",
+      "playerType":2,
+      "ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
+    },
+    {
+      "key":"雷电",
+      "name":"👽雷电┃4K",
+      "type":3,
+      "api":"csp_Slys",
+      "playerType":1,
+      "ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+    },
+    {
+      "key":"柠檬",
+      "name":"👽柠檬┃4K",
+      "type":3,
+      "api":"csp_Nmvod",
+      "playerType":2,
+      "ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
+      "key":"Dygang",
+      "name":"👽电影港『边下边播』",
+      "type":3,
+      "api":"csp_Dygang"
+    },
+    {
+      "key":"NoSearch_csp_DiDuan",
+      "name":"👽低端┃无搜索",
+      "type":3,
+      "api":"csp_Ddrk",
+      "searchable":1,
+      "playerType":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
+      "key":"360_spider",
+      "name":"👽360┃解析",
+      "api":"csp_SP360",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+      "playerType":2,
+      "ext":""
+    },
+    {
+      "key":"ZXZJ",
+      "name":"👽在线┃直连",
+      "api":"csp_Zxzj",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+      "playerType":2,
+      "ext":""
+    },
+    {
+      "key":"csp_CZSPP",
+      "name":"👽厂长┃直连",
+      "type":3,
+      "api":"csp_Czsapp",
+      "searchable":1,
+      "playerType":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"maHR0cHM6Ly9jenp5LnRvcC8="
+    },
+    {
+      "key":"csp_Auete",
+      "name":"👽Auete┃无搜索",
+      "type":3,
+      "api":"csp_Auete",
+      "searchable":1,
+      "playerType":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"NoSearch_csp_BBB",
+      "name":"👽哔哩哔哩",
+      "type":3,
+      "api":"csp_Bili",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
     },
     {
       "key": "JS哔哩直播",
