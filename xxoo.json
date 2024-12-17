@@ -6,7 +6,7 @@
     {
       "name": "自己建—01",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -14,7 +14,7 @@
     {
       "name": "18+Live",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/color4-av-time.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ctsfork/web/main/iptv/color4-av-time.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     }
