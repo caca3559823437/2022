@@ -54,7 +54,7 @@
             "name": "😺 青木"
         }, 
 {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
+            "url": "https://cdn.jsdelivr.net/gh/caca3559823437/2022@main/xxoo.json",
             "name": "🔞激情壹线"
         }
     ]
