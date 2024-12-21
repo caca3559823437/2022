@@ -938,6 +938,32 @@ ICS,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
 浙江频道,#genre#
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -947,6 +973,35 @@ ICS,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江衛視,http://60.178.149.113:4022/udp/233.50.201.100:5140
+浙江钱江,http://60.178.149.113:4022/udp/233.50.201.132:5140
+浙江经济,http://60.178.149.113:4022/udp/233.50.201.133:5140
+浙江教育,http://60.178.149.113:4022/udp/233.50.201.134:5140
+浙江新闻,http://60.178.149.113:4022/udp/233.50.201.137:5140
+浙江民生,http://60.178.149.113:4022/udp/233.50.201.136:5140
+浙江少儿,http://60.178.149.113:4022/udp/233.50.201.138:5140
+之江纪录,http://60.178.149.113:4022/udp/233.50.202.25:5140
+杭州综合,http://60.178.149.113:4022/udp/233.50.201.173:5140
+杭州明珠,http://60.178.149.113:4022/udp/233.50.201.174:5140
+杭州生活,http://60.178.149.113:4022/udp/233.50.201.175:5140
+杭州影视,http://60.178.149.113:4022/udp/233.50.201.176:5140
+杭州青少,http://60.178.149.113:4022/udp/233.50.201.177:5140
+杭州导视,http://60.178.149.113:4022/udp/233.50.201.182:5140
+宁波综合,http://60.178.149.113:4022/udp/233.50.201.168:5140
+宁波生活,http://60.178.149.113:4022/udp/233.50.201.178:5140
+宁波文体,http://60.178.149.113:4022/udp/233.50.201.179:5140
+宁波影视,http://60.178.149.113:4022/udp/233.50.201.180:5140
+宁波少儿,http://60.178.149.113:4022/udp/233.50.201.181:5140
+温州新闻,http://60.178.149.113:4022/udp/233.50.201.87:5140
+绍兴新闻,http://60.178.149.113:4022/udp/233.50.201.156:5140
+衢州新闻,http://60.178.149.113:4022/udp/233.50.201.155:5140
+衢州公共,http://60.178.149.113:4022/udp/233.50.202.12:5140
+台州新闻,http://60.178.149.113:4022/udp/233.50.201.157:5140
+湖州新闻,http://60.178.149.113:4022/udp/233.50.201.158:5140
+金华新闻,http://60.178.149.113:4022/udp/233.50.201.161:5140
+丽水新闻,http://60.178.149.113:4022/udp/233.50.201.162:5140
+嘉兴新闻,http://60.178.149.113:4022/udp/233.50.201.163:5140
+桐乡新闻,http://60.178.149.113:4022/udp/233.50.201.169:5140
 杭州综合,http://nas.mfparking.com:4022/udp/233.50.201.173:5140
 杭州明珠,http://nas.mfparking.com:4022/udp/233.50.201.174:5140
 杭州生活,http://nas.mfparking.com:4022/udp/233.50.201.176:5140
@@ -1049,7 +1104,6 @@ Now爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 新視觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 凤凰電影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
-TVB AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 星空衛視,http://wouu.net:9977/udp/239.93.0.156:2193
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
@@ -1101,34 +1155,6 @@ TVB千禧台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 环球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
-凤凰衛視,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-TVB千禧台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-TVB娛乐台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-TVB星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-viutv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 凤凰衛視,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰衛視,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
@@ -1574,18 +1600,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761#rtmp://f13h.mine.nu/sat/tv761
 纬来日本,rtmp://f13h.mine.nu/sat/tv771#rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701#rtmp://f13h.mine.nu/sat/tv701
 中天娛乐,http://61.221.215.25:8800/hls/47/index.m3u8
-泰國購物,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-東方国际,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-國家地理,http://aktv.top/AKTV/live/aktv3/lovenature/AKTV.m3u8
-channelu,http://aktv.top/AKTV/live/aktv/channelu/AKTV.m3u8
-channel5,http://aktv.top/AKTV/live/aktv/channel5/AKTV.m3u8
-channel8,http://aktv.top/AKTV/live/aktv/channel8/AKTV.m3u8
-rock影综,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-Nick综合,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Nick卡通,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-AniMAX,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 http://61.221.215.25:8800/hls/40/index.m3u8 
 http://61.221.215.25:8800/hls/43/index.m3u8 
@@ -1596,10 +1610,6 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 八大第一,http://www.zzrs888.top/tw5.php?id=八大第一 
 八大综合,http://www.zzrs888.top/tw5.php?id=八大综合 
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8 
-SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8 
-Now星影台,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8 
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8 
-千禧经典,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8 
 中視菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064 
 中視经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080 
 台視財經,http://litv.zapi.us.kg/?id=4gtv-4gtv056 
@@ -1757,519 +1767,80 @@ Dbox,http://61.221.215.25:8800/hls/54/index.m3u8
 TRT WORLD,http://61.221.215.25:8800/hls/0/index.m3u8
 TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-港台测试,#genre#
-J2(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_hkdavid
-J2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn&sp=chaojidianshi
-RHK 31,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn&sp=chaojidianshi
-RHK 32,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn&sp=chaojidianshi
-TVB 星河,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbxinhe_twn&sp=chaojidianshi
-VIUTV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn&sp=chaojidianshi
-Viu TV 69,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viutv69_hkdavid
-Viu6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn&sp=chaojidianshi
-iNews 新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn&sp=chaojidianshi
-無線財經資訊台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbcaijing_twn&sp=chaojidianshi
-珍珠台(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_hkdavid
-珍珠台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_twn&sp=chaojidianshi
-翡翠台(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_mike
-翡翠台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn&sp=chaojidianshi
-鳳凰衛視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd
-鳳凰資訊,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixinfo_hd
-鳳凰香港,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hkphoenix_twn&sp=chaojidianshi
-TVBS HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVBS&sp=chaojidianshi
-TVBS新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVBS_n&sp=chaojidianshi
-中天新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
-寰宇新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
-寰宇財經,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyutaiwan_twn&sp=chaojidianshi
-年代新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn&sp=chaojidianshi
-東森新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
-公視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
-民視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
-民視第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi&sp=chaojidianshi
-民視台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn&sp=chaojidianshi&sp=chaojidianshi
-民視新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan
-台視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttv_taiwan	
-台視新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
-中視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
-中視新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
-中視经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn&sp=chaojidianshi
-華視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
-非凡新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn&sp=chaojidianshi
-AXN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi&sp=chaojidianshi
-CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi&sp=chaojidianshi
-HBO,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd_twn&sp=chaojidianshi&sp=chaojidianshi
-HBO Family,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn&sp=chaojidianshi&sp=chaojidianshi
-龍祥時代,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn&sp=chaojidianshi
-龍華偶像,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn&sp=chaojidianshi
-龍華戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn&sp=chaojidianshi
-龍華洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi
-龍華经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
-龍華電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie
-好萊塢電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn&sp=chaojidianshi&sp=chaojidianshi
-東森戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvdrama
-東森洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern
-東森综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe
-東森財經,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn&sp=chaojidianshi
-東森電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
-纬来日本,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
-纬来体育,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandsport
-美亞電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn&sp=chaojidianshi
-AXN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi&sp=chaojidianshi
-CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi&sp=chaojidianshi
-EYE戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn&sp=chaojidianshi&sp=chaojidianshi
-EYE旅遊,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn&sp=chaojidianshi&sp=chaojidianshi
-HBO,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd_twn&sp=chaojidianshi&sp=chaojidianshi
-HBO Family,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn&sp=chaojidianshi&sp=chaojidianshi
-好萊塢電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn&sp=chaojidianshi&sp=chaojidianshi
-MTV Live,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mtvhd_twn&sp=chaojidianshi&sp=chaojidianshi
-TLC旅遊生活,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tlc_twn&sp=chaojidianshi&sp=chaojidianshi
-東森新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
-TVBS HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVBS&sp=chaojidianshi
-TVBS新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVBS_n&sp=chaojidianshi
-TVBS欢乐台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVBShuanle_twn&sp=chaojidianshi&sp=chaojidianshi
-三立台湾台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan&sp=chaojidianshi
-三立戏剧台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn&sp=chaojidianshi&sp=chaojidianshi
-三立综合台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe&sp=chaojidianshi
-中天亞洲台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn&sp=chaojidianshi&sp=chaojidianshi
-中天娱乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient&sp=chaojidianshi
-中天新聞HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
-中天综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe&sp=chaojidianshi
-亞洲旅遊台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn&sp=chaojidianshi&sp=chaojidianshi
-亞洲美食,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=afc_twn&sp=chaojidianshi&sp=chaojidianshi
-八大戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama&sp=chaojidianshi
-八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst&sp=chaojidianshi
-八大综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe&sp=chaojidianshi
-公視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
-民視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
-民視第一台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi&sp=chaojidianshi
-民視台湾台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn&sp=chaojidianshi&sp=chaojidianshi
-民視新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan
-台視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttv_taiwan	
-台視新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
-中視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
-中視新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
-中視经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn&sp=chaojidianshi
-華視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
-華藝综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn&sp=chaojidianshi
-大愛一台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=daai_twn&sp=chaojidianshi
-寰宇新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
-寰宇財經台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyutaiwan_twn&sp=chaojidianshi
-年代新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn&sp=chaojidianshi
-愛爾達影劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltayingju_twn&sp=chaojidianshi
-愛爾達体育 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn&sp=chaojidianshi
-愛爾達体育 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn&sp=chaojidianshi
-愛爾達体育 3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport3_twn&sp=chaojidianshi
-ELEVEN 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn&sp=chaojidianshi
-博斯網球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn&sp=chaojidianshi
-博斯運動1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn&sp=chaojidianshi
-博斯運動2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn&sp=chaojidianshi
-博斯高球1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn&sp=chaojidianshi
-博斯高球2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf2_twn&sp=chaojidianshi
-探索亞洲,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn&sp=chaojidianshi_twn&sp=chaojidianshi
-探索動力,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryturbo_twn&sp=chaojidianshi
-國家地理,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeohd_twn&sp=chaojidianshi
-野生動物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowild_twn&sp=chaojidianshi
-動物星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn&sp=chaojidianshi
-時尚,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn&sp=chaojidianshi
-Discovery Asia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn&sp=chaojidianshi_twn&sp=chaojidianshi
-Discovery HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn&sp=chaojidianshi
-東森戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvdrama
-東森洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern
-東森综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe
-東森財經新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn&sp=chaojidianshi
-東森電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
-纬来日本台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
-纬来体育台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandsport
-美亞電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn&sp=chaojidianshi
-BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
-Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
-Fox News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn&sp=chaojidianshi
-阿里郎,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn&sp=chaojidianshi
-CN卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn&sp=chaojidianshi
-靖天卡通台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
-靖天国际台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn&sp=chaojidianshi
-非凡新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn&sp=chaojidianshi
-龍祥時代,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn&sp=chaojidianshi
-龍華偶像,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn&sp=chaojidianshi
-龍華戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn&sp=chaojidianshi
-龍華洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi
-龍華经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
-龍華電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie
-MTV Live,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mtvhd_twn&sp=chaojidianshi&sp=chaojidianshi
-TLC旅遊生活,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tlc_twn&sp=chaojidianshi&sp=chaojidianshi
-EYE戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn&sp=chaojidianshi&sp=chaojidianshi
-EYE旅遊,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn&sp=chaojidianshi&sp=chaojidianshi
-TVBS欢乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVBShuanle_twn&sp=chaojidianshi&sp=chaojidianshi
-三立台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan&sp=chaojidianshi
-三立戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn&sp=chaojidianshi&sp=chaojidianshi
-三立综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe&sp=chaojidianshi
-中天亞洲,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn&sp=chaojidianshi&sp=chaojidianshi
-中天娱乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient&sp=chaojidianshi
-中天综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe&sp=chaojidianshi
-亞洲旅遊,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn&sp=chaojidianshi&sp=chaojidianshi
-亞洲美食,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=afc_twn&sp=chaojidianshi&sp=chaojidianshi
-八大戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama&sp=chaojidianshi
-八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst&sp=chaojidianshi
-八大综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe&sp=chaojidianshi
-華藝综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn&sp=chaojidianshi
-大愛一台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=daai_twn&sp=chaojidianshi
-愛爾達影劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltayingju_twn&sp=chaojidianshi
-愛爾達体育 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn&sp=chaojidianshi
-愛爾達体育 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn&sp=chaojidianshi
-愛爾達体育 3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport3_twn&sp=chaojidianshi
-ELEVEN 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn&sp=chaojidianshi
-博斯網球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn&sp=chaojidianshi
-博斯運動1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn&sp=chaojidianshi
-博斯運動2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn&sp=chaojidianshi
-博斯高球1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn&sp=chaojidianshi
-博斯高球2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf2_twn&sp=chaojidianshi
-探索亞洲,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn&sp=chaojidianshi_twn&sp=chaojidianshi
-探索動力,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryturbo_twn&sp=chaojidianshi
-國家地理,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeohd_twn&sp=chaojidianshi
-野生動物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowild_twn&sp=chaojidianshi
-動物星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn&sp=chaojidianshi
-時尚,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn&sp=chaojidianshi
-Discovery Asia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn&sp=chaojidianshi_twn&sp=chaojidianshi
-Discovery HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn&sp=chaojidianshi
-BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
-Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
-Fox News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn&sp=chaojidianshi
-阿里郎,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn&sp=chaojidianshi
-CN卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn&sp=chaojidianshi
-靖天卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
-靖天国际,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn&sp=chaojidianshi
-AXN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi
-Animax,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Animax
-Astrol Kplus,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Kplus
-Axn HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn
-CCTV-6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cctv6
-CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi
-Celestial Classic,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial2
-Celestial Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestialindo
-Cinemax,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cinemax
-HBO Family,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbofamily
-HBO HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbo
-HBO Hits,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbohits
-HBO Signature,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbosignature
-HBO_HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd_twn&sp=chaojidianshi
-HBO_HITS,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohits_twn&sp=chaojidianshi
-Hits Movie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hitsmovie
-Hits,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hits
-Hollywood Movies,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn&sp=chaojidianshi
-Movies Now HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=moviesnow_raj
-One,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One_mega
-Paramount Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Paramountnetwork
-Rock Actions,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockaction
-Rock Entertainment,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockentertain
-SCM,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Weishimovie
-Sony Pix HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sonypix_mega
-Star Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starmovies_raj
-Thrill,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Thrill
-Warner TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=WarnerTV
-tvN Movie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie
-大愛2台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=catchplay_twn&sp=chaojidianshi
-龍華電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie
-東森洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern
-東森電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
-美亞電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn&sp=chaojidianshi
-龍華洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi
-龍祥时代,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn&sp=chaojidianshi
-
-TV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV1
-TV1(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV1_backup
-TV2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV2
-TV3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV3
-TV3(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tv3_twn&sp=chaojidianshi
-NTV7,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=NTV7
-TV8,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV8
-TV9,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV9
-Warna,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Warna-O
-Warna(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Warna
-Ria,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ria-0
-Ria(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ria49
-Ria-3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ria_quanjia
-Al-Hijrah,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Alhijrah
-Al-Hijrah(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Alhijrah_backup
-Awani,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Awani
-Bernama,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bernama
-Prima,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Prima-0
-Prima(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Prima49
-Ceria,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ceria
-Astro MTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AstroMTV
-Mecca Live HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=quran_mido
-Madinah HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunnah_mido
-Oasis,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Oasis
-HBO HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbo
-HBO Signature,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbosignature
-HBO Hits,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbohits
-NatGeo Wild HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Natgeowild
-Cartoon Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cn
-Nickelodeon,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickelodeon
-Nick Jr,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickjr
-Citra,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Citra
-Sensasi,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sensasi
-Aura,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Aura
-Rania,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rania
-Boo,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Boo
-Awesome TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Awesome_mega
-Sony HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=SetOne
-KBS World,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=KBS
-TvN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVN
-Astro Premier,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Astropremier
-AEC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AEC
-華麗台 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt
-歡喜台 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Huahee
-歡喜台(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Huahee_backup
-Astro QJ,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Quanjia
-TVB Jade,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbjade
-TVBS Asia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbasia
-TVB Entertainment,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbentertainment
-TVB Classic,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbclassic
-AOD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AodHD
-One,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One_mega
-TVB 星河台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
-愛奇藝,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Qiyi
-Animal Planet (Eng),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AnimalPlanet
-tvN Movie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie
-CNN(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnn_twn&sp=chaojidianshi
-Celestial Classic,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial2
-CNBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnbc_twn&sp=chaojidianshi
-RTM Sports HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rtmsport
-TLC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc
-CNA,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna
-AFC 亞洲旅遊台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn&sp=chaojidianshi
-BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
-Foodnetwork Hd,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Foodnetwork_mega
-HGTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=HGTV
-Arena,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Arena
-Goshop,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Goshop
-Celestial Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial_mega
-Arena 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Arena2
-Axn HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn
-Paramount Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Paramountnetwork
-BolaArena 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bolaarena1
-Astrol Kplus,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Kplus
-Rock Actions,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockaction
-Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
-Al-Jazeera,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=aljazeera_twn&sp=chaojidianshi
-Rock Entertainment,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockentertain
-Showcase,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Showcase_mega
-BolaArena 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bolaarena2
-
-日本频道,#genre#
-BS-TBS,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bstbs_japan
-BSジャパン 181,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bs181_japan
-BSフジ BS Fuji,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bsfuji_japan
-CNA Japan,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna_japan
-JET 综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jettv_japan
-NHK Oaska,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkosaka_japan
-NHK World,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkworld_japan
-NHK-E,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhke_japan
-NHK-総合-2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkg_japan
-NHKBS1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkbs1_japan
-NHKBSプレミア Premium,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkpremium_japan
-TOKYOMX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tokyomx_japan
-テレビ朝日 Asahi TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asahitv_japan
-テレビ東京 Tokyo TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=一tokyotv_japan
-TokyoMX1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-TokyoMX2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-MXLive,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日韩频道,#genre#
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 ShopChannel,https://stream3.shopch.jp/HLS/master.m3u8
-Jsport,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 日本購物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 日本購物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本購物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+QVC[720x404],http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0 
-BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0 
-BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0 
-BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0 
-BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0 
-BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0 
-J,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0 
-NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0 
-TOKYO,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0 
-NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スターチャンネル2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NEWS 24H,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 QVC[720x404],http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-日本QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本QVC Japan[720x404],http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-キッズsuteショn,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
-ゴルufネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
 WOWOWraibu,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 suターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネル银河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-歌谣ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テreneNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-时代剧専门チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSanimakkusu,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-SHOPCHANNEL[1920x1080],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-cs10,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-cs11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-cs12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-cs14,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-cs15,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-cs16,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-cs17,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-cd18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-cs19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-cs20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-cs22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-cs23,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-cs24,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-cs26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-cs29,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-gx01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-gx02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-gx03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-gx04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-gx05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-BS18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-BS19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-BS20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-BS21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-BS22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-BS25,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-BS26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-CS01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-CS02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-CS03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-CS04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-CS05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-CS06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-CS07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-CS08,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-CS09,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-CS10,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-CS11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-CS12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-CS13,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-CS14,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-CS15,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-CS16,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-CS17,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-CD18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-CS19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-CS20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-CS21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本新闻,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
+Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio - 日语流行,http://jpop.bigbradio.net/s
+Big B Radio - 亞洲流行,http://apop.bigbradio.net/s
+Big B Radio - 中文流行,http://cpop.bigbradio.net/s
+QVC[720x404],http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+SHOPCHANNEL,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-韩国频道,#genre#
-All the Kpop,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=allthekpop_korea
-Apps TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=appongoogle_korea
-Arirang HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_korea
-CBS,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbs_korea
-CGNTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cgntv_korea
-EBS 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ebs1_korea
-EBS Kids,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ebskids_korea
-EBS Plus2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ebsplus2_korea
-EBS2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ebs2_korea
-J the Kpop,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jthekpop_korea
-KBS World 24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=kbsworld24_korea
-SBS Plus,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sbsplus_korea
-YTN DMB,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ytndmb_korea
-YTN Korean,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ytnkorean_korea
-YTN Science,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ytnscience_korea
-YTN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ytn_korea
-Yonhap News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=yonhapnews_korea
 SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-KNNSBS综藝,http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w762151441.m3u8
 KBCSBS综藝,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 TJBSBS综藝,http://1.245.74.5:1935/live/tv/.m3u8
 MBC综藝頻道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-NBS農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 EBS第一頻道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 EBS第二頻道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 EBS加一頻道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 EBS加二頻道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 韩國EBS兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-朝鮮中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩國阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-LuxuryWorld,http://nano.teleservice.su:8080/hls/luxury.m3u8
-韩國KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
-BBS불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-Korea:arirang1,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-Korea:arirang3,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-Arirang(KR)(Opt-2),http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
-ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-「韩国」BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-「韩国」EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-「韩国」EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-「韩国」EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-「韩国」EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-「韩国」EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-「韩国」EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-「韩国」EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-「韩国」KBC | SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-「韩国」CJB | SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-「韩国」MBC UHD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-「韩国」NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-「韩国」TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
-「韩国」KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-「韩国」Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-「韩国」tvN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
-「韩国」tvN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-「韩国」tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
-「韩国」tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
-「韩国」tvN asia,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+BBS????,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+????,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+KBC | SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+CJB | SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
+tvN asia[426x240],https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-Mubeat,https://stream.ads.ottera.tv/playlist.m3u8network_id=711
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
-JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 TJBSBS,http://1.245.74.5:1935/live/tv/.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 韩TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
-JEJUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+JEJUMBC[640x352],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 BBSTV,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-TV,https://stream.ads.ottera.tv/playlist.m3u8network_id=595
-TV1,https://stream.ads.ottera.tv/playlist.m3u8network_id=743
-TV3,https://stream.ads.ottera.tv/playlist.m3u8network_id=630
-TV5,https://stream.ads.ottera.tv/playlist.m3u8network_id=742
 EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-TVNASIA,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-BBSBUDDHIST,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 EBSE,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
@@ -2284,25 +1855,15 @@ CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 TJB|SBS,http://1.245.74.5:1935/live/tv/.m3u8
 KBSLIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-MUBEAT,https://stream.ads.ottera.tv/playlist.m3u8network_id=711
-JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 KOREATV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 韩TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 BBSTV,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-TV,https://stream.ads.ottera.tv/playlist.m3u8network_id=595
-TV1,https://stream.ads.ottera.tv/playlist.m3u8network_id=743
-TV3,https://stream.ads.ottera.tv/playlist.m3u8network_id=630
-TV5,https://stream.ads.ottera.tv/playlist.m3u8network_id=742
 EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 KBSWORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-TBSSEOUL,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 KBSWORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 CJB(5G专线),http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
-JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 KBCTV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
 KBCTV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 KBSDrama,http://mytv.dothome.co.kr/ch/catv/2.php
@@ -2311,10 +1872,7 @@ KBSLIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBSStory,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 MagicHorror,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18068/index.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
@@ -2323,28 +1881,22 @@ TJB-SBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
 韩TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-JEJUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+JEJUMBC[640x352],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 CJMBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 韩,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-韩Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-Mubeat,https://stream.ads.ottera.tv/playlist.m3u8network_id=711
 BBSTV,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 NBS韩,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
 KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
@@ -2352,71 +1904,41 @@ KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
 CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 TJBSBS,http://1.245.74.5:1935/live/tv/.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 BTN,http://btn.Nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
 韩TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-JEJUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+JEJUMBC[640x352],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 CJMBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 韩,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-韩Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-Mubeat,https://stream.ads.ottera.tv/playlist.m3u8network_id=711
 BBSTV,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 NBS韩,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-TV,https://stream.ads.ottera.tv/playlist.m3u8network_id=595
-TV1,https://stream.ads.ottera.tv/playlist.m3u8network_id=743
-TV3,https://stream.ads.ottera.tv/playlist.m3u8network_id=630
-TV5,https://stream.ads.ottera.tv/playlist.m3u8network_id=742
 MBC[640x352],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 CTS 基督教韩TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8zshijd
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8zshijd
-EBS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8zshijd
 GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 Gugak TV,http://mgugaklive.Nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
-KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
 KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
-KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 韩国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-日本新闻,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
-Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
-Big B Radio - 日语流行,http://jpop.bigbradio.net/s
-Big B Radio - 亞洲流行,http://apop.bigbradio.net/s
-Big B Radio - 中文流行,http://cpop.bigbradio.net/s
-朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 Big Radio,https://stream.hndt.com/live/gudian/playlist.m3u8
 
@@ -2461,70 +1983,6 @@ HBtv老挝,http://hikvision.city:880/HBTV.m3u8
 Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-ABC News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=abcnews_glo
-Al-Jazeera,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=aljazeera_twn&sp=chaojidianshi
-BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bbcnews
-BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
-Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
-CBS HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbshd_glo
-CBSN HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbsn_glo
-CGTN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=CGTN
-CNA,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna
-CNBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnbc_twn&sp=chaojidianshi
-CNN International,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cnn
-CNN(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnn_twn&sp=chaojidianshi
-DW (Deutsch),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=dw_twn&sp=chaojidianshi
-Fox News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn&sp=chaojidianshi
-France 24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=france24_twn&sp=chaojidianshi
-NHK World,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkworld_japan
-Skynews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=skynews_antik
-Al-Jazeera,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=aljazeera_twn&sp=chaojidianshi
-Animal Planet (Eng),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AnimalPlanet
-Axn HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn
-BBC 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc1_antik
-BBC 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc2_antik
-BBC Earth HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearth_twn&sp=chaojidianshi
-BBC Earth Lifestyle,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbclifestyle_twn&sp=chaojidianshi
-BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcworldnews_antik
-Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
-Boomerang,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Boomerang
-CBBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbbc_antik
-CBeebies,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cbeebies
-CGTN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=CGTN
-CNBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnbc_twn&sp=chaojidianshi
-Channel 4,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=channel4_antik
-DW (Deutsch),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=dw_twn&sp=chaojidianshi
-Euronews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=euronews_antik
-France 24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=france24_twn&sp=chaojidianshi
-Freesports,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=freesports_antik
-HBO HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbo
-HGTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=HGTV
-History,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=History
-Hits Movie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hitsmovie
-Kids TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=KidsTV
-MTV Live,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mtvhd_twn&sp=chaojidianshi
-More4,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=more4_antik
-NHK World,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nhkworld_japan
-NatGeo HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Natgeo
-NatGeo Wild HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Natgeowild
-Nick Jr,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickjr
-Nickelodeon,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickelodeon
-Pick TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=picktv_antik
-Skynews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=skynews_antik
-Skysports Arena,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongarena
-Skysports Cricket,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongcricket
-Skysports EPL,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongepl
-Skysports F1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongf1
-Skysports Football,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongfootball
-Skysports Golf,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankonggolf
-Skysports Main Event,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongmain
-Skysports News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tiankongnews
-Star Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starmovies_raj
-TLC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc
-Thrill,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Thrill
-Warner TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=WarnerTV
-itv 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=itv1_antik
-itv 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=itv2_antik
 BBC AMERICA,http://doubleclicktv.live:80/70376812/52663544/1066
 BBC AMERICA,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/1092/index.m3u8
 BBC BRIT,https://cdn-nvm-london.lolokoko.tv/BBCBRITPOLSKA.stream/playlist.m3u8
@@ -2779,6 +2237,61 @@ NewTv精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 滨海影視,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 
 斗鱼電影,#genre#
+漫威影院,http://120.77.28.4:8648/douyu.php?id=6140589
+邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
+凌儿影院,http://120.77.28.4:8648/douyu.php?id=1377142
+特辑影院,http://120.77.28.4:8648/douyu.php?id=3637778
+高分影院,http://120.77.28.4:8648/douyu.php?id=7254536
+童年影院,http://120.77.28.4:8648/douyu.php?id=2935323
+奶虫影院,http://120.77.28.4:8648/douyu.php?id=263824
+粤语影院,http://120.77.28.4:8648/douyu.php?id=6566671
+蚂蚱影院,http://120.77.28.4:8648/douyu.php?id=6079455
+圆子影院,http://120.77.28.4:8648/douyu.php?id=6566658
+动作影院,http://120.77.28.4:8648/douyu.php?id=122402
+喜剧影院,http://120.77.28.4:8648/douyu.php?id=323876
+刀刀影院,http://120.77.28.4:8648/douyu.php?id=747764
+怡寶影视,http://120.77.28.4:8648/douyu.php?id=434971
+芊珏影视,http://120.77.28.4:8648/douyu.php?id=8814650
+华强影视,http://120.77.28.4:8648/douyu.php?id=9650792
+华语影视,http://120.77.28.4:8648/douyu.php?id=3928
+可乐影视,http://120.77.28.4:8648/douyu.php?id=20415
+冰冰影视,http://120.77.28.4:8648/douyu.php?id=74374
+小寶影视,http://120.77.28.4:8648/douyu.php?id=434971
+小宇影视,http://120.77.28.4:8648/douyu.php?id=323876
+贝爷壹厅,http://120.77.28.4:8648/douyu.php?id=252802
+贝爷贰厅,http://120.77.28.4:8648/douyu.php?id=4332
+贝爷叁厅,http://120.77.28.4:8648/douyu.php?id=36337
+下饭神剧,http://120.77.28.4:8648/douyu.php?id=276200
+武侠神剧,http://120.77.28.4:8648/douyu.php?id=338759
+热门港剧,http://120.77.28.4:8648/douyu.php?id=5522351
+人气港剧,http://120.77.28.4:8648/douyu.php?id=5261342
+神乐影剧,http://120.77.28.4:8648/douyu.php?id=122402
+经典剧场,http://120.77.28.4:8648/douyu.php?id=6863367
+三国剧场,http://120.77.28.4:8648/douyu.php?id=2838296
+恐怖鬼怪,http://120.77.28.4:8648/douyu.php?id=1165374
+欢乐综艺,http://120.77.28.4:8648/douyu.php?id=131977
+万合出品,http://120.77.28.4:8648/douyu.php?id=9220456
+吃米滴虫,http://120.77.28.4:8648/douyu.php?id=315457
+西游记续,http://120.77.28.4:8648/douyu.php?id=3113309
+欧美影院,http://120.77.28.4:8648/douyu.php?id=508118
+瑶瑶恐怖,http://120.77.28.4:8648/douyu.php?id=2935323
+小黛兮影,http://120.77.28.4:8648/douyu.php?id=11553944
+萌小鬼片,http://120.77.28.4:8648/douyu.php?id=3928
+恐怖惊悚,http://120.77.28.4:8648/douyu.php?id=96577
+豆瓣高分,http://120.77.28.4:8648/douyu.php?id=8770422
+花卷陪看,http://120.77.28.4:8648/douyu.php?id=52787
+霍格沃茨,http://120.77.28.4:8648/douyu.php?id=8814650
+鱼宝恐怖,http://120.77.28.4:8648/douyu.php?id=1165374
+鬼片恐怖,http://120.77.28.4:8648/douyu.php?id=2935323
+小优鬼片,http://120.77.28.4:8648/douyu.php?id=96577
+变种人片,http://120.77.28.4:8648/douyu.php?id=9651304
+女神电影,http://120.77.28.4:8648/douyu.php?id=747764
+欧美大片,http://120.77.28.4:8648/douyu.php?id=2793084
+刘华强集,http://120.77.28.4:8648/douyu.php?id=2726977
+古装喜剧,http://120.77.28.4:8648/douyu.php?id=431460
+国产影片,http://120.77.28.4:8648/douyu.php?id=5423
+港剧天地,http://120.77.28.4:8648/douyu.php?id=4290711
+华语经典,http://120.77.28.4:8648/douyu.php?id=434971
 電影轮播1,http://zby.xjqxz.top/live11/live.m3u8 
 電影轮播2,http://zby.xjqxz.top/live13/live.m3u8 
 電影轮播3,http://zby.xjqxz.top/live7/live.m3u8 
@@ -2808,6 +2321,44 @@ NewTv精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 凛冬之地,http://jiaojirentv.top/2020/dy.php?id=8945323
 二战纪实,http://jiaojirentv.top/2020/dy.php?id=454867
 港剧直播,http://jiaojirentv.top/2020/dy.php?id=4549169
+贝爷電影,http://lxajh.top/tv/douyu.php?id=36337
+鱼宝好困,http://lxajh.top/tv/douyu.php?id=1165374
+漫威影片,http://lxajh.top/tv/douyu.php?id=6140589
+豆瓣高分,http://lxajh.top/tv/douyu.php?id=8770422
+恐怖惊悚,http://lxajh.top/tv/douyu.php?id=2935323
+惊悚电影,http://zzy789.xyz/douyu1.php?id=96577
+粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
+华语影视,http://zzy789.xyz/douyu1.php?id=3928
+冰冰影厅,http://zzy789.xyz/douyu1.php?id=74374
+刀刀影院,http://zzy789.xyz/douyu1.php?id=747764
+奶虫影院,http://zzy789.xyz/douyu1.php?id=263824
+贝爷壹厅,http://zzy789.xyz/douyu1.php?id=252802
+贝爷贰厅,http://zzy789.xyz/douyu1.php?id=4332
+贝爷叁厅,http://zzy789.xyz/douyu1.php?id=36337
+凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
+橙記港剧,http://zzy789.xyz/douyu1.php?id=4549169
+古装神剧,http://zzy789.xyz/douyu1.php?id=338759
+酒染影视,http://zzy789.xyz/douyu1.php?id=7550220
+芊珏影视,http://zzy789.xyz/douyu1.php?id=8814650
+热门港剧,http://zzy789.xyz/douyu1.php?id=5522351
+国产剧集,http://zzy789.xyz/douyu1.php?id=8157860
+国产剧场,http://zzy789.xyz/douyu1.php?id=308752
+经典剧集,http://zzy789.xyz/douyu1.php?id=6863367
+李卫当官,http://zzy789.xyz/douyu1.php?id=7473576
+雍正帝王,http://zzy789.xyz/douyu1.php?id=9650836
+电视剧①,http://zzy789.xyz/douyu1.php?id=2838296
+电视剧②,http://zzy789.xyz/douyu1.php?id=5062195
+女神60帧,http://zzy789.xyz/douyu1.php?id=747764
+花卷60帧,http://zzy789.xyz/douyu1.php?id=52787
+小宇60帧,http://zzy789.xyz/douyu1.php?id=323876
+贝爷MAX厅,http://zzy789.xyz/douyu1.php?id=4332
+贝爷①厅,http://zzy789.xyz/douyu1.php?id=252802
+贝爷②厅,http://zzy789.xyz/douyu1.php?id=36337
+①华语房,http://zzy789.xyz/douyu1.php?id=85894
+②星爷房,http://zzy789.xyz/douyu1.php?id=122402
+③粤语房,http://zzy789.xyz/douyu1.php?id=6566671
+④欧美房,http://zzy789.xyz/douyu1.php?id=20415
+欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 带你看大片,http://jiaojirentv.top/2020/dy.php?id=2758565
 一起看恐怖片,http://jiaojirentv.top/2020/dy.php?id=9412287
 平安夜快乐,http://jiaojirentv.top/2020/dy.php?id=6863367
@@ -2816,12 +2367,6 @@ NewTv精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 科比、乔丹去,http://jiaojirentv.top/2020/dy.php?id=8434598
 潘金莲武松,http://jiaojirentv.top/2020/dy.php?id=8986636
 成龍2,http://lxajh.top/tv/douyu.php?id=3379942
-贝爷電影,http://lxajh.top/tv/douyu.php?id=36337
-鱼宝好困,http://lxajh.top/tv/douyu.php?id=1165374
-漫威影片,http://lxajh.top/tv/douyu.php?id=6140589
-豆瓣高分,http://lxajh.top/tv/douyu.php?id=8770422
-恐怖惊悚,http://lxajh.top/tv/douyu.php?id=2935323
-欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 
 吹牛频道,#genre#
 笑声传奇轮播,http://159.75.85.63:35455/yy/1382736880
@@ -4564,6 +4109,32 @@ DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/1f508c17/playlist.m3u8
 劲爆舞曲188,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnMOv5wUouMCstQQ.mp4
 劲爆舞曲189,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
 劲爆舞曲190,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+德国舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgneOa4gUoovj1pQM.mp4
+电音嗨曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8oml4gUozZjwkQM.mp4
+电音女王,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9tqp4gUoptCOgQQ.mp4
+电音舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxeap4gUorKXMlAI.mp4
+电子舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9pyh4gUog7CFAg.mp4
+东欧动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-ben4gUo-OO4sgU.mp4
+俄罗斯新感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz_Sa4gUohOSn6gQ.mp4
+俄罗斯夜店,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6Gg4gUo7pyY0QM.mp4
+感舞曲01,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0__p4gUo3tvg8AY.mp4
+感舞曲02,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiPCp4gUogK_aCg.mp4
+感舞曲03,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOKp4gUo9bbBkAI.mp4
+华语mv,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi9vx9wUogMjN7wI.mp4
+华语舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkt3x9wUosKqzkQU.mp4
+混音舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn9_h4gUowJGR1wY.mp4
+节奏舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsdql4gUoqt6llgc.mp4
+慢摇舞蹈,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_Lqh4gUo3PuurgQ.mp4
+南飞劲爆舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgm_Cn4gUogPfoqgM.mp4
+欧美电音舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg27_h4gUo4KbldQ.mp4
+欧美动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzr6n4gUowMTmrwY.mp4
+欧美火爆舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyrWn4gUoppu0mQc.mp4
+欧美劲爆舞曲01,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_n4gUorIudNQ.mp4
+欧美劲爆舞曲02,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxOGs4gUo7t7A-AY.mp4
+欧美舞曲01,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5-Ks4gUoxIuY9QM.mp4
+欧美舞曲02,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnqyM5gUo2Oe2wgU.mp4
+欧美舞曲03,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguuWs4gUoiNTngQM.mp4
+欧美新感djdj,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-d6a4gUon7WNogc.mp4
 
 高清MV,#genre#
 高清MV000,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglpvV4gUo0pn7iAQ.mp4
@@ -4649,6 +4220,99 @@ DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/1f508c17/playlist.m3u8
 高清MV073,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgurTX4gUowNrV3Qc.mp4
 
 金曲频道,#genre#
+烟雨人间,http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
+阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
+阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257647.mp4
+你的万水千山,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
+人生如歌,http://mobi.kuwo.cn/tmevideo/tme1257678.mp4
+孤独的王,http://mobi.kuwo.cn/tmevideo/tme1257703.mp4
+作酒,http://mobi.kuwo.cn/tmevideo/tme16186338.mp4
+逃之夭夭,http://mobi.kuwo.cn/tmevideo/tme12155598.mp4
+两个世界,http://mobi.kuwo.cn/tmevideo/tme1932603.mp4
+闽南语歌曲,http://mobi.kuwo.cn/tmevideo/tme12155588.mp4
+阿衣莫,http://mobi.kuwo.cn/tmevideo/tme7020227.mp4
+☆泡沫,https://alimov2.a.kwimgs.com/upic/2023/08/19/20/BMjAyMzA4MTkyMDE2MzZfMzM5Njk4MTMyNl8xMTA5MDEwNzA2NDJfMF8z_b_Bdc4b6f3b05140acd82a8c7c5cfbad250.mp4
+☆或者累,https://alimov2.a.kwimgs.com/upic/2023/08/07/10/BMjAyMzA4MDcxMDQxMjFfMzM5Njk4MTMyNl8xMDk4ODA1NjIyMDJfMF8z_b_Bac7f15b8e8955af7e55d787a8bfb9ee3.mp4
+☆好想抱着你,https://txmov2.a.kwimgs.com/upic/2023/07/31/15/BMjAyMzA3MzExNTE0NDBfMzM5Njk4MTMyNl8xMDkzMzMzMzIxNzZfMF8z_b_B1948380dbccf0f753597da137aca876b.mp4
+☆我会等,https://txmov2.a.kwimgs.com/upic/2023/07/17/14/BMjAyMzA3MTcxNDQ1NDFfMzM5Njk4MTMyNl8xMDgxODA4NDc3MzNfMF8z_b_B7f4075f5eff6f93be66b51bc90ad5dbd.mp4
+☆吻得太逼真,https://alimov2.a.kwimgs.com/upic/2023/07/15/08/BMjAyMzA3MTUwODEyMzZfMzM5Njk4MTMyNl8xMDc5ODY1ODQxNzRfMF8z_b_B286fe2d65fc56fdba2a862490d343100.mp4
+☆忘川彼岸,https://alimov2.a.kwimgs.com/upic/2023/07/12/20/BMjAyMzA3MTIyMDEyNTlfMzM5Njk4MTMyNl8xMDc3OTI5ODAyMDVfMF8z_b_Ba7edcee8d69c709d5e6eccdb5333d13b.mp4
+☆晚风心里吹,https://alimov2.a.kwimgs.com/upic/2023/07/10/14/BMjAyMzA3MTAxNDE5MTdfMzM5Njk4MTMyNl8xMDc2MDM1MDcwMjhfMF8z_b_B2c9fa52d46ef9499c4682907e8328111.mp4
+☆天若有情,https://alimov2.a.kwimgs.com/upic/2023/07/08/21/BMjAyMzA3MDgyMTAyNTJfMzM5Njk4MTMyNl8xMDc0NjkwMDY4OThfMF8z_b_B0ea89c9392bf09bfff4afd532dc8cca9.mp4
+☆她会魔法吧,https://txmov2.a.kwimgs.com/upic/2023/07/05/14/BMjAyMzA3MDUxNDI4MDNfMzM5Njk4MTMyNl8xMDcxOTQ0MDAzMTZfMF8z_b_Ba25f91cfecba0a4a29040d64165ff029.mp4
+☆思念绕指尖.https://txmov2.a.kwimgs.com/upic/2023/07/03/14/BMjAyMzA3MDMxNDQ3MzFfMzM5Njk4MTMyNl8xMDcwMzkxMjk4MjlfMF8z_b_B662f5e109deb14476a3c73a57cc6b6c9.mp4
+☆如愿,https://alimov2.a.kwimgs.com/upic/2023/06/29/10/BMjAyMzA2MjkxMDAxNDNfMzM5Njk4MTMyNl8xMDY2ODcwODY0NzRfMF8z_b_Bb3a3c0fc1723f611bbb6a13b1af7b7ce.mp4
+☆木偶戏,https://alimov2.a.kwimgs.com/upic/2023/06/17/08/BMjAyMzA2MTcwODMxMDBfMzM5Njk4MTMyNl8xMDU3MDgyMTY4MjJfMF8z_b_Bf4b1d406c2bee6427993f91507e04c34.mp4
+☆剑魂,https://alimov2.a.kwimgs.com/upic/2023/06/07/09/BMjAyMzA2MDcwOTU2NTVfMzM5Njk4MTMyNl8xMDQ5NDE1MDMyMThfMF8z_b_Bd10d62f3146f28f2a2fe7876fac0b996.mp4
+☆桃花诺,https://alimov2.a.kwimgs.com/upic/2023/05/30/11/BMjAyMzA1MzAxMTE4MjFfMzM5Njk4MTMyNl8xMDQzMTcwNjA3NTZfMF8z_b_B18f7259c70b0cca9b64e2085b98cdfae.mp4
+☆作酒,https://txmov2.a.kwimgs.com/upic/2023/05/12/14/BMjAyMzA1MTIxNDI0MDZfMzM5Njk4MTMyNl8xMDI4NTExODIzMjRfMF8z_b_Bb991494a13c1280bda5a8d70459f3f52.mp4
+☆下个路口见,https://alimov2.a.kwimgs.com/upic/2023/08/26/15/BMjAyMzA4MjYxNTA2MDlfMzUwMDUzNzE1MV8xMTE0MzY4MTczMjBfMl8z_b_Badf90ff56c226b46d0427e6024b748bc.mp4
+☆我在广州等你,https://alimov2.a.kwimgs.com/upic/2023/10/14/15/BMjAyMzEwMTQxNTMzMzNfMzUwMDUzNzE1MV8xMTQ5Njc2NTY1NDhfMl8z_b_Bb09edbc5c475de303114646ba69364b6.mp4
+☆不再联系,https://alimov2.a.kwimgs.com/upic/2023/09/21/01/BMjAyMzA5MjEwMTE0MDdfMzUwMDUzNzE1MV8xMTMyMjAzNjY1ODFfMl8z_b_Ba4613de9652b2d3e146dec96ffce2186.mp4
+☆斑马斑马,https://alimov2.a.kwimgs.com/upic/2023/09/19/17/BMjAyMzA5MTkxNzM5MzBfMzUwMDUzNzE1MV8xMTMxMzEwOTM4ODdfMl8z_bF_B9698132f742dabc0a3206bb7268e6965.mp4
+☆卜卦,https://txmov2.a.kwimgs.com/upic/2023/08/09/14/BMjAyMzA4MDkxNDUzMjRfMzUwMDUzNzE1MV8xMTAwNjE1NTk3ODhfMl8z_b_Bc2b167ee144cd617ded961fccf210da8.mp4
+☆一笑江湖,https://txmov2.a.kwimgs.com/upic/2023/08/09/05/BMjAyMzA4MDkwNTI0MzNfMzUwMDUzNzE1MV8xMTAwMzA3NTg1MzdfMl8z_b_Badd45f992854ef4d55cd8f5cebfd884f.mp4
+☆爱不得忘不得,https://txmov2.a.kwimgs.com/upic/2023/08/08/21/BMjAyMzA4MDgyMTM0MDlfMzUwMDUzNzE1MV8xMTAwMTMxMDk1MzVfMl8z_b_B70f84eb4b2877fb6d0720502f6d4083c.mp4
+☆难忘,https://alimov2.a.kwimgs.com/upic/2023/08/08/14/BMjAyMzA4MDgxNDQwMTlfMzUwMDUzNzE1MV8xMDk5Nzg4MDkxNjFfMl8z_b_Bc948bd6dca1d18ddd0e8296fb62ce505.mp4
+☆虞美人,https://alimov2.a.kwimgs.com/upic/2023/08/08/03/BMjAyMzA4MDgwMzQxMTNfMzUwMDUzNzE1MV8xMDk5NDY0MTcyNTRfMl8z_b_B99546b5762d9a666d4aa4023cb3de0a9.mp4
+☆人生何处不相逢,https://alimov2.a.kwimgs.com/upic/2023/08/07/13/BMjAyMzA4MDcxMzQ2MzhfMzUwMDUzNzE1MV8xMDk4OTMzMTQyMTVfMl8z_b_B261a6bd298f6cebe0b183c617648f862.mp4
+☆我曾用心爱着你,https://alimov2.a.kwimgs.com/upic/2023/08/06/22/BMjAyMzA4MDYyMjU0MjZfMzUwMDUzNzE1MV8xMDk4NTcwMDA2MDRfMl8z_b_Bd636c0f3be6c541734ed6ddc3f671389.mp4
+☆忘了,https://txmov2.a.kwimgs.com/upic/2023/08/06/14/BMjAyMzA4MDYxNDI3MDZfMzUwMDUzNzE1MV8xMDk4MTUxNzQ1NDdfMl8z_b_B60a3cb08802def668224fadda9b53048.mp4
+☆西域美女,https://txmov2.a.kwimgs.com/upic/2023/08/06/00/BMjAyMzA4MDYwMDEzNDNfMzUwMDUzNzE1MV8xMDk3Nzk2MTc3MjdfMF8z_b_B43fd4402082771c1019e61b948ae5d60.mp4
+☆越南神曲,https://alimov2.a.kwimgs.com/upic/2023/08/05/05/BMjAyMzA4MDUwNTQ5MjJfMzUwMDUzNzE1MV8xMDk3MDM5ODM3ODdfMF8z_b_B7172bf63ab1ba23cd273233ae6307339.mp4
+☆错位时空,https://alimov2.a.kwimgs.com/upic/2023/08/04/23/BMjAyMzA4MDQyMzI5NTZfMzUwMDUzNzE1MV8xMDk2OTU4NTgwMThfMF8z_b_Bb1a434a56d3e9f0f807f49b17c890b15.mp4
+☆可不可以,https://txmov2.a.kwimgs.com/upic/2023/08/04/13/BMjAyMzA4MDQxMzI1MjBfMzUwMDUzNzE1MV8xMDk2NDg5MzgzOTFfMl8z_b_B88b843adc19fefc005190462c73b8a48.mp4
+☆女孩,https://alimov2.a.kwimgs.com/upic/2023/08/04/04/BMjAyMzA4MDQwNDE4MjdfMzUwMDUzNzE1MV8xMDk2MjMzNDYwNTdfMl8z_b_B8e6ab320b1d831bbc8a3bff3a38b848d.mp4
+☆真的爱你,https://alimov2.a.kwimgs.com/upic/2023/08/03/17/BMjAyMzA4MDMxNzU3NTRfMzUwMDUzNzE1MV8xMDk1ODg0OTM5ODRfMl8z_b_B9cd96b94554cd360f2edf7e6afa70d89.mp4
+☆嘉宾,https://alimov2.a.kwimgs.com/upic/2023/08/03/01/BMjAyMzA4MDMwMTA4NTJfMzUwMDUzNzE1MV8xMDk1NDExMDQ4NzdfMl8z_b_B88c7e9dfecd64f9bc7d28c3386a93455.mp4
+☆若把你,https://alimov2.a.kwimgs.com/upic/2023/08/02/18/BMjAyMzA4MDIxODE0MjVfMzUwMDUzNzE1MV8xMDk1MTAyNDQ5OTZfMl8z_b_Be41cdadf201349e1beb56be90e7e438c.mp4
+☆你的样子,https://txmov2.a.kwimgs.com/upic/2023/08/02/02/BMjAyMzA4MDIwMjM1MDVfMzUwMDUzNzE1MV8xMDk0NjI4NTI5NDhfMl8z_b_B180ec84c183f378933a11512d162f1c4.mp4
+☆合适,https://txmov2.a.kwimgs.com/upic/2023/08/01/19/BMjAyMzA4MDExOTE5MjZfMzUwMDUzNzE1MV8xMDk0MzQ5MTk4MjNfMl8z_b_B79a9ae8885ed7396e105166ff2a7a4d2.mp4
+☆很好听dj,https://alimov2.a.kwimgs.com/upic/2023/07/31/22/BMjAyMzA3MzEyMjAzMjBfMzUwMDUzNzE1MV8xMDkzNjc5NDI5MzJfMl8z_b_B002c8d94db2c0e0ca7d81d84678b4ed9.mp4
+☆护花使者,https://alimov2.a.kwimgs.com/upic/2023/07/27/14/BMjAyMzA3MjcxNDA3MDhfMzUwMDUzNzE1MV8xMDg5OTYxMTA0NDBfMl8z_b_Bc80cec26e6c8cbeae064bea41ab58d3a.mp4
+☆月亮不曾奔我来,https://alimov2.a.kwimgs.com/upic/2023/07/27/00/BMjAyMzA3MjcwMDEzNDBfMzUwMDUzNzE1MV8xMDg5NjI3MDUyMzBfMl8z_b_Bbe40fd5c0503d204b062a77c8a2c834c.mp4
+☆特别的爱给特别的你,https://alimov2.a.kwimgs.com/upic/2023/07/26/14/BMjAyMzA3MjYxNDAwNDhfMzUwMDUzNzE1MV8xMDg5MTUxNTkyMzdfMl8z_b_Bd1197da32eb1b75b6854664cefc52e97.mp4
+☆笼子,https://alimov2.a.kwimgs.com/upic/2023/07/25/23/BMjAyMzA3MjUyMzU1NTVfMzUwMDUzNzE1MV8xMDg4ODE3Njk1NDBfMl8z_b_B57bcec6217a4d88f8e65a3fb215a24c7.mp4
+☆念平生,https://alimov2.a.kwimgs.com/upic/2023/07/25/14/BMjAyMzA3MjUxNDMwMzJfMzUwMDUzNzE1MV8xMDg4MzczMzk5MjhfMl8z_b_B7c764955cbc3e81f8d3b1e17781b2475.mp4
+☆听,https://alimov2.a.kwimgs.com/upic/2023/07/24/17/BMjAyMzA3MjQxNzAzMTdfMzUwMDUzNzE1MV8xMDg3NjUxNjQwMjVfMl8z_b_Bd1163b69b08ba0831d8c27e83faf9fb8.mp4
+☆灵魂习惯,https://alimov2.a.kwimgs.com/upic/2023/07/24/03/BMjAyMzA3MjQwMzM2NDNfMzUwMDUzNzE1MV8xMDg3MjUwODE2MDlfMl8z_b_Be302741e7902735315d6ab4d91e8f41b.mp4
+☆做酒,https://alimov2.a.kwimgs.com/upic/2023/07/19/01/BMjAyMzA3MTkwMTUxMzRfMzUwMDUzNzE1MV8xMDgzMTEwODM2OTZfMF8z_b_Bca29deab97bd6d0be2ed811a605fdcbe.mp4
+☆燕无歇,https://txmov2.a.kwimgs.com/upic/2023/07/19/01/BMjAyMzA3MTkwMTQ2NTdfMzUwMDUzNzE1MV8xMDgzMTEwMDE2NjRfMF8z_b_Be38462e17823715ea71e499ed818d1c5.mp4
+☆无哥骷,https://txmov2.a.kwimgs.com/upic/2023/07/19/01/BMjAyMzA3MTkwMTQ1NDdfMzUwMDUzNzE1MV8xMDgzMTA5ODA0OThfMF8z_b_B5baa776881443bda78efb570c3841f4b.mp4
+☆来迟,https://alimov2.a.kwimgs.com/upic/2023/07/19/01/BMjAyMzA3MTkwMTQwNDVfMzUwMDUzNzE1MV8xMDgzMTA4ODY3ODlfMF8z_b_Bbd48b2af17f0bf1d8db03abe58e974f8.mp4
+☆向云端,https://txmov2.a.kwimgs.com/upic/2023/07/15/23/BMjAyMzA3MTUyMzA4MTJfMzUwMDUzNzE1MV8xMDgwNTU2MzcxNzJfMF8z_b_B4495a19eefa94ff40d651b48e6810cdb.mp4
+羞答答的玫瑰,https://alimov2.a.kwimgs.com/upic/2023/07/28/11/BMjAyMzA3MjgxMTQ3MDRfMzM5Njk4MTMyNl8xMDkwNjczMTE5NDlfMF8z_b_B8423a7dac79a1e58599a94e4226e7987.mp4?clientCacheKey=3xyfhpvzhi825f4_b.mp4&tt=b&di=75b3b1ea&bp=10000
+难却,https://alimov2.a.kwimgs.com/upic/2024/01/23/10/BMjAyNDAxMjMxMDM3NTFfMzM5Njk4MTMyNl8xMjI5MTQwMzIwNDdfMF8z_b_B2050c32644e2748e364af06a8fdd63c5.mp4
+旧梦一场,https://alimov2.a.kwimgs.com/upic/2024/01/08/11/BMjAyNDAxMDgxMTA4MzRfMzM5Njk4MTMyNl8xMjE2MTA4MzA1NzVfMF8z_b_Bc4838009184d86069bda9e4bdb946dd5.mp4
+都说,https://alimov2.a.kwimgs.com/upic/2023/12/27/19/BMjAyMzEyMjcxOTM5MjZfMzM5Njk4MTMyNl8xMjA2ODE3MTY0MDVfMF8z_b_Bdb05a439b2ce238eb1ab17e0b7b40ba7.mp4
+当我取过她,https://txmov2.a.kwimgs.com/upic/2023/12/21/19/BMjAyMzEyMjExOTQ3MzBfMzM5Njk4MTMyNl8xMjAxOTI1MTU2NThfMF8z_b_B8f68734d0b6d210bd24b20e1eb0a374a.mp4
+此生过半,https://alimov2.a.kwimgs.com/upic/2023/12/15/15/BMjAyMzEyMTUxNTE5MjRfMzM5Njk4MTMyNl8xMTk2OTMxMDI2NDJfMF8z_b_B0799a12d42e3cfae45d5d8de022528b3.mp4
+38度6,https://alimov2.a.kwimgs.com/upic/2023/11/16/13/BMjAyMzExMTYxMzExNDJfMzM5Njk4MTMyNl8xMTcyNzU3MDE3NTZfMF8z_b_B6e340974a0d46c08d1013ff23c7f6b17.mp4
+言不由衷,https://txmov2.a.kwimgs.com/upic/2023/10/27/15/BMjAyMzEwMjcxNTM2NThfMzM5Njk4MTMyNl8xMTU4NjA1Nzk2MTNfMF8z_b_B43ae4ec817beb9429a9adf274f43eb6a.mp4
+我的心太乱,https://alimov2.a.kwimgs.com/upic/2023/10/14/10/BMjAyMzEwMTQxMDI4MDhfMzM5Njk4MTMyNl8xMTQ5NDYwNjk3OTFfMF8z_b_B403e1520b39d90b4446cfee21732e058.mp4
+热情如火,https://alimov2.a.kwimgs.com/upic/2023/10/06/17/BMjAyMzEwMDYxNzI3MjdfMzM5Njk4MTMyNl8xMTQ0NzMyMDcyODNfMF8z_b_B3f156d567c83c0f043a134acdceb0b27.mp4
+她没有,https://txmov2.a.kwimgs.com/upic/2023/10/02/15/BMjAyMzEwMDIxNTQxMjBfMzM5Njk4MTMyNl8xMTQxMTYyMzExNDVfMF8z_b_B99c2bd7c7f72c7031f98016ba47000e6.mp4
+醒不来的梦,https://txmov2.a.kwimgs.com/upic/2023/09/22/17/BMjAyMzA5MjIxNzM1NTJfMzM5Njk4MTMyNl8xMTMzMTg3NTU2NjhfMF8z_b_B9370feceb48c2ad1958ec385f822fa7a.mp4
+玩疯1997https://alimov2.a.kwimgs.com/upic/2023/09/10/21/BMjAyMzA5MTAyMTUxNDZfMzM5Njk4MTMyNl8xMTI1NDAzMTUxNjBfMF8z_b_B53f45d71b1835082048ae0041693df3a.mp4?clientCacheKey=3xh7mqjrq24x53k_b.mp4&tt=b&di=75b3b1ea&bp=10000
+泡沫,https://txmov2.a.kwimgs.com/upic/2023/08/19/20/BMjAyMzA4MTkyMDE2MzZfMzM5Njk4MTMyNl8xMTA5MDEwNzA2NDJfMF8z_b_Bdc4b6f3b05140acd82a8c7c5cfbad250.mp4
+浪子闲话,https://v4-vod.kwaicdn.com/bs3/video-hls/5210383404224451227_hlsb.m3u8?ftt=R&pkey=AAXQdQrGksz-XD2RBhGklNiauXKhCZvMhALeOZLZPhlvliW1qkft7nvltrxs3I-HHznQpZVHIiKW44jvqNBFj39NboYpb0SCJJUxbGSQb88EfLH5ibzpJsmhGW6P1idVX3M&ss=vp
+活着很累,https://alimov2.a.kwimgs.com/upic/2023/08/07/10/BMjAyMzA4MDcxMDQxMjFfMzM5Njk4MTMyNl8xMDk4ODA1NjIyMDJfMF8z_b_Bac7f15b8e8955af7e55d787a8bfb9ee3.mp4
+好想抱着你,https://alimov2.a.kwimgs.com/upic/2023/07/31/15/BMjAyMzA3MzExNTE0NDBfMzM5Njk4MTMyNl8xMDkzMzMzMzIxNzZfMF8z_b_B1948380dbccf0f753597da137aca876b.mp4
+虞美人,https://txmov2.a.kwimgs.com/upic/2023/07/24/10/BMjAyMzA3MjQxMDE1MzhfMzM5Njk4MTMyNl8xMDg3Mzg1MDIyNDlfMF8z_b_B619755058caa32de37dc1757898da485.mp4?clientCacheKey=3xnyr7n3qatxncg_b.mp4&tt=b&di=75b3b1ea&bp=10000
+我会等,https://txmov2.a.kwimgs.com/upic/2023/07/17/14/BMjAyMzA3MTcxNDQ1NDFfMzM5Njk4MTMyNl8xMDgxODA4NDc3MzNfMF8z_b_B7f4075f5eff6f93be66b51bc90ad5dbd.mp4
+忘川彼岸,https://txmov2.a.kwimgs.com/upic/2023/07/12/20/BMjAyMzA3MTIyMDEyNTlfMzM5Njk4MTMyNl8xMDc3OTI5ODAyMDVfMF8z_b_Ba7edcee8d69c709d5e6eccdb5333d13b.mp4
+晚风心里吹,https://alimov2.a.kwimgs.com/upic/2023/07/10/14/BMjAyMzA3MTAxNDE5MTdfMzM5Njk4MTMyNl8xMDc2MDM1MDcwMjhfMF8z_b_B2c9fa52d46ef9499c4682907e8328111.mp4
+天若有情,https://alimov2.a.kwimgs.com/upic/2023/07/08/21/BMjAyMzA3MDgyMTAyNTJfMzM5Njk4MTMyNl8xMDc0NjkwMDY4OThfMF8z_b_B0ea89c9392bf09bfff4afd532dc8cca9.mp4
+她会魔法吧,https://alimov2.a.kwimgs.com/upic/2023/07/05/14/BMjAyMzA3MDUxNDI4MDNfMzM5Njk4MTMyNl8xMDcxOTQ0MDAzMTZfMF8z_b_Ba25f91cfecba0a4a29040d64165ff029.mp4
+思念指甲绕,https://alimov2.a.kwimgs.com/upic/2023/07/03/14/BMjAyMzA3MDMxNDQ3MzFfMzM5Njk4MTMyNl8xMDcwMzkxMjk4MjlfMF8z_b_B662f5e109deb14476a3c73a57cc6b6c9.mp4
+如愿,https://txmov2.a.kwimgs.com/upic/2023/06/29/10/BMjAyMzA2MjkxMDAxNDNfMzM5Njk4MTMyNl8xMDY2ODcwODY0NzRfMF8z_b_Bb3a3c0fc1723f611bbb6a13b1af7b7ce.mp4
+你的眼神,https://alimov2.a.kwimgs.com/upic/2023/06/20/08/BMjAyMzA2MjAwODI4MzhfMzM5Njk4MTMyNl8xMDU5NjQ3NTA5MzdfMF8z_b_Be3c3571129119949480139b9f913048a.mp4
+红尘毒酒,https://alimov2.a.kwimgs.com/upic/2023/12/05/20/BMjAyMzEyMDUyMDQ0MjRfMjk4Mjk3ODMxOF8xMTg5MjgwODY0MDdfMl8z_b_B66c54baba6ccf30ce64e1ba05d16a178.mp4?clientCacheKey=3xud6b4c3gkstsq_b.mp4&tt=b&di=75b3b1ea&bp=10000
+白日烟火,https://alimov2.a.kwimgs.com/upic/2023/10/24/11/BMjAyMzEwMjQxMTMyMzJfMjk4Mjk3ODMxOF8xMTU2NjAxOTE5MjVfMl8z_b_B2690f44d73a94ef073ca12944e22b34d.mp4?tag=1-1706079571-unknown-0-gsezwim9oj-0b2c165154512fc9&clientCacheKey=3xk9jjnavt5rxis_b.mp4&di=75b3b1ea&bp=10000&tt=b&ss=vp
+一半疯了,https://txmov2.a.kwimgs.com/upic/2023/06/26/13/BMjAyMzA2MjYxMzEwNDhfMjk4Mjk3ODMxOF8xMDY0ODAxMTIxNTdfMl8z_b_B8c230eb7bad8f8cf5a9baf8c13d7800d.mp4?clientCacheKey=3x8redaakre6nhe_b.mp4&tt=b&di=75b3b1ea&bp=10000
+那个谁,https://alimov2.a.kwimgs.com/upic/2023/05/26/11/BMjAyMzA1MjYxMTEyMDJfMjk4Mjk3ODMxOF8xMDM5NjY4MjE1OTBfMl8z_b_Bcc6eb6ccadec6fb846db0e43bebd553d.mp4?clientCacheKey=3x9jrbwim3x3tug_b.mp4&tt=b&di=75b3b1ea&bp=10000
+你是不是,https://alimov2.a.kwimgs.com/upic/2023/02/03/16/BMjAyMzAyMDMxNjI3NDlfMTExMTg2MTk3MV85NTMzODk2MTIzNV8yXzM=_b_B40be00d450a3206ac365e0670ab2789b.mp4?
+酒倾城,https://alimov2.a.kwimgs.com/upic/2023/05/02/09/BMjAyMzA1MDIwOTE2MDRfMzM5Njk4MTMyNl8xMDIwNDg0MjAyNTNfMF8z_b_B061c51c75e66f3c3c2e3a790a6d2b560.mp4?clientCacheKey=3xs859ymp4a9y3y_b.mp4&tt=b&di=75b3b1ea&bp=10000
 北方的芙蓉,http://txmov2.a.yximgs.com/upic/2020/11/08/20/BMjAyMDExMDgyMDQ2MzFfMTU0MDc1NjUwOF8zODk0ODk4NDQ5OV8yXzM=_b_B209a3bf8e8fcfda7d4b0e8e01a8bb5f1.mp4
 我的楼兰,http://txmov2.a.yximgs.com/upic/2020/11/29/02/BMjAyMDExMjkwMjMzMTNfMTU0MDc1NjUwOF8zOTk0OTgyNzAxMV8yXzM=_b_B321da89e094e6abb1f75e148896a01af.mp4
 轻易爱上错,http://txmov2.a.yximgs.com/upic/2020/11/08/20/BMjAyMDExMDgyMDUyMTJfMTU0MDc1NjUwOF8zODk0OTEzMDc4MF8yXzM=_b_Bf9dc12ba3dd14498ddbe8c2c326d0e58.mp4
@@ -4672,17 +4336,14 @@ DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/1f508c17/playlist.m3u8
 高清舞曲,https://txmov2.a.kwimgs.com/upic/2022/03/25/20/BMjAyMjAzMjUyMDUyNTZfMjM0NDc1MTE5N183MDQ0NzkzMTQxOV8wXzM=_b_B383b34c7a7c97f97b5350f622d8da0a6.mp4?
 tag=11648554367std1puqq96jiry1167f7fd60758f88&clientCacheKey=3x3qtumzyu5rh6w_b.mp4&tt=b&di=79c43beb&bp=12681
 dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4Mjc4MV83MDE2MTEwMjY1Ml8yXzM=_b_B977559109a6b2bec30b01e11d458d398.mp4
-
 蔡依林演唱会,https://alimov2.a.kwimgs.com/upic/2020/07/13/17/BMjAyMDA3MTMxNzEyMzZfODY2NDU4ODQ1XzMyMjk2MDQ4MzQ4XzJfMw==_b_B8f6ffb1ac85e8c6f0363ee3c3076d8df.mp4
 怀旧音乐mv,https://alimov2.a.kwimgs.com/upic/2022/04/20/22/BMjAyMjA0MjAyMjM1NTNfODI4NTk1NTQ0XzcyNTM2MjM2ODAyXzJfMw==_b_Bfb761467c3acbb2d3e00c4dac489f34f.mp4
 张学友演唱会,https://alimov2.a.kwimgs.com/upic/2020/05/11/04/BMjAyMDA1MTEwNDE3NTRfMTA4ODgyMjg1OF8yODM1OTM2NTkxMl8yXzM=_b_Bf2cbd177f1349dcfc12d89443cf374af.mp4
 邓紫棋演唱会,https://txmov2.a.kwimgs.com/upic/2020/05/03/00/BMjAyMDA1MDMwMDI1NThfMTA4ODgyMjg1OF8yNzg1MTg2NjE4Nl8yXzM=_b_Becfaef0427da414c3aad36364ca49e85.mp4
 陈慧娴告别演唱会,https://alimov2.a.kwimgs.com/upic/2021/01/06/20/BMjAyMTAxMDYyMDM3MDlfODI4NTk1NTQ0XzQxOTc4MTcyNTcwXzJfMw==_b_B433cd58306ccc133cade9d3cdcf0b0f1.mp4
 陈慧1996年演唱会,https://alimov2.a.kwimgs.com/upic/2021/10/03/15/BMjAyMTEwMDMxNTUzNTFfMTE0Mzc4ODk3OF81ODM0NDAyOTMyMl8yXzM=_b_B85495f852ff71a0887f689798176cc08.mp4
-
 抖音歌曲连唱1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnoksfq0&ratio=720p&line=0
 抖音歌曲连唱2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
-
 醉倾城,http://videosc.kuwo.cn/UAA-4hndfVc5V6DJX0EvslAUBBI=/lhXcbl-l_ujsig79B4Ez5jT7tBNB
 世界第一等,http://vdown1.kuwo.cn:80/resource/t1/43/v020040b0000bfba768858lv9n93b3eg.mp4
 開心的马骝,http://vdown2.kuwo.cn:80/resource//t1/30/ed2559a3c21f46b3b100559967ffda40.mp4
