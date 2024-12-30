@@ -15,46 +15,40 @@
             "name": "😺骚零"
         },
 {
-            "url": "http://rihou.vip:88/荷城茶秀",
-            "name": "😺 荷城"
+            "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+            "name": "😺刘伟"
         },
 
 {
-            "url":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json",
-            "name": "😺天天影视"},
+            "url":"http://fmys.top/fmys.json",
+            "name": "😺挺好"},
 {
-            "url":"https://pastebin.com/raw/5NHaxyGR",
-            "name": "😺道长"},
+            "url":"https://2912.kstore.space/0506.json",
+            "name": "😺西夏"},
 {
-            "url":"https://100km.top/0",
-            "name": "😺Ray"},
+            "url":"https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdvip.json",
+            "name": "🐹玛德"},
 {
-            "url":"http://home.jundie.top:81/top98.json",
-            "name": "😺俊佬"},
+            "url":"https://fastly.jsdelivr.net/gh/liu673cn/tms@main/2312/m.json",
+            "name": "🐹码上"},
 {
-            "url":"https://raw.liucn.cc/box/m.json",
+            "url":"https://fastly.jsdelivr.net/gh/Soar1989/tv@main/tv_v29.json",
             "name": "😺老刘备"},
 {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "🐹D佬魔改线路"},        
+            "name": "🐹月台"},        
 {
-            "url": "http://rihou.vip:55/天天开心",
+            "url": "http://kxrj.site:55/天天开心",
             "name": "🐹开心线路"},                              
 {
-            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌",
-            "name": "🐹欧歌线路"},   
+            "url": "https://bitbucket.org/xduo/duoapi/raw/62d9878d98ff082383ecb631eb90fa7849007604/mianao.json",
+            "name": "🐹棉袄"},   
 {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "🐹摸鱼线路"},       
-{
-            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
-            "name": "🐹吾爱线路"}, 
-{
-            "url": "https://tvbox.aoki.fun/M",
+            "url": "http://530.my3v.work/tvbox/微风主线/微风主线.json",
             "name": "😺 青木"
         }, 
 {
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/xxoo.json",
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/xxoo.json",
             "name": "🔞激情壹线"
         }
     ]
