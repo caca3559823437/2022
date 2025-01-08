@@ -6,7 +6,7 @@
     {
       "name": "自己建—01",
       "type": 0,
-      "url": "https://ghgo.xyz/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/2023.txt",
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/2023.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -21,13 +21,33 @@
   ],
   "sites": [
     {
-      "key": "AList",
-      "name": "👽AList",
-      "type": 3,
-      "api": "csp_AList",
+      "key": "suoni",
+      "name": "👽索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "playUrl": "https://yun.ckmov.com/?url=",
+      "playUrl": "",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "https://ghgo.xyz/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/alist.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+          "动作片",
+          "喜剧片",
+          "爱情片",
+          "科幻片",
+          "恐怖片",
+          "剧情片",
+          "战争片",
+          "国产剧",
+          "欧美剧",
+          "韩剧",
+          "日剧",
+          "港剧",
+          "台剧",
+          "海外剧",
+          "大陆综艺",
+          "国产动漫"
+      ]
     },
     {
       "key": "量子资源",
@@ -369,35 +389,6 @@
         "综艺",
         "影片库",
         "动漫"
-      ]
-    },
-    {
-      "key": "suoni",
-      "name": "👽索尼",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-      "playUrl": "https://yun.ckmov.com/?url=",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-          "动作片",
-          "喜剧片",
-          "爱情片",
-          "科幻片",
-          "恐怖片",
-          "剧情片",
-          "战争片",
-          "国产剧",
-          "欧美剧",
-          "韩剧",
-          "日剧",
-          "港剧",
-          "台剧",
-          "海外剧",
-          "大陆综艺",
-          "国产动漫"
       ]
     },
     {
