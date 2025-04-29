@@ -6,7 +6,7 @@
     {
       "name": "自己建—01",
       "type": 0,
-      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/2023.txt",
+      "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/2023.txt",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -457,9 +457,9 @@
       
       "searchable": 0,
       
-      "api": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/lives.json",
+      "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/caca3559823437/2022/main/lives.json",
       
-      "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/lives.json"
+      "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/caca3559823437/2022/main/lives.json"
     
     },
     {
@@ -747,11 +747,11 @@
       "key": "js豆瓣",
       "name": "🍀┃豆瓣┃",
       "type": 3,
-      "api": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js",
+      "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1, 
-      "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/douban.js" 
+      "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/douban.js" 
     },
     {
       "key":"豪华资源",
