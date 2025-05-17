@@ -26,6 +26,18 @@
             "playerType": 1
         },
         {
+            "name": "YIFA GAT",
+            "type": 0,
+            "url": "https://raw.gitmirror.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+            "playerType": 1
+        },
+        {
+            "name": "看电视VIP线路",
+            "type": 0,
+            "url": "http://8.138.7.223/51.txt",
+            "playerType": 1
+        },
+        {
             "name": "电视直播2",
             "type": 0,
             "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt",
