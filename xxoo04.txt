@@ -1,11 +1,11 @@
 ﻿{
-  "spider": "https://gh.tryxd.cn/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+  "spider": "https://github.moeyy.xyz/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
   "lives": [
           { "name": "AV",
             "logo": "https://epg.112114.eu.org/logo/{name}.png",
 
             "type": 0,
-            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/av.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/av.txt",
             "ua": "okhttp/3.15",
             
             "core": {
@@ -26,43 +26,67 @@
             "playerType": 1
         },
         {
+            "name": "YIFA GAT",
+            "type": 0,
+            "url": "https://raw.gitmirror.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+            "playerType": 1
+        },
+        {
+            "name": "看电视VIP线路",
+            "type": 0,
+            "url": "http://8.138.7.223/51.txt",
+            "playerType": 1
+        },
+        {
             "name": "电视直播2",
             "type": 0,
-            "url": "http://45.152.67.129:1299/jx/live.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt",
             "playerType": 1
         },
         {
             "name": "电视直播3",
             "type": 0,
-            "url": "http://ttkx.cc:55/lib/kx2024.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/user_result.txt",
             "playerType": 1
         },
         {
             "name": "电视直播4",
             "type": 0,
-            "url": "http://211.101.234.24:68/4gtv.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt",
             "playerType": 1
         },
         {
             "name": "电视直播5",
             "type": 0,
-            "url": "http://www.bunnyabc.eu.org:5002/d/guest/res/box_live.txt",
+            "url": "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
             "playerType": 1
         },
         {
             "name": "电视直播6",
             "type": 0,
-            "url": "http://xb.ruifeng.lol/app/clyx/clyx/live.txt",
+            "url": "https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u",
             "playerType": 1
         },
         {
             "name": "电视直播7",
             "type": 0,
-            "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c%33%2e%74%78%74",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
             "playerType": 1
         },
         {
             "name": "电视直播8",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "电视直播9",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+            "playerType": 1
+        },
+        {
+            "name": "电视直播10",
             "type": 0,
             "url": "https://app.ysctv.cn/tv/%E5%BD%B1%E8%A7%86%E8%BD%A6.txt",
             "playerType": 1
